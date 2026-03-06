@@ -1,4 +1,4 @@
-sudo apt update && sudo apt install rsync
+ apt--get install rsync
 
 which nohup
   /usr/bin/nohup
