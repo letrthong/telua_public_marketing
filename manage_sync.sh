@@ -12,7 +12,7 @@ case "$1" in
         else
             echo "Status: $SCRIPT_NAME is running with PID: $PID"
             echo "Recent logs:"
-            tail -n 5 sync_history.log 2>/dev/null || echo "No log file found."
+            tail -n 5 /opt/sync_history.log 2>/dev/null || echo "No log file found."
         fi
         ;;
     stop)
