@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Administrator",
+        "pass": "13572468",
+        "role": "admin",
+        "username": "admin"
+    },
+    {
+        "name": "Writer Mode",
+        "pass": "1234",
+        "role": "writer",
+        "username": "view"
+    },
+    {
+        "name": "editorMode",
+        "pass": "2468",
+        "role": "editor",
+        "username": "edit"
+    },
+    {
+        "name": "anne",
+        "pass": "123456",
+        "role": "auditor",
+        "username": "anne"
+    },
+    {
+        "name": "Hieu",
+        "pass": "123456",
+        "role": "auditor",
+        "username": "hieu"
+    },
+    {
+        "name": "manager Mode",
+        "pass": "1234",
+        "role": "manager",
+        "username": "manager"
+    }
+]

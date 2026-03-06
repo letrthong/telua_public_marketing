@@ -1,0 +1,5 @@
+nohup: ignoring input
+------------------------------------------------
+Bắt đầu đồng bộ lúc: Fri Mar  6 08:19:47 UTC 2026
+Bước 1: Chạy rsync...
+./sync_git_auto.sh: line 21: rsync: command not found
