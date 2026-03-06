@@ -1,11 +1,15 @@
 #!/usr/bin/env bash
+
+# Thoát ngay lập tức nếu một lệnh thoát với trạng thái khác không.
+set -e
+
 # git config --global credential.helper store
  
 
 # --- CẤU HÌNH ---
-SOURCE_DIR="/opt/web/config/"
+SOURCE_DIR="/opt/telua_web/app/config"
 DEST_DIR="."
-INTERVAL=1800 # 30 phút
+INTERVAL=1800 # 30 phút (1800 giây)
 
 while true
 do
@@ -28,16 +32,21 @@ do
         
         # TRƯỚC KHI PUSH: Thử pull về để tránh lỗi xung đột (conflict)
         # --rebase giúp lịch sử git sạch hơn
-        echo "Bước 3: Thử pull để đồng bộ trước khi push..."
-        git pull --rebase origin main # Thay 'main' bằng tên nhánh của bạn nếu khác
-
-        # 4. Thực hiện Push
-        if git push; then
-            echo "Bước 4: Push thành công!"
+        echo "Bước 3: Pull (rebase) để đồng bộ trước khi push..."
+        if git pull --rebase origin main; then # Thay 'main' bằng tên nhánh của bạn nếu khác
+            # 4. Thực hiện Push
+            echo "Bước 4: Push các thay đổi..."
+            if git push; then
+                echo "Push thành công!"
+            else
+                echo "LỖI PUSH! Có thể do mạng hoặc xung đột chưa giải quyết."
+                echo "Script sẽ thử lại hoàn toàn trong chu kỳ tiếp theo."
+            fi
         else
-            echo "Bước 4: LỖI PUSH! Có thể do mạng hoặc xung đột chưa giải quyết."
-            echo "Script sẽ thử lại hoàn toàn sau 30 phút nữa."
+            echo "LỖI PULL! Không thể pull từ remote. Có thể có xung đột (conflict)."
+            echo "Vui lòng giải quyết thủ công. Script sẽ thử lại trong chu kỳ tiếp theo."
         fi
+
     else
         echo "Bước 2: Không có thay đổi nào. Không cần push."
     fi
