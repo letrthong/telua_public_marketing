@@ -10,19 +10,34 @@ set -e
 SOURCE_DIR="/opt/telua_web/app/config"
 DEST_DIR="."
 INTERVAL=1800 # 30 phút (1800 giây)
+LOG_FILE="/opt/sync_history.log"
+MAX_LOG_LINES=5000
+
+log() {
+    echo "[$(date '+%H:%M:%S')] $1"
+}
 
 while true
 do
-    echo "------------------------------------------------"
-    echo "Bắt đầu đồng bộ lúc: $(date)"
+    # Kiểm tra kích thước log và xóa nếu quá dài
+    if [ -f "$LOG_FILE" ]; then
+        LINE_COUNT=$(wc -l < "$LOG_FILE" 2>/dev/null || echo 0)
+        if [ "$LINE_COUNT" -gt "$MAX_LOG_LINES" ]; then
+            : > "$LOG_FILE"
+            log "Log quá dài ($LINE_COUNT dòng). Đã xóa nội dung log cũ."
+        fi
+    fi
+
+    log "------------------------------------------------"
+    log "Bắt đầu đồng bộ lúc: $(date)"
 
     # 1. Đồng bộ file từ nguồn vào Repo B
-    echo "Bước 1: Chạy rsync..."
+    log "Bước 1: Chạy rsync..."
     rsync -av --exclude='.git' "$SOURCE_DIR" "$DEST_DIR"
 
     # 2. Kiểm tra thay đổi trong Git
     if [[ -n $(git status --porcelain) ]]; then
-        echo "Bước 2: Phát hiện thay đổi. Đang chuẩn bị push..."
+        log "Bước 2: Phát hiện thay đổi. Đang chuẩn bị push..."
         
         # Thêm tất cả thay đổi
         git add -A
@@ -32,25 +47,25 @@ do
         
         # TRƯỚC KHI PUSH: Thử pull về để tránh lỗi xung đột (conflict)
         # --rebase giúp lịch sử git sạch hơn
-        echo "Bước 3: Pull (rebase) để đồng bộ trước khi push..."
+        log "Bước 3: Pull (rebase) để đồng bộ trước khi push..."
         if git pull --rebase origin main; then # Thay 'main' bằng tên nhánh của bạn nếu khác
             # 4. Thực hiện Push
-            echo "Bước 4: Push các thay đổi..."
+            log "Bước 4: Push các thay đổi..."
             if git push; then
-                echo "Push thành công!"
+                log "Push thành công!"
             else
-                echo "LỖI PUSH! Có thể do mạng hoặc xung đột chưa giải quyết."
-                echo "Script sẽ thử lại hoàn toàn trong chu kỳ tiếp theo."
+                log "LỖI PUSH! Có thể do mạng hoặc xung đột chưa giải quyết."
+                log "Script sẽ thử lại hoàn toàn trong chu kỳ tiếp theo."
             fi
         else
-            echo "LỖI PULL! Không thể pull từ remote. Có thể có xung đột (conflict)."
-            echo "Vui lòng giải quyết thủ công. Script sẽ thử lại trong chu kỳ tiếp theo."
+            log "LỖI PULL! Không thể pull từ remote. Có thể có xung đột (conflict)."
+            log "Vui lòng giải quyết thủ công. Script sẽ thử lại trong chu kỳ tiếp theo."
         fi
 
     else
-        echo "Bước 2: Không có thay đổi nào. Không cần push."
+        log "Bước 2: Không có thay đổi nào. Không cần push."
     fi
 
-    echo "Đợi 30 phút..."
+    log "Đợi 30 phút..."
     sleep $INTERVAL
 done
