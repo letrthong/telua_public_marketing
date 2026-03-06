@@ -21,6 +21,7 @@ case "$1" in
             echo "Status: $SCRIPT_NAME is NOT running."
         else
             echo "Status: $SCRIPT_NAME is running with PID: $PID"
+            echo "Current time: $(date '+%H:%M:%S')"
             echo "Recent logs:"
             tail -n 5 /opt/sync_history.log 2>/dev/null || echo "No log file found."
         fi
