@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "actualPublishDate": null,
+        "assignee": "admin",
+        "author": "Administrator",
+        "created": "7/3/2026",
+        "detailFilename": "content_detail_736b94b5-4967-4e3e-a9ba-ff9fb6443c9a.json",
+        "editDate": "17:08:14 7/3/2026",
+        "expirationDate": "2026-04-04",
+        "id": "42f9cb04-7316-4420-957b-26a366182fc2",
+        "image": "",
+        "publishDate": "14/03/2026",
+        "publishTime": "10:00:00",
+        "status": "Draft",
+        "title": "xxxxxxxxxx",
+        "updated": "7/3/2026"
+    }
+]
