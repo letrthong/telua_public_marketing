@@ -1,21 +1,5 @@
 [
     {
-        "actualPublishDate": null,
-        "assignee": "admin",
-        "author": "Administrator",
-        "body": "x",
-        "created": "6/3/2026",
-        "editDate": "17:55:31 6/3/2026",
-        "expirationDate": "2026-04-03",
-        "id": "175388ce-66c6-46ad-a60f-b268b7c68841",
-        "image": "",
-        "publishDate": "13/03/2026",
-        "publishTime": "10:00:00",
-        "status": "Draft",
-        "title": "xxxxxxxxxxxx",
-        "updated": "6/3/2026"
-    },
-    {
         "actualPublishDate": "20:30:58 5/3/2026",
         "assignee": "hieu",
         "author": "Administrator",
