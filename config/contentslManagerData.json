@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "actualPublishDate": null,
+        "assignee": "admin",
+        "author": "Administrator",
+        "created": "7/3/2026",
+        "detailFilename": "content_detail_dc0fdc0b-ea0d-4e89-9104-63279d869d45.json",
+        "editDate": "19:51:02 7/3/2026",
+        "expirationDate": "2026-04-04",
+        "id": "08745e8d-5269-4f32-8bd2-af75aa85daa4",
+        "image": "",
+        "publishDate": "14/03/2026",
+        "publishTime": "10:00:00",
+        "status": "Draft",
+        "title": "eHh4",
+        "updated": "7/3/2026"
+    }
+]
