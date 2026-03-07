@@ -5,5 +5,26 @@
         "desc": "Aquaponics",
         "id": "9dbf738f-01bb-491a-966b-aa174c4e8857",
         "name": "Aquaponics_Feb_2026"
+    },
+    {
+        "active": true,
+        "color": "#357a10",
+        "desc": "Tự động tạo bởi AI",
+        "id": "110ab48d-c9d0-445a-8dc9-e25aeec2858d",
+        "name": "Công nghệ mới"
+    },
+    {
+        "active": true,
+        "color": "#357a10",
+        "desc": "Tự động tạo bởi AI",
+        "id": "8418d132-51ef-42db-b8a1-191a91675f30",
+        "name": "AI & Big Data"
+    },
+    {
+        "active": true,
+        "color": "#357a10",
+        "desc": "Tự động tạo bởi AI",
+        "id": "8d7bd0a7-fb3d-47fd-ade6-b8403e8a2e31",
+        "name": "Innovation_2026"
     }
 ]
