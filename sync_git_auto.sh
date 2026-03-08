@@ -7,7 +7,7 @@ set -e
  
 
 # --- CẤU HÌNH ---
-SOURCE_DIR="/opt/telua_web/app/config"
+SOURCE_DIRS=("/opt/telua_web/app/config" "/opt/telua_web/app/video")
 DEST_DIR="."
 INTERVAL=1800 # 30 phút (1800 giây)
 LOG_FILE="/opt/sync_history.log"
@@ -33,7 +33,7 @@ do
 
     # 1. Đồng bộ file từ nguồn vào Repo B
     log "Bước 1: Chạy rsync..."
-    rsync -av --exclude='.git' "$SOURCE_DIR" "$DEST_DIR"
+    rsync -av --exclude='.git' "${SOURCE_DIRS[@]}" "$DEST_DIR"
 
     # 2. Kiểm tra thay đổi trong Git
     if [[ -n $(git status --porcelain) ]]; then
