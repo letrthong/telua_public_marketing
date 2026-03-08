@@ -1,16 +1,9 @@
 [
     {
         "active": true,
-        "color": "#0080ff",
-        "desc": "Aquaponics_Mar_2026",
-        "id": "c727b721-817b-4d56-bfcc-c475dde14a20",
-        "name": "Aquaponics_Mar_2026"
-    },
-    {
-        "active": true,
         "color": "#357a10",
         "desc": "Aquaponics_Feb_2026",
-        "id": "ccdbe19e-a898-4404-afe6-a763074e220b",
+        "id": "7b6352b6-bf66-4ed6-abea-e828592e74a5",
         "name": "Aquaponics_Feb_2026"
     }
 ]
