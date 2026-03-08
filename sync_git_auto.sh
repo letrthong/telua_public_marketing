@@ -17,6 +17,13 @@ log() {
     echo "[$(date '+%H:%M:%S')] $1"
 }
 
+# Kiểm tra và tạo thư mục key (không sync)
+if [ ! -d "/opt/telua_web/app/key" ]; then
+    log "Thư mục key '/opt/telua_web/app/key' không tồn tại. Đang tạo mới..."
+    mkdir -p "/opt/telua_web/app/key"
+fi
+
+
 while true
 do
     # Kiểm tra kích thước log và xóa nếu quá dài
@@ -31,6 +38,15 @@ do
     log "------------------------------------------------"
     log "Bắt đầu đồng bộ lúc: $(date)"
 
+    # Kiểm tra và tạo các thư mục nguồn nếu chúng không tồn tại
+    for DIR in "${SOURCE_DIRS[@]}"; do
+        if [ ! -d "$DIR" ]; then
+            log "Thư mục nguồn '$DIR' không tồn tại. Đang tạo mới..."
+            mkdir -p "$DIR"
+        fi
+    done
+
+    
     # 1. Đồng bộ file từ nguồn vào Repo B
     log "Bước 1: Chạy rsync..."
     rsync -av --exclude='.git' "${SOURCE_DIRS[@]}" "$DEST_DIR"
