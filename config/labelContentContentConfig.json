@@ -14,28 +14,28 @@
         "name": "Mar_2026"
     },
     {
-        "active": true,
+        "active": false,
         "color": "#17107a",
         "desc": "Apr_2026",
         "id": "b41f90fa-bc42-481e-b8d5-1663cca94739",
         "name": "Apr_2026"
     },
     {
-        "active": true,
+        "active": false,
         "color": "#687a10",
         "desc": "Jun_2026",
         "id": "0b879bd8-bb31-4700-8dfa-a57f5766c9ec",
         "name": "Jun_2026"
     },
     {
-        "active": true,
+        "active": false,
         "color": "#ce3bc2",
         "desc": "Jul_2026",
         "id": "e3d513a6-4631-4c42-bb6d-f0ab43a2cec3",
         "name": "Jul_2026"
     },
     {
-        "active": true,
+        "active": false,
         "color": "#107a68",
         "desc": "Aug_2026",
         "id": "be18c4e5-e0f8-4df7-b561-40b06349ca63",
@@ -54,5 +54,12 @@
         "desc": "Giải  Pháp B2B",
         "id": "70868f64-0835-4aa2-bd81-a000b7bcc353",
         "name": "B2B"
+    },
+    {
+        "active": true,
+        "color": "#7a102a",
+        "desc": "Templates",
+        "id": "fc940c95-c729-42fd-aac5-25bec8925edf",
+        "name": "Template"
     }
 ]
