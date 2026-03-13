@@ -68,5 +68,19 @@
         "desc": "Logo 2026",
         "id": "5e9433b8-b769-4773-9c81-2950bc814c3e",
         "name": "Logo_2026"
+    },
+    {
+        "active": true,
+        "color": "#cac421",
+        "desc": "Week12 2026",
+        "id": "124c3ee6-ad60-4fc3-ae7c-4091f8470238",
+        "name": "Week12_2026"
+    },
+    {
+        "active": true,
+        "color": "#357a10",
+        "desc": "Week14 2020",
+        "id": "6e86616c-910d-4dfb-90df-6407c322b7aa",
+        "name": "Week14_2020"
     }
 ]
