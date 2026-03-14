@@ -23,6 +23,7 @@ if [ ! -d "/opt/telua_web/app/key" ]; then
     mkdir -p "/opt/telua_web/app/key"
 fi
 
+LAST_PRUNE_DATE=""
 
 while true
 do
@@ -80,6 +81,14 @@ do
 
     else
         log "Bước 2: Không có thay đổi nào. Không cần push."
+    fi
+
+    # Dọn dẹp bộ nhớ cache của Docker mỗi ngày một lần
+    CURRENT_DATE=$(date '+%Y-%m-%d')
+    if [ "$LAST_PRUNE_DATE" != "$CURRENT_DATE" ]; then
+        log "Dọn dẹp Docker cache (chạy mỗi ngày một lần)..."
+        docker system prune -f || log "Cảnh báo: Không thể dọn dẹp Docker cache."
+        LAST_PRUNE_DATE="$CURRENT_DATE"
     fi
 
     log "Đợi 30 phút..."
