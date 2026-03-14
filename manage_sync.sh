@@ -37,8 +37,17 @@ case "$1" in
             echo "Done."
         fi
         ;;
+    sync)
+        echo "Syncing config back to /opt/telua_web/app/config..."
+        if [ -d "./config" ]; then
+            rsync -av ./config/ /opt/telua_web/app/config/
+            echo "Sync completed."
+        else
+            echo "Error: ./config directory not found in the current path."
+        fi
+        ;;
     *)
-        echo "Usage: $0 {start|status|stop}"
+        echo "Usage: $0 {start|status|stop|sync}"
         exit 1
         ;;
 esac
