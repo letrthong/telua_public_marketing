@@ -1,10 +1,18 @@
 {
-    "body": "Q8OhYyBiaeG7g3UgdMaw4bujbmcgbG9nbyBj4bqnbiBjdW5nIGPhuqVwID8KCjEvCjIvCjMvCjQvCjUvCgpVcGxvYWQgaWNvbiBt4bqrdSB04bubaSBodHRwczovL3Bob3Rvcy5hcHAuZ29vLmdsL1A3dUtwNGFqSGFva0c0WTI2",
+    "body": "Q8OhYyBiaeG7g3UgdMaw4bujbmcgbG9nbyBj4bqnbiBjdW5nIGPhuqVwID8KCjEvCjIvCjMvCjQvCjUv",
     "comments": [
         {
-            "content": "https://photos.app.goo.gl/P7uKp4ajHaokG4Y26   tất cả icon ở đó",
+            "content": "Tất cả icon cho chanh và tỏi hiện tại https://photos.app.goo.gl/P7uKp4ajHaokG4Y26",
             "date": "2026-03-14T07:40:35.325Z",
+            "editDate": "2026-03-14T07:49:29.774Z",
             "id": "961670e7-d001-46dd-9ef9-bb617a2fcac5",
+            "userId": "admin"
+        },
+        {
+            "content": "@Hieu em bỏ ảnh mẫu ở https://photos.app.goo.gl/P7uKp4ajHaokG4Y26",
+            "date": "2026-03-14T07:43:20.847Z",
+            "editDate": "2026-03-14T07:48:09.918Z",
+            "id": "7b9cd198-13f8-4fe6-9a8c-73719446d9bc",
             "userId": "admin"
         }
     ],
@@ -38,6 +46,26 @@
         {
             "action": "Thêm bình luận mới",
             "date": "2026-03-14T07:40:35.325Z",
+            "user": "admin"
+        },
+        {
+            "action": "Thêm bình luận mới",
+            "date": "2026-03-14T07:43:20.847Z",
+            "user": "admin"
+        },
+        {
+            "action": "Cập nhật bài viết",
+            "date": "2026-03-14T07:47:48.923Z",
+            "user": "admin"
+        },
+        {
+            "action": "Chỉnh sửa bình luận",
+            "date": "2026-03-14T07:48:09.937Z",
+            "user": "admin"
+        },
+        {
+            "action": "Chỉnh sửa bình luận",
+            "date": "2026-03-14T07:49:29.794Z",
             "user": "admin"
         }
     ],
