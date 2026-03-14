@@ -1,7 +1,14 @@
 {
     "body": "Q8OhYyBiaeG7g3UgdMaw4bujbmcgbG9nbyBj4bqnbiBjdW5nIGPhuqVwID8KCjEvCjIvCjMvCjQvCjUvCgpVcGxvYWQgaWNvbiBt4bqrdSB04bubaSBodHRwczovL3Bob3Rvcy5hcHAuZ29vLmdsL1A3dUtwNGFqSGFva0c0WTI2",
-    "comments": [],
-    "contact": "aHR0cHM6Ly9waG90b3MuYXBwLmdvby5nbC9QN3VLcDRhakhhb2tHNFkyNiAgdOG6pXQgY+G6oyBpY29uIOG7nyDEkcOz",
+    "comments": [
+        {
+            "content": "https://photos.app.goo.gl/P7uKp4ajHaokG4Y26   tất cả icon ở đó",
+            "date": "2026-03-14T07:40:35.325Z",
+            "id": "961670e7-d001-46dd-9ef9-bb617a2fcac5",
+            "userId": "admin"
+        }
+    ],
+    "contact": "",
     "history": [
         {
             "action": "Lưu thay đổi",
@@ -21,6 +28,16 @@
         {
             "action": "Lưu thay đổi",
             "date": "2026-03-13T07:11:54.537Z",
+            "user": "admin"
+        },
+        {
+            "action": "Cập nhật bài viết",
+            "date": "2026-03-14T07:40:22.049Z",
+            "user": "admin"
+        },
+        {
+            "action": "Thêm bình luận mới",
+            "date": "2026-03-14T07:40:35.325Z",
             "user": "admin"
         }
     ],
