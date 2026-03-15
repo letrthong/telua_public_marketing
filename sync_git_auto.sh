@@ -90,12 +90,12 @@ do
     MEM_INFO=$(free -m | awk '/^Mem:/ {printf "RAM Used: %sMB, Available: %sMB / Total: %sMB", $3, $7, $2}')
     log "$MEM_INFO"
     
-    # Tính % RAM thực sự CÒN TRỐNG (Available / Total)
-    AVAILABLE_PERCENT=$(free | awk '/^Mem:/ {printf "%d", $7/$2 * 100}')
+    # Lấy dung lượng RAM thực sự CÒN TRỐNG tính bằng MB (Available)
+    AVAILABLE_MB=$(free -m | awk '/^Mem:/ {print $7}')
     
-    # Nếu RAM Khả dụng dưới 5% (khoảng < 50MB đối với máy 1GB RAM)
-    if [ "$AVAILABLE_PERCENT" -lt 5 ]; then
-        log "CẢNH BÁO CRITICAL: RAM khả dụng chỉ còn $AVAILABLE_PERCENT% (< 5%). Nguy cơ Out of Memory!"
+    # Nếu RAM Khả dụng dưới 50MB
+    if [ "$AVAILABLE_MB" -lt 50 ]; then
+        log "CẢNH BÁO CRITICAL: RAM khả dụng chỉ còn ${AVAILABLE_MB}MB (< 50MB). Nguy cơ Out of Memory!"
         log "Đang khởi động lại hệ thống để bảo vệ máy chủ..."
         sleep 5
         reboot
