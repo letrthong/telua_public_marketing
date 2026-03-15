@@ -101,6 +101,28 @@ do
         reboot
     fi
 
+    DISK_USAGE=$(df / | grep / | awk '{ print $5 }' | sed 's/%//g')
+    log ""
+    log "Dung lượng ổ đĩa hiện tại: $DISK_USAGE%"
+    log ""
+
+    if [ "$DISK_USAGE" -gt 80 ]; then
+        log "Dung lượng > 80%, đang dọn dẹp sâu..."
+        # Xóa build cache để giải phóng dung lượng lớn
+        docker builder prune -f
+        # Xóa các image cũ, rác
+        docker image prune -f
+    else
+        log "Ổ cứng vẫn ổn, giữ lại cache để build nhanh."
+        # Vẫn nên dọn dẹp nhẹ nhàng các container/network thừa
+        docker system prune -f --volumes=false
+    fi
+
+    DISK_USAGE=$(df / | grep / | awk '{ print $5 }' | sed 's/%//g')
+    log ""
+    log "Dung lượng ổ đĩa hiện tại: $DISK_USAGE%"
+    log ""
+
     log "Đợi 30 phút... "
     sleep $INTERVAL
 done
