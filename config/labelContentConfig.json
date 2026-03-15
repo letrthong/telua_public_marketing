@@ -60,13 +60,20 @@
         "color": "#7a102a",
         "desc": "Templates",
         "id": "fc940c95-c729-42fd-aac5-25bec8925edf",
-        "name": "Template"
+        "name": "Template_2026"
     },
     {
         "active": true,
-        "color": "#00ff00",
+        "color": "#df8520",
         "desc": "Logo 2026",
         "id": "5e9433b8-b769-4773-9c81-2950bc814c3e",
         "name": "Logo_2026"
+    },
+    {
+        "active": true,
+        "color": "#cac421",
+        "desc": "CW12-13 2026",
+        "id": "124c3ee6-ad60-4fc3-ae7c-4091f8470238",
+        "name": "CW12-13_2026"
     }
 ]
