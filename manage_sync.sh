@@ -32,11 +32,13 @@ case "$1" in
         if [ -z "$PID" ]; then
             echo "Status: $SCRIPT_NAME is NOT running."
             echo "Current time: $(date '+%H:%M:%S')"
+            echo ""
             echo "$MEM_INFO"
         else
             echo "Status: $SCRIPT_NAME is running with PID: $PID"
             echo "Current time: $(date '+%H:%M:%S')"
             echo "$MEM_INFO"
+            echo ""
             echo "Recent logs:"
             tail -n 5 "$LOG_FILE" 2>/dev/null || echo "No log file found."
         fi
