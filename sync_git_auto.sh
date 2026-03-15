@@ -93,9 +93,9 @@ do
     # Tính % RAM thực sự CÒN TRỐNG (Available / Total)
     AVAILABLE_PERCENT=$(free | awk '/^Mem:/ {printf "%d", $7/$2 * 100}')
     
-    # Nếu RAM Khả dụng dưới 10% (nghĩa là hệ thống thực sự cạn kiệt RAM, sắp bị OOM)
-    if [ "$AVAILABLE_PERCENT" -lt 10 ]; then
-        log "CẢNH BÁO CRITICAL: RAM khả dụng chỉ còn $AVAILABLE_PERCENT% (< 10%). Nguy cơ Out of Memory!"
+    # Nếu RAM Khả dụng dưới 5% (khoảng < 50MB đối với máy 1GB RAM)
+    if [ "$AVAILABLE_PERCENT" -lt 5 ]; then
+        log "CẢNH BÁO CRITICAL: RAM khả dụng chỉ còn $AVAILABLE_PERCENT% (< 5%). Nguy cơ Out of Memory!"
         log "Đang khởi động lại hệ thống để bảo vệ máy chủ..."
         sleep 5
         reboot
