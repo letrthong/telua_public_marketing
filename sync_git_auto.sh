@@ -101,6 +101,6 @@ do
         reboot
     fi
 
-    log "Đợi 30 phút..."
+    log "Đợi 30 phút... "
     sleep $INTERVAL
 done
