@@ -1,7 +1,15 @@
 #!/bin/bash
 
+# Load cấu hình từ file .env cùng thư mục (nếu có)
+if [ -f "$(dirname "$0")/.env" ]; then
+    source "$(dirname "$0")/.env"
+fi
+
 # Name of the script to manage
 SCRIPT_NAME="sync_git_auto.sh"
+
+# Định nghĩa log file thông qua biến môi trường (hoặc dùng mặc định)
+LOG_FILE="${SYNC_LOG_FILE:-/opt/sync_history.log}"
 
 case "$1" in
     start)
@@ -10,7 +18,7 @@ case "$1" in
             echo "$SCRIPT_NAME is already running with PID: $PID"
         else
             echo "Starting $SCRIPT_NAME..."
-            nohup ./sync_git_auto.sh > /opt/sync_history.log 2>&1 &
+            nohup ./sync_git_auto.sh > "$LOG_FILE" 2>&1 &
             echo "Started."
         fi
         ;;
@@ -23,7 +31,7 @@ case "$1" in
             echo "Status: $SCRIPT_NAME is running with PID: $PID"
             echo "Current time: $(date '+%H:%M:%S')"
             echo "Recent logs:"
-            tail -n 5 /opt/sync_history.log 2>/dev/null || echo "No log file found."
+            tail -n 5 "$LOG_FILE" 2>/dev/null || echo "No log file found."
         fi
         ;;
     stop)

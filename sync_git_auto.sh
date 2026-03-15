@@ -3,6 +3,11 @@
 # Thoát ngay lập tức nếu một lệnh thoát với trạng thái khác không.
 set -e
 
+# Load cấu hình từ file .env cùng thư mục (nếu có)
+if [ -f "$(dirname "$0")/.env" ]; then
+    source "$(dirname "$0")/.env"
+fi
+
 # git config --global credential.helper store
  
 
@@ -10,7 +15,7 @@ set -e
 SOURCE_DIRS=("/opt/telua_web/app/config" "/opt/telua_web/app/video")
 DEST_DIR="."
 INTERVAL=1800 # 30 phút (1800 giây)
-LOG_FILE="/opt/sync_history.log"
+LOG_FILE="${SYNC_LOG_FILE:-/opt/sync_history.log}"
 MAX_LOG_LINES=5000
 
 log() {
@@ -89,6 +94,16 @@ do
         log "Dọn dẹp Docker cache (chạy mỗi ngày một lần)..."
         docker system prune -f || log "Cảnh báo: Không thể dọn dẹp Docker cache."
         LAST_PRUNE_DATE="$CURRENT_DATE"
+    fi
+
+    # Kiểm tra RAM và khởi động lại nếu > 90%
+    MEM_INFO=$(free -m | awk '/^Mem:/ {printf "RAM Usage: %sMB / %sMB", $3, $2}')
+    log "$MEM_INFO"
+    RAM_PERCENT=$(free | awk '/^Mem:/ {printf "%d", $3/$2 * 100}')
+    if [ "$RAM_PERCENT" -gt 90 ]; then
+        log "CẢNH BÁO: RAM sử dụng đã đạt $RAM_PERCENT% (> 90%). Đang khởi động lại hệ thống..."
+        sleep 5
+        sudo reboot
     fi
 
     log "Đợi 30 phút..."
