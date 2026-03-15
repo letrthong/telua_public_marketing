@@ -75,5 +75,12 @@
         "desc": "CW12-13 2026",
         "id": "124c3ee6-ad60-4fc3-ae7c-4091f8470238",
         "name": "CW12-13_2026"
+    },
+    {
+        "active": true,
+        "color": "#ff0000",
+        "desc": "Open Point",
+        "id": "2bcd3be1-8ab9-44e7-8006-164434028f07",
+        "name": "Open Point"
     }
 ]
