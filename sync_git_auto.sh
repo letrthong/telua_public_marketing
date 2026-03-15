@@ -89,6 +89,7 @@ do
     # Kiểm tra RAM: Sử dụng thông số Available (Khả dụng) để chống Out of Memory chính xác nhất
     MEM_INFO=$(free -m | awk '/^Mem:/ {printf "RAM Used: %sMB, Available: %sMB / Total: %sMB", $3, $7, $2}')
     log "$MEM_INFO"
+    
     if [ "$AVAILABLE_MB" -lt 70 ]; then
         docker system prune -f --volumes=false
     fi
