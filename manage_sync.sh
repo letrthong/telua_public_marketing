@@ -34,10 +34,12 @@ case "$1" in
             echo "Current time: $(date '+%H:%M:%S')"
             echo ""
             echo "$MEM_INFO"
+            echo "CPU Cores: $(nproc)"
         else
             echo "Status: $SCRIPT_NAME is running with PID: $PID"
             echo "Current time: $(date '+%H:%M:%S')"
             echo "$MEM_INFO"
+            echo "CPU Cores: $(nproc)"
             echo ""
             echo "Recent logs:"
             tail -n 5 "$LOG_FILE" 2>/dev/null || echo "No log file found."
