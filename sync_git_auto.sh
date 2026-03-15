@@ -28,8 +28,6 @@ if [ ! -d "/opt/telua_web/app/key" ]; then
     mkdir -p "/opt/telua_web/app/key"
 fi
 
-LAST_PRUNE_DATE=""
-
 while true
 do
     # Kiểm tra kích thước log và xóa nếu quá dài
@@ -88,20 +86,17 @@ do
         log "Bước 2: Không có thay đổi nào. Không cần push."
     fi
 
-    # Dọn dẹp bộ nhớ cache của Docker mỗi ngày một lần
-    # CURRENT_DATE=$(date '+%Y-%m-%d')
-    # if [ "$LAST_PRUNE_DATE" != "$CURRENT_DATE" ]; then
-    #     log "Dọn dẹp Docker cache (chạy mỗi ngày một lần)..."
-    #     docker system prune -f || log "Cảnh báo: Không thể dọn dẹp Docker cache."
-    #     LAST_PRUNE_DATE="$CURRENT_DATE"
-    # fi
-
-    # Kiểm tra RAM và khởi động lại nếu > 90%
-    MEM_INFO=$(free -m | awk '/^Mem:/ {printf "RAM Usage: %sMB / %sMB", $3, $2}')
+    # Kiểm tra RAM: Sử dụng thông số Available (Khả dụng) để chống Out of Memory chính xác nhất
+    MEM_INFO=$(free -m | awk '/^Mem:/ {printf "RAM Used: %sMB, Available: %sMB / Total: %sMB", $3, $7, $2}')
     log "$MEM_INFO"
-    RAM_PERCENT=$(free | awk '/^Mem:/ {printf "%d", $3/$2 * 100}')
-    if [ "$RAM_PERCENT" -gt 90 ]; then
-        log "CẢNH BÁO: RAM sử dụng đã đạt $RAM_PERCENT% (> 90%). Đang khởi động lại hệ thống..."
+    
+    # Tính % RAM thực sự CÒN TRỐNG (Available / Total)
+    AVAILABLE_PERCENT=$(free | awk '/^Mem:/ {printf "%d", $7/$2 * 100}')
+    
+    # Nếu RAM Khả dụng dưới 10% (nghĩa là hệ thống thực sự cạn kiệt RAM, sắp bị OOM)
+    if [ "$AVAILABLE_PERCENT" -lt 10 ]; then
+        log "CẢNH BÁO CRITICAL: RAM khả dụng chỉ còn $AVAILABLE_PERCENT% (< 10%). Nguy cơ Out of Memory!"
+        log "Đang khởi động lại hệ thống để bảo vệ máy chủ..."
         sleep 5
         reboot
     fi
