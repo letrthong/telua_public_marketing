@@ -42,6 +42,9 @@ case "$1" in
             echo "Recent logs:"
             tail -n 5 "$LOG_FILE" 2>/dev/null || echo "No log file found."
         fi
+
+        docker stats --no-stream
+        
         ;;
     stop)
         # Find and kill the process
