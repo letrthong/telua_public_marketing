@@ -82,5 +82,12 @@
         "desc": "Open Point",
         "id": "2bcd3be1-8ab9-44e7-8006-164434028f07",
         "name": "Open Point"
+    },
+    {
+        "active": true,
+        "color": "#ff8040",
+        "desc": "bug_2026",
+        "id": "6115c45d-4e60-4289-8a4a-0004e091260c",
+        "name": "bug_2026"
     }
 ]
