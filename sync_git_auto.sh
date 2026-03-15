@@ -89,12 +89,12 @@ do
     fi
 
     # Dọn dẹp bộ nhớ cache của Docker mỗi ngày một lần
-    CURRENT_DATE=$(date '+%Y-%m-%d')
-    if [ "$LAST_PRUNE_DATE" != "$CURRENT_DATE" ]; then
-        log "Dọn dẹp Docker cache (chạy mỗi ngày một lần)..."
-        docker system prune -f || log "Cảnh báo: Không thể dọn dẹp Docker cache."
-        LAST_PRUNE_DATE="$CURRENT_DATE"
-    fi
+    # CURRENT_DATE=$(date '+%Y-%m-%d')
+    # if [ "$LAST_PRUNE_DATE" != "$CURRENT_DATE" ]; then
+    #     log "Dọn dẹp Docker cache (chạy mỗi ngày một lần)..."
+    #     docker system prune -f || log "Cảnh báo: Không thể dọn dẹp Docker cache."
+    #     LAST_PRUNE_DATE="$CURRENT_DATE"
+    # fi
 
     # Kiểm tra RAM và khởi động lại nếu > 90%
     MEM_INFO=$(free -m | awk '/^Mem:/ {printf "RAM Usage: %sMB / %sMB", $3, $2}')
