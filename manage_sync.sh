@@ -25,11 +25,18 @@ case "$1" in
     status)
         # Check if the script is running
         PID=$(pgrep -f "$SCRIPT_NAME")
+        
+        # Lấy thông tin RAM hiện tại
+        MEM_INFO=$(free -m | awk '/^Mem:/ {printf "RAM Used: %sMB, Available: %sMB / Total: %sMB", $3, $7, $2}')
+        
         if [ -z "$PID" ]; then
             echo "Status: $SCRIPT_NAME is NOT running."
+            echo "Current time: $(date '+%H:%M:%S')"
+            echo "$MEM_INFO"
         else
             echo "Status: $SCRIPT_NAME is running with PID: $PID"
             echo "Current time: $(date '+%H:%M:%S')"
+            echo "$MEM_INFO"
             echo "Recent logs:"
             tail -n 5 "$LOG_FILE" 2>/dev/null || echo "No log file found."
         fi
