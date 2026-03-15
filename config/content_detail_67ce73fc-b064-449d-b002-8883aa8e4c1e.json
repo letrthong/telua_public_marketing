@@ -1,5 +1,5 @@
 {
-    "body": "Q8OidSBjaHV54buHbiB0w61jaCBo4bujcCDEkWnhu4duIG3hurd0IHRy4budaSDDoXAgbcOhaS4=",
+    "body": "Q8OidSBjaHV54buHbiB0w61jaCBo4bujcCDEkWnhu4duIG3hurd0IHRy4budaSDDoXAgbcOhaSAu",
     "comments": [],
     "contact": "",
     "history": [
@@ -21,6 +21,11 @@
         {
             "action": "Lưu thay đổi",
             "date": "2026-03-13T07:11:58.875Z",
+            "user": "admin"
+        },
+        {
+            "action": "Cập nhật bài viết",
+            "date": "2026-03-15T11:09:18.197Z",
             "user": "admin"
         }
     ],
