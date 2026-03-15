@@ -86,8 +86,8 @@
     {
         "active": true,
         "color": "#ff8040",
-        "desc": "bug_2026",
+        "desc": "bug 2026",
         "id": "6115c45d-4e60-4289-8a4a-0004e091260c",
-        "name": "bug_2026"
+        "name": "Bug_2026"
     }
 ]
