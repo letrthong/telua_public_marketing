@@ -103,7 +103,7 @@ do
     if [ "$RAM_PERCENT" -gt 90 ]; then
         log "CẢNH BÁO: RAM sử dụng đã đạt $RAM_PERCENT% (> 90%). Đang khởi động lại hệ thống..."
         sleep 5
-        sudo reboot
+        reboot
     fi
 
     log "Đợi 30 phút..."
