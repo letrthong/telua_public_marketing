@@ -22,6 +22,11 @@
             "action": "Lưu thay đổi",
             "date": "2026-03-13T07:15:03.204Z",
             "user": "admin"
+        },
+        {
+            "action": "Cập nhật bài viết",
+            "date": "2026-03-16T10:24:10.060Z",
+            "user": "admin"
         }
     ],
     "id": "f2d405d1-b60b-4ab6-9529-19984d60779a",

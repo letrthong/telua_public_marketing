@@ -1,6 +1,6 @@
 [
     {
-        "active": false,
+        "active": true,
         "color": "#357a10",
         "desc": "Aquaponics_Feb_2026",
         "id": "7b6352b6-bf66-4ed6-abea-e828592e74a5",
@@ -89,5 +89,40 @@
         "desc": "bug 2026",
         "id": "6115c45d-4e60-4289-8a4a-0004e091260c",
         "name": "Bug_2026"
+    },
+    {
+        "active": true,
+        "color": "#800b74",
+        "desc": "Product Label_Mar_2026",
+        "id": "b6df34a0-7adc-4a85-b7b9-dae3eb5d9200",
+        "name": "Product Label_Mar_2026"
+    },
+    {
+        "active": true,
+        "color": "#800000",
+        "desc": "Factory_Kiot_2026",
+        "id": "20c4e979-4478-45e9-945b-375446196427",
+        "name": "Factory_Kiot_2026"
+    },
+    {
+        "active": true,
+        "color": "#106d7a",
+        "desc": "PI Planning 2026",
+        "id": "016e7ccb-1df7-40fa-bac2-f254d3aae238",
+        "name": "PI_Planning_2026"
+    },
+    {
+        "active": true,
+        "color": "#10257a",
+        "desc": "Brand_Story",
+        "id": "2e12af5b-3b5d-4b74-8935-4c14d4044294",
+        "name": "Brand_Story"
+    },
+    {
+        "active": true,
+        "color": "#357a10",
+        "desc": "CW14-15_2026",
+        "id": "cb2edf49-7294-4be4-b718-6f79159ceb5d",
+        "name": "CW14-15_2026"
     }
 ]

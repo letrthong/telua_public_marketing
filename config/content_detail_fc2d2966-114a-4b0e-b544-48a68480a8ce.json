@@ -14,6 +14,12 @@
             "editDate": "2026-03-14T07:48:09.918Z",
             "id": "7b9cd198-13f8-4fe6-9a8c-73719446d9bc",
             "userId": "admin"
+        },
+        {
+            "content": "xJDDoW5nIHnDqnUgbmjhu4k=",
+            "date": "2026-03-16T12:05:24.651Z",
+            "id": "6d715d4e-ac05-45d6-830f-fdfda0794d4d",
+            "userId": "cam"
         }
     ],
     "contact": "",
@@ -67,6 +73,21 @@
             "action": "Chỉnh sửa bình luận",
             "date": "2026-03-14T07:49:29.794Z",
             "user": "admin"
+        },
+        {
+            "action": "Cập nhật bài viết",
+            "date": "2026-03-16T03:51:51.806Z",
+            "user": "admin"
+        },
+        {
+            "action": "Cập nhật bài viết",
+            "date": "2026-03-16T05:12:36.552Z",
+            "user": "admin"
+        },
+        {
+            "action": "Thêm bình luận mới",
+            "date": "2026-03-16T12:05:24.651Z",
+            "user": "cam"
         }
     ],
     "id": "fc2d2966-114a-4b0e-b544-48a68480a8ce",
