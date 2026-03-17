@@ -44,9 +44,9 @@
     {
         "active": true,
         "color": "#d4af2b",
-        "desc": "Nông Sản Nông Phu",
+        "desc": "Farm produce",
         "id": "a1c8b155-84d7-4935-bfb0-dcf87720b4c7",
-        "name": "Nông Sản"
+        "name": "Farm_produce"
     },
     {
         "active": true,
