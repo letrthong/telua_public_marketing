@@ -1,0 +1,29 @@
+[
+    {
+        "linkID": "linkIssue",
+        "createdDate": "2026-03-18T13:01:38Z",
+        "updatedDate": "2026-03-18T13:01:53Z",
+        "src": {
+            "contentID": "d7174349-0343-42bb-99af-b03b89297db6"
+        },
+        "dst": {
+            "contentID": [
+                "6cf2abc3-c20d-407d-aa5f-08298634debd",
+                "8c93b2e6-61d7-446c-b4be-d6a186b37385"
+            ]
+        }
+    },
+    {
+        "linkID": "linkIssue",
+        "createdDate": "2026-03-18T13:27:30Z",
+        "updatedDate": "2026-03-18T13:27:30Z",
+        "src": {
+            "contentID": "f877aff2-1893-4ee0-b557-b399e41fada6"
+        },
+        "dst": {
+            "contentID": [
+                "d7174349-0343-42bb-99af-b03b89297db6"
+            ]
+        }
+    }
+]
