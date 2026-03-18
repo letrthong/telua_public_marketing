@@ -65,9 +65,9 @@
     {
         "active": true,
         "color": "#df8520",
-        "desc": "Logo 2026",
+        "desc": "Designer_2026",
         "id": "5e9433b8-b769-4773-9c81-2950bc814c3e",
-        "name": "Logo_2026"
+        "name": "Designer_2026"
     },
     {
         "active": true,
@@ -124,5 +124,19 @@
         "desc": "CW14-15_2026",
         "id": "cb2edf49-7294-4be4-b718-6f79159ceb5d",
         "name": "CW14-15_2026"
+    },
+    {
+        "id": "6e190c8f-e112-4f99-94ae-7e5ac8af1ef9",
+        "name": "Email_Template",
+        "color": "#357a10",
+        "desc": "Email_Template",
+        "active": true
+    },
+    {
+        "id": "24edfe2d-76a1-4a4f-81c2-fc63bb88f62f",
+        "name": "Content_2026",
+        "color": "#7a2510",
+        "desc": "Content 2026",
+        "active": true
     }
 ]
