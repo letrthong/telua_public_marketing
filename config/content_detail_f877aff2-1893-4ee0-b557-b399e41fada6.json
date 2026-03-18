@@ -1,6 +1,6 @@
 {
     "id": "f877aff2-1893-4ee0-b557-b399e41fada6",
-    "body": "QsOqbiBkxrDhu5tpIGzDoCB04bqldCBjw6FjIG3huqt1IGVtYWlsIGPDsyB0aOG7gyB0aGFtIHRo4bqjby4=",
+    "body": "QsOqbiBkxrDhu5tpIGzDoCB04bqldCBjw6FjIG3huqt1IGVtYWlsIGPDsyB0aOG7gyB0aGFtIHRo4bqjby4KCkPhuqV1IHRyw7pjIHRoxrAgbeG7pWMgY2h14bqpbiB2w6AgecOqdSBj4bqndSBnaGkgxJHDum5nIGPDoWMgdGnhu4FuIHThu5EgIFtEZXNpZ25dIGhheSAgW0NvbnRlbnRdIArwn5OBIFtFbWFpbF0gSW5maW5lb24gVGVhbSAtIFZlcmlmeSB5b3VyIHN0YXR1cyBbMDMxSlY0UDldCuKUnOKUgOKUgCDwn5OEIFtFbWFpbF0gW0Rlc2lnbl0gSW5maW5lb24gVGVhbSAtIFZlcmlmeSB5b3VyIHN0YXR1cyBbMDMxSlVZUVRdCuKUlOKUgOKUgCDwn5OEIFtFbWFpbF0gW0NvbnRlbnRdIEluZmluZW9uIFRlYW0gLSBWZXJpZnkgeW91ciBzdGF0dXMgWzAzMUpVVVhYXQ==",
     "contact": "",
     "comments": [],
     "history": [
@@ -32,6 +32,21 @@
         {
             "date": "2026-03-18T15:03:57.640Z",
             "user": "admin",
+            "action": "Cập nhật bài viết"
+        },
+        {
+            "date": "2026-03-18T16:02:40.485Z",
+            "user": "thong",
+            "action": "Cập nhật bài viết"
+        },
+        {
+            "date": "2026-03-18T16:05:01.775Z",
+            "user": "thong",
+            "action": "Cập nhật bài viết"
+        },
+        {
+            "date": "2026-03-18T16:21:40.330Z",
+            "user": "thong",
             "action": "Cập nhật bài viết"
         }
     ],
