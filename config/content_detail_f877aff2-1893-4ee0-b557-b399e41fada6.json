@@ -1,6 +1,6 @@
 {
     "id": "f877aff2-1893-4ee0-b557-b399e41fada6",
-    "body": "QsOqbiBkxrDhu5tpIGzDoCBjw6FjIG3huqt1IGVtYWlsIGPDsyB0aOG7gyB0aGFtIHRo4bqjbw==",
+    "body": "QsOqbiBkxrDhu5tpIGzDoCB04bqldCBjw6FjIG3huqt1IGVtYWlsIGPDsyB0aOG7gyB0aGFtIHRo4bqjby4=",
     "contact": "",
     "comments": [],
     "history": [
@@ -22,6 +22,16 @@
         {
             "date": "2026-03-18T13:34:08.613Z",
             "user": "thong",
+            "action": "Cập nhật bài viết"
+        },
+        {
+            "date": "2026-03-18T15:03:18.888Z",
+            "user": "thong",
+            "action": "Cập nhật bài viết"
+        },
+        {
+            "date": "2026-03-18T15:03:57.640Z",
+            "user": "admin",
             "action": "Cập nhật bài viết"
         }
     ],

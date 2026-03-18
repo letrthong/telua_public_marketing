@@ -1,23 +1,23 @@
 [
     {
-        "id": "f877aff2-1893-4ee0-b557-b399e41fada6",
-        "title": "W0VtYWlsXSBUZW1wbGF0ZXM=",
+        "actualPublishDate": null,
         "assignee": "thong",
         "author": "Thông",
-        "status": "Draft",
+        "created": "18/3/2026",
+        "detailFilename": "content_detail_f877aff2-1893-4ee0-b557-b399e41fada6.json",
+        "editDate": "22:03:57 18/3/2026",
         "expirationDate": "2026-04-15",
-        "publishDate": "25/03/2026",
-        "publishTime": "10:00:00",
-        "linkPost": "",
+        "id": "f877aff2-1893-4ee0-b557-b399e41fada6",
+        "image": "",
         "labels": [
             "6e190c8f-e112-4f99-94ae-7e5ac8af1ef9"
         ],
-        "image": "",
-        "editDate": "20:34:08 18/3/2026",
-        "actualPublishDate": null,
-        "created": "18/3/2026",
-        "updated": "18/3/2026",
-        "detailFilename": "content_detail_f877aff2-1893-4ee0-b557-b399e41fada6.json"
+        "linkPost": "",
+        "publishDate": "25/03/2026",
+        "publishTime": "10:00:00",
+        "status": "Draft",
+        "title": "W0VtYWlsXSBUZW1wbGF0ZXM=",
+        "updated": "18/3/2026"
     },
     {
         "actualPublishDate": null,
