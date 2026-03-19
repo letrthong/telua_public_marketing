@@ -145,5 +145,12 @@
         "color": "#7a1035",
         "desc": "Manager",
         "active": true
+    },
+    {
+        "id": "6b5c864d-d6f5-4f16-a669-1f18bc662904",
+        "name": "Product",
+        "color": "#8000ff",
+        "desc": "product",
+        "active": true
     }
 ]

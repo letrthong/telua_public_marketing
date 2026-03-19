@@ -1,6 +1,6 @@
 {
     "id": "6b84ae6d-48f0-4cba-a7eb-bdcf6730adce",
-    "body": "",
+    "body": "Li4u",
     "contact": "",
     "comments": [],
     "history": [
@@ -11,6 +11,11 @@
         },
         {
             "date": "2026-03-19T06:59:47.649Z",
+            "user": "thong",
+            "action": "Cập nhật bài viết"
+        },
+        {
+            "date": "2026-03-19T09:39:18.904Z",
             "user": "thong",
             "action": "Cập nhật bài viết"
         }
