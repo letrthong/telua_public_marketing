@@ -53,6 +53,21 @@
             "date": "2026-03-19T04:37:14.465Z",
             "user": "thong",
             "action": "Cập nhật bài viết"
+        },
+        {
+            "date": "2026-03-19T16:04:50.132Z",
+            "user": "manager",
+            "action": "Thêm bài viết liên kết (Đích: [Design] Nông Trang 2026 [032Z9MTU])"
+        },
+        {
+            "date": "2026-03-19T16:05:20.037Z",
+            "user": "manager",
+            "action": "Thêm bài viết liên kết (Đích: [Email] Templates [031JUQXX])"
+        },
+        {
+            "date": "2026-03-19T16:05:21.843Z",
+            "user": "manager",
+            "action": "Cập nhật bài viết"
         }
     ],
     "image": ""
