@@ -1,7 +1,8 @@
 {
+    "id": "1c0da7be-2813-4d7e-b361-62119af76139",
     "body": "QHRvZG8=",
-    "comments": [],
     "contact": "",
+    "comments": [],
     "history": [
         {
             "action": "Tạo bài viết mới",
@@ -12,8 +13,17 @@
             "action": "Cập nhật bài viết",
             "date": "2026-03-16T05:10:53.577Z",
             "user": "admin"
+        },
+        {
+            "date": "2026-03-19T04:08:20.057Z",
+            "user": "manager",
+            "action": "Cập nhật bài viết"
+        },
+        {
+            "date": "2026-03-19T04:33:16.730Z",
+            "user": "thong",
+            "action": "Cập nhật bài viết"
         }
     ],
-    "id": "1c0da7be-2813-4d7e-b361-62119af76139",
     "image": ""
 }

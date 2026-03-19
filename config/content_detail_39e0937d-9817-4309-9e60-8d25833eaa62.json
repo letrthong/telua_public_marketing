@@ -1,14 +1,19 @@
 {
+    "id": "39e0937d-9817-4309-9e60-8d25833eaa62",
     "body": "aHR0cHM6Ly9ub25ncGh1LnZuLw==",
-    "comments": [],
     "contact": "",
+    "comments": [],
     "history": [
         {
             "action": "Tạo bài viết mới",
             "date": "2026-03-16T04:45:20.595Z",
             "user": "thong"
+        },
+        {
+            "date": "2026-03-19T01:52:04.920Z",
+            "user": "thong",
+            "action": "Cập nhật bài viết"
         }
     ],
-    "id": "39e0937d-9817-4309-9e60-8d25833eaa62",
     "image": ""
 }

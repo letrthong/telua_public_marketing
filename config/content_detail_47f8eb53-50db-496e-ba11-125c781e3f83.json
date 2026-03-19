@@ -1,7 +1,8 @@
 {
+    "id": "47f8eb53-50db-496e-ba11-125c781e3f83",
     "body": "QnJpZWY6IE7hu5lpIGR1bmcgduG7gSB04buPaSBz4bqleSBnaeG7ryBuZ3V5w6puIGjGsMahbmcgduG7iyDEkeG6t2MgdHLGsG5nLg==",
-    "comments": [],
     "contact": "",
+    "comments": [],
     "history": [
         {
             "action": "Lưu thay đổi",
@@ -27,8 +28,12 @@
             "action": "Lưu thay đổi",
             "date": "2026-03-13T07:12:21.166Z",
             "user": "admin"
+        },
+        {
+            "date": "2026-03-19T04:11:47.361Z",
+            "user": "manager",
+            "action": "Cập nhật bài viết"
         }
     ],
-    "id": "47f8eb53-50db-496e-ba11-125c781e3f83",
     "image": ""
 }

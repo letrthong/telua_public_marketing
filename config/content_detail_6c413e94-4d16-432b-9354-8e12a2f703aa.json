@@ -1,0 +1,57 @@
+{
+    "id": "6c413e94-4d16-432b-9354-8e12a2f703aa",
+    "body": "",
+    "contact": "",
+    "comments": [
+        {
+            "id": "42ad0b17-882e-44e3-8b48-9496abc3583d",
+            "date": "2026-03-19T03:28:29.353Z",
+            "userId": "thong",
+            "content": "aHR0cHM6Ly90ZWx1YS52bi90YXNrL2NhbGVuZGFyX3dlZWs="
+        },
+        {
+            "id": "b0c3cf69-240d-40b5-b4b7-cdf501120185",
+            "date": "2026-03-19T03:29:04.313Z",
+            "userId": "thong",
+            "content": "aHR0cHM6Ly90ZWx1YS52bi90YXNrL2NhbGVuZGFyX3dvcms="
+        }
+    ],
+    "history": [
+        {
+            "date": "2026-03-19T03:13:16.028Z",
+            "user": "thong",
+            "action": "Tạo bài viết mới"
+        },
+        {
+            "date": "2026-03-19T03:28:29.353Z",
+            "user": "thong",
+            "action": "Thêm bình luận mới"
+        },
+        {
+            "date": "2026-03-19T03:29:04.314Z",
+            "user": "thong",
+            "action": "Thêm bình luận mới"
+        },
+        {
+            "date": "2026-03-19T03:54:21.904Z",
+            "user": "thong",
+            "action": "Thêm bài viết liên kết (Đích: [Marketing] Quí 1/2026 CW_13_14_2026 [0329366N])"
+        },
+        {
+            "date": "2026-03-19T03:54:35.456Z",
+            "user": "thong",
+            "action": "Cập nhật bài viết"
+        },
+        {
+            "date": "2026-03-19T04:26:10.488Z",
+            "user": "thong",
+            "action": "Thêm bài viết liên kết (Đích: [Marketing] Quí 1/2026 CW_6_7_2026 [032ACY01])"
+        },
+        {
+            "date": "2026-03-19T04:26:14.379Z",
+            "user": "thong",
+            "action": "Cập nhật bài viết"
+        }
+    ],
+    "image": ""
+}

@@ -53,6 +53,11 @@
             "date": "2026-03-17T17:01:01.535Z",
             "user": "thong",
             "action": "Chuyển trạng thái: Nháp ➔ Chờ duyệt"
+        },
+        {
+            "date": "2026-03-19T04:08:06.033Z",
+            "user": "manager",
+            "action": "Cập nhật bài viết"
         }
     ],
     "image": ""

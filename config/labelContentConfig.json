@@ -138,5 +138,12 @@
         "color": "#7a2510",
         "desc": "Content 2026",
         "active": true
+    },
+    {
+        "id": "950ad4ee-6568-4049-b501-739eb3121169",
+        "name": "Manager",
+        "color": "#7a1035",
+        "desc": "Manager",
+        "active": true
     }
 ]

@@ -1,5 +1,7 @@
 {
+    "id": "12154d20-f0db-4437-bd94-b9622f6af7d6",
     "body": "QFRvZG8gY8OhYyDDvSB0xrDhu59uZw==",
+    "contact": "",
     "comments": [
         {
             "content": "SGkgQW5uZTogZW0gY8OzIMO9IHTGsOG7n25nIGfDrCB0aMOsIG5vdGUgdsO0IMSRw6J5IGdpw7pwIGFuaCAuICggRGnDqm0gdGjhu5FuZyBuaOG6pXQgLCBldGMgKQ==",
@@ -9,7 +11,6 @@
             "userId": "thong"
         }
     ],
-    "contact": "",
     "history": [
         {
             "action": "Tạo bài viết mới",
@@ -25,8 +26,17 @@
             "action": "Chỉnh sửa bình luận",
             "date": "2026-03-16T05:53:39.752Z",
             "user": "thong"
+        },
+        {
+            "date": "2026-03-19T03:10:20.536Z",
+            "user": "manager",
+            "action": "Cập nhật bài viết"
+        },
+        {
+            "date": "2026-03-19T03:10:24.577Z",
+            "user": "manager",
+            "action": "Cập nhật bài viết"
         }
     ],
-    "id": "12154d20-f0db-4437-bd94-b9622f6af7d6",
     "image": ""
 }

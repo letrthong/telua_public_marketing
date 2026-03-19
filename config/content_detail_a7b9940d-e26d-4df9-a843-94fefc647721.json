@@ -1,7 +1,8 @@
 {
+    "id": "a7b9940d-e26d-4df9-a843-94fefc647721",
     "body": "LSBAdG9kbw==",
-    "comments": [],
     "contact": "",
+    "comments": [],
     "history": [
         {
             "action": "Tạo bài viết mới",
@@ -12,8 +13,12 @@
             "action": "Cập nhật bài viết",
             "date": "2026-03-16T10:22:10.641Z",
             "user": "admin"
+        },
+        {
+            "date": "2026-03-19T04:09:13.337Z",
+            "user": "manager",
+            "action": "Cập nhật bài viết"
         }
     ],
-    "id": "a7b9940d-e26d-4df9-a843-94fefc647721",
     "image": ""
 }
