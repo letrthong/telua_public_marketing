@@ -12,16 +12,9 @@ SCRIPT_NAME="sync_git_auto.sh"
 LOG_FILE="${SYNC_LOG_FILE:-/opt/sync_history.log}"
 
 case "$1" in
-    # start)
-    #     PID=$(pgrep -f "$SCRIPT_NAME")
-    #     if [ -n "$PID" ]; then
-    #         echo "$SCRIPT_NAME is already running with PID: $PID"
-    #     else
-    #         echo "Starting $SCRIPT_NAME..."
-    #         nohup ./sync_git_auto.sh > "$LOG_FILE" 2>&1 &
-    #         echo "Started."
-    #     fi
-    #     ;;
+    restart)
+        systemctl restart sync-git
+        ;;
     status)
         # Check if the script is running
         PID=$(pgrep -f "$SCRIPT_NAME")
@@ -55,7 +48,7 @@ case "$1" in
             echo "Error: $SCRIPT_NAME is not running."
         else
             echo "Stopping $SCRIPT_NAME (PID: $PID)..."
-            kill $PID
+            systemctl stop sync-git
             echo "Done."
         fi
         ;;
@@ -69,7 +62,7 @@ case "$1" in
         fi
         ;;
     *)
-        echo "Usage: $0 {start|status|stop|sync}"
+        echo "Usage: $0 {restart|status|stop|sync}"
         exit 1
         ;;
 esac

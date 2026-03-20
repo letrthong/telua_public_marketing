@@ -16,3 +16,6 @@ sudo apt-get install coreutils
 
 
 systemctl status sync-git
+systemctl stop sync-git
+
+systemctl restart sync-git
