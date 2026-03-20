@@ -12,16 +12,16 @@ SCRIPT_NAME="sync_git_auto.sh"
 LOG_FILE="${SYNC_LOG_FILE:-/opt/sync_history.log}"
 
 case "$1" in
-    start)
-        PID=$(pgrep -f "$SCRIPT_NAME")
-        if [ -n "$PID" ]; then
-            echo "$SCRIPT_NAME is already running with PID: $PID"
-        else
-            echo "Starting $SCRIPT_NAME..."
-            nohup ./sync_git_auto.sh > "$LOG_FILE" 2>&1 &
-            echo "Started."
-        fi
-        ;;
+    # start)
+    #     PID=$(pgrep -f "$SCRIPT_NAME")
+    #     if [ -n "$PID" ]; then
+    #         echo "$SCRIPT_NAME is already running with PID: $PID"
+    #     else
+    #         echo "Starting $SCRIPT_NAME..."
+    #         nohup ./sync_git_auto.sh > "$LOG_FILE" 2>&1 &
+    #         echo "Started."
+    #     fi
+    #     ;;
     status)
         # Check if the script is running
         PID=$(pgrep -f "$SCRIPT_NAME")
