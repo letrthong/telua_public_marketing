@@ -1,0 +1,14 @@
+[Unit]
+Description=Sync Git Service
+After=network.target
+
+[Service]
+ExecStart=/bin/bash /opt/telua_public_marketing/sync_git_auto.sh
+WorkingDirectory=/opt/telua_public_marketing
+StandardOutput=append:/opt/sync_history.log
+StandardError=inherit
+Restart=always
+User=root
+
+[Install]
+WantedBy=multi-user.target
