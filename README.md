@@ -13,3 +13,6 @@ ps -ef | grep sync_git_auto.sh
 Debian os
 sudo apt-get update
 sudo apt-get install coreutils
+
+
+systemctl status sync-git
