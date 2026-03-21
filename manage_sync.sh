@@ -35,7 +35,7 @@ case "$1" in
             echo "CPU Cores: $(nproc)"
             echo ""
             echo "Recent logs:"
-            tail -n 5 "$LOG_FILE" 2>/dev/null || echo "No log file found."
+            tail -n 15 "$LOG_FILE" 2>/dev/null || echo "No log file found."
         fi
 
         docker stats --no-stream
