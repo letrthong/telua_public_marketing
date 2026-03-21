@@ -89,7 +89,7 @@ do
     # --- KIỂM TRA HEALTH CHECK ---
     log "Đang kiểm tra health_check..."
     # Dùng curl lấy status code. Thêm || echo "000" để tránh script chết do 'set -e' khi ứng dụng sập hẳn
-    HTTP_STATUS=$(curl -s -o /dev/null -w "%{http_code}" http://localhost:8080/health_check || echo "000")
+    HTTP_STATUS=$(curl -s -o /dev/null -w "%{http_code}" https://telua.vn/health_check|| echo "000")
     HEALTH_LOG_FILE="health_check.log"
     
     if [ "$HTTP_STATUS" -ne 200 ]; then
