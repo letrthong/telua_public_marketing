@@ -96,7 +96,7 @@ do
         log "CẢNH BÁO: health_check thất bại! Trả về HTTP Code: $HTTP_STATUS"
         # Ghi riêng vào file log health_check theo yêu cầu
         echo "[$(date '+%Y-%m-%d %H:%M:%S')] CẢNH BÁO: health_check thất bại! Trả về HTTP Code: $HTTP_STATUS" >> "$HEALTH_LOG_FILE"
-        systemctl restart telua_web
+       # systemctl restart telua_web
     else
         log "Health check OK (200)"
     fi
