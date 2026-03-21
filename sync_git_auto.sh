@@ -86,17 +86,32 @@ do
         log "Bước 2: Không có thay đổi nào. Không cần push."
     fi
 
+    # --- KIỂM TRA HEALTH CHECK ---
+    log "Đang kiểm tra health_check..."
+    # Dùng curl lấy status code. Thêm || echo "000" để tránh script chết do 'set -e' khi ứng dụng sập hẳn
+    HTTP_STATUS=$(curl -s -o /dev/null -w "%{http_code}" http://localhost:8080/health_check || echo "000")
+    HEALTH_LOG_FILE="health_check.log"
+    
+    if [ "$HTTP_STATUS" -ne 200 ]; then
+        log "CẢNH BÁO: health_check thất bại! Trả về HTTP Code: $HTTP_STATUS"
+        # Ghi riêng vào file log health_check theo yêu cầu
+        echo "[$(date '+%Y-%m-%d %H:%M:%S')] CẢNH BÁO: health_check thất bại! Trả về HTTP Code: $HTTP_STATUS" >> "$HEALTH_LOG_FILE"
+        systemctl restart telua_web
+    else
+        log "Health check OK (200)"
+    fi
+
     # Kiểm tra RAM: Sử dụng thông số Available (Khả dụng) để chống Out of Memory chính xác nhất
     MEM_INFO=$(free -m | awk '/^Mem:/ {printf "RAM Used: %sMB, Available: %sMB / Total: %sMB", $3, $7, $2}')
     log "$MEM_INFO"
+
+    # Lấy dung lượng RAM thực sự CÒN TRỐNG tính bằng MB (Available)
+    AVAILABLE_MB=$(free -m | awk '/^Mem:/ {print $7}')
 
     if [ "$AVAILABLE_MB" -lt 70 ]; then
         docker system prune -f --volumes=false
     fi
 
-    # Lấy dung lượng RAM thực sự CÒN TRỐNG tính bằng MB (Available)
-    AVAILABLE_MB=$(free -m | awk '/^Mem:/ {print $7}')
-    
     # Nếu RAM Khả dụng dưới 40MB
     if [ "$AVAILABLE_MB" -lt 40 ]; then
         log "CẢNH BÁO CRITICAL: RAM khả dụng chỉ còn ${AVAILABLE_MB}MB (< 50MB). Nguy cơ Out of Memory!"
