@@ -28,6 +28,7 @@ if [ ! -d "/opt/telua_web/app/key" ]; then
     mkdir -p "/opt/telua_web/app/key"
 fi
 
+HEALTH_FAIL_COUNT=0
 while true
 do
     # Kiểm tra kích thước log và xóa nếu quá dài
@@ -96,9 +97,15 @@ do
         log "CẢNH BÁO: health_check thất bại! Trả về HTTP Code: $HTTP_STATUS"
         # Ghi riêng vào file log health_check theo yêu cầu
         echo "[$(date '+%Y-%m-%d %H:%M:%S')] CẢNH BÁO: health_check thất bại! Trả về HTTP Code: $HTTP_STATUS" >> "$HEALTH_LOG_FILE"
-        systemctl restart telua_web
+        HEALTH_FAIL_COUNT=$((HEALTH_FAIL_COUNT+1))
+        if [ "$HEALTH_FAIL_COUNT" -ge 2 ]; then
+            log "Health check lỗi liên tiếp 2 lần. Đang restart service telua_web..."
+            systemctl restart telua_web
+            HEALTH_FAIL_COUNT=0
+        fi
     else
         log "Health check OK (200)"
+        HEALTH_FAIL_COUNT=0
     fi
 
     # Kiểm tra RAM: Sử dụng thông số Available (Khả dụng) để chống Out of Memory chính xác nhất
