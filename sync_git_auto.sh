@@ -109,9 +109,9 @@ do
     if [ "$HTTP_STATUS" -ne 200 ]; then
         log "CẢNH BÁO: health_check thất bại! Trả về HTTP Code: $HTTP_STATUS"
         # Ghi riêng vào file log health_check theo yêu cầu
-        echo "[$(date '+%Y-%m-%d %H:%M:%S')] CẢNH BÁO: health_check thất bại! Trả về HTTP Code: $HTTP_STATUS" >> "$HEALTH_LOG_FILE"
         HEALTH_FAIL_COUNT=$((HEALTH_FAIL_COUNT+1))
         if [ "$HEALTH_FAIL_COUNT" -ge 2 ]; then
+            echo "[$(date '+%Y-%m-%d %H:%M:%S')] CẢNH BÁO: health_check thất bại! Trả về HTTP Code: $HTTP_STATUS" >> "$HEALTH_LOG_FILE"
             log "Health check lỗi liên tiếp 2 lần. Đang restart service telua_web..."
             systemctl restart telua_web
             HEALTH_FAIL_COUNT=0
