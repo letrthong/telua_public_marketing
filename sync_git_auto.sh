@@ -1,5 +1,18 @@
 #!/usr/bin/env bash
 
+# =============================
+# Script: sync_git_auto.sh
+# Purpose: Automatically synchronize data, monitor system status, and manage resources for the server running the telua_web application.
+#
+# Main features:
+# 1. Sync configuration and video folders from /opt/telua_web/app to the current repo, commit & push if there are changes.
+# 2. Check the health_check endpoint, only restart the telua_web service if it fails 2 times in a row.
+# 3. Monitor and clean up RAM, disk, and logs to ensure the server runs stably.
+# 4. Repeat the entire process every 30 minutes.
+#
+# Author:  Thong LT
+# =============================
+
 # Thoát ngay lập tức nếu một lệnh thoát với trạng thái khác không.
 set -e
 
