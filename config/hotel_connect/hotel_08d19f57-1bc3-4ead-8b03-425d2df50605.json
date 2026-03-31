@@ -1,0 +1,18 @@
+[
+    {
+        "id": "a6b32287-7f6e-4051-b5b6-42641b66d33b",
+        "name": "dsfsd",
+        "address": "xxxxxxxx",
+        "phone": "0356148008",
+        "website": "https://telua.vn/",
+        "locationName": "Đà Nẵng",
+        "status": "approved",
+        "rating": 5,
+        "createdAt": "2026-03-31",
+        "updatedAt": "2026-03-31",
+        "description": "Quan chức này không đề cập đến phi đội máy bay tiếp dầu đồn trú ở sân bay Prince Sultan, dù thông tin ban đầu cho thấy một số chiếc cũng bị trúng đòn.",
+        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&q=80&w=600",
+        "lat": 16.061815251946694,
+        "lng": 108.21207046508789
+    }
+]
