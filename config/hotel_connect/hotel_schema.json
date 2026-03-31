@@ -7,5 +7,23 @@
         "lng": 108.212,
         "createdAt": "2026-03-31",
         "updatedAt": "2026-03-31"
+    },
+    {
+        "id": "a9422319-7fba-428b-aa35-7e466538a8a8",
+        "filePathId": "hotel_5ac2621f-652b-4576-a741-04d9ab82eb2b.json",
+        "locationName": "Đà Lạt",
+        "lat": 11.943436,
+        "lng": 108.437178,
+        "createdAt": "2026-03-31",
+        "updatedAt": "2026-03-31"
+    },
+    {
+        "id": "f7bb8ba7-0854-42ee-8f66-a37ad489f615",
+        "filePathId": "hotel_f482ca8b-b40e-4cb9-87b6-9adf65840957.json",
+        "locationName": "Đảo Lý Sơn",
+        "lat": 15.370936,
+        "lng": 109.121618,
+        "createdAt": "2026-03-31",
+        "updatedAt": "2026-03-31"
     }
 ]
