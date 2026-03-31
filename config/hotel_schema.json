@@ -1,0 +1,23 @@
+[
+    {
+        "id": "c8fb49bd-f3a8-413b-8ddd-4181cdcc814f",
+        "filePathId": "hotel_e898e2a4-0394-45aa-b67d-5e7ea8de9882.json",
+        "locationName": "Đà Lạt",
+        "createdAt": "2026-03-31",
+        "updatedAt": "2026-03-31"
+    },
+    {
+        "id": "505a375c-d4f4-4384-9201-ae8a6f625aa0",
+        "filePathId": "hotel_251e5673-69d4-4e9f-bdf2-add872aec2f0.json",
+        "locationName": "Đảo Lý Sơn",
+        "createdAt": "2026-03-31",
+        "updatedAt": "2026-03-31"
+    },
+    {
+        "id": "24444156-4874-40ea-8176-321ca2cc7b9e",
+        "filePathId": "hotel_0c0b2c9b-e810-49c2-b57a-1aac703af59b.json",
+        "locationName": "Đà Nẵng",
+        "createdAt": "2026-03-31",
+        "updatedAt": "2026-03-31"
+    }
+]
