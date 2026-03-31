@@ -1,0 +1,16 @@
+[
+    {
+        "id": "9baa0579-ab80-4bd0-8f81-38b88b478641",
+        "filePathId": "hotel_a85c54c2-07b3-4938-b2f2-6a321aac07fe.json",
+        "locationName": "Đà Lạt",
+        "createdAt": "2026-03-31",
+        "updatedAt": "2026-03-31"
+    },
+    {
+        "id": "fc2a7983-42ad-4bc8-9c4d-bb74b82821cf",
+        "filePathId": "hotel_6f0580df-4a43-4f27-8f2b-529809211e92.json",
+        "locationName": "Đà Lạt",
+        "createdAt": "2026-03-31",
+        "updatedAt": "2026-03-31"
+    }
+]
