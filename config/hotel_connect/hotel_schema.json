@@ -34,5 +34,23 @@
         "lng": 109.197382,
         "createdAt": "2026-04-01",
         "updatedAt": "2026-04-01"
+    },
+    {
+        "id": "e2a7e435-314b-42c2-bc12-4874b9028e18",
+        "filePathId": "hotel_440087a8-d6f3-43cd-b3e4-43cf606e27a3.json",
+        "locationName": "Thủ Đô Hà Nội",
+        "lat": 21.022021,
+        "lng": 105.852413,
+        "createdAt": "2026-04-01",
+        "updatedAt": "2026-04-01"
+    },
+    {
+        "id": "f1d6b6cf-b042-4c66-a2f7-bc215cee8492",
+        "filePathId": "hotel_81806a21-7db2-41ac-af46-a241a5a648dc.json",
+        "locationName": "Sa Pa",
+        "lat": 22.334516,
+        "lng": 103.84449,
+        "createdAt": "2026-04-01",
+        "updatedAt": "2026-04-01"
     }
 ]
