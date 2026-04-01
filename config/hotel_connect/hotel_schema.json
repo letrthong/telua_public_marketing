@@ -52,5 +52,14 @@
         "lng": 103.84449,
         "createdAt": "2026-04-01",
         "updatedAt": "2026-04-01"
+    },
+    {
+        "id": "5bc6a5be-8e0e-452a-b9b3-8371517fa2cf",
+        "filePathId": "hotel_001fc831-de4f-4ea1-bac7-202220755ba8.json",
+        "locationName": "Quân 1 HCM",
+        "lat": 10.774542,
+        "lng": 106.702309,
+        "createdAt": "2026-04-01",
+        "updatedAt": "2026-04-01"
     }
 ]
