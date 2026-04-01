@@ -2,11 +2,11 @@
     {
         "id": "3afe0c2a-1a04-4dc9-8543-0048783ee941",
         "filePathId": "hotel_08d19f57-1bc3-4ead-8b03-425d2df50605.json",
-        "locationName": "Đà Nẵng",
+        "locationName": "TP Đà Nẵng",
         "lat": 16.068,
         "lng": 108.212,
         "createdAt": "2026-03-31",
-        "updatedAt": "2026-03-31"
+        "updatedAt": "2026-04-01"
     },
     {
         "id": "a9422319-7fba-428b-aa35-7e466538a8a8",
@@ -25,5 +25,14 @@
         "lng": 109.121618,
         "createdAt": "2026-03-31",
         "updatedAt": "2026-03-31"
+    },
+    {
+        "id": "49319280-3638-4f39-87db-3cfc4517745e",
+        "filePathId": "hotel_3d62ab32-9054-4c2a-8ef2-87686c87ae92.json",
+        "locationName": "TP Nha Trang",
+        "lat": 12.249348,
+        "lng": 109.197382,
+        "createdAt": "2026-04-01",
+        "updatedAt": "2026-04-01"
     }
 ]
