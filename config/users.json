@@ -1,0 +1,10 @@
+{
+    "admin": {
+        "id": "admin",
+        "name": "Admin",
+        "username": "admin",
+        "password": "123456",
+        "role": "admin"
+    },
+    "teachers": []
+}
