@@ -1,10 +1,18 @@
 {
-    "admin": {
-        "id": "admin",
-        "name": "Admin",
-        "username": "admin",
-        "password": "123456",
-        "role": "admin"
-    },
-    "teachers": []
+  "admin": {
+    "id": "admin",
+    "name": "Admin",
+    "username": "admin",
+    "password": "pbkdf2:sha256:260000$42yKhAGB0Pv2Pvyh$c2d7c8d66206abf75e02342a44a7852e09327143e43ccef0f948b9f666f763ec",
+    "role": "admin"
+  },
+  "teachers": [
+    {
+      "id": "t-884953345",
+      "name": "cam",
+      "username": "cam",
+      "password": "pbkdf2:sha256:260000$IhNUs5dyBrrsL8Tu$12bf662c2822b7741bd334861f01d1a744838317aa982c4a17819dcff225acbe",
+      "status": "created"
+    }
+  ]
 }
