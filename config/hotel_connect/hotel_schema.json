@@ -70,5 +70,32 @@
         "lng": 108.243227,
         "createdAt": "2026-04-01",
         "updatedAt": "2026-04-01"
+    },
+    {
+        "id": "edcd85e9-22ad-43dc-b2b7-fcf7b4f2a130",
+        "filePathId": "hotel_033ff9c6-fc43-4a28-9218-cce5eb234faa.json",
+        "locationName": "Vũng Tàu - Hồ Chí Minh",
+        "lat": 10.34845,
+        "lng": 107.075002,
+        "createdAt": "2026-04-02",
+        "updatedAt": "2026-04-02"
+    },
+    {
+        "id": "aebdb9e0-89c1-4afa-bdda-989c95ce1ef6",
+        "filePathId": "hotel_5445bd25-b9cd-469e-b45a-e3e08a8822b1.json",
+        "locationName": "Hội An - Đà Nẵng",
+        "lat": 15.8846,
+        "lng": 108.3339,
+        "createdAt": "2026-04-02",
+        "updatedAt": "2026-04-02"
+    },
+    {
+        "id": "f7fe4523-63c7-4cd2-af40-b87d64540d03",
+        "filePathId": "hotel_0ebbe3ea-04ac-44ba-8e44-3be2eb5b1578.json",
+        "locationName": " Hà Giang - Tuyên Quang ",
+        "lat": 22.822551,
+        "lng": 104.988528,
+        "createdAt": "2026-04-02",
+        "updatedAt": "2026-04-02"
     }
 ]
