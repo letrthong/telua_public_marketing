@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "assignedStores": [
+      "s5476a141"
+    ],
+    "cccd": "b64:MTIzNDU2Nzg5MA==",
+    "hasImage": true,
+    "id": "e_5ed3ca5beb4f42619ed429f5356e52af",
+    "name": "b64:dGhlZ2lvaWlj",
+    "password": "123456",
+    "phone": "b64:MTIzNDU2Nzg5MA==",
+    "role": "Quản lý",
+    "schedule": {
+      "s5476a141": {
+        "Fri": [
+          "s1",
+          "s2"
+        ],
+        "Mon": [
+          "s1",
+          "s2"
+        ],
+        "Sat": [
+          "s2"
+        ],
+        "Sun": [],
+        "Thu": [
+          "s1",
+          "s2"
+        ],
+        "Tue": [
+          "s1",
+          "s2"
+        ],
+        "Wed": [
+          "s1",
+          "s2"
+        ]
+      }
+    },
+    "status": "active",
+    "username": "thegioiic"
+  }
+]

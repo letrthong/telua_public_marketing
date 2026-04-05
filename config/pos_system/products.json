@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "sku": "SHT30D ",
+    "name": "SHT30D Mạch Cảm Biến Nhiệt Độ Độ Ẩm Giao Tiếp I2C",
+    "category": "Linh kiện Điện  Tử",
+    "basePrice": 80000,
+    "initialStock": "100",
+    "unit": "100",
+    "description": "\tCảm biến  đo Nhiệt độ, độ ẩm qua giao tiếp I2C",
+    "costPrice": 0,
+    "warehouseStock": 100,
+    "id": "p8c719a7a",
+    "status": "created",
+    "hasImage": true
+  }
+]
