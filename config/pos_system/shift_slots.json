@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "color": "blue",
+    "hidden": false,
+    "id": "s1",
+    "label": "Ca Sáng",
+    "time": "08:00 - 12:00"
+  },
+  {
+    "color": "emerald",
+    "hidden": false,
+    "id": "s2",
+    "label": "Ca Chiều",
+    "time": "13:00 - 17:00"
+  },
+  {
+    "color": "slate",
+    "hidden": false,
+    "id": "s3",
+    "label": "Ca Tối",
+    "time": "18:00 - 22:00"
+  }
+]
