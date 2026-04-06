@@ -15,5 +15,22 @@
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&q=80&w=600",
         "lat": 12.250421109886409,
         "lng": 109.19653987832136
+    },
+    {
+        "id": "936473c7-fe69-4fee-b7d0-a8a1324fb374",
+        "name": "https://havanahotel.vn",
+        "type": "hotel",
+        "address": "eHh4",
+        "phone": "MTIzNDU2Nzg5MA==",
+        "website": "aHR0cHM6Ly9oYXZhbmFob3RlbC52bg==",
+        "locationName": "TP Nha Trang - Khánh Hòa",
+        "status": "approved",
+        "rating": 5,
+        "createdAt": "2026-04-06",
+        "updatedAt": "2026-04-06",
+        "description": "VuG7iyB0csOtIHbDoCBU4bqnbSBuaMOsbjogQuG7gyBixqFpIMSRxrDhu6NjIHRoaeG6v3Qga+G6vyBuZ2/DoGkgdHLhu51pIHbhu5tpIHPDom4gdOG6r20gbuG6r25nIHLhu5luZyByw6NpLiDEkGnhu4NtIMSR4bq3YyBiaeG7h3QgbmjhuqV0IGzDoCB04bqnbSBuaMOsbiAzIG3hurd0IGjGsOG7m25nIGJp4buDbiwgY2hvIHBow6lwIGtow6FjaCBow6BuZyBiYW8gcXXDoXQgdG/DoG4gY+G6o25oIFbhu4tuaCBOaGEgVHJhbmcgdOG7qyB0csOqbiBjYW8u",
+        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&q=80&w=600",
+        "lat": 12.234390075343914,
+        "lng": 109.19754410628232
     }
 ]
