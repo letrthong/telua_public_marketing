@@ -1,0 +1,19 @@
+[
+    {
+        "id": "26cd4e1d-74a9-4edf-8afe-51af00c6b2db",
+        "name": "StarCity Nha Trang Hotel",
+        "type": "motel",
+        "address": "U+G7kSA3Mi03NCBUcuG6p24gUGjDuiwgTOG7mWMgVGjhu40sIE5oYSBUcmFuZw==",
+        "phone": "MjU4IDM1OTAgOTk5",
+        "website": "aHR0cHM6Ly9zdGFyY2l0eW5oYXRyYW5nLmNvbQ==",
+        "locationName": "TP Nha Trang - Khánh Hòa",
+        "status": "approved",
+        "rating": 5,
+        "createdAt": "2026-04-06",
+        "updatedAt": "2026-04-06",
+        "description": "xJDhu5FpIGRp4buHbiBiaeG7g24sIGdpw7pwIGR1IGtow6FjaCBk4buFIGTDoG5nIGRpIGNodXnhu4NuIHJhIGLDo2kgdOG6r20gdsOgIGPDoWMga2h1IHZ1aSBjaMahaSBnaeG6o2kgdHLDrSB0cnVuZyB0w6JtLg==",
+        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&q=80&w=600",
+        "lat": 12.250421109886409,
+        "lng": 109.19653987832136
+    }
+]
