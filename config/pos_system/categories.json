@@ -4,5 +4,11 @@
     "icon": "📦",
     "id": "c1775492302058",
     "name": "Linh kiện Điện Tử"
+  },
+  {
+    "id": "c1775545976201",
+    "name": "Hộp Nhựa",
+    "icon": "📦",
+    "hidden": false
   }
 ]
