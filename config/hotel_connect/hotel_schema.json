@@ -106,5 +106,14 @@
         "lng": 108.290116,
         "createdAt": "2026-04-08",
         "updatedAt": "2026-04-08"
+    },
+    {
+        "id": "a10ff3b3-b663-4dce-918f-2d2b21daf792",
+        "filePathId": "hotel_283efb6f-9f4f-485e-bde6-e2844356c68a.json",
+        "locationName": "Huế",
+        "lat": 16.456963,
+        "lng": 107.578762,
+        "createdAt": "2026-04-08",
+        "updatedAt": "2026-04-08"
     }
 ]
