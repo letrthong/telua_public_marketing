@@ -17,23 +17,6 @@
         "lng": 106.70324561023499
     },
     {
-        "id": "v8w9x0y1-z2a3-b4c5-d6e7-f8g9h0i1j2k3",
-        "name": "Lotte Hotel Saigon",
-        "type": "hotel",
-        "address": "MkEtNEEgVMO0biDEkOG7qWMgVGjhuq9uZw==",
-        "phone": "MDI4IDM4MjMgMzMzMw==",
-        "website": "aHR0cHM6Ly9sb3R0ZWhvdGVsLmNvbS9zYWlnb24v",
-        "status": "pending",
-        "createdAt": "2026-04-08",
-        "updatedAt": "2026-04-08",
-        "rating": 5,
-        "locationName": "Quận 1 - Hồ Chí Minh",
-        "description": "S2jDtG5nIGdpYW4gbmdo4buJIGTGsOG7bmcgacOqmbiBiw6xuIGfhuqduIHPDtG5nIFPDoGkgR8OybiB24bi0IGjhu5MgYsahaSBuZ2_DoGkgdHLhu51pIHLhu5tuZyBs4bubbi4=",
-        "image": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?auto=format&fit=crop&q=80&w=600",
-        "lat": 10.777810234598716,
-        "lng": 106.70611023459871
-    },
-    {
         "id": "q7r8s9t0-u1v2-w3x4-y5z6-a7b8c9d0e1f2",
         "name": "Renaissance Riverside",
         "type": "hotel",
