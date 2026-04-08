@@ -115,5 +115,14 @@
         "lng": 107.578762,
         "createdAt": "2026-04-08",
         "updatedAt": "2026-04-08"
+    },
+    {
+        "id": "20cef2e9-04c0-46cc-b2e0-154fdd4705e4",
+        "filePathId": "hotel_b17d22fc-cf82-4285-9d66-a6cd07f6ea16.json",
+        "locationName": "Quy Nhơn -  Gia Lai",
+        "lat": 13.766103,
+        "lng": 109.220734,
+        "createdAt": "2026-04-08",
+        "updatedAt": "2026-04-08"
     }
 ]
