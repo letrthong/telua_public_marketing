@@ -1,1 +1,19 @@
-[]
+[
+    {
+        "id": "254fe95a-8a3d-45e7-9e9c-6911fb2992f6",
+        "name": "Hotel Majestic Saigon",
+        "type": "hotel",
+        "address": "MDEgRG9uZyBLaG9pIFN0cmVldCwgU2FpZ29uIFdhcmQsIEhvIENoaSBNaW5oIENpdHksIFZpZXRuYW0=",
+        "phone": "MDkzNyA2MTEgMTE5",
+        "website": "aHR0cHM6Ly93d3cubWFqZXN0aWNzYWlnb24uY29tLw==",
+        "locationName": "Quận 1 - Hồ Chí Minh",
+        "status": "pending",
+        "rating": 5,
+        "createdAt": "2026-04-08",
+        "updatedAt": "2026-04-08",
+        "description": "V2VsY29tZSB0byBIb3RlbCBNYWplc3RpYyBTYWlnb24sIHRoZSBoaXN0b3JpYyBsdXh1cnkgSG90ZWwgb2YgSGVyaXRhZ2UsIEhvc3BpdGFsaXR5LCBhbmQgRWxlZ2FuY2UuIFNpbmNlIDE5MjUsIHNpdHVhdGVkIGF0IHRoZSBoZWFydCBvZiBIbyBDaGkgTWluaCBDaXR5IGFuZCBibGVzc2VkIGJ5IHRoZSBzdHVubmluZyB2aWV3IG9mIHRoZSBTYWlnb24gUml2ZXIsIHRoZSBmaXZlLXN0YXIgbHV4dXJ5IGhlcml0YWdlIEhvdGVsIE1hamVzdGljIFNhaWdvbiBoYXMgYmVlbiBvbmUgb2YgdGhlIGNpdHnigJlzIGJlc3QgYW5kIG1vc3QgZmFtaWxpYXIgbGFuZG1hcmtzLiBPdXIgaG90ZWwgaGFybW9uaXplcyBhIHVuaXF1ZSBoZXJpdGFnZSBjb25jZXB0IHdpdGggbHV4dXJpb3VzIGFjY29tbW9kYXRpb25zLCBmaW5lIGRpbmluZyByZXN0YXVyYW50cywgaGlnaC1jbGFzcyBmYWNpbGl0aWVzLCBhbmQgbGVnZW5kYXJ5IHNlcnZpY2UuIFdlIHByb3ZpZGUgdGhlIHBlcmZlY3QgYWNjb21tb2RhdGlvbiBmb3IgeW91ciBzdGF5IGluIGRvd250b3duIFNhaWdvbiwgZWl0aGVyIGZvciBhIGJ1c2luZXNzIG1lZXRpbmcsIGEgbWFnaWNhbCBob2xpZGF5LCBvciBhIHJvbWFudGljIHdlZGRpbmcgYW5kIGhvbmV5bW9vbi4=",
+        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&q=80&w=600",
+        "lat": 10.773040607697936,
+        "lng": 106.70630836539205
+    }
+]
