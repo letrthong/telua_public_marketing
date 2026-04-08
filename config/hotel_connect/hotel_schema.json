@@ -97,5 +97,14 @@
         "lng": 104.988528,
         "createdAt": "2026-04-02",
         "updatedAt": "2026-04-02"
+    },
+    {
+        "id": "9ebdef57-9d9d-4825-b7bb-2ce33db6e4b8",
+        "filePathId": "hotel_0399eaad-ecde-4ce6-b09d-10f03ff3cd5d.json",
+        "locationName": "Mũi Né  - Phan Thiết",
+        "lat": 10.93903,
+        "lng": 108.290116,
+        "createdAt": "2026-04-08",
+        "updatedAt": "2026-04-08"
     }
 ]
