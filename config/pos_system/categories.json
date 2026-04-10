@@ -6,9 +6,9 @@
     "name": "Linh kiện Điện Tử"
   },
   {
-    "id": "c1775545976201",
-    "name": "Hộp Nhựa",
+    "hidden": false,
     "icon": "📦",
-    "hidden": false
+    "id": "c1775545976201",
+    "name": "Hộp Nhựa"
   }
 ]
