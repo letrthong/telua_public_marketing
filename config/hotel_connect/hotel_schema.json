@@ -1,28 +1,10 @@
 [
     {
-        "id": "edcd85e9-22ad-43dc-b2b7-fcf7b4f2a130",
-        "filePathId": "hotel_033ff9c6-fc43-4a28-9218-cce5eb234faa.json",
-        "locationName": "Hồ Chí Minh - Vũng Tàu",
-        "lat": 10.357614,
-        "lng": 107.079552,
-        "createdAt": "2026-04-02",
-        "updatedAt": "2026-04-11"
-    },
-    {
         "id": "f7bb8ba7-0854-42ee-8f66-a37ad489f615",
         "filePathId": "hotel_f482ca8b-b40e-4cb9-87b6-9adf65840957.json",
         "locationName": " Quảng Ngãi - Đảo Lý Sơn ",
         "lat": 15.380536,
         "lng": 109.116898,
-        "createdAt": "2026-03-31",
-        "updatedAt": "2026-04-11"
-    },
-    {
-        "id": "3afe0c2a-1a04-4dc9-8543-0048783ee941",
-        "filePathId": "hotel_08d19f57-1bc3-4ead-8b03-425d2df50605.json",
-        "locationName": "Đà Nẵng - Sân Bay ",
-        "lat": 16.055547,
-        "lng": 108.208551,
         "createdAt": "2026-03-31",
         "updatedAt": "2026-04-11"
     },
@@ -38,11 +20,11 @@
     {
         "id": "a10ff3b3-b663-4dce-918f-2d2b21daf792",
         "filePathId": "hotel_283efb6f-9f4f-485e-bde6-e2844356c68a.json",
-        "locationName": "Huế",
+        "locationName": "Huế - Nội Thành",
         "lat": 16.456963,
         "lng": 107.578762,
         "createdAt": "2026-04-08",
-        "updatedAt": "2026-04-08"
+        "updatedAt": "2026-04-11"
     },
     {
         "id": "e2a7e435-314b-42c2-bc12-4874b9028e18",
@@ -72,6 +54,15 @@
         "updatedAt": "2026-04-11"
     },
     {
+        "id": "f92d8734-602f-4ab6-b5e7-41f115fd5330",
+        "filePathId": "hotel_3bddcab9-69d3-44b3-8a5c-2486436320f7.json",
+        "locationName": "Hồ Chí Minh - Quận 7",
+        "lat": 10.705478,
+        "lng": 106.711578,
+        "createdAt": "2026-04-11",
+        "updatedAt": "2026-04-11"
+    },
+    {
         "id": "8f3758a9-98eb-4376-81ee-824d6cf0d38d",
         "filePathId": "hotel_6ce3ca96-e210-4109-a97d-95f9b53187b8.json",
         "locationName": "Hồ Chí Minh - Thủ Đức",
@@ -81,12 +72,30 @@
         "updatedAt": "2026-04-11"
     },
     {
+        "id": "edcd85e9-22ad-43dc-b2b7-fcf7b4f2a130",
+        "filePathId": "hotel_033ff9c6-fc43-4a28-9218-cce5eb234faa.json",
+        "locationName": "Hồ Chí Minh - Vũng Tàu",
+        "lat": 10.357614,
+        "lng": 107.079552,
+        "createdAt": "2026-04-02",
+        "updatedAt": "2026-04-11"
+    },
+    {
         "id": "49319280-3638-4f39-87db-3cfc4517745e",
         "filePathId": "hotel_3d62ab32-9054-4c2a-8ef2-87686c87ae92.json",
         "locationName": "Khánh Hòa -TP Nha Trang",
         "lat": 12.249348,
         "lng": 109.197382,
         "createdAt": "2026-04-01",
+        "updatedAt": "2026-04-11"
+    },
+    {
+        "id": "5295d1fe-15d5-47b5-9424-fdaca4a90f48",
+        "filePathId": "hotel_a3f3ca9b-9971-4867-858c-c444568b0ce8.json",
+        "locationName": "Kiên Giang - Phú Quốc ",
+        "lat": 10.241952,
+        "lng": 103.985596,
+        "createdAt": "2026-04-11",
         "updatedAt": "2026-04-11"
     },
     {
@@ -132,6 +141,15 @@
         "lat": 16.056203,
         "lng": 108.243793,
         "createdAt": "2026-04-01",
+        "updatedAt": "2026-04-11"
+    },
+    {
+        "id": "3afe0c2a-1a04-4dc9-8543-0048783ee941",
+        "filePathId": "hotel_08d19f57-1bc3-4ead-8b03-425d2df50605.json",
+        "locationName": "Đà Nẵng - Sân Bay ",
+        "lat": 16.055547,
+        "lng": 108.208551,
+        "createdAt": "2026-03-31",
         "updatedAt": "2026-04-11"
     },
     {
