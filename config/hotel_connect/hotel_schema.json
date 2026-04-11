@@ -2,11 +2,11 @@
     {
         "id": "3afe0c2a-1a04-4dc9-8543-0048783ee941",
         "filePathId": "hotel_08d19f57-1bc3-4ead-8b03-425d2df50605.json",
-        "locationName": "Sân Bay -  Đà Nẵng",
+        "locationName": " Đà Nẵng - Sân Bay ",
         "lat": 16.055547,
         "lng": 108.208551,
         "createdAt": "2026-03-31",
-        "updatedAt": "2026-04-01"
+        "updatedAt": "2026-04-11"
     },
     {
         "id": "a9422319-7fba-428b-aa35-7e466538a8a8",
@@ -56,29 +56,29 @@
     {
         "id": "5bc6a5be-8e0e-452a-b9b3-8371517fa2cf",
         "filePathId": "hotel_001fc831-de4f-4ea1-bac7-202220755ba8.json",
-        "locationName": "Quận 1 - Hồ Chí Minh",
+        "locationName": "Hồ Chí Minh - Quận 1",
         "lat": 10.775301,
         "lng": 106.702266,
         "createdAt": "2026-04-01",
-        "updatedAt": "2026-04-08"
+        "updatedAt": "2026-04-11"
     },
     {
         "id": "f042d69f-dcb3-4007-9287-a0c80abbf525",
         "filePathId": "hotel_61ec9496-a0e8-44a8-bd07-15b3c32214b1.json",
-        "locationName": "Biển Mỹ Khê - Đà Nẵng",
+        "locationName": "Đà Nẵng - Biển Mỹ Khê ",
         "lat": 16.056203,
         "lng": 108.243793,
         "createdAt": "2026-04-01",
-        "updatedAt": "2026-04-07"
+        "updatedAt": "2026-04-11"
     },
     {
         "id": "edcd85e9-22ad-43dc-b2b7-fcf7b4f2a130",
         "filePathId": "hotel_033ff9c6-fc43-4a28-9218-cce5eb234faa.json",
-        "locationName": "Vũng Tàu - Hồ Chí Minh",
+        "locationName": " Hồ Chí Minh - Vũng Tàu",
         "lat": 10.357614,
         "lng": 107.079552,
         "createdAt": "2026-04-02",
-        "updatedAt": "2026-04-07"
+        "updatedAt": "2026-04-11"
     },
     {
         "id": "aebdb9e0-89c1-4afa-bdda-989c95ce1ef6",
@@ -124,5 +124,14 @@
         "lng": 109.220734,
         "createdAt": "2026-04-08",
         "updatedAt": "2026-04-08"
+    },
+    {
+        "id": "1b2cc977-063f-45df-8481-833a560bb815",
+        "filePathId": "hotel_90e33dfa-07f2-4ad5-ae9c-af235526f418.json",
+        "locationName": "Hồ Chí Minh - Quận 3",
+        "lat": 10.779441,
+        "lng": 106.695056,
+        "createdAt": "2026-04-11",
+        "updatedAt": "2026-04-11"
     }
 ]
