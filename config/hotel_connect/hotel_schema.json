@@ -36,6 +36,15 @@
         "updatedAt": "2026-04-11"
     },
     {
+        "id": "57310727-a2f1-495f-b9c2-314c8bc329aa",
+        "filePathId": "hotel_43de7f6e-42c9-47db-ab8a-0cf29cc87420.json",
+        "locationName": "Hồ Chí Minh - Hồ Tràm",
+        "lat": 10.474561,
+        "lng": 107.435389,
+        "createdAt": "2026-04-11",
+        "updatedAt": "2026-04-11"
+    },
+    {
         "id": "5bc6a5be-8e0e-452a-b9b3-8371517fa2cf",
         "filePathId": "hotel_001fc831-de4f-4ea1-bac7-202220755ba8.json",
         "locationName": "Hồ Chí Minh - Quận 1",
@@ -78,6 +87,15 @@
         "lat": 10.357614,
         "lng": 107.079552,
         "createdAt": "2026-04-02",
+        "updatedAt": "2026-04-11"
+    },
+    {
+        "id": "71f70a29-c6cb-4a27-9e75-403f1a3bac41",
+        "filePathId": "hotel_fdd810fb-a38e-4d2d-af85-4dac099b7f01.json",
+        "locationName": "Khánh Hòa -Cam Ranh",
+        "lat": 11.920392,
+        "lng": 109.14608,
+        "createdAt": "2026-04-11",
         "updatedAt": "2026-04-11"
     },
     {
