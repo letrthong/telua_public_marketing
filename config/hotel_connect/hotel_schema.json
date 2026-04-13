@@ -105,7 +105,7 @@
         "locationName": "Khánh Hòa -TP Nha Trang",
         "lat": 12.249348,
         "lng": 109.197382,
-        "radius": 2,
+        "radius": 10,
         "createdAt": "2026-04-01",
         "updatedAt": "2026-04-13"
     },
