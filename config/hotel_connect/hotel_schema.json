@@ -213,9 +213,9 @@
         "id": "64b3e198-8c1c-4851-b4c9-522405f76480",
         "filePathId": "hotel_822ac1b7-ef8d-4bb7-971c-e2f689e5eaa5.json",
         "locationName": "Đà Nẵng - Bán Đảo Sơn Trà",
-        "lat": 16.12049,
-        "lng": 108.264708,
-        "radius": 2,
+        "lat": 16.114101,
+        "lng": 108.266487,
+        "radius": 5,
         "createdAt": "2026-04-13",
         "updatedAt": "2026-04-13"
     },
