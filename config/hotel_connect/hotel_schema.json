@@ -1,14 +1,5 @@
 [
     {
-        "id": "f7bb8ba7-0854-42ee-8f66-a37ad489f615",
-        "filePathId": "hotel_f482ca8b-b40e-4cb9-87b6-9adf65840957.json",
-        "locationName": " Quảng Ngãi - Đảo Lý Sơn ",
-        "lat": 15.380536,
-        "lng": 109.116898,
-        "createdAt": "2026-03-31",
-        "updatedAt": "2026-04-12"
-    },
-    {
         "id": "20cef2e9-04c0-46cc-b2e0-154fdd4705e4",
         "filePathId": "hotel_b17d22fc-cf82-4285-9d66-a6cd07f6ea16.json",
         "locationName": "Gia Lai - Quy Nhơn",
@@ -135,6 +126,15 @@
         "updatedAt": "2026-04-12"
     },
     {
+        "id": "a1c3cb70-aa18-420b-8cc4-8faa62ca4ab8",
+        "filePathId": "hotel_1b9d1a2e-93c4-41c6-95bd-a59edd74fcda.json",
+        "locationName": "Lâm Đồng - Hồ  Tuyền Lâm",
+        "lat": 11.9006,
+        "lng": 108.435192,
+        "createdAt": "2026-04-13",
+        "updatedAt": "2026-04-13"
+    },
+    {
         "id": "9ebdef57-9d9d-4825-b7bb-2ce33db6e4b8",
         "filePathId": "hotel_0399eaad-ecde-4ce6-b09d-10f03ff3cd5d.json",
         "locationName": "Lâm Đồng - Mũi Né",
@@ -144,6 +144,24 @@
         "updatedAt": "2026-04-12"
     },
     {
+        "id": "50f60dc3-5c1e-493d-a63e-988492a3ce7f",
+        "filePathId": "hotel_bef410ea-5f62-4b9e-84d0-25c08bd34b2e.json",
+        "locationName": "Quảng Ngãi - Châu Ổ",
+        "lat": 15.297946,
+        "lng": 108.76181,
+        "createdAt": "2026-04-13",
+        "updatedAt": "2026-04-13"
+    },
+    {
+        "id": "f7bb8ba7-0854-42ee-8f66-a37ad489f615",
+        "filePathId": "hotel_f482ca8b-b40e-4cb9-87b6-9adf65840957.json",
+        "locationName": "Quảng Ngãi - Đảo Lý Sơn ",
+        "lat": 15.380536,
+        "lng": 109.116898,
+        "createdAt": "2026-03-31",
+        "updatedAt": "2026-04-13"
+    },
+    {
         "id": "f7fe4523-63c7-4cd2-af40-b87d64540d03",
         "filePathId": "hotel_0ebbe3ea-04ac-44ba-8e44-3be2eb5b1578.json",
         "locationName": "Tuyên Quang  - Hà Giang ",
@@ -151,6 +169,15 @@
         "lng": 104.988528,
         "createdAt": "2026-04-02",
         "updatedAt": "2026-04-12"
+    },
+    {
+        "id": "ae9f3d01-db08-4f55-b859-f22358bc18d0",
+        "filePathId": "hotel_b37b5e1a-31b5-409b-9c40-a5c1c09f16b0.json",
+        "locationName": "Tây Ninh - Núi Bà Đen",
+        "lat": 11.37597,
+        "lng": 106.165491,
+        "createdAt": "2026-04-13",
+        "updatedAt": "2026-04-13"
     },
     {
         "id": "f042d69f-dcb3-4007-9287-a0c80abbf525",
