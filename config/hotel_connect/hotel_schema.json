@@ -189,6 +189,15 @@
         "updatedAt": "2026-04-12"
     },
     {
+        "id": "64b3e198-8c1c-4851-b4c9-522405f76480",
+        "filePathId": "hotel_822ac1b7-ef8d-4bb7-971c-e2f689e5eaa5.json",
+        "locationName": "Đà Nẵng - Bán Đảo Sơn Trà",
+        "lat": 16.12049,
+        "lng": 108.264708,
+        "createdAt": "2026-04-13",
+        "updatedAt": "2026-04-13"
+    },
+    {
         "id": "3afe0c2a-1a04-4dc9-8543-0048783ee941",
         "filePathId": "hotel_08d19f57-1bc3-4ead-8b03-425d2df50605.json",
         "locationName": "Đà Nẵng - Sân Bay ",
