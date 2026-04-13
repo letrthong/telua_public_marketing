@@ -5,7 +5,7 @@
         "locationName": "Gia Lai - Quy Nhơn",
         "lat": 13.766103,
         "lng": 109.220734,
-		"radius": 2,
+        "radius": 2,
         "createdAt": "2026-04-08",
         "updatedAt": "2026-04-12"
     },
@@ -15,7 +15,7 @@
         "locationName": "Huế - Nội Thành",
         "lat": 16.456963,
         "lng": 107.578762,
-		"radius": 2,
+        "radius": 2,
         "createdAt": "2026-04-08",
         "updatedAt": "2026-04-12"
     },
@@ -25,7 +25,7 @@
         "locationName": "Hà Nội -   Hồ Hoàn Kiếm",
         "lat": 21.029328,
         "lng": 105.854498,
-		"radius": 2,
+        "radius": 2,
         "createdAt": "2026-04-01",
         "updatedAt": "2026-04-12"
     },
@@ -35,7 +35,7 @@
         "locationName": "Hồ Chí Minh - Hồ Tràm",
         "lat": 10.474561,
         "lng": 107.435389,
-		"radius": 2,
+        "radius": 2,
         "createdAt": "2026-04-11",
         "updatedAt": "2026-04-12"
     },
@@ -45,7 +45,7 @@
         "locationName": "Hồ Chí Minh - Quận 1",
         "lat": 10.775301,
         "lng": 106.702266,
-		"radius": 2,
+        "radius": 2,
         "createdAt": "2026-04-01",
         "updatedAt": "2026-04-13"
     },
@@ -55,7 +55,7 @@
         "locationName": "Hồ Chí Minh - Quận 3",
         "lat": 10.779441,
         "lng": 106.695056,
-		"radius": 2,
+        "radius": 2,
         "createdAt": "2026-04-11",
         "updatedAt": "2026-04-12"
     },
@@ -65,7 +65,7 @@
         "locationName": "Hồ Chí Minh - Quận 7",
         "lat": 10.705478,
         "lng": 106.711578,
-		"radius": 2,
+        "radius": 2,
         "createdAt": "2026-04-11",
         "updatedAt": "2026-04-12"
     },
@@ -75,7 +75,7 @@
         "locationName": "Hồ Chí Minh - Thủ Đức",
         "lat": 10.844352,
         "lng": 106.753411,
-		"radius": 2,
+        "radius": 2,
         "createdAt": "2026-04-11",
         "updatedAt": "2026-04-12"
     },
@@ -85,7 +85,7 @@
         "locationName": "Hồ Chí Minh - Vũng Tàu",
         "lat": 10.357614,
         "lng": 107.079552,
-		"radius": 2,
+        "radius": 2,
         "createdAt": "2026-04-02",
         "updatedAt": "2026-04-12"
     },
@@ -95,7 +95,7 @@
         "locationName": "Khánh Hòa -Cam Ranh",
         "lat": 11.920392,
         "lng": 109.14608,
-		"radius": 2,
+        "radius": 2,
         "createdAt": "2026-04-11",
         "updatedAt": "2026-04-12"
     },
@@ -105,7 +105,7 @@
         "locationName": "Khánh Hòa -TP Nha Trang",
         "lat": 12.249348,
         "lng": 109.197382,
-		"radius": 2,
+        "radius": 2,
         "createdAt": "2026-04-01",
         "updatedAt": "2026-04-13"
     },
@@ -115,7 +115,7 @@
         "locationName": "Kiên Giang - Phú Quốc ",
         "lat": 10.241952,
         "lng": 103.985596,
-		"radius": 2,
+        "radius": 2,
         "createdAt": "2026-04-11",
         "updatedAt": "2026-04-12"
     },
@@ -125,7 +125,7 @@
         "locationName": "Lào Cai - Sa Pa",
         "lat": 22.332531,
         "lng": 103.842087,
-		"radius": 2,
+        "radius": 2,
         "createdAt": "2026-04-01",
         "updatedAt": "2026-04-12"
     },
@@ -135,7 +135,7 @@
         "locationName": "Lâm Đồng - Chợ Đà Lạt",
         "lat": 11.943436,
         "lng": 108.437178,
-		"radius": 2,
+        "radius": 2,
         "createdAt": "2026-03-31",
         "updatedAt": "2026-04-12"
     },
@@ -145,7 +145,7 @@
         "locationName": "Lâm Đồng - Hồ  Tuyền Lâm",
         "lat": 11.9006,
         "lng": 108.435192,
-		"radius": 2,
+        "radius": 2,
         "createdAt": "2026-04-13",
         "updatedAt": "2026-04-13"
     },
@@ -155,7 +155,7 @@
         "locationName": "Lâm Đồng - Mũi Né",
         "lat": 10.93903,
         "lng": 108.290116,
-		"radius": 2,
+        "radius": 2,
         "createdAt": "2026-04-08",
         "updatedAt": "2026-04-12"
     },
@@ -165,7 +165,7 @@
         "locationName": "Quảng Ngãi - Châu Ổ",
         "lat": 15.297946,
         "lng": 108.76181,
-		"radius": 2,
+        "radius": 2,
         "createdAt": "2026-04-13",
         "updatedAt": "2026-04-13"
     },
@@ -175,7 +175,7 @@
         "locationName": "Quảng Ngãi - Đảo Lý Sơn ",
         "lat": 15.380536,
         "lng": 109.116898,
-		"radius": 2,
+        "radius": 2,
         "createdAt": "2026-03-31",
         "updatedAt": "2026-04-13"
     },
@@ -185,7 +185,7 @@
         "locationName": "Tuyên Quang  - Hà Giang ",
         "lat": 22.822551,
         "lng": 104.988528,
-		"radius": 2,
+        "radius": 2,
         "createdAt": "2026-04-02",
         "updatedAt": "2026-04-12"
     },
@@ -195,7 +195,7 @@
         "locationName": "Tây Ninh - Núi Bà Đen",
         "lat": 11.37597,
         "lng": 106.165491,
-		"radius": 2,
+        "radius": 2,
         "createdAt": "2026-04-13",
         "updatedAt": "2026-04-13"
     },
@@ -205,7 +205,7 @@
         "locationName": "Đà Nẵng - Biển Mỹ Khê ",
         "lat": 16.056203,
         "lng": 108.243793,
-		"radius": 2,
+        "radius": 2,
         "createdAt": "2026-04-01",
         "updatedAt": "2026-04-12"
     },
@@ -215,7 +215,7 @@
         "locationName": "Đà Nẵng - Bán Đảo Sơn Trà",
         "lat": 16.12049,
         "lng": 108.264708,
-		"radius": 2,
+        "radius": 2,
         "createdAt": "2026-04-13",
         "updatedAt": "2026-04-13"
     },
@@ -225,7 +225,7 @@
         "locationName": "Đà Nẵng - Sân Bay ",
         "lat": 16.055547,
         "lng": 108.208551,
-		"radius": 2,
+        "radius": 2,
         "createdAt": "2026-03-31",
         "updatedAt": "2026-04-12"
     },
@@ -235,7 +235,7 @@
         "locationName": "Đà Nẵng- Hội An ",
         "lat": 15.8846,
         "lng": 108.3339,
-		"radius": 2,
+        "radius": 2,
         "createdAt": "2026-04-02",
         "updatedAt": "2026-04-12"
     }
