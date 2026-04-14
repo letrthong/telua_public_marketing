@@ -172,7 +172,7 @@
     {
         "id": "baf0af69-7153-4979-85d8-d1959c3ac8e8",
         "name": "Nhà ga Nha Trang",
-        "type": "car",
+        "type": "transport",
         "address": "MTcgVGjDoWkgTmd1ecOqbiwgcGjGsOG7nW5nIFBoxrDhu5tjIFTDom4sIHRow6BuaCBwaOG7kSBOaGEgVHJhbmcsIHThu4luaCBLaMOhbmggSMOyYQ==",
         "phone": "MDI1OCAzODIyIDE5MQ==",
         "website": "aHR0cHM6Ly9kc3ZuLnZuLw==",
@@ -188,8 +188,8 @@
     },
     {
         "id": "270e76a2-bec8-4c4d-acd1-3a8dcde22e82",
-        "name": "Bến xe Phương Trang Nha",
-        "type": "car",
+        "name": "Bến xe Phương - Nha Trang",
+        "type": "transport",
         "address": "MTUxIE5ndXnhu4VuIFRo4buLIE1pbmggS2hhaSwgUGjGsOG7nW5nIFBoxrDhu5tjIEjDsmEsICBOaGEgVHJhbmc=",
         "phone": "MDI4MzgzODY4NTI=",
         "website": "aHR0cHM6Ly9mdXRhYnVzLnZuLw==",
