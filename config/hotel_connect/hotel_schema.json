@@ -103,11 +103,11 @@
         "id": "71f70a29-c6cb-4a27-9e75-403f1a3bac41",
         "filePathId": "hotel_fdd810fb-a38e-4d2d-af85-4dac099b7f01.json",
         "locationName": "Khánh Hòa -Cam Ranh",
-        "lat": 11.920392,
-        "lng": 109.14608,
-        "radius": 2,
+        "lat": 11.949737,
+        "lng": 109.165023,
+        "radius": 20,
         "createdAt": "2026-04-11",
-        "updatedAt": "2026-04-12"
+        "updatedAt": "2026-04-14"
     },
     {
         "id": "49319280-3638-4f39-87db-3cfc4517745e",
