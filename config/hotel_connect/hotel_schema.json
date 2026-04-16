@@ -65,19 +65,19 @@
         "locationName": "Hồ Chí Minh - Quận 7",
         "lat": 10.705478,
         "lng": 106.711578,
-        "radius": 2,
+        "radius": 5,
         "createdAt": "2026-04-11",
-        "updatedAt": "2026-04-12"
+        "updatedAt": "2026-04-16"
     },
     {
         "id": "8f3758a9-98eb-4376-81ee-824d6cf0d38d",
         "filePathId": "hotel_6ce3ca96-e210-4109-a97d-95f9b53187b8.json",
         "locationName": "Hồ Chí Minh - Thủ Đức",
-        "lat": 10.844352,
-        "lng": 106.753411,
-        "radius": 2,
+        "lat": 10.794381,
+        "lng": 106.77276,
+        "radius": 10,
         "createdAt": "2026-04-11",
-        "updatedAt": "2026-04-12"
+        "updatedAt": "2026-04-16"
     },
     {
         "id": "edcd85e9-22ad-43dc-b2b7-fcf7b4f2a130",
