@@ -180,6 +180,16 @@
         "updatedAt": "2026-04-13"
     },
     {
+        "id": "851f1781-a647-4715-b285-d5c1db1d2712",
+        "filePathId": "hotel_29582cc3-1b5e-4a37-b3be-bbdfe912d2f3.json",
+        "locationName": "Quảng Ngãi - Măng Đen",
+        "lat": 14.59958,
+        "lng": 108.291773,
+        "radius": 20,
+        "createdAt": "2026-04-17",
+        "updatedAt": "2026-04-17"
+    },
+    {
         "id": "f6391012-110c-4dff-b112-f1d69e0c8157",
         "filePathId": "hotel_2a7b8b6c-8ee3-4647-a88f-10f2a0fa804a.json",
         "locationName": "Quảng Ngãi - TP Quảng Ngãi",
