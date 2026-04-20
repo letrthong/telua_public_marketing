@@ -93,21 +93,21 @@
         "id": "325d3bd8-4298-4f92-9818-aa627530c877",
         "filePathId": "hotel_c3b24935-0de5-43b0-a6e4-056a57a8b03b.json",
         "locationName": "Khánh Hòa - Nam Vân Phong",
-        "lat": 12.513495,
-        "lng": 109.152846,
+        "lat": 12.577494,
+        "lng": 109.176566,
         "radius": 20,
         "createdAt": "2026-04-14",
-        "updatedAt": "2026-04-14"
+        "updatedAt": "2026-04-20"
     },
     {
         "id": "71f70a29-c6cb-4a27-9e75-403f1a3bac41",
         "filePathId": "hotel_fdd810fb-a38e-4d2d-af85-4dac099b7f01.json",
         "locationName": "Khánh Hòa -Cam Ranh",
-        "lat": 11.949737,
-        "lng": 109.165023,
+        "lat": 11.925256,
+        "lng": 109.149039,
         "radius": 20,
         "createdAt": "2026-04-11",
-        "updatedAt": "2026-04-14"
+        "updatedAt": "2026-04-20"
     },
     {
         "id": "49319280-3638-4f39-87db-3cfc4517745e",
