@@ -203,11 +203,11 @@
         "id": "f7bb8ba7-0854-42ee-8f66-a37ad489f615",
         "filePathId": "hotel_f482ca8b-b40e-4cb9-87b6-9adf65840957.json",
         "locationName": "Quảng Ngãi - Đảo Lý Sơn ",
-        "lat": 15.380536,
-        "lng": 109.116898,
-        "radius": 2,
+        "lat": 15.379675,
+        "lng": 109.116829,
+        "radius": 5,
         "createdAt": "2026-03-31",
-        "updatedAt": "2026-04-13"
+        "updatedAt": "2026-04-21"
     },
     {
         "id": "f7fe4523-63c7-4cd2-af40-b87d64540d03",
