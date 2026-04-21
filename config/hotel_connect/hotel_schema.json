@@ -173,11 +173,11 @@
         "id": "50f60dc3-5c1e-493d-a63e-988492a3ce7f",
         "filePathId": "hotel_bef410ea-5f62-4b9e-84d0-25c08bd34b2e.json",
         "locationName": "Quảng Ngãi - Châu Ổ",
-        "lat": 15.297946,
-        "lng": 108.76181,
-        "radius": 5,
+        "lat": 15.312992,
+        "lng": 108.767941,
+        "radius": 20,
         "createdAt": "2026-04-13",
-        "updatedAt": "2026-04-13"
+        "updatedAt": "2026-04-21"
     },
     {
         "id": "851f1781-a647-4715-b285-d5c1db1d2712",
