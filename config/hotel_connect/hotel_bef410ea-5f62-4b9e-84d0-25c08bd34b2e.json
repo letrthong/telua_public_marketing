@@ -138,7 +138,7 @@
     {
         "id": "891c8457-16f2-427c-a280-54cf217c6d27",
         "name": "Cây Xăng Bình Long",
-        "type": "entertainment",
+        "type": "gas_station",
         "address": "UXXhu5FjIGzhu5kgQTEgZ2lhbyBWw7UgVsSDbiBLaeG7h3Q=",
         "phone": "",
         "website": "",
@@ -155,7 +155,7 @@
     {
         "id": "61fb8d23-684a-4ba0-87da-ba680d41447f",
         "name": "Cây xăng Bình Phú",
-        "type": "entertainment",
+        "type": "gas_station",
         "address": "xJDDtG5nIFPGoW4gLCBRdeG6o25nIE5nw6Np",
         "phone": "",
         "website": "",
