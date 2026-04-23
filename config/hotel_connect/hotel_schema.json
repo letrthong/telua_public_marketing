@@ -255,9 +255,9 @@
         "locationName": "Đà Nẵng - Sân Bay ",
         "lat": 16.055547,
         "lng": 108.208551,
-        "radius": 2,
+        "radius": 20,
         "createdAt": "2026-03-31",
-        "updatedAt": "2026-04-12"
+        "updatedAt": "2026-04-23"
     },
     {
         "id": "aebdb9e0-89c1-4afa-bdda-989c95ce1ef6",
