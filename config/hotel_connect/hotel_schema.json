@@ -253,11 +253,11 @@
         "id": "3afe0c2a-1a04-4dc9-8543-0048783ee941",
         "filePathId": "hotel_08d19f57-1bc3-4ead-8b03-425d2df50605.json",
         "locationName": "Đà Nẵng - Sân Bay ",
-        "lat": 16.055547,
-        "lng": 108.208551,
-        "radius": 20,
+        "lat": 16.053434,
+        "lng": 108.203936,
+        "radius": 50,
         "createdAt": "2026-03-31",
-        "updatedAt": "2026-04-23"
+        "updatedAt": "2026-04-24"
     },
     {
         "id": "aebdb9e0-89c1-4afa-bdda-989c95ce1ef6",
