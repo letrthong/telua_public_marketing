@@ -4,5 +4,11 @@
         "username": "admin",
         "permission": "owner",
         "password": "admin"
+    },
+    {
+        "username": "test",
+        "permission": "user",
+        "password": "1234",
+        "useruid": "2"
     }
 ]
