@@ -1,0 +1,37 @@
+{
+    "id": "fd63ff4a-a2e1-41a8-858c-f77560ca5e91",
+    "title": "xxv vdsfdsf",
+    "description": "sfsdf",
+    "projectId": "667a885431514fc0a96bde9d9dea88ce",
+    "assignee": "admin",
+    "priority": "medium",
+    "storyPoints": "",
+    "sprintIds": [
+        "194a0ab9-4ef2-42fc-a520-42cd3565be91"
+    ],
+    "items": [
+        {
+            "text": "sfsf",
+            "completed": false
+        },
+        {
+            "text": "sfdsf",
+            "completed": false
+        }
+    ],
+    "comments": [],
+    "status": "todo",
+    "createdAt": "2026-05-22T17:02:13.526Z",
+    "completedAt": null,
+    "locked": false,
+    "ownerId": "admin",
+    "history": [
+        {
+            "id": "20205e61-e947-488b-9071-08b23fba60ef",
+            "action": "created",
+            "actor": "admin",
+            "timestamp": "2026-05-22T17:02:13.526Z",
+            "details": "đã tạo công việc này."
+        }
+    ]
+}

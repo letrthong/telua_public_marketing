@@ -1,0 +1,21 @@
+{
+    "name": "abc",
+    "description": "x",
+    "users": [
+        {
+            "useruid": "6a2e1b1d3d084b3f896da78fc130a3ee",
+            "permission": "view"
+        }
+    ],
+    "sprints": [
+        {
+            "id": "194a0ab9-4ef2-42fc-a520-42cd3565be91",
+            "name": "x",
+            "startDate": "2026-05-23",
+            "endDate": "2026-05-23",
+            "isCurrent": true
+        }
+    ],
+    "id": "667a885431514fc0a96bde9d9dea88ce",
+    "status": "active"
+}
