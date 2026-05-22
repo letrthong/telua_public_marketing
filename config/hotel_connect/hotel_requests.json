@@ -1,1 +1,19 @@
-[]
+[
+    {
+        "id": "94fc99d3-3b76-4237-a489-3364f7478cae",
+        "name": "Shop Đồng Hồ | Thay Pin | Dây Da | Mặt Kính",
+        "type": "local_food",
+        "address": "MTUyIMSQLiBOZ3V54buFbiBUaMOhaSBCw6xuaCwgUXXhuq1uIFTDom4gQsOsbmg=",
+        "phone": "",
+        "website": "",
+        "locationId": "4eea65da-abc0-420e-88b9-a75e27e5c1d2",
+        "status": "pending",
+        "rating": 5,
+        "createdAt": "2026-05-22",
+        "updatedAt": "2026-05-22",
+        "description": "UGjDuSBo4bujcCBjaG8gbmjhu69uZyBhaSDhu58ga2h1IHbhu7FjIFTDom4gQsOsbmgsIFTDom4gUGjDui4gTmdvw6BpIHRoYXkgcGluLCB0aeG7h20gY8OybiBjw7Mgc+G6tW4gbmhp4buBdSBsb+G6oWkgZMOieSBkYSB2w6AgbeG6t3Qga8OtbmggxJHhu4MgYuG6oW4gbMOgbSBt4bubaSDEkeG7k25nIGjhu5Mu",
+        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&q=80&w=600",
+        "lat": 10.797961636075549,
+        "lng": 106.65425312561639
+    }
+]
