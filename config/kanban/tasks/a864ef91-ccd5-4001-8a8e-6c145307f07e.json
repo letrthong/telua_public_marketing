@@ -1,0 +1,27 @@
+{
+    "id": "a864ef91-ccd5-4001-8a8e-6c145307f07e",
+    "title": "https://www.linkedin.com/",
+    "description": "<p><a href=\"https://www.linkedin.com/\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.linkedin.com/</a></p>",
+    "projectId": "667a885431514fc0a96bde9d9dea88ce",
+    "assignee": "admin",
+    "priority": "medium",
+    "storyPoints": "",
+    "sprintIds": [
+        "194a0ab9-4ef2-42fc-a520-42cd3565be91"
+    ],
+    "items": [],
+    "status": "todo",
+    "createdAt": "2026-05-23T13:22:12.694Z",
+    "completedAt": null,
+    "locked": false,
+    "ownerId": "admin",
+    "history": [
+        {
+            "id": "209cfe5d-e591-4f8c-8910-35bca114909a",
+            "action": "created",
+            "actor": "admin",
+            "timestamp": "2026-05-23T13:22:12.694Z",
+            "details": "đã tạo công việc này."
+        }
+    ]
+}
