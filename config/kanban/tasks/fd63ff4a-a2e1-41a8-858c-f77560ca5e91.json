@@ -11,12 +11,12 @@
     ],
     "items": [
         {
-            "text": "sfsf",
-            "completed": false
+            "completed": true,
+            "text": "sfsf"
         },
         {
-            "text": "sfdsf",
-            "completed": false
+            "completed": false,
+            "text": "sfdsf"
         }
     ],
     "comments": [],
@@ -27,11 +27,11 @@
     "ownerId": "admin",
     "history": [
         {
-            "id": "20205e61-e947-488b-9071-08b23fba60ef",
             "action": "created",
             "actor": "admin",
-            "timestamp": "2026-05-22T17:02:13.526Z",
-            "details": "đã tạo công việc này."
+            "details": "đã tạo công việc này.",
+            "id": "20205e61-e947-488b-9071-08b23fba60ef",
+            "timestamp": "2026-05-22T17:02:13.526Z"
         }
     ]
 }
