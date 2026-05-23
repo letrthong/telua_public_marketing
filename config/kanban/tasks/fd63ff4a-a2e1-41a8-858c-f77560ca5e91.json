@@ -87,6 +87,41 @@
             "actor": "admin",
             "timestamp": "2026-05-23T08:52:33.911Z",
             "details": "đã chuyển trạng thái từ <strong>Bị khóa</strong> sang <strong>Đang tiến hành</strong>."
+        },
+        {
+            "id": "91b82f498a9b4ea1b23c79f418e0aea7",
+            "action": "commented",
+            "actor": "admin",
+            "timestamp": "2026-05-23T09:08:17.540Z",
+            "details": "đã thêm một bình luận mới."
+        },
+        {
+            "id": "a2b38f1dd0f14fba8413b31e9cd4c24e",
+            "action": "commented",
+            "actor": "admin",
+            "timestamp": "2026-05-23T09:09:07.256Z",
+            "details": "đã thêm một bình luận mới."
+        },
+        {
+            "id": "3a71ffd856fc45dba851de270b19b0e6",
+            "action": "commented",
+            "actor": "admin",
+            "timestamp": "2026-05-23T09:09:23.854Z",
+            "details": "đã thêm một bình luận mới."
+        },
+        {
+            "id": "93421bf6755e4d8c869660d602fb0731",
+            "action": "commented",
+            "actor": "admin",
+            "timestamp": "2026-05-23T09:09:49.867Z",
+            "details": "đã thêm một bình luận mới."
+        },
+        {
+            "id": "d61a17427f84452fa76d18e832ca82ad",
+            "action": "commented",
+            "actor": "admin",
+            "timestamp": "2026-05-23T09:27:33.515Z",
+            "details": "đã thêm một bình luận mới."
         }
     ]
 }
