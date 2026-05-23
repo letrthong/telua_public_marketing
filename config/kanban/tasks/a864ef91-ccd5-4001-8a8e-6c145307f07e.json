@@ -1,7 +1,7 @@
 {
     "id": "a864ef91-ccd5-4001-8a8e-6c145307f07e",
     "title": "https://www.linkedin.com/",
-    "description": "<p><a href=\"https://www.linkedin.com/\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.linkedin.com/</a></p>",
+    "description": "<p><a href=\"https://www.linkedin.com/\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.linkedin.com/</a></p><p><br></p><p><img src=\"/api/v1/kanban/uploads/1b5554444cc7492db71dc845ddbbb704.webp\"></p>",
     "projectId": "667a885431514fc0a96bde9d9dea88ce",
     "assignee": "admin",
     "priority": "medium",
@@ -17,11 +17,18 @@
     "ownerId": "admin",
     "history": [
         {
-            "id": "209cfe5d-e591-4f8c-8910-35bca114909a",
             "action": "created",
             "actor": "admin",
-            "timestamp": "2026-05-23T13:22:12.694Z",
-            "details": "đã tạo công việc này."
+            "details": "đã tạo công việc này.",
+            "id": "209cfe5d-e591-4f8c-8910-35bca114909a",
+            "timestamp": "2026-05-23T13:22:12.694Z"
+        },
+        {
+            "id": "bcb641aa-b3aa-4a61-b456-e9b1032cb1a1",
+            "action": "edited",
+            "actor": "admin",
+            "timestamp": "2026-05-23T15:46:06.311Z",
+            "details": "đã cập nhật thông tin công việc."
         }
     ]
 }

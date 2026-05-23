@@ -131,18 +131,88 @@
             "timestamp": "2026-05-23T11:26:30.218483Z"
         },
         {
-            "id": "aeaee053e158445fb2af877348f0c07f",
             "action": "commented",
             "actor": "admin",
-            "timestamp": "2026-05-23T11:27:08.836Z",
-            "details": "đã thêm một bình luận mới."
+            "details": "đã thêm một bình luận mới.",
+            "id": "aeaee053e158445fb2af877348f0c07f",
+            "timestamp": "2026-05-23T11:27:08.836Z"
         },
         {
-            "id": "bae2fc08e9d1446bb8c8d131e2548939",
             "action": "edited",
             "actor": "admin",
-            "timestamp": "2026-05-23T11:27:16.649176Z",
-            "details": "đã xóa một bình luận."
+            "details": "đã xóa một bình luận.",
+            "id": "bae2fc08e9d1446bb8c8d131e2548939",
+            "timestamp": "2026-05-23T11:27:16.649176Z"
+        },
+        {
+            "action": "status_change",
+            "actor": "admin",
+            "details": "đã chuyển trạng thái từ <strong>Đang tiến hành</strong> sang <strong>Bị khóa</strong>.",
+            "id": "11af49a1-77cf-49fb-b406-f4bc67359f45",
+            "timestamp": "2026-05-23T15:50:00.936Z"
+        },
+        {
+            "action": "status_change",
+            "actor": "admin",
+            "details": "đã chuyển trạng thái từ <strong>Bị khóa</strong> sang <strong>Đánh giá</strong>.",
+            "id": "a420d0ee-700e-4ac0-b6a1-4bd2059b2882",
+            "timestamp": "2026-05-23T15:50:06.712Z"
+        },
+        {
+            "action": "status_change",
+            "actor": "admin",
+            "details": "đã chuyển trạng thái từ <strong>Đánh giá</strong> sang <strong>Hoàn thành</strong>.",
+            "id": "25c68c8d-31dd-4a54-bf36-c00e85f2afa2",
+            "timestamp": "2026-05-23T15:50:11.542Z"
+        },
+        {
+            "action": "status_change",
+            "actor": "admin",
+            "details": "đã chuyển trạng thái từ <strong>Hoàn thành</strong> sang <strong>Đánh giá</strong>.",
+            "id": "278404d5-7c92-40b9-9eb7-b9bbe5bfbf3b",
+            "timestamp": "2026-05-23T15:52:04.042Z"
+        },
+        {
+            "action": "status_change",
+            "actor": "admin",
+            "details": "đã chuyển trạng thái từ <strong>Đánh giá</strong> sang <strong>Bị khóa</strong>.",
+            "id": "8af6224a-f674-40d0-adae-fccbc0abf62d",
+            "timestamp": "2026-05-23T15:52:10.335Z"
+        },
+        {
+            "action": "status_change",
+            "actor": "admin",
+            "details": "đã chuyển trạng thái từ <strong>Bị khóa</strong> sang <strong>Đánh giá</strong>.",
+            "id": "6ee6dcd8-b64f-4566-8737-66abdc9fb5a8",
+            "timestamp": "2026-05-23T15:52:28.333Z"
+        },
+        {
+            "action": "status_change",
+            "actor": "admin",
+            "details": "đã chuyển trạng thái từ <strong>Đánh giá</strong> sang <strong>Hoàn thành</strong>.",
+            "id": "e637016b-f456-4fa8-99f0-d8a0ab06f473",
+            "timestamp": "2026-05-23T15:52:31.124Z"
+        },
+        {
+            "action": "status_change",
+            "actor": "admin",
+            "details": "đã chuyển trạng thái từ <strong>Hoàn thành</strong> sang <strong>Đánh giá</strong>.",
+            "id": "5bc08606-443b-4661-beb1-24dda3e9f2c0",
+            "timestamp": "2026-05-23T15:52:40.661Z"
+        },
+        {
+            "action": "status_change",
+            "actor": "admin",
+            "details": "đã từ chối công việc và chuyển về <strong>Việc cần làm</strong>.",
+            "id": "1c0f8720-77b6-4a5a-825d-d34ed082f221",
+            "timestamp": "2026-05-23T15:52:55.929Z"
+        },
+        {
+            "id": "e87c1609-203e-48a9-b001-bba5d1eb6cb1",
+            "action": "status_change",
+            "actor": "admin",
+            "timestamp": "2026-05-23T15:53:26.030Z",
+            "details": "đã chuyển trạng thái từ <strong>Việc cần làm</strong> sang <strong>Đang tiến hành</strong>."
         }
     ]
 }
