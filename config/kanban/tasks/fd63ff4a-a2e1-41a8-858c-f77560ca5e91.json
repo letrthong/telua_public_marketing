@@ -19,7 +19,7 @@
             "text": "sfdsf"
         }
     ],
-    "status": "in-progress",
+    "status": "done",
     "createdAt": "2026-05-22T17:02:13.526Z",
     "completedAt": null,
     "locked": false,
@@ -208,11 +208,25 @@
             "timestamp": "2026-05-23T15:52:55.929Z"
         },
         {
-            "id": "e87c1609-203e-48a9-b001-bba5d1eb6cb1",
             "action": "status_change",
             "actor": "admin",
-            "timestamp": "2026-05-23T15:53:26.030Z",
-            "details": "đã chuyển trạng thái từ <strong>Việc cần làm</strong> sang <strong>Đang tiến hành</strong>."
+            "details": "đã chuyển trạng thái từ <strong>Việc cần làm</strong> sang <strong>Đang tiến hành</strong>.",
+            "id": "e87c1609-203e-48a9-b001-bba5d1eb6cb1",
+            "timestamp": "2026-05-23T15:53:26.030Z"
+        },
+        {
+            "action": "status_change",
+            "actor": "admin",
+            "details": "đã chuyển trạng thái từ <strong>Đang tiến hành</strong> sang <strong>Đánh giá</strong>.",
+            "id": "9bbca8c5-48b0-4e94-90cc-fb5463ea3cb7",
+            "timestamp": "2026-05-23T16:12:06.336Z"
+        },
+        {
+            "id": "5d6b9d20-bf33-4f8c-98dc-2f392b792e30",
+            "action": "status_change",
+            "actor": "admin",
+            "timestamp": "2026-05-23T16:12:12.514Z",
+            "details": "đã chuyển trạng thái từ <strong>Đánh giá</strong> sang <strong>Hoàn thành</strong>."
         }
     ]
 }
