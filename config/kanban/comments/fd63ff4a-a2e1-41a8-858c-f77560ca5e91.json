@@ -26,5 +26,12 @@
         "author": "admin",
         "createdAt": "2026-05-23T09:27:33.515Z",
         "image": "/api/v1/kanban/uploads/878661b6cfd0460ab4335dca11ac9f11.webp"
+    },
+    {
+        "id": "7029d2fc-5f80-48db-8fde-60e9585255ff",
+        "text": "",
+        "author": "admin",
+        "createdAt": "2026-05-24T01:08:45.753Z",
+        "image": "/api/v1/kanban/uploads/9ce677f2c34a44889112204e04ff751b.webp"
     }
 ]

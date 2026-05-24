@@ -227,6 +227,13 @@
             "actor": "admin",
             "timestamp": "2026-05-23T16:12:12.514Z",
             "details": "đã chuyển trạng thái từ <strong>Đánh giá</strong> sang <strong>Hoàn thành</strong>."
+        },
+        {
+            "id": "5559b340f639413ca56d59af2694daca",
+            "action": "commented",
+            "actor": "admin",
+            "timestamp": "2026-05-24T01:08:45.753Z",
+            "details": "đã thêm một bình luận mới."
         }
     ]
 }
