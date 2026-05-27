@@ -37,6 +37,13 @@
             "actor": "admin",
             "timestamp": "2026-05-24T04:32:41.466Z",
             "details": "đã cập nhật thông tin công việc."
+        },
+        {
+            "id": "e128fc8addc04050bbb81df3c8938c92",
+            "action": "commented",
+            "actor": "admin",
+            "timestamp": "2026-05-27T15:39:36.128Z",
+            "details": "đã thêm một bình luận mới."
         }
     ]
 }
