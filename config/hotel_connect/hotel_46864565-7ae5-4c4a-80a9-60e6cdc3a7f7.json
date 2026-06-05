@@ -1,0 +1,19 @@
+[
+    {
+        "id": "eab37f61-534f-4a5a-b0ce-bbbac2677906",
+        "name": "Đồ thể thao decathlon",
+        "type": "entertainment",
+        "address": "QUVPTiBNQUxMLCAzMCDEkC4gVMOibiBUaOG6r25nLCBTxqFuIEvhu7MsIFTDom4gUGjDuiwgVmnhu4d0IE5hbSA3MDAwMA==",
+        "phone": "",
+        "website": "aHR0cHM6Ly93d3cuZGVjYXRobG9uLnZuL3MvZGFuaC1zYWNoLWN1YS1oYW5n",
+        "locationId": "4eea65da-abc0-420e-88b9-a75e27e5c1d2",
+        "status": "approved",
+        "rating": 5,
+        "createdAt": "2026-06-05",
+        "updatedAt": "2026-06-05",
+        "description": "RGVjYXRobG9uIFZp4buHdCBOYW0gLSB0aMawxqFuZyBoaeG7h3UgxJHhu5MgdGjhu4MgdGhhbyDEkeG6oXQgY2h14bqpbiBDaMOidSDDgnUuIFbhu5tpIGjGoW4gNS4wMDAgc+G6o24gcGjhuqltIGNobyA2MCsgbcO0biB0aOG7gyB0aGFvLCBjaG8gbeG7jWkgxJHhu5FpIHTGsOG7o25nLCB04burIG5nxrDhu51pIG3hu5tpIGLhuq90IMSR4bqndSDEkeG6v24gY2h1ecOqbiBuZ2hp4buHcC4gS2jDoW0gcGjDoSBuZ2F5IGdpw6B5IHRo4buDIHRoYW8sIHF14bqnbiDDoW8gdGjhu4MgdGhhbywgZOG7pW5nIGPhu6UgdGjhu4MgdGhhbyBjaG8gY+G6oyBuZ8aw4budaSBs4bubbiB2w6AgdHLhursgZW0uIENo4bqldCBsxrDhu6NuZyB2xrDhu6N0IHRy4buZaSwgZ2nDoSBj4bqjIHBo4bqjaSBjaMSDbmcsIG5oaeG7gXUgxrB1IMSRw6NpIGzhu5tuIQ==",
+        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&q=80&w=600",
+        "lat": "10.8015819",
+        "lng": "106.6174433"
+    }
+]
