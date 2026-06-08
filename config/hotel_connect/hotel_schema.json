@@ -55,9 +55,9 @@
         "locationName": "Hồ Chí Minh - Quận 3",
         "lat": 10.779441,
         "lng": 106.695056,
-        "radius": 2,
+        "radius": 5,
         "createdAt": "2026-04-11",
-        "updatedAt": "2026-04-12"
+        "updatedAt": "2026-06-08"
     },
     {
         "id": "f92d8734-602f-4ab6-b5e7-41f115fd5330",
