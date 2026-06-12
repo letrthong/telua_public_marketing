@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": "user_admin",
+      "username": "admin",
+      "password_hash": "pbkdf2:sha256:260000$IsUor5qc9xrQveJB$5eecd4cc2fed753a1b7f4bfcdfab0cf80f89390713779040d0753052a3c7469d",
+      "display_name": "Administrator",
+      "email": "",
+      "role": "admin",
+      "is_active": true,
+      "created_at": "2026-06-12T14:24:33.257784Z",
+      "last_login": null
+    }
+  ],
+  "_meta": {
+    "version": "1.0",
+    "created_at": "2026-06-12T14:24:33.257819Z"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "projects": [
+    {
+      "id": "proj_1781274397148",
+      "name": "linux",
+      "description": "",
+      "owner_id": "user_admin",
+      "is_active": true,
+      "created_at": "2026-06-12T14:26:37.148947Z",
+      "updated_at": "2026-06-12T14:26:37.148964Z"
+    }
+  ]
+}
