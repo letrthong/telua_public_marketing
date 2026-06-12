@@ -4,8 +4,16 @@
     "id": "root",
     "type": "folder",
     "title": "Thư mục gốc",
-    "children": []
+    "children": [
+      "doc_1781280528145"
+    ]
   },
-  "nodes": {},
-  "updated_at": "2026-06-12T14:26:37.341117Z"
+  "nodes": {
+    "doc_1781280528145": {
+      "id": "doc_1781280528145",
+      "type": "file",
+      "title": "sfsafa"
+    }
+  },
+  "updated_at": "2026-06-12T16:09:01.346046Z"
 }
