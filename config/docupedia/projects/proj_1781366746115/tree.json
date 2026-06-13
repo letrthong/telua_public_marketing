@@ -1,0 +1,31 @@
+{
+  "project_id": "proj_1781366746115",
+  "root": {
+    "id": "root",
+    "type": "folder",
+    "title": "Thư mục gốc",
+    "children": [
+      "doc_1781366811015",
+      "doc_1781366867641",
+      "doc_1781366911933"
+    ]
+  },
+  "nodes": {
+    "doc_1781366811015": {
+      "id": "doc_1781366811015",
+      "type": "file",
+      "title": "Paris Có Gì Lạ Không Em"
+    },
+    "doc_1781366867641": {
+      "id": "doc_1781366867641",
+      "type": "file",
+      "title": "Áo Lụa Hà Đông"
+    },
+    "doc_1781366911933": {
+      "id": "doc_1781366911933",
+      "type": "file",
+      "title": "Tháng Sáu Trời Mưa"
+    }
+  },
+  "updated_at": "2026-06-13T16:08:45.760447Z"
+}
