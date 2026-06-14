@@ -22,23 +22,23 @@
     },
     {
       "id": "proj_1781366746115",
-      "name": "Thơ",
+      "name": "Thơ - Âm Nhạc",
       "description": "",
       "owner_id": "user_admin",
       "is_active": true,
       "is_public": true,
       "created_at": "2026-06-13T16:05:46.115598Z",
-      "updated_at": "2026-06-13T16:05:46.115609Z"
+      "updated_at": "2026-06-14T08:07:05.865757Z"
     },
     {
       "id": "proj_1781401826824",
-      "name": "Guideline_Docupedia",
+      "name": "Guideline_OpenSource",
       "description": "https://github.com/letrthong/docupedia",
       "owner_id": "user_admin",
       "is_active": true,
       "is_public": true,
       "created_at": "2026-06-14T01:50:26.824479Z",
-      "updated_at": "2026-06-14T04:20:53.927234Z"
+      "updated_at": "2026-06-14T07:48:28.707616Z"
     }
   ]
 }

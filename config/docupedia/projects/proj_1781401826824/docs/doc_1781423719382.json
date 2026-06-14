@@ -1,0 +1,28 @@
+{
+  "id": "doc_1781423719382",
+  "type": "file",
+  "title": "10. Mã nguồn",
+  "parent_id": "folder_1781423675558",
+  "content": {
+    "ops": [
+      {
+        "insert": "...\nMã nguồn ở "
+      },
+      {
+        "attributes": {
+          "italic": true,
+          "color": "#0066cc",
+          "link": "https://github.com/letrthong/lu_quan"
+        },
+        "insert": "https://github.com/letrthong/lu_quan"
+      },
+      {
+        "insert": "\n...\n"
+      }
+    ]
+  },
+  "created_by": "user_admin",
+  "updated_by": "user_admin",
+  "created_at": "2026-06-14T07:55:19.382114Z",
+  "updated_at": "2026-06-14T07:56:05.160679Z"
+}

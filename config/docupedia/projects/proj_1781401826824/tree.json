@@ -6,7 +6,8 @@
     "title": "Thư mục gốc",
     "children": [
       "folder_1781409919319",
-      "folder_1781409947923"
+      "folder_1781423383592",
+      "folder_1781423675558"
     ]
   },
   "nodes": {
@@ -19,12 +20,6 @@
         "doc_1781409990739",
         "doc_1781410022130"
       ]
-    },
-    "folder_1781409947923": {
-      "id": "folder_1781409947923",
-      "type": "folder",
-      "title": "Cách triển khai",
-      "children": []
     },
     "doc_1781409971221": {
       "id": "doc_1781409971221",
@@ -40,7 +35,39 @@
       "id": "doc_1781410022130",
       "type": "file",
       "title": "03 Mã nguồn"
+    },
+    "folder_1781423383592": {
+      "id": "folder_1781423383592",
+      "type": "folder",
+      "title": "ppt_Slides",
+      "children": [
+        "doc_1781423411478"
+      ]
+    },
+    "doc_1781423411478": {
+      "id": "doc_1781423411478",
+      "type": "file",
+      "title": "10. Mã nguồn"
+    },
+    "folder_1781423675558": {
+      "id": "folder_1781423675558",
+      "type": "folder",
+      "title": "lữ_quán",
+      "children": [
+        "doc_1781423719382",
+        "doc_1781423928467"
+      ]
+    },
+    "doc_1781423719382": {
+      "id": "doc_1781423719382",
+      "type": "file",
+      "title": "10. Mã nguồn"
+    },
+    "doc_1781423928467": {
+      "id": "doc_1781423928467",
+      "type": "file",
+      "title": "01. Giới thiệu"
     }
   },
-  "updated_at": "2026-06-14T04:18:40.488054Z"
+  "updated_at": "2026-06-14T07:58:48.467885Z"
 }
