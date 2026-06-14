@@ -1,0 +1,27 @@
+{
+  "project_id": "proj_1781428847661",
+  "root": {
+    "id": "root",
+    "type": "folder",
+    "title": "Thư mục gốc",
+    "children": [
+      "folder_1781428877990",
+      "folder_1781428888856"
+    ]
+  },
+  "nodes": {
+    "folder_1781428877990": {
+      "id": "folder_1781428877990",
+      "type": "folder",
+      "title": "1  Hardware",
+      "children": []
+    },
+    "folder_1781428888856": {
+      "id": "folder_1781428888856",
+      "type": "folder",
+      "title": "2 Software",
+      "children": []
+    }
+  },
+  "updated_at": "2026-06-14T09:21:28.857204Z"
+}
