@@ -1,0 +1,31 @@
+{
+  "project_id": "proj_1781401826824",
+  "root": {
+    "id": "root",
+    "type": "folder",
+    "title": "Thư mục gốc",
+    "children": [
+      "doc_1781402191515",
+      "doc_1781402254923",
+      "doc_1781402475304"
+    ]
+  },
+  "nodes": {
+    "doc_1781402191515": {
+      "id": "doc_1781402191515",
+      "type": "file",
+      "title": "01 Tạo dự án"
+    },
+    "doc_1781402254923": {
+      "id": "doc_1781402254923",
+      "type": "file",
+      "title": "02 Cách phân quyền và chia sẽ"
+    },
+    "doc_1781402475304": {
+      "id": "doc_1781402475304",
+      "type": "file",
+      "title": "03 Mã nguồn"
+    }
+  },
+  "updated_at": "2026-06-14T02:02:24.051914Z"
+}

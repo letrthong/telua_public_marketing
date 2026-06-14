@@ -1,0 +1,17 @@
+{
+  "id": "doc_1781402191515",
+  "type": "file",
+  "title": "01 Tạo dự án",
+  "parent_id": "root",
+  "content": {
+    "ops": [
+      {
+        "insert": "\n"
+      }
+    ]
+  },
+  "created_by": "user_admin",
+  "updated_by": "user_admin",
+  "created_at": "2026-06-14T01:56:31.515619Z",
+  "updated_at": "2026-06-14T01:56:57.523920Z"
+}

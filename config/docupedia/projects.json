@@ -29,6 +29,16 @@
       "is_public": true,
       "created_at": "2026-06-13T16:05:46.115598Z",
       "updated_at": "2026-06-13T16:05:46.115609Z"
+    },
+    {
+      "id": "proj_1781401826824",
+      "name": "Guideline_Docupedia",
+      "description": "https://github.com/letrthong/docupedia",
+      "owner_id": "user_admin",
+      "is_active": true,
+      "is_public": true,
+      "created_at": "2026-06-14T01:50:26.824479Z",
+      "updated_at": "2026-06-14T01:50:49.824769Z"
     }
   ]
 }
