@@ -1,26 +1,17 @@
 {
   "id": "doc_1781280528145",
   "type": "file",
-  "title": "Lời ở lại",
+  "title": "Git",
   "parent_id": "root",
   "content": {
     "ops": [
       {
-        "insert": "Bạn đi xa rồi\nTôi mới hiểu bạn gần gũi thế!\nCái khoảng trống lặng im buồn tẻ\nChẳng một ai có thể lấp đầy,\nĐã bao lần chợt thấy bạn đâu đây\nDáng bình dị, trầm tư, ít nói\nNụ cười hiền, đôi mắt nhiều nghĩ ngợi\nÊm dịu lòng tôi bao buổi chiều buồn…\nTôi bâng khuâng đi lại những con đường\nNơi khóm trúc cứ vàng ươm nỗi nhớ\nNơi lá động xạc xào thoáng chân ai rất khẽ\nChỉ mình tôi với trăng gió vơi đầy.\nMình chưa một lần trìu mến tay nắm tay\nCũng chẳng bao giờ sẽ nói lời thương nhớ\nMà hiểu nhau đến tận cùng đến thế\nĐể xa rồi như thể chẳng hề xa\nNgày mai bạn sẽ về giữa những vòng tay thiết tha \nTôi đến sau cùng,\nLặng soi trong mắt ngày xưa ấy\nLời chưa nói là lời ở lại\nCho mình đọc hoài,đọc mãi\nVà cho mọi điều theo gió cuốn bay xa….\n            "
-      },
-      {
-        "attributes": {
-          "italic": true
-        },
-        "insert": "PHONG LAN"
-      },
-      {
-        "insert": "\n"
+        "insert": "@Todo\n"
       }
     ]
   },
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-06-12T16:08:48.145458Z",
-  "updated_at": "2026-06-13T15:40:07.170777Z"
+  "updated_at": "2026-06-14T10:07:39.961772Z"
 }

@@ -6,23 +6,34 @@
   "content": {
     "ops": [
       {
-        "insert": "Website ở "
+        "insert": "\n\n🚀 Bạn đang tìm kiếm một giải pháp thay thế Confluence? Khám phá ngay Docupedia - nền tảng quản lý tri thức mã nguồn mở (open-source) tuyệt vời dành cho đội nhóm!\n💡 Docupedia giúp bạn xây dựng, lưu trữ và cộng tác tài liệu hiệu quả, dễ dàng tùy biến và hoàn toàn miễn phí.\n👉 Tham khảo mã nguồn và ủng hộ sao (star) cho dự án tại đây: "
       },
       {
         "attributes": {
           "italic": true,
           "color": "#0066cc",
-          "link": "https://telua.vn/docupedia "
+          "link": "https://github.com/letrthong/docupedia"
+        },
+        "insert": "https://github.com/letrthong/docupedia"
+      },
+      {
+        "insert": "\n\nWebsite triển khai ở "
+      },
+      {
+        "attributes": {
+          "italic": true,
+          "color": "#0066cc",
+          "link": "https://telua.vn/docupedia"
         },
         "insert": "https://telua.vn/docupedia "
       },
       {
-        "insert": "\n\n"
+        "insert": "\n"
       }
     ]
   },
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-06-14T08:45:15.279462Z",
-  "updated_at": "2026-06-14T08:45:58.755536Z"
+  "updated_at": "2026-06-14T09:56:46.980297Z"
 }

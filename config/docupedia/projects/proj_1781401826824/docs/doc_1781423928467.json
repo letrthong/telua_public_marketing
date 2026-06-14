@@ -1,7 +1,7 @@
 {
   "id": "doc_1781423928467",
   "type": "file",
-  "title": "01. Giới thiệu",
+  "title": "01 Giới thiệu",
   "parent_id": "folder_1781423675558",
   "content": {
     "ops": [
@@ -24,5 +24,5 @@
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-06-14T07:58:48.467248Z",
-  "updated_at": "2026-06-14T08:44:00.163552Z"
+  "updated_at": "2026-06-14T10:02:20.774727Z"
 }
