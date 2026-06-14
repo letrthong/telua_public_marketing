@@ -5,10 +5,8 @@
     "type": "folder",
     "title": "Thư mục gốc",
     "children": [
-      "doc_1781366811015",
-      "doc_1781366867641",
-      "doc_1781366911933",
-      "folder_1781424434871"
+      "folder_1781424434871",
+      "folder_1781424449283"
     ]
   },
   "nodes": {
@@ -30,9 +28,26 @@
     "folder_1781424434871": {
       "id": "folder_1781424434871",
       "type": "folder",
-      "title": "Thơ",
-      "children": []
+      "title": "02 Thơ",
+      "children": [
+        "doc_1781366867641",
+        "doc_1781366811015",
+        "doc_1781366911933"
+      ]
+    },
+    "folder_1781424449283": {
+      "id": "folder_1781424449283",
+      "type": "folder",
+      "title": "01 Âm Nhạc",
+      "children": [
+        "doc_1781424597072"
+      ]
+    },
+    "doc_1781424597072": {
+      "id": "doc_1781424597072",
+      "type": "file",
+      "title": "Bản tình cuối"
     }
   },
-  "updated_at": "2026-06-14T08:07:14.874202Z"
+  "updated_at": "2026-06-14T08:37:22.824354Z"
 }

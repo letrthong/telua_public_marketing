@@ -1,0 +1,35 @@
+{
+  "id": "doc_1781424597072",
+  "type": "file",
+  "title": "Bản tình cuối",
+  "parent_id": "folder_1781424449283",
+  "content": {
+    "ops": [
+      {
+        "insert": "Bản tình cuối"
+      },
+      {
+        "attributes": {
+          "header": 1
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Mưa có rơi và nắng có phai\nTrên cuộc tình yêu em ngày nào\nTa đã yêu và ta đã mơ\nMơ trăng sao đưa đến bên người.\nMột lần gặp gỡ đã như quen thuở nào\nMột lần gặp gỡ nhưng tình đã xa xưa.\nMây có bay và em có hay\nTa ngại ngùng yêu em lần đầu.\nTa đã say hồn ta ngất ngây\nMen yêu thương đã thấm cuộc đời.\nMột lần nào đó bước bên em âm thầm\nMột lần nào đó ta vẫn không nói yêu người.\nYêu em ta yêu em như yêu tuổi ngây thơ\nBên em bên em ta hát khúc mong chờ.\nNgày nào người cho ta biết tình yêu đắm say\nNgày nào đời cho ta biết tình là đắng cay.\nMưa đã rơi và nắng đã phai\nTrên cuộc tình yêu em ngày nào\nTa vẫn yêu hồn ta vẫn say\nQua bao nhiêu năm tháng ơ thờ\nMột ngày nào đó tóc xanh xưa bạc màu\nMột ngày nào đó ta có thôi hết yêu người\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "# Ngô Thụy Miên"
+      },
+      {
+        "insert": "\n"
+      }
+    ]
+  },
+  "created_by": "user_admin",
+  "updated_by": "user_admin",
+  "created_at": "2026-06-14T08:09:57.072808Z",
+  "updated_at": "2026-06-14T08:10:16.259079Z"
+}
