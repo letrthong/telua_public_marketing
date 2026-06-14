@@ -1,7 +1,7 @@
 {
   "id": "doc_1781409971221",
   "type": "file",
-  "title": "01 Tạo dự án",
+  "title": "04 Tạo dự án",
   "parent_id": "folder_1781409919319",
   "content": {
     "ops": [
@@ -79,5 +79,5 @@
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-06-14T04:06:11.221654Z",
-  "updated_at": "2026-06-14T04:18:40.482139Z"
+  "updated_at": "2026-06-14T08:45:00.263957Z"
 }
