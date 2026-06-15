@@ -8,7 +8,8 @@
       "folder_1781409919319",
       "folder_1781423383592",
       "folder_1781423675558",
-      "folder_1781496925635"
+      "folder_1781496925635",
+      "folder_1781496989220"
     ]
   },
   "nodes": {
@@ -97,8 +98,28 @@
       "id": "folder_1781496925635",
       "type": "folder",
       "title": "Inventory",
-      "children": []
+      "children": [
+        "doc_1781496951030"
+      ]
+    },
+    "doc_1781496951030": {
+      "id": "doc_1781496951030",
+      "type": "file",
+      "title": "01 Giới thiệu"
+    },
+    "folder_1781496989220": {
+      "id": "folder_1781496989220",
+      "type": "folder",
+      "title": "kanban",
+      "children": [
+        "doc_1781497002024"
+      ]
+    },
+    "doc_1781497002024": {
+      "id": "doc_1781497002024",
+      "type": "file",
+      "title": "01 Giới thiệu"
     }
   },
-  "updated_at": "2026-06-15T04:15:26.119097Z"
+  "updated_at": "2026-06-15T04:17:44.732691Z"
 }
