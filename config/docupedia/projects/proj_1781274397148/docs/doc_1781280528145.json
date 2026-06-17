@@ -1,8 +1,8 @@
 {
   "id": "doc_1781280528145",
   "type": "file",
-  "title": "Git",
-  "parent_id": "root",
+  "title": "01 Git",
+  "parent_id": "folder_1781664831259",
   "content": {
     "ops": [
       {
@@ -13,5 +13,5 @@
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-06-12T16:08:48.145458Z",
-  "updated_at": "2026-06-14T10:07:39.961772Z"
+  "updated_at": "2026-06-17T02:54:13.185892Z"
 }

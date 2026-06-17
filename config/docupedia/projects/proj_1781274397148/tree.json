@@ -5,22 +5,43 @@
     "type": "folder",
     "title": "Thư mục gốc",
     "children": [
-      "doc_1781280528145",
-      "folder_1781663299075"
+      "folder_1781663299075",
+      "folder_1781664831259"
     ]
   },
   "nodes": {
     "doc_1781280528145": {
       "id": "doc_1781280528145",
       "type": "file",
-      "title": "Git"
+      "title": "01 Git"
     },
     "folder_1781663299075": {
       "id": "folder_1781663299075",
       "type": "folder",
-      "title": "Tools",
-      "children": []
+      "title": "Android",
+      "children": [
+        "doc_1781664641786"
+      ]
+    },
+    "doc_1781664641786": {
+      "id": "doc_1781664641786",
+      "type": "file",
+      "title": "01 Audio"
+    },
+    "folder_1781664831259": {
+      "id": "folder_1781664831259",
+      "type": "folder",
+      "title": "Linux",
+      "children": [
+        "doc_1781280528145",
+        "doc_1781664877206"
+      ]
+    },
+    "doc_1781664877206": {
+      "id": "doc_1781664877206",
+      "type": "file",
+      "title": "02 cli"
     }
   },
-  "updated_at": "2026-06-17T02:28:19.078220Z"
+  "updated_at": "2026-06-17T02:57:46.041277Z"
 }

@@ -11,6 +11,17 @@
       "created_at": "2026-06-12T14:24:33.257784Z",
       "last_login": "2026-06-17T02:27:29.934179Z",
       "updated_at": "2026-06-17T02:27:29.947680Z"
+    },
+    {
+      "id": "user_1781663959167",
+      "username": "tester",
+      "password_hash": "pbkdf2:sha256:260000$7s9wNY2aKfvJejUk$89067e904925cc8fe0189b920dce5531eb47e1a5bd2afffd5dd2955cf17eb9dd",
+      "display_name": "tester",
+      "email": "tester",
+      "role": "user",
+      "is_active": true,
+      "created_at": "2026-06-17T02:39:25.363771Z",
+      "last_login": null
     }
   ],
   "_meta": {

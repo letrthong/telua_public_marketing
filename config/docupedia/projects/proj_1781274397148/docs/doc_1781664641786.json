@@ -1,0 +1,60 @@
+{
+  "id": "doc_1781664641786",
+  "type": "file",
+  "title": "01 Audio",
+  "parent_id": "folder_1781663299075",
+  "content": {
+    "ops": [
+      {
+        "attributes": {
+          "color": "#0066cc",
+          "link": "https://source.android.com/docs/automotive/audio/audio-control-hal"
+        },
+        "insert": "Audio control HAL | Android Open Source Project"
+      },
+      {
+        "insert": "\n\n"
+      },
+      {
+        "attributes": {
+          "color": "#0066cc",
+          "link": "https://source.android.com/docs/automotive/audio/audio-policy-configuration"
+        },
+        "insert": "Car audio configuration | Android Open Source Project"
+      },
+      {
+        "insert": "\n\n"
+      },
+      {
+        "attributes": {
+          "color": "#0066cc",
+          "link": "https://source.android.com/docs/automotive/audio/volume-management"
+        },
+        "insert": "Volume management | Android Open Source Project"
+      },
+      {
+        "attributes": {
+          "color": "#0066cc"
+        },
+        "insert": " "
+      },
+      {
+        "insert": "\n\n"
+      },
+      {
+        "attributes": {
+          "color": "#0066cc",
+          "link": "https://source.android.com/docs/core/audio/aidl-implement"
+        },
+        "insert": "AIDL Audio HAL | Android Open Source Project"
+      },
+      {
+        "insert": "\n"
+      }
+    ]
+  },
+  "created_by": "user_admin",
+  "updated_by": "user_admin",
+  "created_at": "2026-06-17T02:50:41.786279Z",
+  "updated_at": "2026-06-17T02:57:46.040305Z"
+}
