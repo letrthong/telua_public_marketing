@@ -1,0 +1,27 @@
+{
+  "id": "doc_1781671329850",
+  "type": "file",
+  "title": "03 Compiler",
+  "parent_id": "folder_1781664831259",
+  "content": {
+    "ops": [
+      {
+        "insert": "...\nRepo at "
+      },
+      {
+        "attributes": {
+          "color": "#0066cc",
+          "link": "https://github.com/letrthong/automake"
+        },
+        "insert": "letrthong/automake"
+      },
+      {
+        "insert": "\n...\n"
+      }
+    ]
+  },
+  "created_by": "user_admin",
+  "updated_by": "user_admin",
+  "created_at": "2026-06-17T04:42:09.850967Z",
+  "updated_at": "2026-06-17T04:43:41.573700Z"
+}

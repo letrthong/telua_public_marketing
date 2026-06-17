@@ -1,0 +1,33 @@
+{
+  "id": "doc_1781671776033",
+  "type": "file",
+  "title": "10 Mã nguồn",
+  "parent_id": "folder_1781496989220",
+  "content": {
+    "ops": [
+      {
+        "insert": "..\nMã nguồn: "
+      },
+      {
+        "attributes": {
+          "link": "https://github.com/letrthong/kanban"
+        },
+        "insert": "l"
+      },
+      {
+        "attributes": {
+          "color": "#0066cc",
+          "link": "https://github.com/letrthong/kanban"
+        },
+        "insert": "etrthong/kanban"
+      },
+      {
+        "insert": "\n...\n"
+      }
+    ]
+  },
+  "created_by": "user_admin",
+  "updated_by": "user_admin",
+  "created_at": "2026-06-17T04:49:36.033199Z",
+  "updated_at": "2026-06-17T04:50:00.552617Z"
+}
