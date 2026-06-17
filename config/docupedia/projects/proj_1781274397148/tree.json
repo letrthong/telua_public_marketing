@@ -5,7 +5,8 @@
     "type": "folder",
     "title": "Thư mục gốc",
     "children": [
-      "doc_1781280528145"
+      "doc_1781280528145",
+      "folder_1781663299075"
     ]
   },
   "nodes": {
@@ -13,7 +14,13 @@
       "id": "doc_1781280528145",
       "type": "file",
       "title": "Git"
+    },
+    "folder_1781663299075": {
+      "id": "folder_1781663299075",
+      "type": "folder",
+      "title": "Tools",
+      "children": []
     }
   },
-  "updated_at": "2026-06-14T10:07:39.967758Z"
+  "updated_at": "2026-06-17T02:28:19.078220Z"
 }
