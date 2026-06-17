@@ -13,15 +13,52 @@
     "folder_1781428877990": {
       "id": "folder_1781428877990",
       "type": "folder",
-      "title": "1  Hardware",
-      "children": []
+      "title": "01 Timer with 3 btns",
+      "children": [
+        "folder_1781688781341",
+        "folder_1781688957059"
+      ]
     },
     "folder_1781428888856": {
       "id": "folder_1781428888856",
       "type": "folder",
-      "title": "2 Software",
+      "title": "2 Auto Feeder",
+      "children": []
+    },
+    "folder_1781688781341": {
+      "id": "folder_1781688781341",
+      "type": "folder",
+      "title": "01 Device",
+      "children": [
+        "folder_1781688824168",
+        "folder_1781688837939",
+        "folder_1781688919341"
+      ]
+    },
+    "folder_1781688824168": {
+      "id": "folder_1781688824168",
+      "type": "folder",
+      "title": "02 hardware",
+      "children": []
+    },
+    "folder_1781688837939": {
+      "id": "folder_1781688837939",
+      "type": "folder",
+      "title": "03 Software",
+      "children": []
+    },
+    "folder_1781688919341": {
+      "id": "folder_1781688919341",
+      "type": "folder",
+      "title": "01 Requirement",
+      "children": []
+    },
+    "folder_1781688957059": {
+      "id": "folder_1781688957059",
+      "type": "folder",
+      "title": "02 Cloud",
       "children": []
     }
   },
-  "updated_at": "2026-06-14T09:21:28.857204Z"
+  "updated_at": "2026-06-17T09:36:29.802935Z"
 }
