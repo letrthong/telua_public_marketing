@@ -4,10 +4,30 @@
   "title": "01 Giới thiệu",
   "parent_id": "folder_1781496925635",
   "content": {
-    "ops": []
+    "ops": [
+      {
+        "insert": "....\n..."
+      },
+      {
+        "attributes": {
+          "color": "#0066cc"
+        },
+        "insert": " "
+      },
+      {
+        "attributes": {
+          "color": "#0066cc",
+          "link": "https://telua.vn/contentHub/login.html"
+        },
+        "insert": "https://telua.vn/contentHub/login.html"
+      },
+      {
+        "insert": "\n...\n"
+      }
+    ]
   },
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-06-15T04:15:51.030552Z",
-  "updated_at": "2026-06-15T04:15:51.030552Z"
+  "updated_at": "2026-06-17T09:52:12.932903Z"
 }

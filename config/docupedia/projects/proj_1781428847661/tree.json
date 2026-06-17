@@ -16,13 +16,18 @@
       "title": "01 Timer with 3 btns",
       "children": [
         "folder_1781688781341",
-        "folder_1781688957059"
+        "folder_1781688957059",
+        "folder_1781689727150",
+        "folder_1781690349240",
+        "folder_1781690356938",
+        "folder_1781690512798",
+        "doc_1781690596277"
       ]
     },
     "folder_1781428888856": {
       "id": "folder_1781428888856",
       "type": "folder",
-      "title": "2 Auto Feeder",
+      "title": "02 Auto Feeder",
       "children": []
     },
     "folder_1781688781341": {
@@ -32,20 +37,23 @@
       "children": [
         "folder_1781688824168",
         "folder_1781688837939",
-        "folder_1781688919341"
+        "folder_1781688919341",
+        "folder_1781689412235"
       ]
     },
     "folder_1781688824168": {
       "id": "folder_1781688824168",
       "type": "folder",
-      "title": "02 hardware",
+      "title": "03 hardware",
       "children": []
     },
     "folder_1781688837939": {
       "id": "folder_1781688837939",
       "type": "folder",
-      "title": "03 Software",
-      "children": []
+      "title": "04 Software",
+      "children": [
+        "doc_1781689521433"
+      ]
     },
     "folder_1781688919341": {
       "id": "folder_1781688919341",
@@ -58,7 +66,55 @@
       "type": "folder",
       "title": "02 Cloud",
       "children": []
+    },
+    "folder_1781689412235": {
+      "id": "folder_1781689412235",
+      "type": "folder",
+      "title": "02 Architecture",
+      "children": []
+    },
+    "doc_1781689521433": {
+      "id": "doc_1781689521433",
+      "type": "file",
+      "title": "10. Source Code"
+    },
+    "folder_1781689727150": {
+      "id": "folder_1781689727150",
+      "type": "folder",
+      "title": "03 PI Planning",
+      "children": []
+    },
+    "folder_1781690349240": {
+      "id": "folder_1781690349240",
+      "type": "folder",
+      "title": "05 Resource",
+      "children": []
+    },
+    "folder_1781690356938": {
+      "id": "folder_1781690356938",
+      "type": "folder",
+      "title": "04 Quality",
+      "children": [
+        "folder_1781690535354"
+      ]
+    },
+    "folder_1781690512798": {
+      "id": "folder_1781690512798",
+      "type": "folder",
+      "title": "integration",
+      "children": []
+    },
+    "folder_1781690535354": {
+      "id": "folder_1781690535354",
+      "type": "folder",
+      "title": "Test report",
+      "children": []
+    },
+    "doc_1781690596277": {
+      "id": "doc_1781690596277",
+      "type": "file",
+      "title": "template"
     }
   },
-  "updated_at": "2026-06-17T09:36:29.802935Z"
+  "updated_at": "2026-06-17T10:07:26.442168Z"
 }

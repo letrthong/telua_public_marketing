@@ -1,0 +1,17 @@
+{
+  "id": "doc_1781690596277",
+  "type": "file",
+  "title": "template",
+  "parent_id": "folder_1781428877990",
+  "content": {
+    "ops": [
+      {
+        "insert": "Overview → Requirement → Architecture → Implementation → Verification\n\nProject\n├── 01 Overview\n├── 02 Requirement\n├── 03 Architecture\n│  ├── 00 System Overview\n│  ├── Device\n│  ├── Cloud\n│  ├── Integration\n├── 04 Implementation\n│  ├── Hardware\n│  ├── Firmware\n│  ├── Backend\n├── 05 Verification\n│  ├── Test Plan\n│  ├── Test Report\n│  ├── Validation\n├── 06 Release              \n│  ├── Version\n│  ├── OTA\n│  ├── Deployment\n├── 07 Planning\n├── 08 Quality\n├── 09 Resource\n"
+      }
+    ]
+  },
+  "created_by": "user_admin",
+  "updated_by": "user_admin",
+  "created_at": "2026-06-17T10:03:16.277774Z",
+  "updated_at": "2026-06-17T10:07:26.441543Z"
+}
