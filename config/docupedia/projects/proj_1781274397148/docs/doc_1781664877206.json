@@ -4,10 +4,35 @@
   "title": "02 cli",
   "parent_id": "folder_1781664831259",
   "content": {
-    "ops": []
+    "ops": [
+      {
+        "insert": "1/ Find the file"
+      },
+      {
+        "attributes": {
+          "header": 5
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "color": "#8590a2"
+        },
+        "insert": "find . -name \"xyz*.txt\""
+      },
+      {
+        "attributes": {
+          "blockquote": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "@2026\n"
+      }
+    ]
   },
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-06-17T02:54:37.206879Z",
-  "updated_at": "2026-06-17T02:54:37.206879Z"
+  "updated_at": "2026-06-17T03:46:33.636816Z"
 }
