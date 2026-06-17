@@ -6,7 +6,8 @@
     "title": "Thư mục gốc",
     "children": [
       "folder_1781428877990",
-      "folder_1781428888856"
+      "folder_1781428888856",
+      "folder_1781690909352"
     ]
   },
   "nodes": {
@@ -20,8 +21,7 @@
         "folder_1781689727150",
         "folder_1781690349240",
         "folder_1781690356938",
-        "folder_1781690512798",
-        "doc_1781690596277"
+        "folder_1781690512798"
       ]
     },
     "folder_1781428888856": {
@@ -113,8 +113,16 @@
     "doc_1781690596277": {
       "id": "doc_1781690596277",
       "type": "file",
-      "title": "template"
+      "title": "01 template"
+    },
+    "folder_1781690909352": {
+      "id": "folder_1781690909352",
+      "type": "folder",
+      "title": "New project",
+      "children": [
+        "doc_1781690596277"
+      ]
     }
   },
-  "updated_at": "2026-06-17T10:07:26.442168Z"
+  "updated_at": "2026-06-17T10:12:03.447672Z"
 }
