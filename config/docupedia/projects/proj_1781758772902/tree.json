@@ -5,7 +5,8 @@
     "type": "folder",
     "title": "Thư mục gốc",
     "children": [
-      "folder_1781758796415"
+      "folder_1781758796415",
+      "doc_1781775097918"
     ]
   },
   "nodes": {
@@ -21,7 +22,12 @@
       "id": "doc_1781759075800",
       "type": "file",
       "title": "01 Huế Thác Đỗ Quyên"
+    },
+    "doc_1781775097918": {
+      "id": "doc_1781775097918",
+      "type": "file",
+      "title": "x"
     }
   },
-  "updated_at": "2026-06-18T07:41:05.745743Z"
+  "updated_at": "2026-06-18T09:31:37.919686Z"
 }
