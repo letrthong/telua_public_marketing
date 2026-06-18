@@ -1,0 +1,17 @@
+{
+  "id": "doc_1781754358292",
+  "type": "file",
+  "title": "02 Template Web application",
+  "parent_id": "folder_1781690909352",
+  "content": {
+    "ops": [
+      {
+        "insert": "Project\n├── 01 Overview\n│  ├── Product Summary\n│  ├── Scope\n│  ├── Target Users\n│  └── Use Cases\n│\n├── 02 Requirement\n│  ├── Functional Requirement\n│  ├── Non-functional Requirement\n│  │  ├── Performance\n│  │  ├── Security\n│  │  └── Scalability\n│  └── User Stories\n│\n├── 03 Architecture\n│  ├── 00 System Overview\n│  ├── Frontend Architecture\n│  ├── Backend Architecture\n│  ├── Database Design\n│  ├── API Design\n│  ├── Integration (3rd-party nếu có)\n│  └── Security Architecture\n│\n├── 04 Implementation\n│  ├── Frontend\n│  │  ├── UI/UX Design\n│  │  ├── Component Structure\n│  │  ├── State Management\n│  │  └── Build & Deployment\n│  │\n│  ├── Backend\n│  │  ├── Service Structure\n│  │  ├── API Implementation\n│  │  ├── Business Logic\n│  │  ├── Authentication & Authorization\n│  │  └── Logging & Monitoring\n│  │\n│  ├── Database\n│  │  ├── Schema\n│  │  ├── Migration\n│  │  └── Performance Optimization\n│  │\n│  └── DevOps\n│      ├── CI/CD\n│      ├── Environment (dev/staging/prod)\n│      ├── Deployment\n│      └── Infrastructure (cloud)\n│\n├── 05 Testing\n│  ├── Test Strategy\n│  ├── Unit Test\n│  ├── Integration Test\n│  ├── E2E Test\n│  └── Test Report\n│\n├── 06 Release\n│  ├── Versioning\n│  ├── Release Notes\n│  ├── Deployment Checklist\n│  └── Rollback Strategy\n│\n├── 07 Operation\n│  ├── Monitoring\n│  ├── Logging\n│  ├── Alerting\n│  ├── Incident Response\n│  └── Troubleshooting Guide\n│\n├── 08 Planning\n│  ├── Roadmap\n│  ├── Sprint / Task\n│  ├── Meeting Notes\n│  └── Decision Log\n│\n├── 09 Quality\n│  ├── Coding Standard\n│  ├── Code Review Checklist\n│  ├── Security Checklist\n│  └── Performance Benchmark\n│\n└── 10 Resource\n   ├── Reference Docs\n   ├── API Docs\n   ├── Tools\n   └── Templates\n"
+      }
+    ]
+  },
+  "created_by": "user_admin",
+  "updated_by": "user_admin",
+  "created_at": "2026-06-18T03:45:58.292337Z",
+  "updated_at": "2026-06-18T03:49:01.303694Z"
+}
