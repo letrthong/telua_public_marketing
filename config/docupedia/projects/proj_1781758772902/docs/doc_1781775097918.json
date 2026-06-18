@@ -4,10 +4,113 @@
   "title": "x",
   "parent_id": "root",
   "content": {
-    "ops": []
+    "ops": [
+      {
+        "insert": "....\nfrom flask import Flask, render_template"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": "app = Flask(__name__)"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": "@app.route('/<page_name>')"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "def show_page(page_name):"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "    # page_name có thể là \"index\", \"about\", \"contact\"..."
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "    template_path = page_name "
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "    "
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "    # Đoạn code của bạn ở đây:"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "    return render_template(f\"{template_path}.html\")"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": "if __name__ == '__main__':"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "    app.run(debug=True)"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "...\n"
+      }
+    ]
   },
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-06-18T09:31:37.918934Z",
-  "updated_at": "2026-06-18T09:31:37.918934Z"
+  "updated_at": "2026-06-18T14:32:11.712413Z"
 }
