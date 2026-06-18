@@ -4,10 +4,14 @@
   "title": "01 Huế Thác Đỗ Quyên",
   "parent_id": "folder_1781758796415",
   "content": {
-    "ops": []
+    "ops": [
+      {
+        "insert": "....\nđ\n.....\n"
+      }
+    ]
   },
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-06-18T05:04:35.800912Z",
-  "updated_at": "2026-06-18T05:04:35.800912Z"
+  "updated_at": "2026-06-18T07:41:05.743889Z"
 }
