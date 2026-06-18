@@ -1,0 +1,27 @@
+{
+  "project_id": "proj_1781758772902",
+  "root": {
+    "id": "root",
+    "type": "folder",
+    "title": "Thư mục gốc",
+    "children": [
+      "folder_1781758796415"
+    ]
+  },
+  "nodes": {
+    "folder_1781758796415": {
+      "id": "folder_1781758796415",
+      "type": "folder",
+      "title": "01 Leo núi",
+      "children": [
+        "doc_1781759075800"
+      ]
+    },
+    "doc_1781759075800": {
+      "id": "doc_1781759075800",
+      "type": "file",
+      "title": "01 Huế Thác Đỗ Quyên"
+    }
+  },
+  "updated_at": "2026-06-18T05:04:36.402638Z"
+}
