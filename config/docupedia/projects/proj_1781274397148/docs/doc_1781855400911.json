@@ -22,16 +22,20 @@
         "insert": "\n"
       },
       {
-        "insert": "Java:  "
+        "insert": "Java: "
       },
       {
         "attributes": {
+          "italic": true,
           "color": "#0066cc",
-          "italic": true
+          "link": "https://github.com/letrthong/Java "
         },
         "insert": "https://github.com/letrthong/Java"
       },
       {
+        "attributes": {
+          "link": "https://github.com/letrthong/Java "
+        },
         "insert": " "
       },
       {
@@ -54,5 +58,5 @@
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-06-19T07:50:00.911779Z",
-  "updated_at": "2026-06-19T07:53:09.528640Z"
+  "updated_at": "2026-06-19T09:47:33.528755Z"
 }
