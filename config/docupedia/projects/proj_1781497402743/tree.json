@@ -14,14 +14,20 @@
       "type": "folder",
       "title": "01 Sân Vườn",
       "children": [
-        "doc_1781842860149"
+        "doc_1781842860149",
+        "doc_1781846685209"
       ]
     },
     "doc_1781842860149": {
       "id": "doc_1781842860149",
       "type": "file",
       "title": "01 Cây trồng leo tường"
+    },
+    "doc_1781846685209": {
+      "id": "doc_1781846685209",
+      "type": "file",
+      "title": "02 Gạch trồng cỏ"
     }
   },
-  "updated_at": "2026-06-19T04:21:45.246094Z"
+  "updated_at": "2026-06-19T05:24:45.210425Z"
 }
