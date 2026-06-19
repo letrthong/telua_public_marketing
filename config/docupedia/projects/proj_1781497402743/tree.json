@@ -12,9 +12,16 @@
     "folder_1781663272649": {
       "id": "folder_1781663272649",
       "type": "folder",
-      "title": "Sân Vườn",
-      "children": []
+      "title": "01 Sân Vườn",
+      "children": [
+        "doc_1781842860149"
+      ]
+    },
+    "doc_1781842860149": {
+      "id": "doc_1781842860149",
+      "type": "file",
+      "title": "01 Cây trồng leo tường"
     }
   },
-  "updated_at": "2026-06-17T02:27:52.651722Z"
+  "updated_at": "2026-06-19T04:21:45.246094Z"
 }
