@@ -109,11 +109,24 @@
           "list": "bullet"
         },
         "insert": "\n"
+      },
+      {
+        "insert": "  - "
+      },
+      {
+        "attributes": {
+          "color": "#0066cc",
+          "italic": true
+        },
+        "insert": "https://services.gradle.org/"
+      },
+      {
+        "insert": "\n"
       }
     ]
   },
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-06-19T09:55:40.816733Z",
-  "updated_at": "2026-06-19T10:09:55.402313Z"
+  "updated_at": "2026-06-19T11:50:36.116293Z"
 }
