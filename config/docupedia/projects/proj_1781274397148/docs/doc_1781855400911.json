@@ -1,0 +1,58 @@
+{
+  "id": "doc_1781855400911",
+  "type": "file",
+  "title": "20 Java JNI",
+  "parent_id": "folder_1781663299075",
+  "content": {
+    "ops": [
+      {
+        "insert": "....\nRepo: "
+      },
+      {
+        "attributes": {
+          "color": "#0066cc",
+          "link": "https://github.com/letrthong/docker/tree/master/ubuntu-java"
+        },
+        "insert": "https://github.com/letrthong/docker/tree/master/ubuntu-java"
+      },
+      {
+        "attributes": {
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Java:  "
+      },
+      {
+        "attributes": {
+          "color": "#0066cc",
+          "italic": true
+        },
+        "insert": "https://github.com/letrthong/Java"
+      },
+      {
+        "insert": " "
+      },
+      {
+        "attributes": {
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "italic": true
+        },
+        "insert": ".. "
+      },
+      {
+        "insert": "\n"
+      }
+    ]
+  },
+  "created_by": "user_admin",
+  "updated_by": "user_admin",
+  "created_at": "2026-06-19T07:50:00.911779Z",
+  "updated_at": "2026-06-19T07:53:09.528640Z"
+}
