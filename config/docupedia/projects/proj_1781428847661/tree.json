@@ -121,14 +121,20 @@
       "title": "20 Templates",
       "children": [
         "doc_1781690596277",
-        "doc_1781754358292"
+        "doc_1781754358292",
+        "doc_1782191722245"
       ]
     },
     "doc_1781754358292": {
       "id": "doc_1781754358292",
       "type": "file",
       "title": "02 Template Web application"
+    },
+    "doc_1782191722245": {
+      "id": "doc_1782191722245",
+      "type": "file",
+      "title": "20 Scrum Master"
     }
   },
-  "updated_at": "2026-06-18T03:49:01.305372Z"
+  "updated_at": "2026-06-23T05:19:08.455927Z"
 }
