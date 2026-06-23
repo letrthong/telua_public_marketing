@@ -1,0 +1,42 @@
+{
+  "id": "doc_1782198338514",
+  "type": "file",
+  "title": "01 Gemini 6-2026",
+  "parent_id": "folder_1782198323341",
+  "content": {
+    "ops": [
+      {
+        "attributes": {
+          "italic": true,
+          "color": "#0066cc",
+          "link": "https://developers.google.com/gemini-code-assist/docs/deprecations/code-assist-individuals?hl=vi"
+        },
+        "insert": "https://developers.google.com/gemini-code-assist/docs/deprecations/code-assist-individuals?hl=vi"
+      },
+      {
+        "attributes": {
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "italic": true,
+          "color": "#0066cc",
+          "link": "https://antigravity.google/download#antigravity-ide"
+        },
+        "insert": "https://antigravity.google/download#antigravity-ide"
+      },
+      {
+        "attributes": {
+          "list": "bullet"
+        },
+        "insert": "\n"
+      }
+    ]
+  },
+  "created_by": "user_admin",
+  "updated_by": "user_admin",
+  "created_at": "2026-06-23T07:05:38.514722Z",
+  "updated_at": "2026-06-23T07:10:14.031156Z"
+}
