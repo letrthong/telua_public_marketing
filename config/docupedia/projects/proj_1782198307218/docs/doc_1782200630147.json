@@ -1,0 +1,27 @@
+{
+  "id": "doc_1782200630147",
+  "type": "file",
+  "title": "02 Virtual Box",
+  "parent_id": "folder_1782198323341",
+  "content": {
+    "ops": [
+      {
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "background": "#f0f0f0",
+          "code": true
+        },
+        "insert": "/etc/fstab "
+      },
+      {
+        "insert": "\n.host:/ /mnt/hgfs fuse.vmhgfs-fuse allow_other,uid=1000 0 0\n\n\nsudo mkdir -p /mnt/hgfs \nsudo mount -a\nls -la /mnt/hgfs/code\n\n"
+      }
+    ]
+  },
+  "created_by": "user_admin",
+  "updated_by": "user_admin",
+  "created_at": "2026-06-23T07:43:50.147279Z",
+  "updated_at": "2026-06-23T07:47:08.131973Z"
+}
