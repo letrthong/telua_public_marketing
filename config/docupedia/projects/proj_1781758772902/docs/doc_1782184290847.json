@@ -1,0 +1,164 @@
+{
+  "id": "doc_1782184290847",
+  "type": "file",
+  "title": "abc",
+  "parent_id": "root",
+  "content": {
+    "ops": [
+      {
+        "insert": "....\n\n"
+      },
+      {
+        "attributes": {
+          "col": {
+            "tableId": "jp57j4ov52a",
+            "colId": "u49dw05788h",
+            "width": "33.33333333333333%",
+            "full": true
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "col": {
+            "tableId": "jp57j4ov52a",
+            "colId": "t1qhhjp77me",
+            "width": "33.33333333333333%",
+            "full": true
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "col": {
+            "tableId": "jp57j4ov52a",
+            "colId": "q0azz34ts3f",
+            "width": "33.33333333333333%",
+            "full": true
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "jp57j4ov52a",
+            "rowId": "2aac27dlk97",
+            "colId": "u49dw05788h",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "background-color: rgb(110, 138, 51);"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "jp57j4ov52a",
+            "rowId": "2aac27dlk97",
+            "colId": "t1qhhjp77me",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "background-color: rgb(110, 138, 51);"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "jp57j4ov52a",
+            "rowId": "2aac27dlk97",
+            "colId": "q0azz34ts3f",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "background-color: rgb(110, 138, 51);"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "jp57j4ov52a",
+            "rowId": "o3legyzxp2r",
+            "colId": "u49dw05788h",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "jp57j4ov52a",
+            "rowId": "o3legyzxp2r",
+            "colId": "t1qhhjp77me",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "jp57j4ov52a",
+            "rowId": "o3legyzxp2r",
+            "colId": "q0azz34ts3f",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "jp57j4ov52a",
+            "rowId": "efhvvwnxegl",
+            "colId": "u49dw05788h",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "jp57j4ov52a",
+            "rowId": "efhvvwnxegl",
+            "colId": "t1qhhjp77me",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "jp57j4ov52a",
+            "rowId": "efhvvwnxegl",
+            "colId": "q0azz34ts3f",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "\n...\n"
+      }
+    ]
+  },
+  "created_by": "user_admin",
+  "updated_by": "user_admin",
+  "created_at": "2026-06-23T03:11:30.847906Z",
+  "updated_at": "2026-06-23T03:12:19.736070Z"
+}
