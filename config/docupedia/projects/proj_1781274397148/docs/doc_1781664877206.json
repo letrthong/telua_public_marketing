@@ -6,7 +6,10 @@
   "content": {
     "ops": [
       {
-        "insert": "1/ Find the file"
+        "attributes": {
+          "bold": true
+        },
+        "insert": "1/ Find all files  at current directory"
       },
       {
         "attributes": {
@@ -27,12 +30,30 @@
         "insert": "\n"
       },
       {
-        "insert": "2/ \n\nThong LT @2026\n"
+        "insert": " \n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "2/ Find  path of all folders at current directory"
+      },
+      {
+        "insert": "\n find .  -type d -name \"name_folder\" "
+      },
+      {
+        "attributes": {
+          "blockquote": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "\n \n\nThong LT @ 15:22 24/6/2026\n"
       }
     ]
   },
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-06-17T02:54:37.206879Z",
-  "updated_at": "2026-06-19T07:54:17.984960Z"
+  "updated_at": "2026-06-24T08:22:56.931893Z"
 }
