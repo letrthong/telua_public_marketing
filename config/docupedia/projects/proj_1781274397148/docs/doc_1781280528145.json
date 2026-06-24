@@ -6,12 +6,30 @@
   "content": {
     "ops": [
       {
-        "insert": "@Todo\n"
+        "insert": "repo sync -d -c --force-sync --no-clone-bundle --tags -j4"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "\nrepo forall -c \"git reset --hard && git clean -xdf\""
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "\n...\n"
       }
     ]
   },
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-06-12T16:08:48.145458Z",
-  "updated_at": "2026-06-17T02:54:13.185892Z"
+  "updated_at": "2026-06-24T09:22:36.023506Z"
 }

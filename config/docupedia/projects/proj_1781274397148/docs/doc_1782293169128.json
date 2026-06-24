@@ -1,0 +1,26 @@
+{
+  "id": "doc_1782293169128",
+  "type": "file",
+  "title": "06 Docker",
+  "parent_id": "folder_1781664831259",
+  "content": {
+    "ops": [
+      {
+        "insert": "...\n\n"
+      },
+      {
+        "attributes": {
+          "link": "https://pypi.org/project/docker/"
+        },
+        "insert": "https://pypi.org/project/docker/"
+      },
+      {
+        "insert": "\n\n...\n"
+      }
+    ]
+  },
+  "created_by": "user_admin",
+  "updated_by": "user_admin",
+  "created_at": "2026-06-24T09:26:09.128874Z",
+  "updated_at": "2026-06-24T09:27:09.138313Z"
+}
