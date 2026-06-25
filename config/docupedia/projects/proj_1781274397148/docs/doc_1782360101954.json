@@ -1,0 +1,41 @@
+{
+  "id": "doc_1782360101954",
+  "type": "file",
+  "title": "20 OpenGrok",
+  "parent_id": "folder_1781664831259",
+  "content": {
+    "ops": [
+      {
+        "attributes": {
+          "link": "https://github.com/oracle/opengrok/wiki/How-to-setup-OpenGrok"
+        },
+        "insert": "How to setup OpenGrok · oracle/opengrok Wiki"
+      },
+      {
+        "insert": "\n\n"
+      },
+      {
+        "attributes": {
+          "link": " https://github.com/oracle/opengrok"
+        },
+        "insert": " https://github.com/oracle/opengrok"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "link": " https://www.jetbrains.com/community/opensource/#support"
+        },
+        "insert": " https://www.jetbrains.com/community/opensource/#support"
+      },
+      {
+        "insert": "\n"
+      }
+    ]
+  },
+  "created_by": "user_admin",
+  "updated_by": "user_admin",
+  "created_at": "2026-06-25T04:01:41.954290Z",
+  "updated_at": "2026-06-25T04:04:32.800238Z"
+}
