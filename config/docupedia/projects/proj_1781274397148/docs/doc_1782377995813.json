@@ -18,12 +18,21 @@
         }
       },
       {
-        "insert": "\n2/ Android Emulator\n"
+        "insert": "\n2/ Android Emulator\n\n3/ Repo\n"
+      },
+      {
+        "attributes": {
+          "link": "https://github.com/letrthong/telua_android_emulator"
+        },
+        "insert": "https://github.com/letrthong/telua_android_emulator"
+      },
+      {
+        "insert": "\n"
       }
     ]
   },
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-06-25T08:59:55.813391Z",
-  "updated_at": "2026-06-25T09:40:40.500937Z"
+  "updated_at": "2026-06-25T11:01:07.194184Z"
 }
