@@ -1,0 +1,26 @@
+{
+  "id": "doc_1782361458414",
+  "type": "file",
+  "title": "40 Android overview",
+  "parent_id": "folder_1781663299075",
+  "content": {
+    "ops": [
+      {
+        "insert": "...\n "
+      },
+      {
+        "attributes": {
+          "link": "https://telua.vn/learning/index.html#android_Automotive"
+        },
+        "insert": "https://telua.vn/learning/index.html#android_Automotive"
+      },
+      {
+        "insert": "\n...\n"
+      }
+    ]
+  },
+  "created_by": "user_admin",
+  "updated_by": "user_admin",
+  "created_at": "2026-06-25T04:24:18.414494Z",
+  "updated_at": "2026-06-25T04:25:23.503035Z"
+}
