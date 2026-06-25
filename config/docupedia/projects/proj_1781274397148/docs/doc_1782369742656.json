@@ -1,13 +1,17 @@
 {
   "id": "doc_1782369742656",
   "type": "file",
-  "title": "42 Android Hal",
+  "title": "42 Android HAL",
   "parent_id": "folder_1781663299075",
   "content": {
-    "ops": []
+    "ops": [
+      {
+        "insert": "HIDL thường dùng từ android v12 trở về trước\n \n"
+      }
+    ]
   },
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-06-25T06:42:22.656310Z",
-  "updated_at": "2026-06-25T06:42:22.656310Z"
+  "updated_at": "2026-06-25T07:02:20.544644Z"
 }

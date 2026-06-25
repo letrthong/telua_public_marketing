@@ -82,7 +82,7 @@
     "doc_1782197519236": {
       "id": "doc_1782197519236",
       "type": "file",
-      "title": "50 adb"
+      "title": "50 Android Clis"
     },
     "doc_1782293169128": {
       "id": "doc_1782293169128",
@@ -107,13 +107,13 @@
     "doc_1782369742656": {
       "id": "doc_1782369742656",
       "type": "file",
-      "title": "42 Android Hal"
+      "title": "42 Android HAL"
     },
     "doc_1782370253488": {
       "id": "doc_1782370253488",
       "type": "file",
-      "title": "43 Android v12& 16"
+      "title": "43 Android v.12& v.16"
     }
   },
-  "updated_at": "2026-06-25T06:50:54.856302Z"
+  "updated_at": "2026-06-25T07:11:39.253691Z"
 }
