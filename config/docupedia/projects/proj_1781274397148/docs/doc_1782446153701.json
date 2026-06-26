@@ -1,0 +1,35 @@
+{
+  "id": "doc_1782446153701",
+  "type": "file",
+  "title": "30 gtest",
+  "parent_id": "folder_1781664831259",
+  "content": {
+    "ops": [
+      {
+        "insert": "...\n \n\nSlide at  "
+      },
+      {
+        "attributes": {
+          "link": "https://telua.vn/learning/index.html#all_slide_unittest"
+        },
+        "insert": "https://telua.vn/learning/index.html#all_slide_unittest"
+      },
+      {
+        "insert": "\nRepo at "
+      },
+      {
+        "attributes": {
+          "link": "https://github.com/letrthong/telua_gtest/tree/main"
+        },
+        "insert": "https://github.com/letrthong/telua_gtest/tree/main"
+      },
+      {
+        "insert": "\n"
+      }
+    ]
+  },
+  "created_by": "user_admin",
+  "updated_by": "user_admin",
+  "created_at": "2026-06-26T03:55:53.701506Z",
+  "updated_at": "2026-06-26T03:58:14.999757Z"
+}
