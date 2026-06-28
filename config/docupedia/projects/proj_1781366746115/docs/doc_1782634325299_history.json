@@ -1,0 +1,29 @@
+{
+  "doc_id": "doc_1782634325299",
+  "history": [
+    {
+      "id": "hist_1782634325308",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "create",
+      "timestamp": "2026-06-28T08:12:05.308276Z",
+      "details": {
+        "title": "Khung Ảnh"
+      }
+    },
+    {
+      "id": "hist_1782634374146",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-06-28T08:12:54.146271Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    }
+  ]
+}
