@@ -1,0 +1,17 @@
+{
+  "id": "doc_1782740558695",
+  "type": "file",
+  "title": "ssss",
+  "parent_id": "root",
+  "content": {
+    "ops": [
+      {
+        "insert": "ssssssssss\n"
+      }
+    ]
+  },
+  "created_by": "user_admin",
+  "updated_by": "user_admin",
+  "created_at": "2026-06-29T13:42:38.695465Z",
+  "updated_at": "2026-06-29T13:43:00.587792Z"
+}
