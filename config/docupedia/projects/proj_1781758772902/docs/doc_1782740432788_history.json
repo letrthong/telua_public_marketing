@@ -1,0 +1,16 @@
+{
+  "doc_id": "doc_1782740432788",
+  "history": [
+    {
+      "id": "hist_1782740432887",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "create",
+      "timestamp": "2026-06-29T13:40:32.887729Z",
+      "details": {
+        "title": "1234"
+      }
+    }
+  ]
+}
