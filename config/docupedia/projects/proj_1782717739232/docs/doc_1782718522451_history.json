@@ -11,6 +11,19 @@
       "details": {
         "title": "02 Tập lái xe"
       }
+    },
+    {
+      "id": "hist_1782745659904",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-06-29T15:07:39.904923Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
     }
   ]
 }
