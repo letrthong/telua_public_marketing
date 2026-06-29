@@ -1,0 +1,16 @@
+{
+  "doc_id": "doc_1782718522451",
+  "history": [
+    {
+      "id": "hist_1782718522452",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "create",
+      "timestamp": "2026-06-29T07:35:22.452472Z",
+      "details": {
+        "title": "02 Tập lái xe"
+      }
+    }
+  ]
+}

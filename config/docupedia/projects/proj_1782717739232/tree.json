@@ -1,0 +1,33 @@
+{
+  "project_id": "proj_1782717739232",
+  "root": {
+    "id": "root",
+    "type": "folder",
+    "title": "Thư mục gốc",
+    "children": [
+      "folder_1782717791747"
+    ]
+  },
+  "nodes": {
+    "folder_1782717791747": {
+      "id": "folder_1782717791747",
+      "type": "folder",
+      "title": "01 Học Lái xe bằng B",
+      "children": [
+        "doc_1782717810690",
+        "doc_1782718522451"
+      ]
+    },
+    "doc_1782717810690": {
+      "id": "doc_1782717810690",
+      "type": "file",
+      "title": "01. Học Lý Thuyết"
+    },
+    "doc_1782718522451": {
+      "id": "doc_1782718522451",
+      "type": "file",
+      "title": "02 Tập lái xe"
+    }
+  },
+  "updated_at": "2026-06-29T07:37:34.445595Z"
+}

@@ -71,6 +71,17 @@
       "is_public": false,
       "created_at": "2026-06-23T07:05:07.218916Z",
       "updated_at": "2026-06-23T07:56:07.649153Z"
+    },
+    {
+      "id": "proj_1782717739232",
+      "name": "Kiến thức",
+      "description": "",
+      "owner_id": "user_admin",
+      "is_active": true,
+      "is_public": true,
+      "allow_public_comments": false,
+      "created_at": "2026-06-29T07:22:19.232295Z",
+      "updated_at": "2026-06-29T07:22:19.232313Z"
     }
   ]
 }

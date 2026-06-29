@@ -1,0 +1,41 @@
+{
+  "id": "doc_1782717810690",
+  "type": "file",
+  "title": "01. Học Lý Thuyết",
+  "parent_id": "folder_1782717791747",
+  "content": {
+    "ops": [
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "1/ Phần mền cái trên windows"
+      },
+      {
+        "insert": "\nPhần mền cài đặt trên windows để sau này ôn tập thi tốt nghiệp và sát hoạch\n\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "2/ Link học online"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "link": "https://hoclythuyet.ttgdnnsaoviet.edu.vn/user/login"
+        },
+        "insert": "https://hoclythuyet.ttgdnnsaoviet.edu.vn/user/login"
+      },
+      {
+        "insert": "\n"
+      }
+    ]
+  },
+  "created_by": "user_admin",
+  "updated_by": "user_admin",
+  "created_at": "2026-06-29T07:23:30.690408Z",
+  "updated_at": "2026-06-29T07:37:34.336523Z"
+}

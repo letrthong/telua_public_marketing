@@ -1,0 +1,84 @@
+{
+  "doc_id": "doc_1782717810690",
+  "history": [
+    {
+      "id": "hist_1782717810691",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "create",
+      "timestamp": "2026-06-29T07:23:30.691644Z",
+      "details": {
+        "title": "01. Tài liệu"
+      }
+    },
+    {
+      "id": "hist_1782718065963",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-06-29T07:27:45.963574Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1782718362245",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-06-29T07:32:42.245193Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1782718382338",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-06-29T07:33:02.338652Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1782718503550",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-06-29T07:35:03.550571Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1782718654448",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-06-29T07:37:34.448444Z",
+      "details": {
+        "changes": {
+          "title": {
+            "old": "01. Tài liệu",
+            "new": "01. Học Lý Thuyết"
+          }
+        }
+      }
+    }
+  ]
+}
