@@ -5,14 +5,15 @@
     "type": "folder",
     "title": "Thư mục gốc",
     "children": [
-      "folder_1782717791747"
+      "folder_1782717791747",
+      "folder_1782792996140"
     ]
   },
   "nodes": {
     "folder_1782717791747": {
       "id": "folder_1782717791747",
       "type": "folder",
-      "title": "01 Học Lái xe bằng B",
+      "title": "30 Học Lái xe bằng B",
       "children": [
         "doc_1782717810690",
         "doc_1782718522451"
@@ -27,7 +28,42 @@
       "id": "doc_1782718522451",
       "type": "file",
       "title": "02 Tập lái xe"
+    },
+    "folder_1782792996140": {
+      "id": "folder_1782792996140",
+      "type": "folder",
+      "title": "01 Toán",
+      "children": [
+        "folder_1782793016641",
+        "folder_1782793036440"
+      ]
+    },
+    "folder_1782793016641": {
+      "id": "folder_1782793016641",
+      "type": "folder",
+      "title": "01 GMAT",
+      "children": [
+        "doc_1782793049645"
+      ]
+    },
+    "folder_1782793036440": {
+      "id": "folder_1782793036440",
+      "type": "folder",
+      "title": "20 Kinh tế",
+      "children": [
+        "doc_1782793058149"
+      ]
+    },
+    "doc_1782793049645": {
+      "id": "doc_1782793049645",
+      "type": "file",
+      "title": "01 Cơ bản"
+    },
+    "doc_1782793058149": {
+      "id": "doc_1782793058149",
+      "type": "file",
+      "title": "01 Cơ bản"
     }
   },
-  "updated_at": "2026-06-30T03:20:15.381994Z"
+  "updated_at": "2026-06-30T04:17:59.340364Z"
 }

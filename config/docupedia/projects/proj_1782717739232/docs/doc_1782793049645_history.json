@@ -1,0 +1,32 @@
+{
+  "doc_id": "doc_1782793049645",
+  "history": [
+    {
+      "id": "hist_1782793049649",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "create",
+      "timestamp": "2026-06-30T04:17:29.649870Z",
+      "details": {
+        "title": "01 cơ bản"
+      }
+    },
+    {
+      "id": "hist_1782793074557",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-06-30T04:17:54.557175Z",
+      "details": {
+        "changes": {
+          "title": {
+            "old": "01 cơ bản",
+            "new": "01 Cơ bản"
+          }
+        }
+      }
+    }
+  ]
+}
