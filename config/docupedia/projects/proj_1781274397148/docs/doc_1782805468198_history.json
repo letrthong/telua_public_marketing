@@ -1,0 +1,16 @@
+{
+  "doc_id": "doc_1782805468198",
+  "history": [
+    {
+      "id": "hist_1782805468200",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "create",
+      "timestamp": "2026-06-30T07:44:28.200252Z",
+      "details": {
+        "title": "02 Unittest"
+      }
+    }
+  ]
+}

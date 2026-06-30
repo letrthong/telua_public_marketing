@@ -76,6 +76,38 @@
           "content": "Nội dung tài liệu được cập nhật"
         }
       }
+    },
+    {
+      "id": "hist_1782804741052",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-06-30T07:32:21.052405Z",
+      "details": {
+        "changes": {
+          "title": {
+            "old": "02 Tập lái xe",
+            "new": "02 Học thực hành"
+          }
+        }
+      }
+    },
+    {
+      "id": "hist_1782804760291",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-06-30T07:32:40.291848Z",
+      "details": {
+        "changes": {
+          "title": {
+            "old": "02 Học thực hành",
+            "new": "02 Học Thực Hành"
+          }
+        }
+      }
     }
   ]
 }

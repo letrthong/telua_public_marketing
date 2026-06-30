@@ -1,0 +1,16 @@
+{
+  "doc_id": "doc_1782805426488",
+  "history": [
+    {
+      "id": "hist_1782805426492",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "create",
+      "timestamp": "2026-06-30T07:43:46.492454Z",
+      "details": {
+        "title": "01 Class diagrams"
+      }
+    }
+  ]
+}
