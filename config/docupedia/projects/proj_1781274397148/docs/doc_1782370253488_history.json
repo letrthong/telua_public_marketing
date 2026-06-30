@@ -1,0 +1,21 @@
+{
+  "doc_id": "doc_1782370253488",
+  "history": [
+    {
+      "id": "hist_1782809043385",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-06-30T08:44:03.385119Z",
+      "details": {
+        "changes": {
+          "title": {
+            "old": "43 Android v.12& v.16",
+            "new": "01 Android v.12& v.16"
+          }
+        }
+      }
+    }
+  ]
+}
