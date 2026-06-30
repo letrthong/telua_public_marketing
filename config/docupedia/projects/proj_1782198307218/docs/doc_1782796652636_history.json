@@ -1,0 +1,42 @@
+{
+  "doc_id": "doc_1782796652636",
+  "history": [
+    {
+      "id": "hist_1782796654647",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "create",
+      "timestamp": "2026-06-30T05:17:34.647269Z",
+      "details": {
+        "title": "04 draw.io"
+      }
+    },
+    {
+      "id": "hist_1782796688930",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-06-30T05:18:08.930603Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1782796740259",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-06-30T05:19:00.259071Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    }
+  ]
+}
