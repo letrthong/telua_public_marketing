@@ -13,7 +13,7 @@
         "insert": "Audio control HAL | Android Open Source Project"
       },
       {
-        "insert": "\n\n"
+        "insert": "\n"
       },
       {
         "attributes": {
@@ -23,7 +23,7 @@
         "insert": "Car audio configuration | Android Open Source Project"
       },
       {
-        "insert": "\n\n"
+        "insert": "\n"
       },
       {
         "attributes": {
@@ -39,7 +39,7 @@
         "insert": " "
       },
       {
-        "insert": "\n\n"
+        "insert": "\n"
       },
       {
         "attributes": {
@@ -56,5 +56,5 @@
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-06-17T02:50:41.786279Z",
-  "updated_at": "2026-06-17T02:57:46.040305Z"
+  "updated_at": "2026-06-30T09:07:03.891393Z"
 }
