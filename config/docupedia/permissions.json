@@ -1,3 +1,16 @@
 {
-  "permissions": []
+  "permissions": [
+    {
+      "id": "perm_1782789577144",
+      "user_id": "user_1781663959167",
+      "project_id": "proj_1782717739232",
+      "permissions": [
+        "edit",
+        "view",
+        "create"
+      ],
+      "granted_by": "user_admin",
+      "granted_at": "2026-06-30T03:19:37.144805Z"
+    }
+  ]
 }

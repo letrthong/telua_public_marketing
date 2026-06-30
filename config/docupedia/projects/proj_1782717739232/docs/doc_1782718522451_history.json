@@ -63,6 +63,19 @@
           "content": "Nội dung tài liệu được cập nhật"
         }
       }
+    },
+    {
+      "id": "hist_1782789615382",
+      "user_id": "user_1781663959167",
+      "username": "tester",
+      "display_name": "tester",
+      "action": "update",
+      "timestamp": "2026-06-30T03:20:15.382491Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
     }
   ]
 }
