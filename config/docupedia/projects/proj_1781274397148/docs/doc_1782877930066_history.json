@@ -11,6 +11,35 @@
       "details": {
         "title": "03 UML"
       }
+    },
+    {
+      "id": "hist_1782879136489",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-07-01T04:12:16.489835Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1782879316652",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-07-01T04:15:16.652091Z",
+      "details": {
+        "changes": {
+          "title": {
+            "old": "03 UML",
+            "new": "01 UML"
+          }
+        }
+      }
     }
   ]
 }

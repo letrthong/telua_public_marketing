@@ -1,13 +1,1052 @@
 {
   "id": "doc_1782877930066",
   "type": "file",
-  "title": "03 UML",
-  "parent_id": "folder_1782876730443",
+  "title": "01 UML",
+  "parent_id": "folder_1782879295067",
   "content": {
-    "ops": []
+    "ops": [
+      {
+        "insert": "1. Dependency (Phụ thuộc)"
+      },
+      {
+        "attributes": {
+          "header": 3
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Ký hiệu:"
+      },
+      {
+        "insert": " Đường mũi tên nét đứt ("
+      },
+      {
+        "attributes": {
+          "code": true
+        },
+        "insert": "----->"
+      },
+      {
+        "insert": ")."
+      },
+      {
+        "attributes": {
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Ý nghĩa:"
+      },
+      {
+        "insert": " Một lớp sử dụng một lớp khác (thường là tham số của hàm hoặc biến cục bộ). Nếu lớp kia thay đổi, lớp này có thể bị ảnh hưởng."
+      },
+      {
+        "attributes": {
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Ví dụ:"
+      },
+      {
+        "insert": " Lớp "
+      },
+      {
+        "attributes": {
+          "code": true
+        },
+        "insert": "Car"
+      },
+      {
+        "insert": " phụ thuộc vào lớp "
+      },
+      {
+        "attributes": {
+          "code": true
+        },
+        "insert": "Fuel"
+      },
+      {
+        "insert": " để chạy."
+      },
+      {
+        "attributes": {
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "2. Association (Kết hợp)"
+      },
+      {
+        "attributes": {
+          "header": 3
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Ký hiệu:"
+      },
+      {
+        "insert": " Đường thẳng liền nét ("
+      },
+      {
+        "attributes": {
+          "code": true
+        },
+        "insert": "—————"
+      },
+      {
+        "insert": ")."
+      },
+      {
+        "attributes": {
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Ý nghĩa:"
+      },
+      {
+        "insert": " Mối quan hệ cấu trúc giữa hai lớp. Nó cho biết một đối tượng của lớp này có liên quan đến đối tượng của lớp kia."
+      },
+      {
+        "attributes": {
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Đặc điểm:"
+      },
+      {
+        "insert": " Có thể là 1-1, 1-n, hoặc n-n."
+      },
+      {
+        "attributes": {
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "3. Aggregation (Tập hợp)"
+      },
+      {
+        "attributes": {
+          "header": 3
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Ký hiệu:"
+      },
+      {
+        "insert": " Đường thẳng có hình "
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "thoi rỗng"
+      },
+      {
+        "insert": " ở phía lớp \"cha\" ("
+      },
+      {
+        "attributes": {
+          "code": true
+        },
+        "insert": "◇—————"
+      },
+      {
+        "insert": ")."
+      },
+      {
+        "attributes": {
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Ý nghĩa:"
+      },
+      {
+        "insert": " Mối quan hệ \"có một\" (Has-a). Hai đối tượng có thể tồn tại độc lập với nhau."
+      },
+      {
+        "attributes": {
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Ví dụ:"
+      },
+      {
+        "insert": " Lớp "
+      },
+      {
+        "attributes": {
+          "code": true
+        },
+        "insert": "Department"
+      },
+      {
+        "insert": " (phòng ban) và "
+      },
+      {
+        "attributes": {
+          "code": true
+        },
+        "insert": "Professor"
+      },
+      {
+        "insert": " (giảng viên). Nếu phòng ban giải thể, giảng viên vẫn tồn tại."
+      },
+      {
+        "attributes": {
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "4. Composition (Thành phần)"
+      },
+      {
+        "attributes": {
+          "header": 3
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Ký hiệu:"
+      },
+      {
+        "insert": " Đường thẳng có hình "
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "thoi đặc"
+      },
+      {
+        "insert": " ở phía lớp \"cha\" ("
+      },
+      {
+        "attributes": {
+          "code": true
+        },
+        "insert": "◆—————"
+      },
+      {
+        "insert": ")."
+      },
+      {
+        "attributes": {
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Ý nghĩa:"
+      },
+      {
+        "insert": " Mối quan hệ \"là một phần của\" (Part-of). Đây là mối quan hệ chặt chẽ hơn Aggregation; đối tượng con không thể tồn tại nếu đối tượng cha bị hủy."
+      },
+      {
+        "attributes": {
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Ví dụ:"
+      },
+      {
+        "insert": " Lớp "
+      },
+      {
+        "attributes": {
+          "code": true
+        },
+        "insert": "House"
+      },
+      {
+        "insert": " (ngôi nhà) và "
+      },
+      {
+        "attributes": {
+          "code": true
+        },
+        "insert": "Room"
+      },
+      {
+        "insert": " (căn phòng). Khi ngôi nhà bị phá hủy, các căn phòng cũng mất đi."
+      },
+      {
+        "attributes": {
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "5. Inheritance / Generalization (Kế thừa)"
+      },
+      {
+        "attributes": {
+          "header": 3
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Ký hiệu:"
+      },
+      {
+        "insert": " Đường thẳng với "
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "mũi tên hình tam giác rỗng"
+      },
+      {
+        "insert": " chỉ về lớp cha ("
+      },
+      {
+        "attributes": {
+          "code": true
+        },
+        "insert": "—————▷"
+      },
+      {
+        "insert": ")."
+      },
+      {
+        "attributes": {
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Ý nghĩa:"
+      },
+      {
+        "insert": " Mối quan hệ \"là một\" (Is-a). Lớp con kế thừa các thuộc tính và phương thức từ lớp cha."
+      },
+      {
+        "attributes": {
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Ví dụ:"
+      },
+      {
+        "insert": " "
+      },
+      {
+        "attributes": {
+          "code": true
+        },
+        "insert": "Dog"
+      },
+      {
+        "insert": " kế thừa từ "
+      },
+      {
+        "attributes": {
+          "code": true
+        },
+        "insert": "Animal"
+      },
+      {
+        "insert": "."
+      },
+      {
+        "attributes": {
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "6. Realization (Hiện thực hóa)"
+      },
+      {
+        "attributes": {
+          "header": 3
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Ký hiệu:"
+      },
+      {
+        "insert": " Đường nét đứt với "
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "mũi tên hình tam giác rỗng"
+      },
+      {
+        "insert": " ("
+      },
+      {
+        "attributes": {
+          "code": true
+        },
+        "insert": "----▷"
+      },
+      {
+        "insert": ")."
+      },
+      {
+        "attributes": {
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Ý nghĩa:"
+      },
+      {
+        "insert": " Một lớp thực hiện các hành vi được định nghĩa trong một Interface (giao diện)."
+      },
+      {
+        "attributes": {
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Ví dụ:"
+      },
+      {
+        "insert": " Lớp "
+      },
+      {
+        "attributes": {
+          "code": true
+        },
+        "insert": "Circle"
+      },
+      {
+        "insert": " hiện thực hóa interface "
+      },
+      {
+        "attributes": {
+          "code": true
+        },
+        "insert": "Shape"
+      },
+      {
+        "insert": " (định nghĩa phương thức vẽ)."
+      },
+      {
+        "attributes": {
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Bảng tóm tắt nhanh"
+      },
+      {
+        "attributes": {
+          "header": 3
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "col": {
+            "tableId": "fkfqg0divfo",
+            "colId": "6d5lq408lix",
+            "width": "25%",
+            "full": true
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "col": {
+            "tableId": "fkfqg0divfo",
+            "colId": "3em9osfa8hk",
+            "width": "25%",
+            "full": true
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "col": {
+            "tableId": "fkfqg0divfo",
+            "colId": "o4fcupm0rv",
+            "width": "25%",
+            "full": true
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "col": {
+            "tableId": "fkfqg0divfo",
+            "colId": "y9cp796j5j",
+            "width": "25%",
+            "full": true
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Mối quan hệ"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "fkfqg0divfo",
+            "rowId": "cgbpk2oq5j",
+            "colId": "6d5lq408lix",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border-width: 1px; border-color: rgb(196, 199, 197); border-image: initial; padding: 8px 12px; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Ký hiệu"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "fkfqg0divfo",
+            "rowId": "cgbpk2oq5j",
+            "colId": "3em9osfa8hk",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border-width: 1px; border-color: rgb(196, 199, 197); border-image: initial; padding: 8px 12px; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Cường độ"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "fkfqg0divfo",
+            "rowId": "cgbpk2oq5j",
+            "colId": "o4fcupm0rv",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border-width: 1px; border-color: rgb(196, 199, 197); border-image: initial; padding: 8px 12px; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Bản chất"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "fkfqg0divfo",
+            "rowId": "cgbpk2oq5j",
+            "colId": "y9cp796j5j",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border-width: 1px; border-color: rgb(196, 199, 197); border-image: initial; padding: 8px 12px; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Dependency"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "fkfqg0divfo",
+            "rowId": "3haupuoumri",
+            "colId": "6d5lq408lix",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border-width: 1px; border-color: rgb(196, 199, 197); border-image: initial; padding: 8px 12px; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "----->"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "fkfqg0divfo",
+            "rowId": "3haupuoumri",
+            "colId": "3em9osfa8hk",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border-width: 1px; border-color: rgb(196, 199, 197); border-image: initial; padding: 8px 12px; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Rất yếu"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "fkfqg0divfo",
+            "rowId": "3haupuoumri",
+            "colId": "o4fcupm0rv",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border-width: 1px; border-color: rgb(196, 199, 197); border-image: initial; padding: 8px 12px; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Sử dụng tạm thời"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "fkfqg0divfo",
+            "rowId": "3haupuoumri",
+            "colId": "y9cp796j5j",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border-width: 1px; border-color: rgb(196, 199, 197); border-image: initial; padding: 8px 12px; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Association"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "fkfqg0divfo",
+            "rowId": "zt9w0aysrmk",
+            "colId": "6d5lq408lix",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border-width: 1px; border-color: rgb(196, 199, 197); border-image: initial; padding: 8px 12px; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "—————"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "fkfqg0divfo",
+            "rowId": "zt9w0aysrmk",
+            "colId": "3em9osfa8hk",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border-width: 1px; border-color: rgb(196, 199, 197); border-image: initial; padding: 8px 12px; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Trung bình"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "fkfqg0divfo",
+            "rowId": "zt9w0aysrmk",
+            "colId": "o4fcupm0rv",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border-width: 1px; border-color: rgb(196, 199, 197); border-image: initial; padding: 8px 12px; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Liên kết cơ bản"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "fkfqg0divfo",
+            "rowId": "zt9w0aysrmk",
+            "colId": "y9cp796j5j",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border-width: 1px; border-color: rgb(196, 199, 197); border-image: initial; padding: 8px 12px; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Aggregation"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "fkfqg0divfo",
+            "rowId": "u0qhyddtq8p",
+            "colId": "6d5lq408lix",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border-width: 1px; border-color: rgb(196, 199, 197); border-image: initial; padding: 8px 12px; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "◇—————"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "fkfqg0divfo",
+            "rowId": "u0qhyddtq8p",
+            "colId": "3em9osfa8hk",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border-width: 1px; border-color: rgb(196, 199, 197); border-image: initial; padding: 8px 12px; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Mạnh"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "fkfqg0divfo",
+            "rowId": "u0qhyddtq8p",
+            "colId": "o4fcupm0rv",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border-width: 1px; border-color: rgb(196, 199, 197); border-image: initial; padding: 8px 12px; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Có một (độc lập)"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "fkfqg0divfo",
+            "rowId": "u0qhyddtq8p",
+            "colId": "y9cp796j5j",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border-width: 1px; border-color: rgb(196, 199, 197); border-image: initial; padding: 8px 12px; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Composition"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "fkfqg0divfo",
+            "rowId": "d4i14heaz15",
+            "colId": "6d5lq408lix",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border-width: 1px; border-color: rgb(196, 199, 197); border-image: initial; padding: 8px 12px; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "◆—————"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "fkfqg0divfo",
+            "rowId": "d4i14heaz15",
+            "colId": "3em9osfa8hk",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border-width: 1px; border-color: rgb(196, 199, 197); border-image: initial; padding: 8px 12px; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Rất mạnh"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "fkfqg0divfo",
+            "rowId": "d4i14heaz15",
+            "colId": "o4fcupm0rv",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border-width: 1px; border-color: rgb(196, 199, 197); border-image: initial; padding: 8px 12px; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Là một phần của (phụ thuộc)"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "fkfqg0divfo",
+            "rowId": "d4i14heaz15",
+            "colId": "y9cp796j5j",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border-width: 1px; border-color: rgb(196, 199, 197); border-image: initial; padding: 8px 12px; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Inheritance"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "fkfqg0divfo",
+            "rowId": "ahxyzybbbou",
+            "colId": "6d5lq408lix",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border-width: 1px; border-color: rgb(196, 199, 197); border-image: initial; padding: 8px 12px; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "—————▷"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "fkfqg0divfo",
+            "rowId": "ahxyzybbbou",
+            "colId": "3em9osfa8hk",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border-width: 1px; border-color: rgb(196, 199, 197); border-image: initial; padding: 8px 12px; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Rất mạnh"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "fkfqg0divfo",
+            "rowId": "ahxyzybbbou",
+            "colId": "o4fcupm0rv",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border-width: 1px; border-color: rgb(196, 199, 197); border-image: initial; padding: 8px 12px; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Là một (thừa kế)"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "fkfqg0divfo",
+            "rowId": "ahxyzybbbou",
+            "colId": "y9cp796j5j",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border-width: 1px; border-color: rgb(196, 199, 197); border-image: initial; padding: 8px 12px; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Realization"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "fkfqg0divfo",
+            "rowId": "wkj3bj51d5i",
+            "colId": "6d5lq408lix",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border-width: 1px; border-color: rgb(196, 199, 197); border-image: initial; padding: 8px 12px; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "----▷"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "fkfqg0divfo",
+            "rowId": "wkj3bj51d5i",
+            "colId": "3em9osfa8hk",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border-width: 1px; border-color: rgb(196, 199, 197); border-image: initial; padding: 8px 12px; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Mạnh"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "fkfqg0divfo",
+            "rowId": "wkj3bj51d5i",
+            "colId": "o4fcupm0rv",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border-width: 1px; border-color: rgb(196, 199, 197); border-image: initial; padding: 8px 12px; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Cam kết hành vi"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "fkfqg0divfo",
+            "rowId": "wkj3bj51d5i",
+            "colId": "y9cp796j5j",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border-width: 1px; border-color: rgb(196, 199, 197); border-image: initial; padding: 8px 12px; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "\n"
+      }
+    ]
   },
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-07-01T03:52:10.066677Z",
-  "updated_at": "2026-07-01T03:52:10.066677Z"
+  "updated_at": "2026-07-01T04:15:16.265331Z"
 }

@@ -99,6 +99,22 @@
           "content": "Nội dung tài liệu được cập nhật"
         }
       }
+    },
+    {
+      "id": "hist_1782878512063",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-07-01T04:01:52.063954Z",
+      "details": {
+        "changes": {
+          "title": {
+            "old": "01 Object-Oriented _Design_patterns",
+            "new": "01 Object Oriented Design patterns"
+          }
+        }
+      }
     }
   ]
 }
