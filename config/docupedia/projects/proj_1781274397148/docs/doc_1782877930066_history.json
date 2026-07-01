@@ -1,0 +1,16 @@
+{
+  "doc_id": "doc_1782877930066",
+  "history": [
+    {
+      "id": "hist_1782877930068",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "create",
+      "timestamp": "2026-07-01T03:52:10.068756Z",
+      "details": {
+        "title": "03 UML"
+      }
+    }
+  ]
+}

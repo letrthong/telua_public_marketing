@@ -1,0 +1,104 @@
+{
+  "doc_id": "doc_1782876767046",
+  "history": [
+    {
+      "id": "hist_1782876767052",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "create",
+      "timestamp": "2026-07-01T03:32:47.052108Z",
+      "details": {
+        "title": "01 cloud"
+      }
+    },
+    {
+      "id": "hist_1782876835348",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-07-01T03:33:55.348637Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1782876913065",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-07-01T03:35:13.065064Z",
+      "details": {
+        "changes": {
+          "title": {
+            "old": "01 cloud",
+            "new": "01 Object Oriented Design patterns"
+          }
+        }
+      }
+    },
+    {
+      "id": "hist_1782876950541",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-07-01T03:35:50.541210Z",
+      "details": {
+        "changes": {
+          "title": {
+            "old": "01 Object Oriented Design patterns",
+            "new": "01 cloud"
+          },
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1782877017056",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-07-01T03:36:57.056973Z",
+      "details": {
+        "changes": {
+          "title": {
+            "old": "01 cloud",
+            "new": "01 Object-Oriented _Design_patterns"
+          }
+        }
+      }
+    },
+    {
+      "id": "hist_1782877248961",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-07-01T03:40:48.961649Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1782877545922",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-07-01T03:45:45.922787Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    }
+  ]
+}

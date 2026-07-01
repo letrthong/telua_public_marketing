@@ -1,0 +1,29 @@
+{
+  "doc_id": "doc_1782877000044",
+  "history": [
+    {
+      "id": "hist_1782877000046",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "create",
+      "timestamp": "2026-07-01T03:36:40.046834Z",
+      "details": {
+        "title": "02 The Software Design"
+      }
+    },
+    {
+      "id": "hist_1782877050363",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-07-01T03:37:30.363315Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    }
+  ]
+}
