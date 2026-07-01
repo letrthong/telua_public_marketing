@@ -1,0 +1,546 @@
+{
+  "id": "doc_1782881118355",
+  "type": "file",
+  "title": "10 User Case (Requirement)",
+  "parent_id": "folder_1782879295067",
+  "content": {
+    "ops": [
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Use Case Diagram"
+      },
+      {
+        "insert": " (Biểu đồ ca sử dụng) là một trong những loại biểu đồ quan trọng nhất trong UML (Unified Modeling Language). Nó được dùng để mô tả "
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "\"hệ thống làm được những gì?\""
+      },
+      {
+        "insert": " dưới góc nhìn của người dùng.\nThay vì tập trung vào cách code chạy bên trong (như Class Diagram), Use Case tập trung vào "
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "hành vi và tương tác"
+      },
+      {
+        "insert": " giữa hệ thống và các thực thể bên ngoài.\n1. Ba thành phần cốt lõi của Use Case Diagram"
+      },
+      {
+        "attributes": {
+          "header": 3
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Actor (Tác nhân):"
+      },
+      {
+        "insert": " Là bất kỳ thực thể nào tương tác với hệ thống (người dùng, hệ thống khác, hoặc thiết bị phần cứng)."
+      },
+      {
+        "attributes": {
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "italic": true
+        },
+        "insert": "Ký hiệu:"
+      },
+      {
+        "insert": " Hình người que."
+      },
+      {
+        "attributes": {
+          "indent": 1,
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Use Case (Ca sử dụng):"
+      },
+      {
+        "insert": " Là một chức năng, một nhiệm vụ hoặc một mục tiêu mà hệ thống cần thực hiện."
+      },
+      {
+        "attributes": {
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "italic": true
+        },
+        "insert": "Ký hiệu:"
+      },
+      {
+        "insert": " Hình bầu dục (Ellipse)."
+      },
+      {
+        "attributes": {
+          "indent": 1,
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "System Boundary (Ranh giới hệ thống):"
+      },
+      {
+        "insert": " Là hình chữ nhật bao quanh các Use Case, xác định phạm vi những gì thuộc về hệ thống của bạn và những gì nằm bên ngoài."
+      },
+      {
+        "attributes": {
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "2. Các mối quan hệ chính trong Use Case"
+      },
+      {
+        "attributes": {
+          "header": 3
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Association (Liên kết):"
+      },
+      {
+        "insert": " Đường thẳng nối Actor với Use Case, cho biết ai thực hiện chức năng nào."
+      },
+      {
+        "attributes": {
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Include (Bao gồm):"
+      },
+      {
+        "insert": " Dùng khi một Use Case bắt buộc phải thực hiện một Use Case khác."
+      },
+      {
+        "attributes": {
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "italic": true
+        },
+        "insert": "Ví dụ:"
+      },
+      {
+        "insert": " Khi thực hiện chức năng \"Thanh toán\", hệ thống bắt buộc phải \"Kiểm tra số dư\"."
+      },
+      {
+        "attributes": {
+          "indent": 1,
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Extend (Mở rộng):"
+      },
+      {
+        "insert": " Dùng khi một Use Case có thể (tùy chọn) thực hiện thêm một chức năng khác trong một điều kiện nhất định."
+      },
+      {
+        "attributes": {
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "italic": true
+        },
+        "insert": "Ví dụ:"
+      },
+      {
+        "insert": " Khi \"Đăng nhập\", nếu sai mật khẩu thì có thêm chức năng \"Gửi email khôi phục mật khẩu\"."
+      },
+      {
+        "attributes": {
+          "indent": 1,
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "3. Khi nào cần sử dụng Use Case Diagram?"
+      },
+      {
+        "attributes": {
+          "header": 3
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Bạn nên vẽ Use Case trong giai đoạn đầu của dự án (Giai đoạn Phân tích yêu cầu - Requirements Analysis):\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Để giao tiếp với khách hàng:"
+      },
+      {
+        "insert": " Vì nó rất dễ hiểu, không chứa các thuật ngữ kỹ thuật phức tạp, giúp khách hàng xác nhận xem bạn có hiểu đúng yêu cầu của họ hay không."
+      },
+      {
+        "attributes": {
+          "list": "ordered"
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Để xác định phạm vi dự án:"
+      },
+      {
+        "insert": " Xác định rõ chức năng nào là chính, chức năng nào nằm trong tầm kiểm soát của hệ thống."
+      },
+      {
+        "attributes": {
+          "list": "ordered"
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Để tạo nền tảng cho kiểm thử (Testing):"
+      },
+      {
+        "insert": " Mỗi Use Case chính là một kịch bản test (Test Case) sau này."
+      },
+      {
+        "attributes": {
+          "list": "ordered"
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "4. So sánh với các loại khác"
+      },
+      {
+        "attributes": {
+          "header": 3
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "col": {
+            "tableId": "ygwai8co8y",
+            "colId": "syhhkx4ku9p",
+            "width": "33.333333333333336%",
+            "full": true
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "col": {
+            "tableId": "ygwai8co8y",
+            "colId": "w1x08tlnlkf",
+            "width": "33.333333333333336%",
+            "full": true
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "col": {
+            "tableId": "ygwai8co8y",
+            "colId": "uqp7jr6nppn",
+            "width": "33.333333333333336%",
+            "full": true
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Đặc điểm"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "ygwai8co8y",
+            "rowId": "if5hv8z3tcl",
+            "colId": "syhhkx4ku9p",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border-width: 1px; border-color: rgb(196, 199, 197); border-image: initial; padding: 8px 12px; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Use Case Diagram"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "ygwai8co8y",
+            "rowId": "if5hv8z3tcl",
+            "colId": "w1x08tlnlkf",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border-width: 1px; border-color: rgb(196, 199, 197); border-image: initial; padding: 8px 12px; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Class Diagram"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "ygwai8co8y",
+            "rowId": "if5hv8z3tcl",
+            "colId": "uqp7jr6nppn",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border-width: 1px; border-color: rgb(196, 199, 197); border-image: initial; padding: 8px 12px; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Góc nhìn"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "ygwai8co8y",
+            "rowId": "1nfbvrj1ru",
+            "colId": "syhhkx4ku9p",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border-width: 1px; border-color: rgb(196, 199, 197); border-image: initial; padding: 8px 12px; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Người dùng (Functional)"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "ygwai8co8y",
+            "rowId": "1nfbvrj1ru",
+            "colId": "w1x08tlnlkf",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border-width: 1px; border-color: rgb(196, 199, 197); border-image: initial; padding: 8px 12px; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Lập trình viên (Structural)"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "ygwai8co8y",
+            "rowId": "1nfbvrj1ru",
+            "colId": "uqp7jr6nppn",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border-width: 1px; border-color: rgb(196, 199, 197); border-image: initial; padding: 8px 12px; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Câu hỏi trả lời"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "ygwai8co8y",
+            "rowId": "umq74adkpsp",
+            "colId": "syhhkx4ku9p",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border-width: 1px; border-color: rgb(196, 199, 197); border-image: initial; padding: 8px 12px; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Hệ thống làm được gì?"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "ygwai8co8y",
+            "rowId": "umq74adkpsp",
+            "colId": "w1x08tlnlkf",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border-width: 1px; border-color: rgb(196, 199, 197); border-image: initial; padding: 8px 12px; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Hệ thống được cấu tạo từ đâu?"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "ygwai8co8y",
+            "rowId": "umq74adkpsp",
+            "colId": "uqp7jr6nppn",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border-width: 1px; border-color: rgb(196, 199, 197); border-image: initial; padding: 8px 12px; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Trọng tâm"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "ygwai8co8y",
+            "rowId": "ixlh5hcsui8",
+            "colId": "syhhkx4ku9p",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border-width: 1px; border-color: rgb(196, 199, 197); border-image: initial; padding: 8px 12px; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Hành vi (Behavior)"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "ygwai8co8y",
+            "rowId": "ixlh5hcsui8",
+            "colId": "w1x08tlnlkf",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border-width: 1px; border-color: rgb(196, 199, 197); border-image: initial; padding: 8px 12px; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Cấu trúc dữ liệu (Data)"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "ygwai8co8y",
+            "rowId": "ixlh5hcsui8",
+            "colId": "uqp7jr6nppn",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border-width: 1px; border-color: rgb(196, 199, 197); border-image: initial; padding: 8px 12px; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Tóm lại:"
+      },
+      {
+        "insert": " Nếu bạn muốn mô tả hệ thống từ \"bên ngoài\" để mọi người từ quản lý đến khách hàng đều hiểu, hãy dùng "
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Use Case"
+      },
+      {
+        "insert": ". Nếu muốn mô tả hệ thống từ \"bên trong\" để triển khai code, hãy dùng "
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Class Diagram"
+      },
+      {
+        "insert": ".\n"
+      }
+    ]
+  },
+  "created_by": "user_admin",
+  "updated_by": "user_admin",
+  "created_at": "2026-07-01T04:45:18.355679Z",
+  "updated_at": "2026-07-01T04:49:21.362068Z"
+}

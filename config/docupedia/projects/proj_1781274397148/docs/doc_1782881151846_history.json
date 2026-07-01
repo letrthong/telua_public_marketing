@@ -1,0 +1,16 @@
+{
+  "doc_id": "doc_1782881151846",
+  "history": [
+    {
+      "id": "hist_1782881151852",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "create",
+      "timestamp": "2026-07-01T04:45:51.852899Z",
+      "details": {
+        "title": "20 Sequence ( Flow)"
+      }
+    }
+  ]
+}

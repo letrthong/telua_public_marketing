@@ -1,24 +1,24 @@
 {
-  "doc_id": "doc_1782877930066",
+  "doc_id": "doc_1782880414169",
   "history": [
     {
-      "id": "hist_1782877930068",
+      "id": "hist_1782880415178",
       "user_id": "user_admin",
       "username": "admin",
       "display_name": "Administrator",
       "action": "create",
-      "timestamp": "2026-07-01T03:52:10.068756Z",
+      "timestamp": "2026-07-01T04:33:35.178052Z",
       "details": {
-        "title": "03 UML"
+        "title": "02 Strategy & Factory"
       }
     },
     {
-      "id": "hist_1782879136489",
+      "id": "hist_1782880439211",
       "user_id": "user_admin",
       "username": "admin",
       "display_name": "Administrator",
       "action": "update",
-      "timestamp": "2026-07-01T04:12:16.489835Z",
+      "timestamp": "2026-07-01T04:33:59.211047Z",
       "details": {
         "changes": {
           "content": "Nội dung tài liệu được cập nhật"
@@ -26,34 +26,28 @@
       }
     },
     {
-      "id": "hist_1782879316652",
+      "id": "hist_1782880524090",
       "user_id": "user_admin",
       "username": "admin",
       "display_name": "Administrator",
       "action": "update",
-      "timestamp": "2026-07-01T04:15:16.652091Z",
+      "timestamp": "2026-07-01T04:35:24.090385Z",
       "details": {
         "changes": {
-          "title": {
-            "old": "03 UML",
-            "new": "01 UML"
-          }
+          "content": "Nội dung tài liệu được cập nhật"
         }
       }
     },
     {
-      "id": "hist_1782881090452",
+      "id": "hist_1782880569136",
       "user_id": "user_admin",
       "username": "admin",
       "display_name": "Administrator",
       "action": "update",
-      "timestamp": "2026-07-01T04:44:50.452732Z",
+      "timestamp": "2026-07-01T04:36:09.136201Z",
       "details": {
         "changes": {
-          "title": {
-            "old": "01 UML",
-            "new": "01 Class diagram"
-          }
+          "content": "Nội dung tài liệu được cập nhật"
         }
       }
     }

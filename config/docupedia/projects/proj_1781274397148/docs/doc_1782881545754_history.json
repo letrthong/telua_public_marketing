@@ -1,0 +1,71 @@
+{
+  "doc_id": "doc_1782881545754",
+  "history": [
+    {
+      "id": "hist_1782881545757",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "create",
+      "timestamp": "2026-07-01T04:52:25.757081Z",
+      "details": {
+        "title": "11 user case  example"
+      }
+    },
+    {
+      "id": "hist_1782881569178",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-07-01T04:52:49.178724Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1782881643448",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-07-01T04:54:03.448075Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1782881661455",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-07-01T04:54:21.455686Z",
+      "details": {
+        "changes": {
+          "title": {
+            "old": "11 user case  example",
+            "new": "11 User Case  example"
+          }
+        }
+      }
+    },
+    {
+      "id": "hist_1782881884243",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-07-01T04:58:04.243786Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    }
+  ]
+}

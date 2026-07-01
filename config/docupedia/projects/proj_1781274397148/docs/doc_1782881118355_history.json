@@ -1,0 +1,45 @@
+{
+  "doc_id": "doc_1782881118355",
+  "history": [
+    {
+      "id": "hist_1782881118850",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "create",
+      "timestamp": "2026-07-01T04:45:18.850702Z",
+      "details": {
+        "title": "10 User Case"
+      }
+    },
+    {
+      "id": "hist_1782881207173",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-07-01T04:46:47.173114Z",
+      "details": {
+        "changes": {
+          "title": {
+            "old": "10 User Case",
+            "new": "10 User Case (Requirement)"
+          }
+        }
+      }
+    },
+    {
+      "id": "hist_1782881361367",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-07-01T04:49:21.367120Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    }
+  ]
+}

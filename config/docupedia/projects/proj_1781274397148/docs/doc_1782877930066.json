@@ -1,7 +1,7 @@
 {
   "id": "doc_1782877930066",
   "type": "file",
-  "title": "01 UML",
+  "title": "01 Class diagram",
   "parent_id": "folder_1782879295067",
   "content": {
     "ops": [
@@ -1048,5 +1048,5 @@
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-07-01T03:52:10.066677Z",
-  "updated_at": "2026-07-01T04:15:16.265331Z"
+  "updated_at": "2026-07-01T04:44:50.442776Z"
 }

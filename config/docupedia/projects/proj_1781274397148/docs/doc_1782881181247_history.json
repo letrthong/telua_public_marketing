@@ -1,0 +1,16 @@
+{
+  "doc_id": "doc_1782881181247",
+  "history": [
+    {
+      "id": "hist_1782881181355",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "create",
+      "timestamp": "2026-07-01T04:46:21.355955Z",
+      "details": {
+        "title": "30 Activity (Process)"
+      }
+    }
+  ]
+}
