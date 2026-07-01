@@ -1,7 +1,7 @@
 {
   "id": "doc_1782881545754",
   "type": "file",
-  "title": "11 User Case  example",
+  "title": "11 Use Case  example",
   "parent_id": "folder_1782879295067",
   "content": {
     "ops": [
@@ -25,5 +25,5 @@
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-07-01T04:52:25.754850Z",
-  "updated_at": "2026-07-01T04:58:03.644704Z"
+  "updated_at": "2026-07-01T09:02:26.119404Z"
 }
