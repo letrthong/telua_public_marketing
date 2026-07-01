@@ -843,6 +843,12 @@
         "insert": "\n"
       },
       {
+        "attributes": {
+          "link": "https://github.com/letrthong/DesignPatterns/tree/master/02.C%2B%2B/behavior/strategy"
+        },
+        "insert": "DesignPatterns/02.C++/behavior/strategy at master · letrthong/DesignPatterns"
+      },
+      {
         "insert": "\n"
       }
     ]
@@ -850,5 +856,5 @@
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-07-01T04:33:34.169362Z",
-  "updated_at": "2026-07-01T04:36:03.956418Z"
+  "updated_at": "2026-07-01T05:36:37.061318Z"
 }
