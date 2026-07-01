@@ -49,6 +49,130 @@
         "insert": "AIDL Audio HAL | Android Open Source Project"
       },
       {
+        "insert": "\n\n "
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Android Automotive"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "col": {
+            "tableId": "av5jmsadm5c",
+            "colId": "i3k2y8ph45g",
+            "width": "50%",
+            "full": true
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "col": {
+            "tableId": "av5jmsadm5c",
+            "colId": "bieoq6m060w",
+            "width": "50%",
+            "full": true
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Link"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "av5jmsadm5c",
+            "rowId": "dl6fb4fzjz5",
+            "colId": "i3k2y8ph45g",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Method"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "av5jmsadm5c",
+            "rowId": "dl6fb4fzjz5",
+            "colId": "bieoq6m060w",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "link": "https://cs.android.com/android/platform/superproject/+/android-latest-release:packages/apps/Car/Settings/src/com/android/car/settings/sound/VolumeSettingsPreferenceController.java;l=260?q=setGroupVol&sq=&ss=android%2Fplatform%2Fsuperproject"
+        },
+        "insert": "VolumeSettingsPreferenceController.java - Android Code Search"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "av5jmsadm5c",
+            "rowId": "yk3l3yiqsni",
+            "colId": "i3k2y8ph45g",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "setGroupVolume"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "av5jmsadm5c",
+            "rowId": "yk3l3yiqsni",
+            "colId": "bieoq6m060w",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "av5jmsadm5c",
+            "rowId": "ni6j3ng6b9",
+            "colId": "i3k2y8ph45g",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "onAudioVolumeGroupChanged"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "av5jmsadm5c",
+            "rowId": "ni6j3ng6b9",
+            "colId": "bieoq6m060w",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
         "insert": "\n"
       }
     ]
@@ -56,5 +180,5 @@
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-06-17T02:50:41.786279Z",
-  "updated_at": "2026-06-30T09:07:03.891393Z"
+  "updated_at": "2026-07-01T08:32:01.556753Z"
 }
