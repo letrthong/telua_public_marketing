@@ -9,7 +9,7 @@
         "attributes": {
           "bold": true
         },
-        "insert": "1/ Find all files  at current directory"
+        "insert": "1/ Find all files in the current directory."
       },
       {
         "attributes": {
@@ -36,7 +36,7 @@
         "attributes": {
           "bold": true
         },
-        "insert": "2/ Find  path of all folders at current directory"
+        "insert": "2/ Find the paths of all folders in the current directory"
       },
       {
         "insert": "\n find .  -type d -name \"name_folder\" "
@@ -48,12 +48,66 @@
         "insert": "\n"
       },
       {
-        "insert": "\n \n\nThong LT @ 15:22 24/6/2026\n"
+        "attributes": {
+          "header": 5
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "3/ Find the text within the files in the directory"
+      },
+      {
+        "attributes": {
+          "header": 5
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "\ngrep -rnw "
+      },
+      {
+        "attributes": {
+          "token": "string"
+        },
+        "insert": "\".\""
+      },
+      {
+        "insert": " -e "
+      },
+      {
+        "attributes": {
+          "token": "string"
+        },
+        "insert": "\"setGroupVolume\""
+      },
+      {
+        "insert": "\ngrep -rn --include="
+      },
+      {
+        "attributes": {
+          "token": "string"
+        },
+        "insert": "\"*.java\"\"setGroupVolume\""
+      },
+      {
+        "insert": " \nrg "
+      },
+      {
+        "attributes": {
+          "token": "string"
+        },
+        "insert": "\"setGroupVolume\""
+      },
+      {
+        "insert": "\n\nThong LT @ 15:22 24/6/2026\n"
       }
     ]
   },
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-06-17T02:54:37.206879Z",
-  "updated_at": "2026-06-24T08:22:56.931893Z"
+  "updated_at": "2026-07-01T09:49:58.945299Z"
 }
