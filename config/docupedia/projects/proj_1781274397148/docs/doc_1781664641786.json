@@ -54,6 +54,15 @@
       },
       {
         "attributes": {
+          "link": "https://cs.android.com/android/platform/superproject/+/android-latest-release:frameworks/av/services/audiopolicy/engineconfigurable/src/EngineInstance.cpp"
+        },
+        "insert": "EngineInstance.cpp - Android Code Search"
+      },
+      {
+        "insert": "\nvendor/bosch/services/audio/car/config/policy/engine/config\n-> frameworks/av/services/audiopolicy/engineconfigurable/\n\n"
+      },
+      {
+        "attributes": {
           "color": "#0066cc",
           "link": "https://source.android.com/docs/automotive/audio/audio-control-hal"
         },
@@ -96,7 +105,7 @@
         "insert": "AIDL Audio HAL | Android Open Source Project"
       },
       {
-        "insert": "\n\n "
+        "insert": "\n\n\n\n "
       },
       {
         "attributes": {
@@ -227,5 +236,5 @@
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-06-17T02:50:41.786279Z",
-  "updated_at": "2026-07-01T11:15:21.783353Z"
+  "updated_at": "2026-07-01T11:53:32.621680Z"
 }
