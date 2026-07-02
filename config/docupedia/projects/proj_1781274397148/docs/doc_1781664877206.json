@@ -102,12 +102,90 @@
         "insert": "\"setGroupVolume\""
       },
       {
-        "insert": "\n\nThong LT @ 15:22 24/6/2026\n"
+        "insert": "\n\n \n\nMở file cấu hình shell của bạn (thường là "
+      },
+      {
+        "attributes": {
+          "code": true
+        },
+        "insert": "~/.bashrc"
+      },
+      {
+        "insert": " hoặc "
+      },
+      {
+        "attributes": {
+          "code": true
+        },
+        "insert": "~/.zshrc"
+      },
+      {
+        "insert": "): "
+      },
+      {
+        "attributes": {
+          "code": true
+        },
+        "insert": "vi ~/.bashrc"
+      },
+      {
+        "insert": "\n# Tìm file nhanh trong thư mục hiện tại"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "alias findf='find . -name'"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "# Tìm thư mục"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "alias findd='find . -type d -name'"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "# Tìm kiếm nội dung trong file"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "alias findt='grep -rnw \".\" -e'"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
       }
     ]
   },
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-06-17T02:54:37.206879Z",
-  "updated_at": "2026-07-01T09:49:58.945299Z"
+  "updated_at": "2026-07-02T07:39:47.312159Z"
 }
