@@ -1,0 +1,17 @@
+{
+  "id": "doc_1783324796324",
+  "type": "file",
+  "title": "01 Thong Le",
+  "parent_id": "folder_1783324784947",
+  "content": {
+    "ops": [
+      {
+        "insert": "CCCD 05100013034\n"
+      }
+    ]
+  },
+  "created_by": "user_admin",
+  "updated_by": "user_admin",
+  "created_at": "2026-07-06T07:59:56.324942Z",
+  "updated_at": "2026-07-06T08:01:43.648171Z"
+}

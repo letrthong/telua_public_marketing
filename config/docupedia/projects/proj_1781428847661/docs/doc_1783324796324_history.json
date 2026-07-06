@@ -1,0 +1,29 @@
+{
+  "doc_id": "doc_1783324796324",
+  "history": [
+    {
+      "id": "hist_1783324796329",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "create",
+      "timestamp": "2026-07-06T07:59:56.329531Z",
+      "details": {
+        "title": "01 Thong Le"
+      }
+    },
+    {
+      "id": "hist_1783324903652",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-07-06T08:01:43.652595Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    }
+  ]
+}
