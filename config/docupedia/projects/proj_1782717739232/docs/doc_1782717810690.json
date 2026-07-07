@@ -1,8 +1,8 @@
 {
   "id": "doc_1782717810690",
   "type": "file",
-  "title": "01. Học Lý Thuyết",
-  "parent_id": "folder_1782717791747",
+  "title": "01. Yêu cầu",
+  "parent_id": "folder_1783424906149",
   "content": {
     "ops": [
       {
@@ -40,11 +40,21 @@
       },
       {
         "insert": "\n"
+      },
+      {
+        "attributes": {
+          "color": "#e60000",
+          "italic": true
+        },
+        "insert": "Nên dùng trình duyệt chrome"
+      },
+      {
+        "insert": "\n"
       }
     ]
   },
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-06-29T07:23:30.690408Z",
-  "updated_at": "2026-07-01T01:42:31.950987Z"
+  "updated_at": "2026-07-07T11:49:25.535679Z"
 }

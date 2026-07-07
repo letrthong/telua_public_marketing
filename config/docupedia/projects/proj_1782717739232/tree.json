@@ -15,14 +15,14 @@
       "type": "folder",
       "title": "30 Học Lái xe bằng B",
       "children": [
-        "doc_1782717810690",
-        "doc_1782718522451"
+        "doc_1782718522451",
+        "folder_1783424906149"
       ]
     },
     "doc_1782717810690": {
       "id": "doc_1782717810690",
       "type": "file",
-      "title": "01. Học Lý Thuyết"
+      "title": "01. Yêu cầu"
     },
     "doc_1782718522451": {
       "id": "doc_1782718522451",
@@ -63,7 +63,15 @@
       "id": "doc_1782793058149",
       "type": "file",
       "title": "01 Cơ bản"
+    },
+    "folder_1783424906149": {
+      "id": "folder_1783424906149",
+      "type": "folder",
+      "title": "01 Học Lý Thuyết",
+      "children": [
+        "doc_1782717810690"
+      ]
     }
   },
-  "updated_at": "2026-07-01T01:42:31.954349Z"
+  "updated_at": "2026-07-07T11:49:25.536353Z"
 }
