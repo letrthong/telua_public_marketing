@@ -1,17 +1,80 @@
 {
   "id": "doc_1783483129684",
   "type": "file",
-  "title": "02 Các tiều đề",
+  "title": "02 Luật cơ bản",
   "parent_id": "folder_1783424906149",
   "content": {
     "ops": [
       {
-        "insert": "1/  Tín hiệu\n2/ Vượt xe\n3/ Phương tiện \n4/ Người điều khiển  phương tiện\n5/ Giấy phép lái xe: A, B, C, D ...\n--> B: xe oto 8 chỗ, xe tải nhỏ dưới 3500kg ... \n6/ Tuổi, sức khỏe lái xe\n"
+        "insert": "1/  Tín hiệu\n\n2/ Vượt xe\n"
+      },
+      {
+        "attributes": {
+          "link": "https://csgt-congan.hochiminhcity.gov.vn/wps/portal/Home/trang-chu/noi-dung-chi-tiet/tin-giao-thong/cla_050920252#:~:text=C%C4%83n%20c%E1%BB%A9%20theo%20%C4%90i%E1%BB%81u%2014%20Lu%E1%BA%ADt%20Tr%E1%BA%ADt%20t%E1%BB%B1%2C,%C4%91%E1%BB%83%20di%20chuy%E1%BB%83n%20l%C3%AAn%20tr%C6%B0%E1%BB%9Bc%20xe%20ph%C3%ADa%20tr%C6%B0%E1%BB%9Bc%E2%80%9D"
+        },
+        "insert": "Trang thông tin điện tử Phòng cảnh sát giao thông TPHCM"
+      },
+      {
+        "insert": "\n3/ Phương tiện \n"
+      },
+      {
+        "attributes": {
+          "link": "https://m.thuvienphapluat.vn/van-ban/Giao-thong-Van-tai/Thong-tu-dau-hieu-nhan-biet-xe-co-gioi-su-dung-nang-luong-sach-nang-luong-xanh-than-thien-moi-truong-624420.aspx"
+        },
+        "insert": "Thông tư 53/2024/TT-BGTVT quy định về phân loại phương tiện giao thông đường bộ và dấu hiệu nhận biết xe cơ giới sử dụng năng lượng sạch, năng lượng xanh, thân thiện môi trường do Bộ trưởng Bộ Giao thông vận tải ban hành"
+      },
+      {
+        "insert": "\n4/ Người điều khiển  phương tiện\n"
+      },
+      {
+        "attributes": {
+          "link": "https://thuvienphapluat.vn/phap-luat/ho-tro-phap-luat/nguoi-dieu-khien-phuong-tien-tham-gia-giao-thong-gom-nhung-doi-tuong-nao-theo-quy-dinh-phap-luat-728976-236628.html"
+        },
+        "insert": "Người điều khiển phương tiện tham gia giao thông gồm những đối tượng nào theo quy định pháp luật?"
+      },
+      {
+        "insert": "\n5/ Giấy phép lái xe: A, B, C, D ...\n"
+      },
+      {
+        "attributes": {
+          "link": "https://thuvienphapluat.vn/chinh-sach-phap-luat-moi/vn/iThong/106415/chi-tiet-15-hang-giay-phep-lai-xe-moi-nhat-nam-2026"
+        },
+        "insert": "Chi tiết 15 hạng giấy phép lái xe mới nhất năm 2026"
+      },
+      {
+        "insert": "\n6/ Tuổi, sức khỏe lái xe\n"
+      },
+      {
+        "attributes": {
+          "link": "https://thuvienphapluat.vn/van-ban/The-thao-Y-te/Thong-tu-36-2024-TT-BYT-tieu-chuan-suc-khoe-nguoi-dieu-khien-xe-may-chuyen-dung-622478.aspx"
+        },
+        "insert": "Thông tư 36/2024/TT-BYT về tiêu chuẩn sức khỏe người lái xe, người điều khiển xe máy chuyên dùng mới nhất"
+      },
+      {
+        "insert": "\n7/ Thời hạn của giấy phép lái xe\n "
+      },
+      {
+        "attributes": {
+          "link": "https://xaydungchinhsach.chinhphu.vn/quy-dinh-thoi-han-cua-giay-phep-lai-xe-119240812171308997.htm"
+        },
+        "insert": "Quy định về thời hạn của Giấy phép lái xe (bằng lái xe)"
+      },
+      {
+        "insert": "\n8/ Nồng độ cồn\n"
+      },
+      {
+        "attributes": {
+          "link": "https://bocongan.gov.vn/chinh-sach-phap-luat/bai-viet/cac-muc-xu-phat-vi-pham-nong-do-con-doi-voi-nguoi-dieu-khien-phuong-tien-giao-thong-d1-t1648"
+        },
+        "insert": "Các mức xử phạt vi phạm nồng độ cồn đối với người điều khiển phương tiện giao thông"
+      },
+      {
+        "insert": "\n\n"
       }
     ]
   },
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-07-08T03:58:49.684285Z",
-  "updated_at": "2026-07-08T07:31:34.045185Z"
+  "updated_at": "2026-07-08T08:55:50.402394Z"
 }

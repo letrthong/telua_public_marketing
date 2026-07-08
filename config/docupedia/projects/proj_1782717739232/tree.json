@@ -6,15 +6,14 @@
     "title": "Thư mục gốc",
     "children": [
       "folder_1782717791747",
-      "folder_1782792996140",
-      "folder_1783483019057"
+      "folder_1782792996140"
     ]
   },
   "nodes": {
     "folder_1782717791747": {
       "id": "folder_1782717791747",
       "type": "folder",
-      "title": "30 Học Lái xe bằng B",
+      "title": "30 Học Lái xe",
       "children": [
         "doc_1782718522451",
         "folder_1783424906149"
@@ -68,36 +67,29 @@
     "folder_1783424906149": {
       "id": "folder_1783424906149",
       "type": "folder",
-      "title": "01 Học Lý Thuyết",
+      "title": "01 Học Lý Thuyết bằng B",
       "children": [
         "doc_1782717810690",
         "doc_1783483129684",
-        "doc_1783495620502"
+        "doc_1783495620502",
+        "doc_1783500649419"
       ]
-    },
-    "folder_1783483019057": {
-      "id": "folder_1783483019057",
-      "type": "folder",
-      "title": "40 Tâm Linh",
-      "children": [
-        "doc_1783483035465"
-      ]
-    },
-    "doc_1783483035465": {
-      "id": "doc_1783483035465",
-      "type": "file",
-      "title": "01 Kinh Dịch"
     },
     "doc_1783483129684": {
       "id": "doc_1783483129684",
       "type": "file",
-      "title": "02 Các tiều đề"
+      "title": "02 Luật cơ bản"
     },
     "doc_1783495620502": {
       "id": "doc_1783495620502",
       "type": "file",
       "title": "03 Các biển báo"
+    },
+    "doc_1783500649419": {
+      "id": "doc_1783500649419",
+      "type": "file",
+      "title": "20 600 Câu trắc nghiệm"
     }
   },
-  "updated_at": "2026-07-08T07:31:34.108098Z"
+  "updated_at": "2026-07-08T08:55:51.210037Z"
 }

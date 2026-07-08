@@ -1,0 +1,29 @@
+{
+  "doc_id": "doc_1783500649419",
+  "history": [
+    {
+      "id": "hist_1783500649425",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "create",
+      "timestamp": "2026-07-08T08:50:49.425902Z",
+      "details": {
+        "title": "20 600 Câu trắc nghiệm"
+      }
+    },
+    {
+      "id": "hist_1783500718301",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-07-08T08:51:58.301817Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    }
+  ]
+}
