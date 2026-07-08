@@ -1,0 +1,29 @@
+{
+  "doc_id": "doc_1783483129684",
+  "history": [
+    {
+      "id": "hist_1783483129890",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "create",
+      "timestamp": "2026-07-08T03:58:49.890201Z",
+      "details": {
+        "title": "02 Các tiều đề"
+      }
+    },
+    {
+      "id": "hist_1783483163407",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-07-08T03:59:23.407705Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "doc_1783483035465",
+  "type": "file",
+  "title": "01 Kinh Dịch",
+  "parent_id": "folder_1783483019057",
+  "content": {
+    "ops": [
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "\"Đức năng thắng số\""
+      },
+      {
+        "insert": " (Đức độ có khả năng  thay đổi vận số).\n"
+      }
+    ]
+  },
+  "created_by": "user_admin",
+  "updated_by": "user_admin",
+  "created_at": "2026-07-08T03:57:15.465317Z",
+  "updated_at": "2026-07-08T04:10:14.664295Z"
+}

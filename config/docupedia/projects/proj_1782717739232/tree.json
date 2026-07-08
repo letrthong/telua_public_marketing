@@ -6,7 +6,8 @@
     "title": "Thư mục gốc",
     "children": [
       "folder_1782717791747",
-      "folder_1782792996140"
+      "folder_1782792996140",
+      "folder_1783483019057"
     ]
   },
   "nodes": {
@@ -69,9 +70,28 @@
       "type": "folder",
       "title": "01 Học Lý Thuyết",
       "children": [
-        "doc_1782717810690"
+        "doc_1782717810690",
+        "doc_1783483129684"
       ]
+    },
+    "folder_1783483019057": {
+      "id": "folder_1783483019057",
+      "type": "folder",
+      "title": "40 Tâm Linh",
+      "children": [
+        "doc_1783483035465"
+      ]
+    },
+    "doc_1783483035465": {
+      "id": "doc_1783483035465",
+      "type": "file",
+      "title": "01 Kinh Dịch"
+    },
+    "doc_1783483129684": {
+      "id": "doc_1783483129684",
+      "type": "file",
+      "title": "02 Các tiều đề"
     }
   },
-  "updated_at": "2026-07-07T11:49:25.536353Z"
+  "updated_at": "2026-07-08T04:10:14.767839Z"
 }

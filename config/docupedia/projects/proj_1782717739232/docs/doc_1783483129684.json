@@ -1,0 +1,17 @@
+{
+  "id": "doc_1783483129684",
+  "type": "file",
+  "title": "02 Các tiều đề",
+  "parent_id": "folder_1783424906149",
+  "content": {
+    "ops": [
+      {
+        "insert": "1/  Tín hiệu\n2/ Vượt xe\n"
+      }
+    ]
+  },
+  "created_by": "user_admin",
+  "updated_by": "user_admin",
+  "created_at": "2026-07-08T03:58:49.684285Z",
+  "updated_at": "2026-07-08T03:59:23.402952Z"
+}
