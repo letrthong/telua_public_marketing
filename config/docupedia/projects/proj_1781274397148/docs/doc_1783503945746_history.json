@@ -1,0 +1,61 @@
+{
+  "doc_id": "doc_1783503945746",
+  "history": [
+    {
+      "id": "hist_1783503946031",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "create",
+      "timestamp": "2026-07-08T09:45:46.031679Z",
+      "details": {
+        "title": "21 Java style guide"
+      }
+    },
+    {
+      "id": "hist_1783503956727",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-07-08T09:45:56.727470Z",
+      "details": {
+        "changes": {
+          "title": {
+            "old": "21 Java style guide",
+            "new": "22Java style guide"
+          }
+        }
+      }
+    },
+    {
+      "id": "hist_1783503967528",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-07-08T09:46:07.528566Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1783503990145",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-07-08T09:46:30.145890Z",
+      "details": {
+        "changes": {
+          "title": {
+            "old": "22Java style guide",
+            "new": "22 Java style guide"
+          }
+        }
+      }
+    }
+  ]
+}
