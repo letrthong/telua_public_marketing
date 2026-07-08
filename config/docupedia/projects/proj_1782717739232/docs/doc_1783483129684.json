@@ -6,12 +6,12 @@
   "content": {
     "ops": [
       {
-        "insert": "1/  Tín hiệu\n2/ Vượt xe\n"
+        "insert": "1/  Tín hiệu\n2/ Vượt xe\n3/ Phương tiện \n4/ Người điều khiển  phương tiện\n5/ Giấy phép lái xe\n"
       }
     ]
   },
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-07-08T03:58:49.684285Z",
-  "updated_at": "2026-07-08T03:59:23.402952Z"
+  "updated_at": "2026-07-08T07:13:09.112914Z"
 }
