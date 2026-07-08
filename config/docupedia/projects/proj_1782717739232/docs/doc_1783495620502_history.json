@@ -1,0 +1,16 @@
+{
+  "doc_id": "doc_1783495620502",
+  "history": [
+    {
+      "id": "hist_1783495620623",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "create",
+      "timestamp": "2026-07-08T07:27:00.623866Z",
+      "details": {
+        "title": "03 Các biển báo"
+      }
+    }
+  ]
+}
