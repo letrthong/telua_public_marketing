@@ -1,0 +1,17 @@
+[
+    {
+        "id": "c48314ae-adff-4584-bf4e-34372e01fe2c",
+        "name": "Test",
+        "phone": "12356044",
+        "lat": 10.7900774,
+        "lng": 106.6395564,
+        "message": "Cần hỗ trợ thức ăn, nước uống",
+        "urgency": "medium",
+        "status": "resolved",
+        "createdAt": "2026-07-09T16:51:20.342645+00:00",
+        "updatedAt": "2026-07-09T16:51:49.201361+00:00",
+        "reporterIp": "172.23.0.4",
+        "deviceId": "bce9c0a5-6a2a-4f89-913c-8337804ceb6f",
+        "hasImage": false
+    }
+]
