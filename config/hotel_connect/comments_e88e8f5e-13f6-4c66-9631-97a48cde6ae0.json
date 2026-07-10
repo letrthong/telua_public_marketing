@@ -5,5 +5,12 @@
         "message": "Hi",
         "createdAt": "2026-07-10T02:21:23.046242+00:00",
         "isAdmin": true
+    },
+    {
+        "id": "28122991-b126-4b27-9e74-1089821e0de9",
+        "author": "Người báo tin",
+        "message": "Hi",
+        "createdAt": "2026-07-10T02:32:13.658095+00:00",
+        "isAdmin": false
     }
 ]
