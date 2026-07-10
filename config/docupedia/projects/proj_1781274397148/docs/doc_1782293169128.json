@@ -6,7 +6,17 @@
   "content": {
     "ops": [
       {
-        "insert": "...\nDocker lib in Python \n"
+        "insert": " \n"
+      },
+      {
+        "attributes": {
+          "color": "#0066cc",
+          "bold": true
+        },
+        "insert": "1 Docker lib in Python "
+      },
+      {
+        "insert": "\n"
       },
       {
         "attributes": {
@@ -15,12 +25,107 @@
         "insert": "https://pypi.org/project/docker/"
       },
       {
-        "insert": "\n\n...\n"
+        "insert": "\n\n"
+      },
+      {
+        "attributes": {
+          "color": "#0066cc",
+          "bold": true
+        },
+        "insert": "2 Install Docker"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "link": "https://github.com/letrthong/redis"
+        },
+        "insert": "letrthong/redis"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "color": "#0066cc"
+        },
+        "insert": " "
+      },
+      {
+        "attributes": {
+          "color": "#0066cc",
+          "bold": true
+        },
+        "insert": "3 Add your user to the "
+      },
+      {
+        "attributes": {
+          "bold": true,
+          "color": "#0066cc",
+          "code": true
+        },
+        "insert": "docker"
+      },
+      {
+        "attributes": {
+          "color": "#0066cc",
+          "bold": true
+        },
+        "insert": " group"
+      },
+      {
+        "insert": "\nCreate the docker group (if it doesn't already exist):\nsudo groupadd docker"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Add your user to the group:\nsudo usermod -aG docker $USER "
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Apply the changes:\nnewgrp docker"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "  Restart docker\nsudo systemctl start docker"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": "systemctl status docker"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "\n\n\n\n"
       }
     ]
   },
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-06-24T09:26:09.128874Z",
-  "updated_at": "2026-06-25T04:26:58.714109Z"
+  "updated_at": "2026-07-10T10:22:44.964485Z"
 }
