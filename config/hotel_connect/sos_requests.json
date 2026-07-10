@@ -1,1 +1,17 @@
-[]
+[
+    {
+        "id": "e88e8f5e-13f6-4c66-9631-97a48cde6ae0",
+        "name": "R",
+        "phone": "123456",
+        "lat": 10.789855,
+        "lng": 106.6396158,
+        "message": "Cần hỗ trợ thức ăn, nước uống",
+        "urgency": "medium",
+        "status": "pending",
+        "createdAt": "2026-07-10T01:56:57.888893+00:00",
+        "updatedAt": "2026-07-10T01:56:57.888893+00:00",
+        "reporterIp": "172.18.0.4",
+        "deviceId": "40f460d5-43ea-4e00-bc22-a24256bee68a",
+        "hasImage": false
+    }
+]
