@@ -26,5 +26,12 @@
         "message": "Glhi",
         "createdAt": "2026-07-11T04:13:41.957754+00:00",
         "isAdmin": true
+    },
+    {
+        "id": "eed8cd79-4ce1-44a2-bc77-a0fc760e1aa1",
+        "author": "Người báo tin",
+        "message": "Hi",
+        "createdAt": "2026-07-11T05:31:59.056872+00:00",
+        "isAdmin": false
     }
 ]
