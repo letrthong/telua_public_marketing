@@ -19,5 +19,12 @@
         "message": "Đang xử lí",
         "createdAt": "2026-07-10T03:03:36.965405+00:00",
         "isAdmin": true
+    },
+    {
+        "id": "c5c3f965-cf85-4853-915c-692ee0961424",
+        "author": "Cứu hộ (Ban chỉ huy)",
+        "message": "Glhi",
+        "createdAt": "2026-07-11T04:13:41.957754+00:00",
+        "isAdmin": true
     }
 ]
