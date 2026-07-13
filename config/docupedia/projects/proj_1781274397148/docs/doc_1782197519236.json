@@ -27,12 +27,148 @@
         "insert": "  "
       },
       {
-        "insert": "https://cs.android.com/android/platform/superproject/main\n"
+        "insert": "https://cs.android.com/android/platform/superproject/main\n\n"
+      },
+      {
+        "attributes": {
+          "link": "https://scrcpy.dev/#download"
+        },
+        "insert": "Scrcpy - Free Android Screen Mirroring | Display & Control Android on PC"
+      },
+      {
+        "insert": "\n\n\n"
+      },
+      {
+        "attributes": {
+          "col": {
+            "tableId": "ure2i20uqvd",
+            "colId": "j31sfenou1",
+            "width": "50%",
+            "full": true
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "col": {
+            "tableId": "ure2i20uqvd",
+            "colId": "ow5tt1f6by",
+            "width": "50%",
+            "full": true
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "ure2i20uqvd",
+            "rowId": "emkbe12j1e",
+            "colId": "j31sfenou1",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "ure2i20uqvd",
+            "rowId": "emkbe12j1e",
+            "colId": "ow5tt1f6by",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "ure2i20uqvd",
+            "rowId": "16pnerclmvv",
+            "colId": "j31sfenou1",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "adb devices"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "ure2i20uqvd",
+            "rowId": "16pnerclmvv",
+            "colId": "ow5tt1f6by",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "ure2i20uqvd",
+            "rowId": "2ytoy9zviib",
+            "colId": "j31sfenou1",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "adb shell"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "ure2i20uqvd",
+            "rowId": "2ytoy9zviib",
+            "colId": "ow5tt1f6by",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "ure2i20uqvd",
+            "rowId": "xn7y1le6kyc",
+            "colId": "j31sfenou1",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "ure2i20uqvd",
+            "rowId": "xn7y1le6kyc",
+            "colId": "ow5tt1f6by",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "\n"
       }
     ]
   },
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-06-23T06:51:59.236546Z",
-  "updated_at": "2026-06-25T07:11:39.246390Z"
+  "updated_at": "2026-07-13T04:14:57.009039Z"
 }
