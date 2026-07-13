@@ -1,7 +1,7 @@
 {
   "id": "doc_1781664877206",
   "type": "file",
-  "title": "02 cli",
+  "title": "02 Cli",
   "parent_id": "folder_1781664831259",
   "content": {
     "ops": [
@@ -219,5 +219,5 @@
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-06-17T02:54:37.206879Z",
-  "updated_at": "2026-07-03T14:48:39.601814Z"
+  "updated_at": "2026-07-13T07:03:33.001135Z"
 }

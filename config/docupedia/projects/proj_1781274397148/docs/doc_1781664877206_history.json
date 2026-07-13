@@ -91,6 +91,22 @@
           "content": "Nội dung tài liệu được cập nhật"
         }
       }
+    },
+    {
+      "id": "hist_1783926215388",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-07-13T07:03:35.388309Z",
+      "details": {
+        "changes": {
+          "title": {
+            "old": "02 cli",
+            "new": "02 Cli"
+          }
+        }
+      }
     }
   ]
 }
