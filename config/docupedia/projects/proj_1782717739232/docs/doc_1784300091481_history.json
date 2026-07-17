@@ -24,6 +24,22 @@
           "content": "Nội dung tài liệu được cập nhật"
         }
       }
+    },
+    {
+      "id": "hist_1784301172169",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-07-17T15:12:52.169613Z",
+      "details": {
+        "changes": {
+          "title": {
+            "old": "12 Các biển báo hiệu lệnh",
+            "new": "12 Biển báo hiệu lệnh"
+          }
+        }
+      }
     }
   ]
 }

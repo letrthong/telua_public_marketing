@@ -1,13 +1,44 @@
 {
   "id": "doc_1784300127154",
   "type": "file",
-  "title": "13 Các biển báo chỉ dẫn",
+  "title": "13 Biển báo chỉ dẫn",
   "parent_id": "folder_1783424906149",
   "content": {
-    "ops": []
+    "ops": [
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Biển báo chỉ dẫn:"
+      },
+      {
+        "insert": " Hình vuông hoặc chữ nhật, nền xanh. Biển cung cấp hướng đi hoặc thông tin cần thiết."
+      },
+      {
+        "attributes": {
+          "blockquote": true
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Biển phụ:"
+      },
+      {
+        "insert": " Hình chữ nhật hoặc vuông. Biển nằm ngay dưới biển chính. Biển giải thích rõ thêm cho biển chính "
+      },
+      {
+        "attributes": {
+          "blockquote": true
+        },
+        "insert": "\n"
+      }
+    ]
   },
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-07-17T14:55:27.154813Z",
-  "updated_at": "2026-07-17T14:55:27.154813Z"
+  "updated_at": "2026-07-17T15:12:37.454751Z"
 }

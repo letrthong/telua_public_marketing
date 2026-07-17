@@ -27,6 +27,22 @@
           }
         }
       }
+    },
+    {
+      "id": "hist_1784301079164",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-07-17T15:11:19.164319Z",
+      "details": {
+        "changes": {
+          "title": {
+            "old": "14 Các vạch kẻ đường",
+            "new": "15 Các vạch kẻ đường"
+          }
+        }
+      }
     }
   ]
 }

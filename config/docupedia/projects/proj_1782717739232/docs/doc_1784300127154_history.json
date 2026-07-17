@@ -11,6 +11,35 @@
       "details": {
         "title": "13 Các biển báo chỉ dẫn"
       }
+    },
+    {
+      "id": "hist_1784301067362",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-07-17T15:11:07.362278Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1784301157459",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-07-17T15:12:37.459034Z",
+      "details": {
+        "changes": {
+          "title": {
+            "old": "13 Các biển báo chỉ dẫn",
+            "new": "13 Biển báo chỉ dẫn"
+          }
+        }
+      }
     }
   ]
 }

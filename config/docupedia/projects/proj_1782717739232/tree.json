@@ -88,7 +88,7 @@
     "doc_1783495620502": {
       "id": "doc_1783495620502",
       "type": "file",
-      "title": "10 Các biển báo Cấm"
+      "title": "10 Biển báo Cấm"
     },
     "doc_1783500649419": {
       "id": "doc_1783500649419",
@@ -98,28 +98,28 @@
     "doc_1784300062966": {
       "id": "doc_1784300062966",
       "type": "file",
-      "title": "11 Các biển báo nguy hiểm"
+      "title": "11 Biển báo nguy hiểm"
     },
     "doc_1784300091481": {
       "id": "doc_1784300091481",
       "type": "file",
-      "title": "12 Các biển báo hiệu lệnh"
+      "title": "12 Biển báo hiệu lệnh"
     },
     "doc_1784300127154": {
       "id": "doc_1784300127154",
       "type": "file",
-      "title": "13 Các biển báo chỉ dẫn"
+      "title": "13 Biển báo chỉ dẫn"
     },
     "doc_1784300161651": {
       "id": "doc_1784300161651",
       "type": "file",
-      "title": "14 Các vạch kẻ đường"
+      "title": "15 Các vạch kẻ đường"
     },
     "doc_1784300177362": {
       "id": "doc_1784300177362",
       "type": "file",
-      "title": "15 Biển báo trên đường cao tốc"
+      "title": "14 Biển báo trên đường cao tốc"
     }
   },
-  "updated_at": "2026-07-17T15:09:11.057827Z"
+  "updated_at": "2026-07-17T15:13:22.549995Z"
 }

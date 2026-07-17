@@ -232,6 +232,22 @@
           "content": "Nội dung tài liệu được cập nhật"
         }
       }
+    },
+    {
+      "id": "hist_1784301203207",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-07-17T15:13:23.207322Z",
+      "details": {
+        "changes": {
+          "title": {
+            "old": "10 Các biển báo Cấm",
+            "new": "10 Biển báo Cấm"
+          }
+        }
+      }
     }
   ]
 }

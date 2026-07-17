@@ -24,6 +24,22 @@
           "content": "Nội dung tài liệu được cập nhật"
         }
       }
+    },
+    {
+      "id": "hist_1784301185991",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-07-17T15:13:05.991236Z",
+      "details": {
+        "changes": {
+          "title": {
+            "old": "11 Các biển báo nguy hiểm",
+            "new": "11 Biển báo nguy hiểm"
+          }
+        }
+      }
     }
   ]
 }

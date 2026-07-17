@@ -11,6 +11,22 @@
       "details": {
         "title": "15 Biển báo trên đường cao tốc"
       }
+    },
+    {
+      "id": "hist_1784301098573",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-07-17T15:11:38.573167Z",
+      "details": {
+        "changes": {
+          "title": {
+            "old": "15 Biển báo trên đường cao tốc",
+            "new": "14 Biển báo trên đường cao tốc"
+          }
+        }
+      }
     }
   ]
 }
