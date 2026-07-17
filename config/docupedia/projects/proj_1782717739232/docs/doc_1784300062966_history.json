@@ -1,0 +1,29 @@
+{
+  "doc_id": "doc_1784300062966",
+  "history": [
+    {
+      "id": "hist_1784300062967",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "create",
+      "timestamp": "2026-07-17T14:54:22.967806Z",
+      "details": {
+        "title": "11 Các biển báo nguy hiểm"
+      }
+    },
+    {
+      "id": "hist_1784300917777",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-07-17T15:08:37.777247Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    }
+  ]
+}

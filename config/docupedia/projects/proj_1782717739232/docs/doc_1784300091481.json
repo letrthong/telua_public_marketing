@@ -1,0 +1,32 @@
+{
+  "id": "doc_1784300091481",
+  "type": "file",
+  "title": "12 Các biển báo hiệu lệnh",
+  "parent_id": "folder_1783424906149",
+  "content": {
+    "ops": [
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Biển báo hiệu lệnh:"
+      },
+      {
+        "insert": " Hình tròn, nền xanh. Biển chỉ dẫn các điều bắt buộc phải làm. Ví dụ như phải đi thẳng hoặc rẽ phải."
+      },
+      {
+        "attributes": {
+          "blockquote": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "...\n...\n\n"
+      }
+    ]
+  },
+  "created_by": "user_admin",
+  "updated_by": "user_admin",
+  "created_at": "2026-07-17T14:54:51.481956Z",
+  "updated_at": "2026-07-17T15:09:10.560705Z"
+}

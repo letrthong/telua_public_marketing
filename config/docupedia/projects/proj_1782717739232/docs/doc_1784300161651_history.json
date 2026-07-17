@@ -1,0 +1,32 @@
+{
+  "doc_id": "doc_1784300161651",
+  "history": [
+    {
+      "id": "hist_1784300161655",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "create",
+      "timestamp": "2026-07-17T14:56:01.655070Z",
+      "details": {
+        "title": "14 Vạch kẻ đường"
+      }
+    },
+    {
+      "id": "hist_1784300420558",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-07-17T15:00:20.558311Z",
+      "details": {
+        "changes": {
+          "title": {
+            "old": "14 Vạch kẻ đường",
+            "new": "14 Các vạch kẻ đường"
+          }
+        }
+      }
+    }
+  ]
+}

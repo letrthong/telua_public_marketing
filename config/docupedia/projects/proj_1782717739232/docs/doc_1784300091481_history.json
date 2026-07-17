@@ -1,0 +1,29 @@
+{
+  "doc_id": "doc_1784300091481",
+  "history": [
+    {
+      "id": "hist_1784300091486",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "create",
+      "timestamp": "2026-07-17T14:54:51.486376Z",
+      "details": {
+        "title": "12 Các biển báo hiệu lệnh"
+      }
+    },
+    {
+      "id": "hist_1784300951058",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-07-17T15:09:11.058588Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    }
+  ]
+}
