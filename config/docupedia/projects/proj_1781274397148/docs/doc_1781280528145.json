@@ -33,12 +33,45 @@
         "insert": "\n"
       },
       {
-        "insert": "\n\n"
+        "insert": "\ngit amend\n# Edit and stage the missing file"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "git add missing_file.py"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n\n"
+      },
+      {
+        "insert": "# Amend the last commit to include the staged file"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "git commit --amend --no-edit"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
       }
     ]
   },
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-06-12T16:08:48.145458Z",
-  "updated_at": "2026-07-10T05:15:24.246065Z"
+  "updated_at": "2026-07-20T07:09:35.555078Z"
 }
