@@ -40,6 +40,32 @@
           }
         }
       }
+    },
+    {
+      "id": "hist_1784603920471",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-07-21T03:18:40.471591Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1784603968161",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-07-21T03:19:28.161101Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
     }
   ]
 }
