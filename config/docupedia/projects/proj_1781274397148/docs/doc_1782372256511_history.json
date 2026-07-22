@@ -1,0 +1,35 @@
+{
+  "doc_id": "doc_1782372256511",
+  "history": [
+    {
+      "id": "hist_1784690429143",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-07-22T03:20:29.143578Z",
+      "details": {
+        "changes": {
+          "title": {
+            "old": "44 Android cts",
+            "new": "44 Android cts vts atest"
+          },
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1784691223323",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-07-22T03:33:43.323340Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    }
+  ]
+}

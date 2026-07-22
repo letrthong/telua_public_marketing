@@ -1,13 +1,182 @@
 {
   "id": "doc_1782372256511",
   "type": "file",
-  "title": "44 Android cts",
+  "title": "44 Android cts vts atest",
   "parent_id": "folder_1781663299075",
   "content": {
-    "ops": []
+    "ops": [
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "1/ cts"
+      },
+      {
+        "insert": "\n....\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "2/ vts"
+      },
+      {
+        "insert": "\n...\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "3/ atest"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "link": "https://github.com/letrthong/android/blob/main/BtSendBroadcast.java"
+        },
+        "insert": "android/BtSendBroadcast.java at main · letrthong/android"
+      },
+      {
+        "insert": "\n\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "4/ References"
+      },
+      {
+        "insert": "\n\n"
+      },
+      {
+        "attributes": {
+          "col": {
+            "tableId": "y3lbzthid6c",
+            "colId": "d6rwn4pb3p5",
+            "width": "50%",
+            "full": true
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "col": {
+            "tableId": "y3lbzthid6c",
+            "colId": "ltb1uo87ni",
+            "width": "50%",
+            "full": true
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "link": "https://developer.android.com/studio/platform/test"
+        },
+        "insert": "Test platform code with atest | Android Studio for Platform | Android Developers"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "y3lbzthid6c",
+            "rowId": "zlkhbmhbin9",
+            "colId": "d6rwn4pb3p5",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "color": "#202124"
+        },
+        "insert": "Android Studio for Platform (ASfP) integrates with the "
+      },
+      {
+        "attributes": {
+          "color": "#37474f",
+          "background": "#f8f9fa",
+          "code": true
+        },
+        "insert": "atest"
+      },
+      {
+        "attributes": {
+          "color": "#202124"
+        },
+        "insert": " command-line tool, letting you run tests on your connected device or emulator directly from the IDE."
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "y3lbzthid6c",
+            "rowId": "zlkhbmhbin9",
+            "colId": "ltb1uo87ni",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "y3lbzthid6c",
+            "rowId": "nf70ygvsvlm",
+            "colId": "d6rwn4pb3p5",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "y3lbzthid6c",
+            "rowId": "nf70ygvsvlm",
+            "colId": "ltb1uo87ni",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "y3lbzthid6c",
+            "rowId": "qwt3gcm02lq",
+            "colId": "d6rwn4pb3p5",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "y3lbzthid6c",
+            "rowId": "qwt3gcm02lq",
+            "colId": "ltb1uo87ni",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "\n"
+      }
+    ]
   },
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-06-25T07:24:16.511717Z",
-  "updated_at": "2026-06-25T07:24:16.511717Z"
+  "updated_at": "2026-07-22T03:33:43.238293Z"
 }
