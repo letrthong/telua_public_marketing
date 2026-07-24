@@ -33,6 +33,24 @@
         "insert": "\n"
       },
       {
+        "insert": "\n Cấu hình mặc định luôn dùng VS-Code cho Git để amend  và đổi message\ngit config --global core.editor \"code --wait\""
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "git commit --amend -s"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
         "insert": "\ngit amend\n# Edit and stage the missing file"
       },
       {
@@ -67,11 +85,14 @@
           "code-block": true
         },
         "insert": "\n"
+      },
+      {
+        "insert": "\nCập nhập lúc 10:43 24/7/2026\n"
       }
     ]
   },
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-06-12T16:08:48.145458Z",
-  "updated_at": "2026-07-20T07:09:35.555078Z"
+  "updated_at": "2026-07-24T03:43:41.234974Z"
 }
