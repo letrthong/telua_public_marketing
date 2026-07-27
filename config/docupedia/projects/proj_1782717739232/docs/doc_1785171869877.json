@@ -1,0 +1,26 @@
+{
+  "id": "doc_1785171869877",
+  "type": "file",
+  "title": "04 Luật giao thông",
+  "parent_id": "folder_1783424906149",
+  "content": {
+    "ops": [
+      {
+        "insert": "QCVN41:2024/BGTVT\n\n"
+      },
+      {
+        "attributes": {
+          "link": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/51-bgtvt-kem.pdf"
+        },
+        "insert": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/51-bgtvt-kem.pdf"
+      },
+      {
+        "insert": "\n\n \n.....\n"
+      }
+    ]
+  },
+  "created_by": "user_admin",
+  "updated_by": "user_admin",
+  "created_at": "2026-07-27T17:04:29.877393Z",
+  "updated_at": "2026-07-27T17:10:12.929986Z"
+}
