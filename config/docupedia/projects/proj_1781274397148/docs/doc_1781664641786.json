@@ -141,7 +141,27 @@
         "insert": "AIDL Audio HAL | Android Open Source Project"
       },
       {
-        "insert": "\n\n\n\n "
+        "insert": "\n\n"
+      },
+      {
+        "attributes": {
+          "font": "monospace",
+          "background": "rgba(0, 0, 0, 0)",
+          "color": "#0000ff"
+        },
+        "insert": "onKeyEvent"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "link": "https://cs.android.com/android/platform/superproject/+/android-latest-release:packages/services/Car/service/src/com/android/car/audio/CarAudioService.java;l=307?q=KeyEventListener%20mCarKeyEventListener&ss=android%2Fplatform%2Fsuperproject"
+        },
+        "insert": "CarAudioService.java - Android Code Search"
+      },
+      {
+        "insert": "\n\n "
       },
       {
         "attributes": {
@@ -272,5 +292,5 @@
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-06-17T02:50:41.786279Z",
-  "updated_at": "2026-07-02T10:20:01.463471Z"
+  "updated_at": "2026-07-27T09:35:04.074347Z"
 }
