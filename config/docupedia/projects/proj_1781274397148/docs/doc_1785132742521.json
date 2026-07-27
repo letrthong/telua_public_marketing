@@ -1,0 +1,1061 @@
+{
+  "id": "doc_1785132742521",
+  "type": "file",
+  "title": "03 Strategy& Observer Pattern",
+  "parent_id": "folder_1782879295067",
+  "content": {
+    "ops": [
+      {
+        "insert": " Ngữ cảnh (Context) cho Strategy Pattern và "
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Subject"
+      },
+      {
+        "insert": " trong Observer Pattern.\n\n"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "#include <algorithm>"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "#include <iostream>"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "#include <memory>"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "#include <string>"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "#include <vector>"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": "// --- 1. OBSERVER PATTERN (Hệ thống thông báo) ---"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": "// Giao diện Observer"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": "class PaymentObserver {"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": " public:"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": " virtual ~PaymentObserver() = default;"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": " virtual void onPaymentCompleted(int amount, const std::string& method) = 0;"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "};"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": "// Observer cụ thể 1: Gửi Email xác nhận"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": "class EmailNotifier : public PaymentObserver {"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": " public:"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": " void onPaymentCompleted(int amount, const std::string& method) override {"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "  std::cout << \"[Email Service] Sending receipt of \" << amount << \" via \""
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "       << method << \".\\n\";"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": " }"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "};"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": "// Observer cụ thể 2: Tích điểm thưởng khách hàng"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": "class RewardPointSystem : public PaymentObserver {"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": " public:"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": " void onPaymentCompleted(int amount, const std::string& method) override {"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "  int points = amount / 10; // Cứ 10 đơn vị tiền = 1 điểm"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": "  std::cout << \"[Reward System] Added \" << points"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "       << \" points to customer account.\\n\";"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": " }"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "};"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": "// --- 2. STRATEGY PATTERN (Thanh toán) ---"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": "class PaymentStrategy {"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": " public:"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": " virtual ~PaymentStrategy() = default;"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": " // Truyền thêm tên loại thanh toán để Observer dễ nhận biết"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": " virtual void pay(int amount) = 0;"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": " virtual std::string getMethodName() const = 0;"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "};"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": "class CreditCardPayment : public PaymentStrategy {"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": " public:"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": " void pay(int amount) override {"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "  std::cout << \"Paid \" << amount << \" using Credit Card.\\n\";"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": " }"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": " std::string getMethodName() const override { return \"Credit Card\"; }"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "};"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": "class PayPalPayment : public PaymentStrategy {"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": " public:"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": " void pay(int amount) override {"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "  std::cout << \"Paid \" << amount << \" using PayPal.\\n\";"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": " }"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": " std::string getMethodName() const override { return \"PayPal\"; }"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "};"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": "// --- 3. FACTORY PATTERN ---"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": "class PaymentFactory {"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": " public:"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": " static std::unique_ptr<PaymentStrategy> getStrategy(const std::string& type) {"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "  if (type == \"CARD\") return std::make_unique<CreditCardPayment>();"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": "  if (type == \"PAYPAL\") return std::make_unique<PayPalPayment>();"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": "  return nullptr;"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": " }"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "};"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": "// --- 4. CONTEXT (ShoppingCart kết hợp Subject của Observer) ---"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": "class ShoppingCart {"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": " private:"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": " std::unique_ptr<PaymentStrategy> strategy;"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": " std::vector<std::shared_ptr<PaymentObserver>>"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "   observers; // Danh sách người quan sát"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": " public:"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": " void setPaymentStrategy(std::unique_ptr<PaymentStrategy> s) {"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "  strategy = std::move(s);"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": " }"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": " // Đăng ký Observer"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": " void addObserver(std::shared_ptr<PaymentObserver> observer) {"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "  observers.push_back(observer);"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": " }"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": " // Hủy đăng ký Observer (nếu cần)"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": " void removeObserver(std::shared_ptr<PaymentObserver> observer) {"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "  observers.erase(std::remove(observers.begin(), observers.end(), observer),"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "          observers.end());"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": " }"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": " // Thông báo cho tất cả Observer"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": " void notifyObservers(int amount, const std::string& method) {"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "  for (const auto& observer : observers) {"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "   observer->onPaymentCompleted(amount, method);"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "  }"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": " }"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": " void checkout(int amount) {"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "  if (!strategy) {"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "   std::cout << \"Strategy not set!\\n\";"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": "   return;"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "  }"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": "  // 1. Thực hiện thanh toán bằng Strategy"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": "  strategy->pay(amount);"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": "  // 2. Kích hoạt thông báo tới các Observer sau khi thanh toán thành công"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": "  notifyObservers(amount, strategy->getMethodName());"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": " }"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "};"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": "// --- 5. CHƯƠNG TRÌNH CHÍNH ---"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": "int main() {"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": " ShoppingCart cart;"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": " // Đăng ký các Observer (Hệ thống Email và Hệ thống tích điểm)"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": " auto emailNotifier = std::make_shared<EmailNotifier>();"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": " auto rewardSystem = std::make_shared<RewardPointSystem>();"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": " cart.addObserver(emailNotifier);"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": " cart.addObserver(rewardSystem);"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": " // Giao dịch 1: Dùng CARD"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": " std::cout << \"--- Transaction 1 ---\\n\";"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": " cart.setPaymentStrategy(PaymentFactory::getStrategy(\"CARD\"));"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": " cart.checkout(100);"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": " std::cout << \"\\n--- Transaction 2 ---\\n\";"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": " // Giao dịch 2: Dùng PAYPAL"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": " cart.setPaymentStrategy(PaymentFactory::getStrategy(\"PAYPAL\"));"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": " cart.checkout(200);"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": " return 0;"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "}"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "\n...\n"
+      }
+    ]
+  },
+  "created_by": "user_admin",
+  "updated_by": "user_admin",
+  "created_at": "2026-07-27T06:12:22.521706Z",
+  "updated_at": "2026-07-27T06:15:51.435047Z"
+}

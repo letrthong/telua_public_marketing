@@ -1,0 +1,29 @@
+{
+  "doc_id": "doc_1785133277779",
+  "history": [
+    {
+      "id": "hist_1785133278532",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "create",
+      "timestamp": "2026-07-27T06:21:18.532054Z",
+      "details": {
+        "title": "04 Factory _ Strategy _ Observer"
+      }
+    },
+    {
+      "id": "hist_1785133364731",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-07-27T06:22:44.731050Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    }
+  ]
+}

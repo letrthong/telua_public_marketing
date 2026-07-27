@@ -1,0 +1,42 @@
+{
+  "doc_id": "doc_1785132742521",
+  "history": [
+    {
+      "id": "hist_1785132742716",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "create",
+      "timestamp": "2026-07-27T06:12:22.716857Z",
+      "details": {
+        "title": "03 Strategy& Observer Pattern"
+      }
+    },
+    {
+      "id": "hist_1785132854116",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-07-27T06:14:14.116914Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1785132952121",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-07-27T06:15:52.121598Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    }
+  ]
+}

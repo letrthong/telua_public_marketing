@@ -1,0 +1,1361 @@
+{
+  "id": "doc_1785133277779",
+  "type": "file",
+  "title": "04 Factory _ Strategy _ Observer",
+  "parent_id": "folder_1782879295067",
+  "content": {
+    "ops": [
+      {
+        "insert": " "
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Hệ thống xử lý đơn hàng và thanh toán cho một ứng dụng E-commerce "
+      },
+      {
+        "insert": "\nTrong hệ thống này:\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Factory:"
+      },
+      {
+        "insert": " Quyết định chọn cổng thanh toán nào dựa vào lựa chọn của khách hàng (Thẻ quốc tế, Ví điện tử MoMo, hoặc Chuyển khoản ngân hàng)."
+      },
+      {
+        "attributes": {
+          "list": "ordered"
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Strategy:"
+      },
+      {
+        "insert": " Thực hiện trừ tiền theo đặc thù của từng cổng thanh toán."
+      },
+      {
+        "attributes": {
+          "list": "ordered"
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Observer:"
+      },
+      {
+        "insert": " Sau khi thanh toán thành công, hệ thống tự động kích hoạt hàng loạt tác vụ ngầm: Gửi hóa đơn điện tử, trừ kho hàng (Inventory), và cộng điểm thành viên."
+      },
+      {
+        "attributes": {
+          "list": "ordered"
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": ".............\n#include <iostream>"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "#include <string>"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "#include <memory>"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "#include <vector>"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "#include <algorithm>"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n\n"
+      },
+      {
+        "insert": "// =========================================="
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "// 1. OBSERVER PATTERN (Hệ thống hậu kỳ sau thanh toán)"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "// =========================================="
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n\n"
+      },
+      {
+        "insert": "class OrderObserver {"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "public:"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "    virtual ~OrderObserver() = default;"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "    virtual void onOrderPaid(const std::string& orderId, int amount) = 0;"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "};"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n\n"
+      },
+      {
+        "insert": "// Gửi Email hóa đơn cho khách"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "class EmailInvoiceService : public OrderObserver {"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "public:"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "    void onOrderPaid(const std::string& orderId, int amount) override {"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "        std::cout << \"[Email Service] Sending digital invoice for Order #\" << orderId "
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "                  << \" with amount $\" << amount << \".\\n\";"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "    }"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "};"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n\n"
+      },
+      {
+        "insert": "// Cập nhật kho hàng (Giảm số lượng sản phẩm tồn kho)"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "class InventoryService : public OrderObserver {"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "public:"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "    void onOrderPaid(const std::string& orderId, int amount) override {"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "        std::cout << \"[Inventory Service] Deducting stock for items in Order #\" << orderId << \".\\n\";"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "    }"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "};"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n\n"
+      },
+      {
+        "insert": "// Cộng điểm tích lũy thành viên VIP"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "class VipPointService : public OrderObserver {"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "public:"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "    void onOrderPaid(const std::string& orderId, int amount) override {"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "        int rewardPoints = amount / 5; // 5 đô = 1 điểm VIP"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "        std::cout << \"[VIP Service] Awarded \" << rewardPoints << \" points to customer account.\\n\";"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "    }"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "};"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n\n\n\n"
+      },
+      {
+        "insert": "// =========================================="
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "// 2. STRATEGY PATTERN (Các cổng thanh toán)"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "// =========================================="
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n\n"
+      },
+      {
+        "insert": "class PaymentStrategy {"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "public:"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "    virtual ~PaymentStrategy() = default;"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "    virtual bool processPayment(int amount) = 0;"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "    virtual std::string getGatewayName() const = 0;"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "};"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n\n"
+      },
+      {
+        "insert": "// Thanh toán qua Stripe (Thẻ quốc tế)"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "class StripePayment : public PaymentStrategy {"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "public:"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "    bool processPayment(int amount) override {"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "        std::cout << \"[Stripe Gateway] Connecting to international bank... Charged $\" << amount << \" successfully.\\n\";"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "        return true;"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "    }"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "    std::string getGatewayName() const override { return \"Stripe\"; }"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "};"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n\n"
+      },
+      {
+        "insert": "// Thanh toán qua MoMo (Ví điện tử nội địa)"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "class MomoPayment : public PaymentStrategy {"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "public:"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "    bool processPayment(int amount) override {"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "        std::cout << \"[MoMo Gateway] Opening MoMo App QR code... Transferred $\" << amount << \" successfully.\\n\";"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "        return true;"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "    }"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "    std::string getGatewayName() const override { return \"MoMo Wallet\"; }"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "};"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n\n\n\n"
+      },
+      {
+        "insert": "// =========================================="
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "// 3. FACTORY PATTERN (Khởi tạo cổng thanh toán)"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "// =========================================="
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n\n"
+      },
+      {
+        "insert": "class PaymentFactory {"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "public:"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "    static std::unique_ptr<PaymentStrategy> createPaymentGateway(const std::string& methodType) {"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "        if (methodType == \"STRIPE\") {"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "            return std::make_unique<StripePayment>();"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "        } else if (methodType == \"MOMO\") {"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "            return std::make_unique<MomoPayment>();"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "        }"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "        return nullptr;"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "    }"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "};"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n\n\n\n"
+      },
+      {
+        "insert": "// =========================================="
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "// 4. CONTEXT (OrderProcessor quản lý đơn hàng & Observer)"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "// =========================================="
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n\n"
+      },
+      {
+        "insert": "class OrderProcessor {"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "private:"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "    std::unique_ptr<PaymentStrategy> paymentStrategy;"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "    std::vector<std::shared_ptr<OrderObserver>> observers;"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n\n"
+      },
+      {
+        "insert": "public:"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "    // Thiết lập phương thức thanh toán (Strategy)"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "    void setPaymentStrategy(std::unique_ptr<PaymentStrategy> strategy) {"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "        paymentStrategy = std::move(strategy);"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "    }"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n\n"
+      },
+      {
+        "insert": "    // Đăng ký dịch vụ lắng nghe (Observer)"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "    void registerObserver(std::shared_ptr<OrderObserver> observer) {"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "        observers.push_back(observer);"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "    }"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n\n"
+      },
+      {
+        "insert": "    // Phát thông báo khi đơn hàng thanh toán thành công"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "    void notifyAll(const std::string& orderId, int amount) {"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "        for (const auto& observer : observers) {"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "            observer->onOrderPaid(orderId, amount);"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "        }"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "    }"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n\n"
+      },
+      {
+        "insert": "    // Xử lý checkout toàn bộ đơn hàng"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "    void checkout(const std::string& orderId, int amount) {"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "        if (!paymentStrategy) {"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "            std::cout << \"[Error] No payment method selected for Order #\" << orderId << \"!\\n\";"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "            return;"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "        }"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n\n"
+      },
+      {
+        "insert": "        std::cout << \"--- Processing Order #\" << orderId << \" (Total: $\" << amount << \") ---\\n\";"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n\n"
+      },
+      {
+        "insert": "        // Bước 1: Thực hiện thanh toán qua Strategy"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "        bool success = paymentStrategy->processPayment(amount);"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n\n"
+      },
+      {
+        "insert": "        // Bước 2: Nếu thanh toán thành công, kích hoạt chuỗi Observer tự động"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "        if (success) {"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "            std::cout << \"-> Payment via \" << paymentStrategy->getGatewayName() << \" completed! Triggering background tasks...\\n\";"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "            notifyAll(orderId, amount);"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "        } else {"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "            std::cout << \"-> Payment failed! Order #\" << orderId << \" cancelled.\\n\";"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "        }"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "        std::cout << \"\\n\";"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "    }"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "};"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n\n\n\n"
+      },
+      {
+        "insert": "// =========================================="
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "// 5. CHƯƠNG TRÌNH CHÍNH (Mô phỏng khách mua hàng)"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "// =========================================="
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n\n"
+      },
+      {
+        "insert": "int main() {"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "    // Khởi tạo bộ xử lý đơn hàng"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "    OrderProcessor orderSystem;"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n\n"
+      },
+      {
+        "insert": "    // Đăng ký sẵn các hệ thống ngầm (Observers) vào hệ thống đơn hàng"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "    auto emailService = std::make_shared<EmailInvoiceService>();"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "    auto inventoryService = std::make_shared<InventoryService>();"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "    auto vipService = std::make_shared<VipPointService>();"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n\n"
+      },
+      {
+        "insert": "    orderSystem.registerObserver(emailService);"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "    orderSystem.registerObserver(inventoryService);"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "    orderSystem.registerObserver(vipService);"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n\n"
+      },
+      {
+        "insert": "    // --- KỊCH BẢN 1: Khách hàng A mua đơn hàng #ORD-101 và chọn thanh toán bằng MoMo ---"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "    std::string chosenMethodA = \"MOMO\";"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "    // Factory ra tay tạo đối tượng thanh toán dựa vào chuỗi cấu hình từ người dùng"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "    orderSystem.setPaymentStrategy(PaymentFactory::createPaymentGateway(chosenMethodA));"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "    orderSystem.checkout(\"ORD-101\", 150);"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n\n\n\n"
+      },
+      {
+        "insert": "    // --- KỊCH BẢN 2: Khách hàng B mua đơn hàng #ORD-102 và chọn thanh toán bằng Stripe ---"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "    std::string chosenMethodB = \"STRIPE\";"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "    // Factory tiếp tục tạo đối tượng thanh toán tương ứng"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "    orderSystem.setPaymentStrategy(PaymentFactory::createPaymentGateway(chosenMethodB));"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "    orderSystem.checkout(\"ORD-102\", 500);"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n\n"
+      },
+      {
+        "insert": "    return 0;"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "}"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "............\n"
+      }
+    ]
+  },
+  "created_by": "user_admin",
+  "updated_by": "user_admin",
+  "created_at": "2026-07-27T06:21:17.779252Z",
+  "updated_at": "2026-07-27T06:22:44.223566Z"
+}
