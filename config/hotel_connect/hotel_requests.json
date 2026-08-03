@@ -15,22 +15,5 @@
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&q=80&w=600",
         "lat": 10.797961636075549,
         "lng": 106.65425312561639
-    },
-    {
-        "id": "0bb58bb7-158f-4580-9b9c-e71714aca11d",
-        "name": "Bếp Xanh An Duyên",
-        "type": "restaurant",
-        "address": "MTAgTmd1eeG7hW4gVHJpIFBoxrDGoW5nLCBQNiwgUTUsIFRwSENN",
-        "phone": "MDI4IDIyMTIgOTk0Nw==",
-        "website": "aHR0cHM6Ly93d3cuYmVweGFuaGFuZHV5ZW4uY29t",
-        "locationId": "1b2cc977-063f-45df-8481-833a560bb815",
-        "status": "pending",
-        "rating": 5,
-        "createdAt": "2026-08-03",
-        "updatedAt": "2026-08-03",
-        "description": "TmjDoCBow6BuZyBjaGF5IELhur9wIFhhbmggQW4gRHV5w6puIHThuqFpIFF14bqtbiA1LCBUUC5IQ00gbuG7lWkgYuG6rXQgduG7m2kga2jDtG5nIGdpYW4gaG/DoGkgY+G7lSwg4bqlbSBjw7puZy4gVGjhu7FjIMSRxqFuIGzDoCBz4buxIGdpYW8gdGhvYSDhuqltIHRo4buxYyBWaeG7h3QgSG9hLCBjaMO6IHRy4buNbmcgZMO5bmcgcmF1IGPhu6csIG7huqVtIHTGsMahaSwgbsOzaSBraMO0bmcgduG7m2kgZ2nhuqMgbeG6t24uIEFuIER1ecOqbiBjaMOtbmggbMOgIMSRaeG7g20gxJHhur9uIGzDvSB0xrDhu59uZyBjaG8gbmjhu69uZyBi4buvYSDEg24gZ2lhIMSRw6xuaCB0aGFuaCB04buLbmgsIGFuIHnDqm4u",
-        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&q=80&w=600",
-        "lat": 10.779441,
-        "lng": 106.695056
     }
 ]
