@@ -1,0 +1,27 @@
+{
+  "project_id": "proj_1785730371020",
+  "root": {
+    "id": "root",
+    "type": "folder",
+    "title": "Thư mục gốc",
+    "children": [
+      "folder_1785730407607",
+      "folder_1785730429127"
+    ]
+  },
+  "nodes": {
+    "folder_1785730407607": {
+      "id": "folder_1785730407607",
+      "type": "folder",
+      "title": "01  Cơ sở họ tầng",
+      "children": []
+    },
+    "folder_1785730429127": {
+      "id": "folder_1785730429127",
+      "type": "folder",
+      "title": "02 Quản lý nguồn hàng",
+      "children": []
+    }
+  },
+  "updated_at": "2026-08-03T04:14:53.706908Z"
+}
