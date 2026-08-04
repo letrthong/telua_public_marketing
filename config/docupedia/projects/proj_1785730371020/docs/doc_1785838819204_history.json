@@ -105,6 +105,162 @@
           "content": "Nội dung tài liệu được cập nhật"
         }
       }
+    },
+    {
+      "id": "hist_1785841466637",
+      "user_id": "user_1785839343630",
+      "username": "anne",
+      "display_name": "anne",
+      "action": "update",
+      "timestamp": "2026-08-04T11:04:26.637304Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1785841515217",
+      "user_id": "user_1785839343630",
+      "username": "anne",
+      "display_name": "anne",
+      "action": "update",
+      "timestamp": "2026-08-04T11:05:15.217503Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1785841528100",
+      "user_id": "user_1785839343630",
+      "username": "anne",
+      "display_name": "anne",
+      "action": "update",
+      "timestamp": "2026-08-04T11:05:28.100820Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1785841650418",
+      "user_id": "user_1785839343630",
+      "username": "anne",
+      "display_name": "anne",
+      "action": "update",
+      "timestamp": "2026-08-04T11:07:30.418551Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1785841688495",
+      "user_id": "user_1785839343630",
+      "username": "anne",
+      "display_name": "anne",
+      "action": "update",
+      "timestamp": "2026-08-04T11:08:08.495907Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1785841809298",
+      "user_id": "user_1785839343630",
+      "username": "anne",
+      "display_name": "anne",
+      "action": "update",
+      "timestamp": "2026-08-04T11:10:09.298481Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1785841837754",
+      "user_id": "user_1785839343630",
+      "username": "anne",
+      "display_name": "anne",
+      "action": "update",
+      "timestamp": "2026-08-04T11:10:37.754941Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1785842283501",
+      "user_id": "user_1785839343630",
+      "username": "anne",
+      "display_name": "anne",
+      "action": "update",
+      "timestamp": "2026-08-04T11:18:03.501223Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1785842320302",
+      "user_id": "user_1785839343630",
+      "username": "anne",
+      "display_name": "anne",
+      "action": "update",
+      "timestamp": "2026-08-04T11:18:40.302606Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1785842384194",
+      "user_id": "user_1785839343630",
+      "username": "anne",
+      "display_name": "anne",
+      "action": "update",
+      "timestamp": "2026-08-04T11:19:44.194758Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1785842423904",
+      "user_id": "user_1785839343630",
+      "username": "anne",
+      "display_name": "anne",
+      "action": "update",
+      "timestamp": "2026-08-04T11:20:23.904533Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1785842482249",
+      "user_id": "user_1785839343630",
+      "username": "anne",
+      "display_name": "anne",
+      "action": "update",
+      "timestamp": "2026-08-04T11:21:22.249985Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
     }
   ]
 }
