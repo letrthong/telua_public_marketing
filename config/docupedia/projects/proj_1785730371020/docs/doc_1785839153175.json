@@ -1,0 +1,44 @@
+{
+  "id": "doc_1785839153175",
+  "type": "file",
+  "title": "10 Các tiệm hoa",
+  "parent_id": "folder_1785730407607",
+  "content": {
+    "ops": [
+      {
+        "insert": "...\n"
+      },
+      {
+        "attributes": {
+          "link": "https://tramhoa.com/"
+        },
+        "insert": "Trạm Hoa: Shop Hoa Tươi | Đặt Hoa Online, Giao Tận Nơi"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "link": "https://dalathasfarm.com/"
+        },
+        "insert": "Dalat Hasfarm - Shop hoa tươi đặt Online, Giao hoa trực tuyến, Hai Bà Trưng - Quận 3"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "link": "https://dalat.flowers/"
+        },
+        "insert": "Sàn giao dịch hoa Dalat | hoa sỉ | hoa lẻ | hoa cắt cành"
+      },
+      {
+        "insert": "\n"
+      }
+    ]
+  },
+  "created_by": "user_admin",
+  "updated_by": "user_admin",
+  "created_at": "2026-08-04T10:25:53.175691Z",
+  "updated_at": "2026-08-04T10:28:04.140160Z"
+}

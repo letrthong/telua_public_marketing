@@ -1,0 +1,256 @@
+{
+  "id": "doc_1785838819204",
+  "type": "file",
+  "title": "01. Danh sách cửa hàng",
+  "parent_id": "folder_1785730407607",
+  "content": {
+    "ops": [
+      {
+        "insert": "..\n\n"
+      },
+      {
+        "attributes": {
+          "col": {
+            "tableId": "n7k06u4v6ve",
+            "colId": "f793muw3rq",
+            "width": "25%",
+            "full": true
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "col": {
+            "tableId": "n7k06u4v6ve",
+            "colId": "tpef0mmmcqg",
+            "width": "25%",
+            "full": true
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "col": {
+            "tableId": "n7k06u4v6ve",
+            "colId": "wi1rhewjuvj",
+            "width": "25%",
+            "full": true
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "col": {
+            "tableId": "n7k06u4v6ve",
+            "colId": "ssmy098yq4b",
+            "width": "25%",
+            "full": true
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "n7k06u4v6ve",
+            "rowId": "uj12qyqe28",
+            "colId": "f793muw3rq",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "n7k06u4v6ve",
+            "rowId": "uj12qyqe28",
+            "colId": "tpef0mmmcqg",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "n7k06u4v6ve",
+            "rowId": "uj12qyqe28",
+            "colId": "wi1rhewjuvj",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "n7k06u4v6ve",
+            "rowId": "uj12qyqe28",
+            "colId": "ssmy098yq4b",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "n7k06u4v6ve",
+            "rowId": "68tobg0z6gf",
+            "colId": "f793muw3rq",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "n7k06u4v6ve",
+            "rowId": "68tobg0z6gf",
+            "colId": "tpef0mmmcqg",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "n7k06u4v6ve",
+            "rowId": "68tobg0z6gf",
+            "colId": "wi1rhewjuvj",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "n7k06u4v6ve",
+            "rowId": "68tobg0z6gf",
+            "colId": "ssmy098yq4b",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "n7k06u4v6ve",
+            "rowId": "j2bj3o71rgo",
+            "colId": "f793muw3rq",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "n7k06u4v6ve",
+            "rowId": "j2bj3o71rgo",
+            "colId": "tpef0mmmcqg",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "n7k06u4v6ve",
+            "rowId": "j2bj3o71rgo",
+            "colId": "wi1rhewjuvj",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "n7k06u4v6ve",
+            "rowId": "j2bj3o71rgo",
+            "colId": "ssmy098yq4b",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "n7k06u4v6ve",
+            "rowId": "x9fk8aiwzi",
+            "colId": "f793muw3rq",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "n7k06u4v6ve",
+            "rowId": "x9fk8aiwzi",
+            "colId": "tpef0mmmcqg",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "n7k06u4v6ve",
+            "rowId": "x9fk8aiwzi",
+            "colId": "wi1rhewjuvj",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "n7k06u4v6ve",
+            "rowId": "x9fk8aiwzi",
+            "colId": "ssmy098yq4b",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "\n..\n"
+      }
+    ]
+  },
+  "created_by": "user_admin",
+  "updated_by": "user_admin",
+  "created_at": "2026-08-04T10:20:19.204215Z",
+  "updated_at": "2026-08-04T10:22:00.842389Z"
+}

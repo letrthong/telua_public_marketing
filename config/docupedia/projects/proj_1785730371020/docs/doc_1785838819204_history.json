@@ -1,0 +1,29 @@
+{
+  "doc_id": "doc_1785838819204",
+  "history": [
+    {
+      "id": "hist_1785838819210",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "create",
+      "timestamp": "2026-08-04T10:20:19.210301Z",
+      "details": {
+        "title": "01. Danh sách cửa hàng"
+      }
+    },
+    {
+      "id": "hist_1785838920845",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-08-04T10:22:00.845152Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    }
+  ]
+}
