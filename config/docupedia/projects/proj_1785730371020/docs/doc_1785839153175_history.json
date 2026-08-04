@@ -66,6 +66,22 @@
           }
         }
       }
+    },
+    {
+      "id": "hist_1785857554017",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-08-04T15:32:34.017891Z",
+      "details": {
+        "changes": {
+          "title": {
+            "old": "50 Các tiệm hoa",
+            "new": "50 Các tiệm hoa xung quanh"
+          }
+        }
+      }
     }
   ]
 }

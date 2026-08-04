@@ -75,9 +75,9 @@
         "locationName": "Hồ Chí Minh - Quận Tân Bình",
         "lat": 10.799193,
         "lng": 106.642145,
-        "radius": 10,
+        "radius": 20,
         "createdAt": "2026-05-22",
-        "updatedAt": "2026-05-22"
+        "updatedAt": "2026-08-04"
     },
     {
         "id": "8f3758a9-98eb-4376-81ee-824d6cf0d38d",
