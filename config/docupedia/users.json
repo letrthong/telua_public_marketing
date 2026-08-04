@@ -9,8 +9,8 @@
       "role": "admin",
       "is_active": true,
       "created_at": "2026-06-12T14:24:33.257784Z",
-      "last_login": "2026-08-04T06:17:10.530928Z",
-      "updated_at": "2026-08-04T06:17:10.586881Z"
+      "last_login": "2026-08-04T10:33:15.899186Z",
+      "updated_at": "2026-08-04T10:33:15.997634Z"
     },
     {
       "id": "user_1781663959167",
@@ -27,13 +27,14 @@
     {
       "id": "user_1785839343630",
       "username": "anne",
-      "password_hash": "pbkdf2:sha256:260000$rUn9u0JIFE0LVlCC$777986903caa59c031900e536261d87bdeca20258dc1a50dff2f513de4414172",
+      "password_hash": "pbkdf2:sha256:260000$1MecSvrf6PX8mSUW$cbc2d66f9951542ef4c4d5f35294d1aa1f9ec70e2abdf88409bebb763f1eb013",
       "display_name": "anne",
       "email": "",
       "role": "user",
       "is_active": true,
       "created_at": "2026-08-04T10:29:12.649912Z",
-      "last_login": null
+      "last_login": "2026-08-04T10:39:23.035805Z",
+      "updated_at": "2026-08-04T10:39:23.046227Z"
     }
   ],
   "_meta": {

@@ -1,7 +1,7 @@
 {
   "id": "doc_1785838819204",
   "type": "file",
-  "title": "01. Danh sách cửa hàng",
+  "title": "01. vị trí cửa hàng",
   "parent_id": "folder_1785730407607",
   "content": {
     "ops": [
@@ -54,6 +54,12 @@
       },
       {
         "attributes": {
+          "bold": true
+        },
+        "insert": "Vị  trí"
+      },
+      {
+        "attributes": {
           "tableCellInner": {
             "tableId": "n7k06u4v6ve",
             "rowId": "uj12qyqe28",
@@ -63,6 +69,12 @@
           }
         },
         "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Giá  tiền"
       },
       {
         "attributes": {
@@ -78,6 +90,12 @@
       },
       {
         "attributes": {
+          "bold": true
+        },
+        "insert": "Ưu điểm và nhược điểm"
+      },
+      {
+        "attributes": {
           "tableCellInner": {
             "tableId": "n7k06u4v6ve",
             "rowId": "uj12qyqe28",
@@ -90,10 +108,48 @@
       },
       {
         "attributes": {
+          "bold": true
+        },
+        "insert": " Rủi Ro"
+      },
+      {
+        "attributes": {
           "tableCellInner": {
             "tableId": "n7k06u4v6ve",
             "rowId": "uj12qyqe28",
             "colId": "ssmy098yq4b",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Đối diện etown Cộng hòa"
+      },
+      {
+        "attributes": {
+          "list": "bullet",
+          "tableCellInner": {
+            "tableId": "n7k06u4v6ve",
+            "rowId": "68tobg0z6gf",
+            "colId": "f793muw3rq",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "4m2X20m 2 lầu , 6 phòng "
+      },
+      {
+        "attributes": {
+          "list": "bullet",
+          "tableCellInner": {
+            "tableId": "n7k06u4v6ve",
+            "rowId": "68tobg0z6gf",
+            "colId": "f793muw3rq",
             "rowspan": "1",
             "colspan": "1"
           }
@@ -111,6 +167,9 @@
           }
         },
         "insert": "\n"
+      },
+      {
+        "insert": "Giá 30tr"
       },
       {
         "attributes": {
@@ -250,7 +309,7 @@
     ]
   },
   "created_by": "user_admin",
-  "updated_by": "user_admin",
+  "updated_by": "user_1785839343630",
   "created_at": "2026-08-04T10:20:19.204215Z",
-  "updated_at": "2026-08-04T10:22:00.842389Z"
+  "updated_at": "2026-08-04T10:54:50.708753Z"
 }
