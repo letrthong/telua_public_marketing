@@ -15,5 +15,22 @@
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&q=80&w=600",
         "lat": 10.797961636075549,
         "lng": 106.65425312561639
+    },
+    {
+        "id": "7fe99de9-8684-49f6-8c7a-984e3934dc2d",
+        "name": "Shop hoa tươi FlowerCorner",
+        "type": "shop",
+        "address": "MTQyIE5ndXnhu4VuIFbEg24gQ+G7qywgUGjGsOG7nW5nIEPhuqd1IMOUbmcgTMOjbmgsIFRQLkhDTQ==",
+        "phone": "MTkwMCA2MzMgMDQ1",
+        "website": "aHR0cHM6Ly93d3cuZmxvd2VyY29ybmVyLnZu",
+        "locationId": "5bc6a5be-8e0e-452a-b9b3-8371517fa2cf",
+        "status": "pending",
+        "rating": 5,
+        "createdAt": "2026-08-04",
+        "updatedAt": "2026-08-04",
+        "description": "U2hvcCBob2EgdMawxqFpIEZsb3dlckNvcm5lciDEkMaw4bujYyB0aMOgbmggbOG6rXAgdOG7qyBuxINtIDIwMTcgduG7m2kgbeG7pWMgdGnDqnUgbWFuZyDEkeG6v24gY2hvIGtow6FjaCBow6BuZyB0cuG6o2kgbmdoaeG7h20gdHV54buHdCB24budaSB24buBIG3hu5l0IGThu4tjaCB24bulIMSR4bq3dCBob2Egb25saW5lIGNodXnDqm4gbmdoaeG7h3Au",
+        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&q=80&w=600",
+        "lat": 10.775301,
+        "lng": 106.702266
     }
 ]
