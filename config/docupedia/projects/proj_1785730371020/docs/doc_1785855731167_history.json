@@ -1,40 +1,37 @@
 {
-  "doc_id": "doc_1785851990681",
+  "doc_id": "doc_1785855731167",
   "history": [
     {
-      "id": "hist_1785851990683",
+      "id": "hist_1785855731178",
       "user_id": "user_admin",
       "username": "admin",
       "display_name": "Administrator",
       "action": "create",
-      "timestamp": "2026-08-04T13:59:50.683058Z",
+      "timestamp": "2026-08-04T15:02:11.178086Z",
       "details": {
-        "title": "30 thiết kế cửa hàng"
+        "title": "01. Vị trí cân nhắc"
       }
     },
     {
-      "id": "hist_1785851999282",
+      "id": "hist_1785855819760",
       "user_id": "user_admin",
       "username": "admin",
       "display_name": "Administrator",
       "action": "update",
-      "timestamp": "2026-08-04T13:59:59.282811Z",
+      "timestamp": "2026-08-04T15:03:39.760734Z",
       "details": {
         "changes": {
-          "title": {
-            "old": "30 thiết kế cửa hàng",
-            "new": "30 Thiết kế cửa hàng"
-          }
+          "content": "Nội dung tài liệu được cập nhật"
         }
       }
     },
     {
-      "id": "hist_1785855905265",
+      "id": "hist_1785856055318",
       "user_id": "user_admin",
       "username": "admin",
       "display_name": "Administrator",
       "action": "update",
-      "timestamp": "2026-08-04T15:05:05.265837Z",
+      "timestamp": "2026-08-04T15:07:35.318436Z",
       "details": {
         "changes": {
           "content": "Nội dung tài liệu được cập nhật"

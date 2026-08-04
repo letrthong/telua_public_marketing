@@ -1,7 +1,7 @@
 {
   "id": "doc_1785838819204",
   "type": "file",
-  "title": "01. vị trí cửa hàng",
+  "title": "02. vị trí cửa hàng",
   "parent_id": "folder_1785730407607",
   "content": {
     "ops": [
@@ -110,7 +110,7 @@
         "attributes": {
           "bold": true
         },
-        "insert": " Rủi Ro"
+        "insert": "Ngày cập nhập"
       },
       {
         "attributes": {
@@ -169,7 +169,25 @@
         "insert": "\n"
       },
       {
-        "insert": "Giá 30tr"
+        "insert": "Giá:  30tr"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "n7k06u4v6ve",
+            "rowId": "68tobg0z6gf",
+            "colId": "tpef0mmmcqg",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n\n"
+      },
+      {
+        "attributes": {
+          "link": "https://maps.app.goo.gl/tVgr5YPWWfwUJxxQ9"
+        },
+        "insert": "https://maps.app.goo.gl/tVgr5YPWWfwUJxxQ9"
       },
       {
         "attributes": {
@@ -200,6 +218,22 @@
         "insert": "\n"
       },
       {
+        "insert": "Giá quá cao"
+      },
+      {
+        "attributes": {
+          "list": "bullet",
+          "tableCellInner": {
+            "tableId": "n7k06u4v6ve",
+            "rowId": "68tobg0z6gf",
+            "colId": "wi1rhewjuvj",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
         "attributes": {
           "tableCellInner": {
             "tableId": "n7k06u4v6ve",
@@ -210,6 +244,9 @@
           }
         },
         "insert": "\n"
+      },
+      {
+        "insert": "22:05 4/8/2026"
       },
       {
         "attributes": {
@@ -240,7 +277,7 @@
         "insert": "\n"
       },
       {
-        "insert": " Bàu cát 1 "
+        "insert": " Bàu cát  6"
       },
       {
         "attributes": {
@@ -269,6 +306,24 @@
       },
       {
         "insert": "Giá 10tr"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "n7k06u4v6ve",
+            "rowId": "j2bj3o71rgo",
+            "colId": "tpef0mmmcqg",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n\n"
+      },
+      {
+        "attributes": {
+          "link": "https://maps.app.goo.gl/tVgr5YPWWfwUJxxQ9 "
+        },
+        "insert": "https://maps.app.goo.gl/tVgr5YPWWfwUJxxQ9 "
       },
       {
         "attributes": {
@@ -331,6 +386,25 @@
         "insert": "\n"
       },
       {
+        "insert": " Cách chợ  Bàu Cát 50m và có chỗ bán hoa gần đó"
+      },
+      {
+        "attributes": {
+          "list": "bullet",
+          "tableCellInner": {
+            "tableId": "n7k06u4v6ve",
+            "rowId": "j2bj3o71rgo",
+            "colId": "wi1rhewjuvj",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "22:05 4/8/2026"
+      },
+      {
         "attributes": {
           "tableCellInner": {
             "tableId": "n7k06u4v6ve",
@@ -358,7 +432,25 @@
         "insert": "\n"
       },
       {
-        "insert": "Xa Tân Phú ???"
+        "insert": "Giá:  Có thể cao"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "n7k06u4v6ve",
+            "rowId": "x9fk8aiwzi",
+            "colId": "tpef0mmmcqg",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n\n"
+      },
+      {
+        "attributes": {
+          "link": "https://maps.app.goo.gl/qgmToMwi6B9X8bz99"
+        },
+        "insert": "https://maps.app.goo.gl/qgmToMwi6B9X8bz99"
       },
       {
         "attributes": {
@@ -383,6 +475,9 @@
           }
         },
         "insert": "\n"
+      },
+      {
+        "insert": "22:06 4/8/2026"
       },
       {
         "attributes": {
@@ -478,6 +573,24 @@
       },
       {
         "attributes": {
+          "link": "https://maps.app.goo.gl/tVgr5YPWWfwUJxxQ9 "
+        },
+        "insert": "https://maps.app.goo.gl/tVgr5YPWWfwUJxxQ9 "
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "4rssbk8pxiu",
+            "rowId": "3e4qmq8th8p",
+            "colId": "rbat6ak2vns",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
           "tableCellInner": {
             "tableId": "4rssbk8pxiu",
             "rowId": "3e4qmq8th8p",
@@ -487,6 +600,9 @@
           }
         },
         "insert": "\n"
+      },
+      {
+        "insert": "22:06 4/8/2026"
       },
       {
         "attributes": {
@@ -535,6 +651,24 @@
       },
       {
         "attributes": {
+          "link": "https://maps.app.goo.gl/hxXD6Fy1ZJ9W1Dj28"
+        },
+        "insert": "https://maps.app.goo.gl/hxXD6Fy1ZJ9W1Dj28"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "4rssbk8pxiu",
+            "rowId": "ashbbx2f9rs",
+            "colId": "rbat6ak2vns",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
           "tableCellInner": {
             "tableId": "4rssbk8pxiu",
             "rowId": "ashbbx2f9rs",
@@ -544,6 +678,9 @@
           }
         },
         "insert": "\n"
+      },
+      {
+        "insert": "22:06 4/8/2026"
       },
       {
         "attributes": {
@@ -559,12 +696,6 @@
       },
       {
         "attributes": {
-          "strike": true
-        },
-        "insert": "Chung cư 685 Âu Cơ Tân Phú  "
-      },
-      {
-        "attributes": {
           "tableCellInner": {
             "tableId": "4rssbk8pxiu",
             "rowId": "p2uia7ogxj8",
@@ -574,9 +705,6 @@
           }
         },
         "insert": "\n"
-      },
-      {
-        "insert": "Hết chỗ"
       },
       {
         "attributes": {
@@ -668,7 +796,7 @@
     ]
   },
   "created_by": "user_admin",
-  "updated_by": "user_1785839343630",
+  "updated_by": "user_admin",
   "created_at": "2026-08-04T10:20:19.204215Z",
-  "updated_at": "2026-08-04T11:42:45.509029Z"
+  "updated_at": "2026-08-04T15:08:20.965256Z"
 }
