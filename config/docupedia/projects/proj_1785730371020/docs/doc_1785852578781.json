@@ -1,0 +1,41 @@
+{
+  "id": "doc_1785852578781",
+  "type": "file",
+  "title": "Thông tin",
+  "parent_id": "root",
+  "content": {
+    "ops": [
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Kế hoạch cơ bản "
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "link": "https://docs.google.com/spreadsheets/d/1pBRtiNDdXySnlAxAcx-pjWK0J9AwmELGFvC1oVTCePk/edit?usp=sharing "
+        },
+        "insert": "https://docs.google.com/spreadsheets/d/1pBRtiNDdXySnlAxAcx-pjWK0J9AwmELGFvC1oVTCePk/edit?usp=sharing "
+      },
+      {
+        "insert": "\n\n\n"
+      },
+      {
+        "attributes": {
+          "italic": true
+        },
+        "insert": "Ngày cập nhập: 21:11 4/8/2026"
+      },
+      {
+        "insert": "\n\n"
+      }
+    ]
+  },
+  "created_by": "user_admin",
+  "updated_by": "user_admin",
+  "created_at": "2026-08-04T14:09:38.781467Z",
+  "updated_at": "2026-08-04T14:12:37.104575Z"
+}

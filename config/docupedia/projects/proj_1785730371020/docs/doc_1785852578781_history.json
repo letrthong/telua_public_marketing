@@ -1,0 +1,29 @@
+{
+  "doc_id": "doc_1785852578781",
+  "history": [
+    {
+      "id": "hist_1785852578888",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "create",
+      "timestamp": "2026-08-04T14:09:38.888229Z",
+      "details": {
+        "title": "Thông tin"
+      }
+    },
+    {
+      "id": "hist_1785852757107",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-08-04T14:12:37.107909Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    }
+  ]
+}

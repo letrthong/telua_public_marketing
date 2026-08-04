@@ -1,0 +1,32 @@
+{
+  "doc_id": "doc_1785851990681",
+  "history": [
+    {
+      "id": "hist_1785851990683",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "create",
+      "timestamp": "2026-08-04T13:59:50.683058Z",
+      "details": {
+        "title": "30 thiết kế cửa hàng"
+      }
+    },
+    {
+      "id": "hist_1785851999282",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-08-04T13:59:59.282811Z",
+      "details": {
+        "changes": {
+          "title": {
+            "old": "30 thiết kế cửa hàng",
+            "new": "30 Thiết kế cửa hàng"
+          }
+        }
+      }
+    }
+  ]
+}

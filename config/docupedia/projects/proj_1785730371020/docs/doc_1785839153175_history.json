@@ -50,6 +50,22 @@
           "content": "Nội dung tài liệu được cập nhật"
         }
       }
+    },
+    {
+      "id": "hist_1785853066290",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-08-04T14:17:46.290743Z",
+      "details": {
+        "changes": {
+          "title": {
+            "old": "10 Các tiệm hoa",
+            "new": "50 Các tiệm hoa"
+          }
+        }
+      }
     }
   ]
 }
