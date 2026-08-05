@@ -17,12 +17,14 @@
       "user_id": "user_1785839343630",
       "project_id": "proj_1785730371020",
       "permissions": [
+        "create",
         "edit",
         "view",
-        "create"
+        "delete"
       ],
       "granted_by": "user_admin",
-      "granted_at": "2026-08-04T10:30:00.853811Z"
+      "granted_at": "2026-08-04T10:30:00.853811Z",
+      "updated_at": "2026-08-05T02:58:52.999492Z"
     }
   ]
 }
