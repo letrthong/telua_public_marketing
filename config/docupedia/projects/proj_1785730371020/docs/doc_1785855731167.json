@@ -116,7 +116,7 @@
         "insert": "\n"
       },
       {
-        "insert": "Nguyễn Hồng Đào giao Bàu Cát 6"
+        "insert": "Nguyễn Hồng Đào giao Bàu Cát 1"
       },
       {
         "attributes": {
@@ -329,7 +329,7 @@
             "rowId": "wu16lckdafa",
             "colId": "94w80og0vb8",
             "rowspan": "1",
-            "colspan": "1"
+            "colspan": "2"
           }
         },
         "insert": "\n"
@@ -344,19 +344,7 @@
             "rowId": "wu16lckdafa",
             "colId": "94w80og0vb8",
             "rowspan": "1",
-            "colspan": "1"
-          }
-        },
-        "insert": "\n"
-      },
-      {
-        "attributes": {
-          "tableCellInner": {
-            "tableId": "ict7d1mj4r9",
-            "rowId": "wu16lckdafa",
-            "colId": "12qxhytczuxg",
-            "rowspan": "1",
-            "colspan": "1"
+            "colspan": "2"
           }
         },
         "insert": "\n"
@@ -367,7 +355,7 @@
     ]
   },
   "created_by": "user_admin",
-  "updated_by": "user_admin",
+  "updated_by": "user_1785839343630",
   "created_at": "2026-08-04T15:02:11.167999Z",
-  "updated_at": "2026-08-05T08:52:39.760295Z"
+  "updated_at": "2026-08-05T09:16:09.863049Z"
 }
