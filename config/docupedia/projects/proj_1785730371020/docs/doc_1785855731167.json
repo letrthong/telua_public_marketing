@@ -290,6 +290,9 @@
         "insert": "\n"
       },
       {
+        "insert": "91 Bàu Cát 1"
+      },
+      {
         "attributes": {
           "tableCellInner": {
             "tableId": "ict7d1mj4r9",
@@ -302,6 +305,9 @@
         "insert": "\n"
       },
       {
+        "insert": "0"
+      },
+      {
         "attributes": {
           "tableCellInner": {
             "tableId": "ict7d1mj4r9",
@@ -312,6 +318,9 @@
           }
         },
         "insert": "\n"
+      },
+      {
+        "insert": "Giá 8tr, nhưng đang phân vân giữa Bàu Cát 1 và Bàu C"
       },
       {
         "attributes": {
@@ -345,5 +354,5 @@
   "created_by": "user_admin",
   "updated_by": "user_1785839343630",
   "created_at": "2026-08-04T15:02:11.167999Z",
-  "updated_at": "2026-08-05T03:52:49.515825Z"
+  "updated_at": "2026-08-05T06:35:20.907096Z"
 }

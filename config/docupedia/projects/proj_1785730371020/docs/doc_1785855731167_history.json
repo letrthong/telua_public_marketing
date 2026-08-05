@@ -102,6 +102,45 @@
           "content": "Nội dung tài liệu được cập nhật"
         }
       }
+    },
+    {
+      "id": "hist_1785911690048",
+      "user_id": "user_1785839343630",
+      "username": "anne",
+      "display_name": "anne",
+      "action": "update",
+      "timestamp": "2026-08-05T06:34:50.048011Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1785911697368",
+      "user_id": "user_1785839343630",
+      "username": "anne",
+      "display_name": "anne",
+      "action": "update",
+      "timestamp": "2026-08-05T06:34:57.368301Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1785911721064",
+      "user_id": "user_1785839343630",
+      "username": "anne",
+      "display_name": "anne",
+      "action": "update",
+      "timestamp": "2026-08-05T06:35:21.065001Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
     }
   ]
 }
