@@ -37,6 +37,58 @@
           "content": "Nội dung tài liệu được cập nhật"
         }
       }
+    },
+    {
+      "id": "hist_1785899435185",
+      "user_id": "user_1785839343630",
+      "username": "anne",
+      "display_name": "anne",
+      "action": "update",
+      "timestamp": "2026-08-05T03:10:35.185360Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1785899500368",
+      "user_id": "user_1785839343630",
+      "username": "anne",
+      "display_name": "anne",
+      "action": "update",
+      "timestamp": "2026-08-05T03:11:40.368354Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1785899509573",
+      "user_id": "user_1785839343630",
+      "username": "anne",
+      "display_name": "anne",
+      "action": "update",
+      "timestamp": "2026-08-05T03:11:49.573054Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1785900008778",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-08-05T03:20:08.778839Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
     }
   ]
 }

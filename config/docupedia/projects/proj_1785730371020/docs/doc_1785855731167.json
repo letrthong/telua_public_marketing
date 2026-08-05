@@ -53,6 +53,9 @@
         "insert": "\n"
       },
       {
+        "insert": "Vị trí"
+      },
+      {
         "attributes": {
           "tableCellInner": {
             "tableId": "ict7d1mj4r9",
@@ -65,6 +68,9 @@
         "insert": "\n"
       },
       {
+        "insert": "Thứ tự ưu tiên"
+      },
+      {
         "attributes": {
           "tableCellInner": {
             "tableId": "ict7d1mj4r9",
@@ -75,6 +81,9 @@
           }
         },
         "insert": "\n"
+      },
+      {
+        "insert": "Ghi chú"
       },
       {
         "attributes": {
@@ -107,6 +116,9 @@
         "insert": "\n"
       },
       {
+        "insert": "Nguyễn Hồng Đào giao Bàu Cát 1"
+      },
+      {
         "attributes": {
           "tableCellInner": {
             "tableId": "ict7d1mj4r9",
@@ -117,6 +129,9 @@
           }
         },
         "insert": "\n"
+      },
+      {
+        "insert": "1"
       },
       {
         "attributes": {
@@ -141,6 +156,9 @@
           }
         },
         "insert": "\n"
+      },
+      {
+        "insert": "10:19 5/8/2026"
       },
       {
         "attributes": {
@@ -155,6 +173,9 @@
         "insert": "\n"
       },
       {
+        "insert": "Hoàng Hoa Thám"
+      },
+      {
         "attributes": {
           "tableCellInner": {
             "tableId": "ict7d1mj4r9",
@@ -165,6 +186,9 @@
           }
         },
         "insert": "\n"
+      },
+      {
+        "insert": "3"
       },
       {
         "attributes": {
@@ -179,6 +203,9 @@
         "insert": "\n"
       },
       {
+        "insert": "Phía "
+      },
+      {
         "attributes": {
           "tableCellInner": {
             "tableId": "ict7d1mj4r9",
@@ -189,6 +216,9 @@
           }
         },
         "insert": "\n"
+      },
+      {
+        "insert": "10:19 5/8/2026"
       },
       {
         "attributes": {
@@ -203,6 +233,9 @@
         "insert": "\n"
       },
       {
+        "insert": "Cộng Hoà"
+      },
+      {
         "attributes": {
           "tableCellInner": {
             "tableId": "ict7d1mj4r9",
@@ -213,6 +246,9 @@
           }
         },
         "insert": "\n"
+      },
+      {
+        "insert": "2"
       },
       {
         "attributes": {
@@ -227,6 +263,9 @@
         "insert": "\n"
       },
       {
+        "insert": "Nếu control được 6 phòng trên mới cân nhắc"
+      },
+      {
         "attributes": {
           "tableCellInner": {
             "tableId": "ict7d1mj4r9",
@@ -237,6 +276,9 @@
           }
         },
         "insert": "\n"
+      },
+      {
+        "insert": "10:20 5/8/2026"
       },
       {
         "attributes": {
@@ -306,5 +348,5 @@
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-08-04T15:02:11.167999Z",
-  "updated_at": "2026-08-04T15:07:35.312165Z"
+  "updated_at": "2026-08-05T03:20:04.789635Z"
 }

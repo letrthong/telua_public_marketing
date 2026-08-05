@@ -53,6 +53,136 @@
           "content": "Nội dung tài liệu được cập nhật"
         }
       }
+    },
+    {
+      "id": "hist_1785899587569",
+      "user_id": "user_1785839343630",
+      "username": "anne",
+      "display_name": "anne",
+      "action": "update",
+      "timestamp": "2026-08-05T03:13:07.569573Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1785899599910",
+      "user_id": "user_1785839343630",
+      "username": "anne",
+      "display_name": "anne",
+      "action": "update",
+      "timestamp": "2026-08-05T03:13:19.910632Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1785899608978",
+      "user_id": "user_1785839343630",
+      "username": "anne",
+      "display_name": "anne",
+      "action": "update",
+      "timestamp": "2026-08-05T03:13:28.978548Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1785899628009",
+      "user_id": "user_1785839343630",
+      "username": "anne",
+      "display_name": "anne",
+      "action": "update",
+      "timestamp": "2026-08-05T03:13:48.009019Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1785899851674",
+      "user_id": "user_1785839343630",
+      "username": "anne",
+      "display_name": "anne",
+      "action": "update",
+      "timestamp": "2026-08-05T03:17:31.674076Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1785899865510",
+      "user_id": "user_1785839343630",
+      "username": "anne",
+      "display_name": "anne",
+      "action": "update",
+      "timestamp": "2026-08-05T03:17:45.510861Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1785899880806",
+      "user_id": "user_1785839343630",
+      "username": "anne",
+      "display_name": "anne",
+      "action": "update",
+      "timestamp": "2026-08-05T03:18:00.806879Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1785899898866",
+      "user_id": "user_1785839343630",
+      "username": "anne",
+      "display_name": "anne",
+      "action": "update",
+      "timestamp": "2026-08-05T03:18:18.866271Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1785899911691",
+      "user_id": "user_1785839343630",
+      "username": "anne",
+      "display_name": "anne",
+      "action": "update",
+      "timestamp": "2026-08-05T03:18:31.691132Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1785899926674",
+      "user_id": "user_1785839343630",
+      "username": "anne",
+      "display_name": "anne",
+      "action": "update",
+      "timestamp": "2026-08-05T03:18:46.674318Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
     }
   ]
 }
