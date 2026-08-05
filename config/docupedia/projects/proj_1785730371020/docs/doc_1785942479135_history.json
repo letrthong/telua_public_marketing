@@ -1,0 +1,58 @@
+{
+  "doc_id": "doc_1785942479135",
+  "history": [
+    {
+      "id": "hist_1785942479136",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "create",
+      "timestamp": "2026-08-05T15:07:59.136738Z",
+      "details": {
+        "title": "Ghi chú"
+      }
+    },
+    {
+      "id": "hist_1785942553323",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-08-05T15:09:13.323426Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1785942577330",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-08-05T15:09:37.330694Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1785942697022",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-08-05T15:11:37.022685Z",
+      "details": {
+        "changes": {
+          "title": {
+            "old": "Ghi chú",
+            "new": "00 Ghi chú"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -116,6 +116,9 @@
         "insert": "\n"
       },
       {
+        "attributes": {
+          "strike": true
+        },
         "insert": "Nguyễn Hồng Đào giao Bàu Cát 1"
       },
       {
@@ -147,6 +150,13 @@
       },
       {
         "attributes": {
+          "color": "#e60000",
+          "strike": true
+        },
+        "insert": "Lối đi chung với chủ và không cho thay đổi kết cấu"
+      },
+      {
+        "attributes": {
           "tableCellInner": {
             "tableId": "ict7d1mj4r9",
             "rowId": "bv2g3bpm3qv",
@@ -158,7 +168,7 @@
         "insert": "\n"
       },
       {
-        "insert": "10:19 5/8/2026"
+        "insert": " 22:05 5/8/2026"
       },
       {
         "attributes": {
@@ -230,6 +240,9 @@
         "insert": "\n"
       },
       {
+        "attributes": {
+          "strike": true
+        },
         "insert": "Cộng Hoà"
       },
       {
@@ -275,7 +288,28 @@
         "insert": "\n"
       },
       {
-        "insert": "10:20 5/8/2026"
+        "attributes": {
+          "underline": true,
+          "strike": true,
+          "color": "#e60000",
+          "italic": true
+        },
+        "insert": "Loại: 1 toilet 1 tầng, không có lối đi riêng hay để xe"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "ict7d1mj4r9",
+            "rowId": "u7dvgof7yg",
+            "colId": "94w80og0vb8",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": " 22:03 5/8/2026"
       },
       {
         "attributes": {
@@ -355,7 +389,7 @@
     ]
   },
   "created_by": "user_admin",
-  "updated_by": "user_1785839343630",
+  "updated_by": "user_admin",
   "created_at": "2026-08-04T15:02:11.167999Z",
-  "updated_at": "2026-08-05T09:16:09.863049Z"
+  "updated_at": "2026-08-05T15:05:08.938087Z"
 }
