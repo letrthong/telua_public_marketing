@@ -165,9 +165,9 @@
         "locationName": "Lâm Đồng - Hồ  Tuyền Lâm",
         "lat": 11.9006,
         "lng": 108.435192,
-        "radius": 2,
+        "radius": 50,
         "createdAt": "2026-04-13",
-        "updatedAt": "2026-04-13"
+        "updatedAt": "2026-08-18"
     },
     {
         "id": "9ebdef57-9d9d-4825-b7bb-2ce33db6e4b8",
