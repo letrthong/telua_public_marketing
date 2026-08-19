@@ -1,0 +1,29 @@
+{
+  "doc_id": "doc_1787147617025",
+  "history": [
+    {
+      "id": "hist_1787147617029",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "create",
+      "timestamp": "2026-08-19T13:53:37.029786Z",
+      "details": {
+        "title": "01 Mắt Bảo"
+      }
+    },
+    {
+      "id": "hist_1787147712363",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-08-19T13:55:12.363292Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    }
+  ]
+}

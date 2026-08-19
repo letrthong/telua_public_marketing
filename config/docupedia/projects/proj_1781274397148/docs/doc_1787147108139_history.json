@@ -1,0 +1,29 @@
+{
+  "doc_id": "doc_1787147108139",
+  "history": [
+    {
+      "id": "hist_1787147108148",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "create",
+      "timestamp": "2026-08-19T13:45:08.148305Z",
+      "details": {
+        "title": "01 Mat Bao _ Google cloud"
+      }
+    },
+    {
+      "id": "hist_1787147548285",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-08-19T13:52:28.285021Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    }
+  ]
+}

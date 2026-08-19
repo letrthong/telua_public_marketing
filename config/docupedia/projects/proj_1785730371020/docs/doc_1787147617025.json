@@ -1,0 +1,27 @@
+{
+  "id": "doc_1787147617025",
+  "type": "file",
+  "title": "01 Mắt Bảo",
+  "parent_id": "folder_1787147591788",
+  "content": {
+    "ops": [
+      {
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "italic": true,
+          "link": "https://www.matbao.net/ "
+        },
+        "insert": "https://www.matbao.net/ "
+      },
+      {
+        "insert": "\nMB21836309   Ngothiyanh1@\n\n\n\n"
+      }
+    ]
+  },
+  "created_by": "user_admin",
+  "updated_by": "user_admin",
+  "created_at": "2026-08-19T13:53:37.025829Z",
+  "updated_at": "2026-08-19T13:55:12.359289Z"
+}
