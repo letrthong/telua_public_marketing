@@ -16,7 +16,12 @@
     "doc_1781280528145": {
       "id": "doc_1781280528145",
       "type": "file",
-      "title": "01 Git"
+      "title": "01 Git",
+      "parent_id": "folder_1781664831259",
+      "created_at": "2026-06-12T16:08:48.145458Z",
+      "updated_at": "2026-08-07T08:02:14.015190Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "folder_1781663299075": {
       "id": "folder_1781663299075",
@@ -41,7 +46,12 @@
     "doc_1781664641786": {
       "id": "doc_1781664641786",
       "type": "file",
-      "title": "01 Audio"
+      "title": "01 Audio",
+      "parent_id": "folder_1781663299075",
+      "created_at": "2026-06-17T02:50:41.786279Z",
+      "updated_at": "2026-07-27T09:35:04.074347Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "folder_1781664831259": {
       "id": "folder_1781664831259",
@@ -60,87 +70,172 @@
     "doc_1781664877206": {
       "id": "doc_1781664877206",
       "type": "file",
-      "title": "02 Cli"
+      "title": "02 Cli",
+      "parent_id": "folder_1781664831259",
+      "created_at": "2026-06-17T02:54:37.206879Z",
+      "updated_at": "2026-07-13T07:03:33.001135Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1781671329850": {
       "id": "doc_1781671329850",
       "type": "file",
-      "title": "03 Compiler"
+      "title": "03 Compiler",
+      "parent_id": "folder_1781664831259",
+      "created_at": "2026-06-17T04:42:09.850967Z",
+      "updated_at": "2026-06-19T04:24:41.630678Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1781855400911": {
       "id": "doc_1781855400911",
       "type": "file",
-      "title": "20 Java JNI"
+      "title": "20 Java JNI",
+      "parent_id": "folder_1781663299075",
+      "created_at": "2026-06-19T07:50:00.911779Z",
+      "updated_at": "2026-06-19T09:47:33.528755Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1781855683319": {
       "id": "doc_1781855683319",
       "type": "file",
-      "title": "30 C++"
+      "title": "30 C++",
+      "parent_id": "folder_1781663299075",
+      "created_at": "2026-06-19T07:54:43.319804Z",
+      "updated_at": "2026-06-19T07:54:43.319804Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1781862940816": {
       "id": "doc_1781862940816",
       "type": "file",
-      "title": "21 Java Compiler"
+      "title": "21 Java Compiler",
+      "parent_id": "folder_1781663299075",
+      "created_at": "2026-06-19T09:55:40.816733Z",
+      "updated_at": "2026-06-29T10:47:41.006026Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1781870471122": {
       "id": "doc_1781870471122",
       "type": "file",
-      "title": "04 Shell script"
+      "title": "04 Shell script",
+      "parent_id": "folder_1781664831259",
+      "created_at": "2026-06-19T12:01:11.122712Z",
+      "updated_at": "2026-06-19T12:02:55.116900Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1782197519236": {
       "id": "doc_1782197519236",
       "type": "file",
-      "title": "50 Android Clis"
+      "title": "50 Android Clis",
+      "parent_id": "folder_1781663299075",
+      "created_at": "2026-06-23T06:51:59.236546Z",
+      "updated_at": "2026-08-10T06:39:47.276915Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1782293169128": {
       "id": "doc_1782293169128",
       "type": "file",
-      "title": "06 Docker"
+      "title": "06 Docker",
+      "parent_id": "folder_1781664831259",
+      "created_at": "2026-06-24T09:26:09.128874Z",
+      "updated_at": "2026-07-10T10:22:44.964485Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1782359543122": {
       "id": "doc_1782359543122",
       "type": "file",
-      "title": "41 Android aidl service"
+      "title": "41 Android aidl service",
+      "parent_id": "folder_1781663299075",
+      "created_at": "2026-06-25T03:52:23.122414Z",
+      "updated_at": "2026-06-25T05:15:01.617155Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1782360101954": {
       "id": "doc_1782360101954",
       "type": "file",
-      "title": "40 OpenGrok"
+      "title": "40 OpenGrok",
+      "parent_id": "folder_1781664831259",
+      "created_at": "2026-06-25T04:01:41.954290Z",
+      "updated_at": "2026-06-26T03:55:39.280528Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1782361458414": {
       "id": "doc_1782361458414",
       "type": "file",
-      "title": "40 Android overview"
+      "title": "40 Android overview",
+      "parent_id": "folder_1781663299075",
+      "created_at": "2026-06-25T04:24:18.414494Z",
+      "updated_at": "2026-06-25T04:25:23.503035Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1782369742656": {
       "id": "doc_1782369742656",
       "type": "file",
-      "title": "42 Android HAL"
+      "title": "42 Android HAL",
+      "parent_id": "folder_1781663299075",
+      "created_at": "2026-06-25T06:42:22.656310Z",
+      "updated_at": "2026-06-25T07:02:20.544644Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1782370253488": {
       "id": "doc_1782370253488",
       "type": "file",
-      "title": "01 Android v.12& v.16"
+      "title": "01 Android v.12& v.16",
+      "parent_id": "folder_1782809010885",
+      "created_at": "2026-06-25T06:50:53.488832Z",
+      "updated_at": "2026-07-27T09:36:45.673609Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1782372256511": {
       "id": "doc_1782372256511",
       "type": "file",
-      "title": "44 Android cts vts atest"
+      "title": "44 Android cts vts atest",
+      "parent_id": "folder_1781663299075",
+      "created_at": "2026-06-25T07:24:16.511717Z",
+      "updated_at": "2026-07-22T03:33:43.238293Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1782377995813": {
       "id": "doc_1782377995813",
       "type": "file",
-      "title": "46 Android Emulator"
+      "title": "46 Android Emulator",
+      "parent_id": "folder_1781663299075",
+      "created_at": "2026-06-25T08:59:55.813391Z",
+      "updated_at": "2026-06-25T11:01:07.194184Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1782380457614": {
       "id": "doc_1782380457614",
       "type": "file",
-      "title": "45 Android Sepolicy"
+      "title": "45 Android Sepolicy",
+      "parent_id": "folder_1781663299075",
+      "created_at": "2026-06-25T09:40:57.614705Z",
+      "updated_at": "2026-06-25T09:41:09.497103Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1782446153701": {
       "id": "doc_1782446153701",
       "type": "file",
-      "title": "30 gtest"
+      "title": "30 gtest",
+      "parent_id": "folder_1781664831259",
+      "created_at": "2026-06-26T03:55:53.701506Z",
+      "updated_at": "2026-06-26T03:58:14.999757Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "folder_1782805389390": {
       "id": "folder_1782805389390",
@@ -154,12 +249,22 @@
     "doc_1782805426488": {
       "id": "doc_1782805426488",
       "type": "file",
-      "title": "01 Class diagrams"
+      "title": "01 Class diagrams",
+      "parent_id": "folder_1782805389390",
+      "created_at": "2026-06-30T07:43:46.488029Z",
+      "updated_at": "2026-06-30T07:43:46.488029Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1782805468198": {
       "id": "doc_1782805468198",
       "type": "file",
-      "title": "02 Unittest"
+      "title": "02 Unittest",
+      "parent_id": "folder_1782805389390",
+      "created_at": "2026-06-30T07:44:28.198730Z",
+      "updated_at": "2026-06-30T07:44:28.198730Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "folder_1782809010885": {
       "id": "folder_1782809010885",
@@ -182,17 +287,32 @@
     "doc_1782876767046": {
       "id": "doc_1782876767046",
       "type": "file",
-      "title": "01 Object Oriented Design patterns"
+      "title": "01 Object Oriented Design patterns",
+      "parent_id": "folder_1782876730443",
+      "created_at": "2026-07-01T03:32:47.046807Z",
+      "updated_at": "2026-08-05T03:23:32.238385Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1782877000044": {
       "id": "doc_1782877000044",
       "type": "file",
-      "title": "02 The Software Design"
+      "title": "02 The Software Design",
+      "parent_id": "folder_1782876730443",
+      "created_at": "2026-07-01T03:36:40.044773Z",
+      "updated_at": "2026-07-01T03:37:30.360307Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1782877930066": {
       "id": "doc_1782877930066",
       "type": "file",
-      "title": "01 Class diagram"
+      "title": "01 Class diagram",
+      "parent_id": "folder_1782879295067",
+      "created_at": "2026-07-01T03:52:10.066677Z",
+      "updated_at": "2026-07-01T04:44:50.442776Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "folder_1782879295067": {
       "id": "folder_1782879295067",
@@ -212,42 +332,82 @@
     "doc_1782880414169": {
       "id": "doc_1782880414169",
       "type": "file",
-      "title": "02 Strategy & Factory"
+      "title": "02 Strategy & Factory",
+      "parent_id": "folder_1782879295067",
+      "created_at": "2026-07-01T04:33:34.169362Z",
+      "updated_at": "2026-07-27T05:53:53.704862Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1782881118355": {
       "id": "doc_1782881118355",
       "type": "file",
-      "title": "10 Use Case (Requirement)"
+      "title": "10 Use Case (Requirement)",
+      "parent_id": "folder_1782879295067",
+      "created_at": "2026-07-01T04:45:18.355679Z",
+      "updated_at": "2026-07-01T09:02:15.110876Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1782881151846": {
       "id": "doc_1782881151846",
       "type": "file",
-      "title": "20 Sequence ( Flow)"
+      "title": "20 Sequence ( Flow)",
+      "parent_id": "folder_1782879295067",
+      "created_at": "2026-07-01T04:45:51.846932Z",
+      "updated_at": "2026-07-01T04:45:51.846932Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1782881181247": {
       "id": "doc_1782881181247",
       "type": "file",
-      "title": "30 Activity (Process)"
+      "title": "30 Activity (Process)",
+      "parent_id": "folder_1782879295067",
+      "created_at": "2026-07-01T04:46:21.247793Z",
+      "updated_at": "2026-07-01T04:46:21.247793Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1782881545754": {
       "id": "doc_1782881545754",
       "type": "file",
-      "title": "11 Use Case  example"
+      "title": "11 Use Case  example",
+      "parent_id": "folder_1782879295067",
+      "created_at": "2026-07-01T04:52:25.754850Z",
+      "updated_at": "2026-07-01T09:02:26.119404Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1783503945746": {
       "id": "doc_1783503945746",
       "type": "file",
-      "title": "22 Java style guide"
+      "title": "22 Java style guide",
+      "parent_id": "folder_1781663299075",
+      "created_at": "2026-07-08T09:45:45.746618Z",
+      "updated_at": "2026-07-08T09:46:30.143708Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1785132742521": {
       "id": "doc_1785132742521",
       "type": "file",
-      "title": "03 Strategy& Observer Pattern"
+      "title": "03 Strategy& Observer Pattern",
+      "parent_id": "folder_1782879295067",
+      "created_at": "2026-07-27T06:12:22.521706Z",
+      "updated_at": "2026-07-27T06:15:51.435047Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1785133277779": {
       "id": "doc_1785133277779",
       "type": "file",
-      "title": "04 Factory _ Strategy _ Observer"
+      "title": "04 Factory _ Strategy _ Observer",
+      "parent_id": "folder_1782879295067",
+      "created_at": "2026-07-27T06:21:17.779252Z",
+      "updated_at": "2026-07-27T06:22:44.223566Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "folder_1787146976138": {
       "id": "folder_1787146976138",
@@ -260,7 +420,12 @@
     "doc_1787147108139": {
       "id": "doc_1787147108139",
       "type": "file",
-      "title": "01 Mat Bao _ Google cloud"
+      "title": "01 Mat Bao _ Google cloud",
+      "parent_id": "folder_1787146976138",
+      "created_at": "2026-08-19T13:45:08.139087Z",
+      "updated_at": "2026-08-19T14:22:35.167194Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     }
   },
   "updated_at": "2026-08-19T14:22:35.670838Z"

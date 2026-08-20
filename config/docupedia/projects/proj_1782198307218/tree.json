@@ -24,27 +24,52 @@
     "doc_1782198338514": {
       "id": "doc_1782198338514",
       "type": "file",
-      "title": "01 Gemini 6-2026"
+      "title": "01 Gemini 6-2026",
+      "parent_id": "folder_1782198323341",
+      "created_at": "2026-06-23T07:05:38.514722Z",
+      "updated_at": "2026-06-23T07:10:14.031156Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1782200630147": {
       "id": "doc_1782200630147",
       "type": "file",
-      "title": "02 Virtual Box"
+      "title": "02 Virtual Box",
+      "parent_id": "folder_1782198323341",
+      "created_at": "2026-06-23T07:43:50.147279Z",
+      "updated_at": "2026-06-23T07:47:08.131973Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1782214929150": {
       "id": "doc_1782214929150",
       "type": "file",
-      "title": "03 Visual Studio Code"
+      "title": "03 Visual Studio Code",
+      "parent_id": "folder_1782198323341",
+      "created_at": "2026-06-23T11:42:09.150516Z",
+      "updated_at": "2026-06-23T11:42:43.962128Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1782460231417": {
       "id": "doc_1782460231417",
       "type": "file",
-      "title": "10 Windows OS"
+      "title": "10 Windows OS",
+      "parent_id": "folder_1782198323341",
+      "created_at": "2026-06-26T07:50:31.417362Z",
+      "updated_at": "2026-07-09T04:46:01.734794Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1782796652636": {
       "id": "doc_1782796652636",
       "type": "file",
-      "title": "04 draw.io"
+      "title": "04 draw.io",
+      "parent_id": "folder_1782198323341",
+      "created_at": "2026-06-30T05:17:32.636990Z",
+      "updated_at": "2026-06-30T05:19:00.239322Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     }
   },
   "updated_at": "2026-07-09T04:46:02.148889Z"

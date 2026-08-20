@@ -77,7 +77,12 @@
     "doc_1781689521433": {
       "id": "doc_1781689521433",
       "type": "file",
-      "title": "10. Source Code"
+      "title": "10. Source Code",
+      "parent_id": "folder_1781688837939",
+      "created_at": "2026-06-17T09:45:21.433763Z",
+      "updated_at": "2026-06-17T09:45:21.433763Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "folder_1781689727150": {
       "id": "folder_1781689727150",
@@ -114,7 +119,12 @@
     "doc_1781690596277": {
       "id": "doc_1781690596277",
       "type": "file",
-      "title": "01 Template  IoT system"
+      "title": "01 Template  IoT system",
+      "parent_id": "folder_1781690909352",
+      "created_at": "2026-06-17T10:03:16.277774Z",
+      "updated_at": "2026-06-18T03:46:25.505332Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "folder_1781690909352": {
       "id": "folder_1781690909352",
@@ -130,17 +140,32 @@
     "doc_1781754358292": {
       "id": "doc_1781754358292",
       "type": "file",
-      "title": "02 Template Web application"
+      "title": "02 Template Web application",
+      "parent_id": "folder_1781690909352",
+      "created_at": "2026-06-18T03:45:58.292337Z",
+      "updated_at": "2026-06-18T03:49:01.303694Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1782191722245": {
       "id": "doc_1782191722245",
       "type": "file",
-      "title": "20 Scrum Master"
+      "title": "20 Scrum Master",
+      "parent_id": "folder_1781690909352",
+      "created_at": "2026-06-23T05:15:22.245710Z",
+      "updated_at": "2026-06-23T05:19:08.439710Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1782192704532": {
       "id": "doc_1782192704532",
       "type": "file",
-      "title": "21 Waterfall"
+      "title": "21 Waterfall",
+      "parent_id": "folder_1781690909352",
+      "created_at": "2026-06-23T05:31:44.532671Z",
+      "updated_at": "2026-06-23T05:31:44.532671Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "folder_1783324784947": {
       "id": "folder_1783324784947",
@@ -153,7 +178,12 @@
     "doc_1783324796324": {
       "id": "doc_1783324796324",
       "type": "file",
-      "title": "01 Thong Le"
+      "title": "01 Thong Le",
+      "parent_id": "folder_1783324784947",
+      "created_at": "2026-07-06T07:59:56.324942Z",
+      "updated_at": "2026-07-27T09:05:56.852274Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     }
   },
   "updated_at": "2026-07-27T09:05:56.853280Z"

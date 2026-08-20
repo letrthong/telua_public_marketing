@@ -24,27 +24,52 @@
     "doc_1781759075800": {
       "id": "doc_1781759075800",
       "type": "file",
-      "title": "01 Huế Thác Đỗ Quyên"
+      "title": "01 Huế Thác Đỗ Quyên",
+      "parent_id": "folder_1781758796415",
+      "created_at": "2026-06-18T05:04:35.800912Z",
+      "updated_at": "2026-06-18T14:00:40.618652Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1781775097918": {
       "id": "doc_1781775097918",
       "type": "file",
-      "title": "x"
+      "title": "x",
+      "parent_id": "root",
+      "created_at": "2026-06-18T09:31:37.918934Z",
+      "updated_at": "2026-06-23T13:32:57.017332Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1781838802870": {
       "id": "doc_1781838802870",
       "type": "file",
-      "title": "test"
+      "title": "test",
+      "parent_id": "root",
+      "created_at": "2026-06-19T03:13:22.870712Z",
+      "updated_at": "2026-06-19T04:06:19.167162Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1782740558695": {
       "id": "doc_1782740558695",
       "type": "file",
-      "title": "ssss"
+      "title": "ssss",
+      "parent_id": "root",
+      "created_at": "2026-06-29T13:42:38.695465Z",
+      "updated_at": "2026-06-29T13:43:00.587792Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1782740616489": {
       "id": "doc_1782740616489",
       "type": "file",
-      "title": "a"
+      "title": "a",
+      "parent_id": "folder_1781758796415",
+      "created_at": "2026-06-29T13:43:36.489599Z",
+      "updated_at": "2026-06-29T16:33:59.090303Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     }
   },
   "updated_at": "2026-06-29T16:33:59.091064Z"

@@ -22,12 +22,22 @@
     "doc_1782717810690": {
       "id": "doc_1782717810690",
       "type": "file",
-      "title": "01. Yêu cầu"
+      "title": "01. Yêu cầu",
+      "parent_id": "folder_1783424906149",
+      "created_at": "2026-06-29T07:23:30.690408Z",
+      "updated_at": "2026-07-07T11:49:25.535679Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1782718522451": {
       "id": "doc_1782718522451",
       "type": "file",
-      "title": "02 Học Thực Hành"
+      "title": "02 Học Thực Hành",
+      "parent_id": "folder_1782717791747",
+      "created_at": "2026-06-29T07:35:22.451244Z",
+      "updated_at": "2026-06-30T07:32:40.288351Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "folder_1782792996140": {
       "id": "folder_1782792996140",
@@ -57,12 +67,22 @@
     "doc_1782793049645": {
       "id": "doc_1782793049645",
       "type": "file",
-      "title": "01 Cơ bản"
+      "title": "01 Cơ bản",
+      "parent_id": "folder_1782793016641",
+      "created_at": "2026-06-30T04:17:29.645786Z",
+      "updated_at": "2026-06-30T04:17:54.547863Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1782793058149": {
       "id": "doc_1782793058149",
       "type": "file",
-      "title": "01 Cơ bản"
+      "title": "01 Cơ bản",
+      "parent_id": "folder_1782793036440",
+      "created_at": "2026-06-30T04:17:38.149457Z",
+      "updated_at": "2026-06-30T04:17:59.339738Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "folder_1783424906149": {
       "id": "folder_1783424906149",
@@ -85,52 +105,102 @@
     "doc_1783483129684": {
       "id": "doc_1783483129684",
       "type": "file",
-      "title": "02 Luật cơ bản"
+      "title": "02 Luật cơ bản",
+      "parent_id": "folder_1783424906149",
+      "created_at": "2026-07-08T03:58:49.684285Z",
+      "updated_at": "2026-07-08T09:23:25.621240Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1783495620502": {
       "id": "doc_1783495620502",
       "type": "file",
-      "title": "10 Biển báo Cấm"
+      "title": "10 Biển báo Cấm",
+      "parent_id": "folder_1783424906149",
+      "created_at": "2026-07-08T07:27:00.502019Z",
+      "updated_at": "2026-07-17T15:13:20.756675Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1783500649419": {
       "id": "doc_1783500649419",
       "type": "file",
-      "title": "20 600 Câu trắc nghiệm"
+      "title": "20 600 Câu trắc nghiệm",
+      "parent_id": "folder_1783424906149",
+      "created_at": "2026-07-08T08:50:49.419831Z",
+      "updated_at": "2026-07-08T08:51:58.300316Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1784300062966": {
       "id": "doc_1784300062966",
       "type": "file",
-      "title": "11 Biển báo nguy hiểm"
+      "title": "11 Biển báo nguy hiểm",
+      "parent_id": "folder_1783424906149",
+      "created_at": "2026-07-17T14:54:22.966593Z",
+      "updated_at": "2026-07-21T03:13:43.886714Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1784300091481": {
       "id": "doc_1784300091481",
       "type": "file",
-      "title": "12 Biển báo hiệu lệnh"
+      "title": "12 Biển báo hiệu lệnh",
+      "parent_id": "folder_1783424906149",
+      "created_at": "2026-07-17T14:54:51.481956Z",
+      "updated_at": "2026-07-21T03:19:57.364660Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1784300127154": {
       "id": "doc_1784300127154",
       "type": "file",
-      "title": "13 Biển báo chỉ dẫn"
+      "title": "13 Biển báo chỉ dẫn",
+      "parent_id": "folder_1783424906149",
+      "created_at": "2026-07-17T14:55:27.154813Z",
+      "updated_at": "2026-07-21T03:19:27.751603Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1784300161651": {
       "id": "doc_1784300161651",
       "type": "file",
-      "title": "15 Các vạch kẻ đường"
+      "title": "15 Các vạch kẻ đường",
+      "parent_id": "folder_1783424906149",
+      "created_at": "2026-07-17T14:56:01.651327Z",
+      "updated_at": "2026-07-21T03:16:43.859020Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1784300177362": {
       "id": "doc_1784300177362",
       "type": "file",
-      "title": "14 Biển báo trên đường cao tốc"
+      "title": "14 Biển báo trên đường cao tốc",
+      "parent_id": "folder_1783424906149",
+      "created_at": "2026-07-17T14:56:17.362734Z",
+      "updated_at": "2026-07-21T03:17:20.480420Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1785171404625": {
       "id": "doc_1785171404625",
       "type": "file",
-      "title": "05 Biểu tượng phương tiện"
+      "title": "05 Biểu tượng phương tiện",
+      "parent_id": "folder_1783424906149",
+      "created_at": "2026-07-27T16:56:44.625428Z",
+      "updated_at": "2026-07-27T17:11:35.786681Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1785171869877": {
       "id": "doc_1785171869877",
       "type": "file",
-      "title": "04 Luật giao thông"
+      "title": "04 Luật giao thông",
+      "parent_id": "folder_1783424906149",
+      "created_at": "2026-07-27T17:04:29.877393Z",
+      "updated_at": "2026-07-27T17:10:12.929986Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     }
   },
   "updated_at": "2026-07-27T17:11:35.789284Z"

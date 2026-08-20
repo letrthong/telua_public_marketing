@@ -21,12 +21,22 @@
     "doc_1781842860149": {
       "id": "doc_1781842860149",
       "type": "file",
-      "title": "01 Cây trồng leo tường"
+      "title": "01 Cây trồng leo tường",
+      "parent_id": "folder_1781663272649",
+      "created_at": "2026-06-19T04:21:00.149399Z",
+      "updated_at": "2026-06-28T05:44:28.700623Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1781846685209": {
       "id": "doc_1781846685209",
       "type": "file",
-      "title": "02 Gạch trồng cỏ"
+      "title": "02 Gạch trồng cỏ",
+      "parent_id": "folder_1781663272649",
+      "created_at": "2026-06-19T05:24:45.209907Z",
+      "updated_at": "2026-06-19T05:27:40.153622Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     }
   },
   "updated_at": "2026-06-28T05:44:29.280260Z"

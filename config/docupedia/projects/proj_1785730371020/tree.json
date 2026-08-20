@@ -34,32 +34,62 @@
     "doc_1785838819204": {
       "id": "doc_1785838819204",
       "type": "file",
-      "title": "02. vị trí cửa hàng"
+      "title": "02. vị trí cửa hàng",
+      "parent_id": "folder_1785730407607",
+      "created_at": "2026-08-04T10:20:19.204215Z",
+      "updated_at": "2026-08-05T15:12:45.117957Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1785839153175": {
       "id": "doc_1785839153175",
       "type": "file",
-      "title": "50 Các tiệm hoa xung quanh"
+      "title": "50 Các tiệm hoa xung quanh",
+      "parent_id": "folder_1785730407607",
+      "created_at": "2026-08-04T10:25:53.175691Z",
+      "updated_at": "2026-08-04T15:32:34.013016Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1785851990681": {
       "id": "doc_1785851990681",
       "type": "file",
-      "title": "30 Thiết kế cửa hàng"
+      "title": "30 Thiết kế cửa hàng",
+      "parent_id": "folder_1785730407607",
+      "created_at": "2026-08-04T13:59:50.681870Z",
+      "updated_at": "2026-08-05T03:18:43.698237Z",
+      "created_by": "user_admin",
+      "updated_by": "user_1785839343630"
     },
     "doc_1785852578781": {
       "id": "doc_1785852578781",
       "type": "file",
-      "title": "Thông tin"
+      "title": "Thông tin",
+      "parent_id": "root",
+      "created_at": "2026-08-04T14:09:38.781467Z",
+      "updated_at": "2026-08-04T14:12:37.104575Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1785855272161": {
       "id": "doc_1785855272161",
       "type": "file",
-      "title": "03. Vị trí chung cư"
+      "title": "03. Vị trí chung cư",
+      "parent_id": "folder_1785730407607",
+      "created_at": "2026-08-04T14:54:32.161377Z",
+      "updated_at": "2026-08-04T15:06:55.044241Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1785855731167": {
       "id": "doc_1785855731167",
       "type": "file",
-      "title": "01. Vị trí cân nhắc"
+      "title": "01. Vị trí cân nhắc",
+      "parent_id": "folder_1785730407607",
+      "created_at": "2026-08-04T15:02:11.167999Z",
+      "updated_at": "2026-08-05T15:05:08.938087Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "folder_1785942416916": {
       "id": "folder_1785942416916",
@@ -72,7 +102,12 @@
     "doc_1785942479135": {
       "id": "doc_1785942479135",
       "type": "file",
-      "title": "00 Ghi chú"
+      "title": "00 Ghi chú",
+      "parent_id": "folder_1785942416916",
+      "created_at": "2026-08-05T15:07:59.135426Z",
+      "updated_at": "2026-08-05T15:11:36.721929Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "folder_1787147591788": {
       "id": "folder_1787147591788",
@@ -85,7 +120,12 @@
     "doc_1787147617025": {
       "id": "doc_1787147617025",
       "type": "file",
-      "title": "01 Mắt Bảo"
+      "title": "01 Mắt Bảo",
+      "parent_id": "folder_1787147591788",
+      "created_at": "2026-08-19T13:53:37.025829Z",
+      "updated_at": "2026-08-19T15:31:29.328845Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     }
   },
   "updated_at": "2026-08-19T15:31:29.330617Z"

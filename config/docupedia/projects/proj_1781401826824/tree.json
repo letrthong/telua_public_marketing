@@ -32,17 +32,32 @@
     "doc_1781409971221": {
       "id": "doc_1781409971221",
       "type": "file",
-      "title": "03 Tạo dự án"
+      "title": "03 Tạo dự án",
+      "parent_id": "folder_1782265649927",
+      "created_at": "2026-06-14T04:06:11.221654Z",
+      "updated_at": "2026-06-24T01:50:32.427175Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1781409990739": {
       "id": "doc_1781409990739",
       "type": "file",
-      "title": "02 Cách phân quyền dự án"
+      "title": "02 Cách phân quyền dự án",
+      "parent_id": "folder_1782265649927",
+      "created_at": "2026-06-14T04:06:30.739507Z",
+      "updated_at": "2026-06-24T01:50:13.828734Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1781410022130": {
       "id": "doc_1781410022130",
       "type": "file",
-      "title": "04 Mã nguồn"
+      "title": "04 Mã nguồn",
+      "parent_id": "folder_1781758446902",
+      "created_at": "2026-06-14T04:07:02.130175Z",
+      "updated_at": "2026-06-24T01:50:24.035897Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "folder_1781423383592": {
       "id": "folder_1781423383592",
@@ -56,7 +71,12 @@
     "doc_1781423411478": {
       "id": "doc_1781423411478",
       "type": "file",
-      "title": "10  Mã nguồn"
+      "title": "10  Mã nguồn",
+      "parent_id": "folder_1781423383592",
+      "created_at": "2026-06-14T07:50:11.478081Z",
+      "updated_at": "2026-06-14T10:02:43.989193Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "folder_1781423675558": {
       "id": "folder_1781423675558",
@@ -70,32 +90,62 @@
     "doc_1781423719382": {
       "id": "doc_1781423719382",
       "type": "file",
-      "title": "10  Mã nguồn"
+      "title": "10  Mã nguồn",
+      "parent_id": "folder_1781423675558",
+      "created_at": "2026-06-14T07:55:19.382114Z",
+      "updated_at": "2026-06-14T10:02:27.186048Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1781423928467": {
       "id": "doc_1781423928467",
       "type": "file",
-      "title": "01 Giới thiệu"
+      "title": "01 Giới thiệu",
+      "parent_id": "folder_1781423675558",
+      "created_at": "2026-06-14T07:58:48.467248Z",
+      "updated_at": "2026-06-14T10:02:20.774727Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1781426566278": {
       "id": "doc_1781426566278",
       "type": "file",
-      "title": "01 Giới thiệu"
+      "title": "01 Giới thiệu",
+      "parent_id": "folder_1781423383592",
+      "created_at": "2026-06-14T08:42:46.278906Z",
+      "updated_at": "2026-06-14T10:02:34.070305Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1781426715279": {
       "id": "doc_1781426715279",
       "type": "file",
-      "title": "01 Giới thiệu"
+      "title": "01 Giới thiệu",
+      "parent_id": "folder_1781758417900",
+      "created_at": "2026-06-14T08:45:15.279462Z",
+      "updated_at": "2026-06-18T04:55:50.100347Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1781431113469": {
       "id": "doc_1781431113469",
       "type": "file",
-      "title": "10 Phiên Bản"
+      "title": "10 Phiên Bản",
+      "parent_id": "folder_1781758476604",
+      "created_at": "2026-06-14T09:58:33.469242Z",
+      "updated_at": "2026-06-24T01:49:22.627600Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1781431236848": {
       "id": "doc_1781431236848",
       "type": "file",
-      "title": "20  Cách triển khai trên cloud"
+      "title": "20  Cách triển khai trên cloud",
+      "parent_id": "folder_1781758446902",
+      "created_at": "2026-06-14T10:00:36.848437Z",
+      "updated_at": "2026-06-24T01:50:53.626346Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "folder_1781496925635": {
       "id": "folder_1781496925635",
@@ -108,7 +158,12 @@
     "doc_1781496951030": {
       "id": "doc_1781496951030",
       "type": "file",
-      "title": "01 Giới thiệu"
+      "title": "01 Giới thiệu",
+      "parent_id": "folder_1781496925635",
+      "created_at": "2026-06-15T04:15:51.030552Z",
+      "updated_at": "2026-06-17T09:52:12.932903Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "folder_1781496989220": {
       "id": "folder_1781496989220",
@@ -123,12 +178,22 @@
     "doc_1781497002024": {
       "id": "doc_1781497002024",
       "type": "file",
-      "title": "01 Giới thiệu"
+      "title": "01 Giới thiệu",
+      "parent_id": "folder_1781496989220",
+      "created_at": "2026-06-15T04:16:42.024638Z",
+      "updated_at": "2026-06-15T04:17:44.731175Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1781671776033": {
       "id": "doc_1781671776033",
       "type": "file",
-      "title": "10 Mã nguồn"
+      "title": "10 Mã nguồn",
+      "parent_id": "folder_1781496989220",
+      "created_at": "2026-06-17T04:49:36.033199Z",
+      "updated_at": "2026-06-17T04:50:00.552617Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "folder_1781689859316": {
       "id": "folder_1781689859316",
@@ -141,7 +206,12 @@
     "doc_1781689881637": {
       "id": "doc_1781689881637",
       "type": "file",
-      "title": "01 Giới thiệu"
+      "title": "01 Giới thiệu",
+      "parent_id": "folder_1781689859316",
+      "created_at": "2026-06-17T09:51:21.637848Z",
+      "updated_at": "2026-06-17T09:51:21.637848Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "folder_1781758417900": {
       "id": "folder_1781758417900",
@@ -197,7 +267,12 @@
     "doc_1782265612126": {
       "id": "doc_1782265612126",
       "type": "file",
-      "title": "01 Confluence Atlassian"
+      "title": "01 Confluence Atlassian",
+      "parent_id": "folder_1781758429603",
+      "created_at": "2026-06-24T01:46:52.126307Z",
+      "updated_at": "2026-06-24T02:51:17.349768Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "folder_1782265649927": {
       "id": "folder_1782265649927",
@@ -211,7 +286,12 @@
     "doc_1782271174927": {
       "id": "doc_1782271174927",
       "type": "file",
-      "title": "30 Jira"
+      "title": "30 Jira",
+      "parent_id": "folder_1781496989220",
+      "created_at": "2026-06-24T03:19:34.927125Z",
+      "updated_at": "2026-06-24T03:21:13.535976Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     }
   },
   "updated_at": "2026-06-24T03:21:13.547891Z"

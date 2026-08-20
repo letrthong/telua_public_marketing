@@ -13,17 +13,32 @@
     "doc_1781366811015": {
       "id": "doc_1781366811015",
       "type": "file",
-      "title": "Paris Có Gì Lạ Không Em"
+      "title": "Paris Có Gì Lạ Không Em",
+      "parent_id": "folder_1781424434871",
+      "created_at": "2026-06-13T16:06:51.015076Z",
+      "updated_at": "2026-06-14T08:37:14.564141Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1781366867641": {
       "id": "doc_1781366867641",
       "type": "file",
-      "title": "Áo Lụa Hà Đông"
+      "title": "Áo Lụa Hà Đông",
+      "parent_id": "folder_1781424434871",
+      "created_at": "2026-06-13T16:07:47.641424Z",
+      "updated_at": "2026-06-14T08:37:08.158627Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1781366911933": {
       "id": "doc_1781366911933",
       "type": "file",
-      "title": "Tháng Sáu Trời Mưa"
+      "title": "Tháng Sáu Trời Mưa",
+      "parent_id": "folder_1781424434871",
+      "created_at": "2026-06-13T16:08:31.933734Z",
+      "updated_at": "2026-06-14T08:37:22.821895Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "folder_1781424434871": {
       "id": "folder_1781424434871",
@@ -49,22 +64,42 @@
     "doc_1781424597072": {
       "id": "doc_1781424597072",
       "type": "file",
-      "title": "Bản tình cuối"
+      "title": "Bản tình cuối",
+      "parent_id": "folder_1781424449283",
+      "created_at": "2026-06-14T08:09:57.072808Z",
+      "updated_at": "2026-06-23T01:30:43.718362Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1781430649062": {
       "id": "doc_1781430649062",
       "type": "file",
-      "title": "Lời ở lại"
+      "title": "Lời ở lại",
+      "parent_id": "folder_1781424434871",
+      "created_at": "2026-06-14T09:50:49.062149Z",
+      "updated_at": "2026-06-14T09:51:04.491913Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1782634325299": {
       "id": "doc_1782634325299",
       "type": "file",
-      "title": "Khung Ảnh"
+      "title": "Khung Ảnh",
+      "parent_id": "folder_1781424434871",
+      "created_at": "2026-06-28T08:12:05.299486Z",
+      "updated_at": "2026-06-28T08:12:54.123658Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     },
     "doc_1782634438472": {
       "id": "doc_1782634438472",
       "type": "file",
-      "title": "Kỉ Niệm"
+      "title": "Kỉ Niệm",
+      "parent_id": "folder_1781424434871",
+      "created_at": "2026-06-28T08:13:58.472592Z",
+      "updated_at": "2026-06-28T08:16:51.018933Z",
+      "created_by": "user_admin",
+      "updated_by": "user_admin"
     }
   },
   "updated_at": "2026-06-28T08:16:51.019586Z"
