@@ -1,0 +1,27 @@
+{
+  "id": "bo_hoa_01",
+  "name": "Mây Trắng Bồng Bềnh",
+  "category": "bo_hoa",
+  "priceLevelId": "price_lvl_01",
+  "originalPrice": "450,000₫",
+  "salePrice": "420,000₫",
+  "priceNumber": 420000,
+  "badge": "-7%",
+  "image": "https://images.unsplash.com/photo-1562690868-60bbe7293e94?w=500",
+  "gallery": [
+    "https://images.unsplash.com/photo-1562690868-60bbe7293e94?w=800",
+    "https://images.unsplash.com/photo-1526047932273-341f2a7631f9?w=800"
+  ],
+  "description": "Bó hoa tone trắng dịu êm kết hợp hoa sao xanh thanh lịch.",
+  "flowerComposition": "Hồng trắng Ohara (10 cành), Cúc Tana, Hoa Sao Xanh, Lá Bạc Dollar",
+  "dimension": "Cao 50cm x Rộng 40cm",
+  "careTips": "Cắt gốc 45 độ, phun sương nhẹ cánh hoa mỗi sáng.",
+  "stockByBranch": {
+    "branch_q10": 12,
+    "branch_q1": 6,
+    "branch_thao_dien": 4
+  },
+  "dailyQuota": 20,
+  "isActive": true,
+  "updatedAt": "2026-08-22T07:00:00Z"
+}

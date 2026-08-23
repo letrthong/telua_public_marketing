@@ -1,0 +1,27 @@
+{
+  "id": "gio_hoa_01",
+  "name": "Giỏ Hoa Nắng Sớm",
+  "category": "gio_hoa",
+  "priceLevelId": "price_lvl_02",
+  "originalPrice": "920,000₫",
+  "salePrice": "880,000₫",
+  "priceNumber": 880000,
+  "badge": "-4%",
+  "image": "https://images.unsplash.com/photo-1561181286-d3fee7d55364?w=500",
+  "gallery": [
+    "https://images.unsplash.com/photo-1561181286-d3fee7d55364?w=800",
+    "https://images.unsplash.com/photo-1582794543139-8ac9cb0f7b11?w=800"
+  ],
+  "description": "Giỏ mây vintage cắm phối hoa tone pastel ngọt ngào, thích hợp tặng sinh nhật, tri ân đối tác.",
+  "flowerComposition": "Hồng Juliet David Austin, Cát Tường xoăn, Baby trắng, Giỏ mây đan tay",
+  "dimension": "Cao 45cm x Rộng 40cm",
+  "careTips": "Để nơi thoáng mát, phun nước đẫm xốp cắm hoa vào buổi sáng.",
+  "stockByBranch": {
+    "branch_q10": 6,
+    "branch_q1": 4,
+    "branch_thao_dien": 1
+  },
+  "dailyQuota": 10,
+  "isActive": true,
+  "updatedAt": "2026-08-22T07:00:00Z"
+}

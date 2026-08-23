@@ -1,0 +1,23 @@
+[
+  {
+    "id": "promo_old_voucher",
+    "title": "Voucher Khuyến Mãi Mùa Hè Cũ",
+    "code": "SUMMER2025",
+    "discountType": "percentage",
+    "discountValue": 10,
+    "maxDiscountAmount": 100000,
+    "minOrderAmount": 300000,
+    "startDate": "2025-06-01T00:00:00Z",
+    "endDate": "2025-08-31T23:59:59Z",
+    "usageLimit": 100,
+    "usedCount": 100,
+    "topBarMessage": "",
+    "heroBannerUrl": "",
+    "status": "deleted",
+    "isActive": false,
+    "isDeleted": true,
+    "deletedAt": "2026-08-23T20:25:00Z",
+    "createdAt": "2025-06-01T00:00:00Z",
+    "updatedAt": "2026-08-23T20:25:00Z"
+  }
+]

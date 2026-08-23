@@ -1,0 +1,47 @@
+[
+  {
+    "id": "branch_q10",
+    "code": "CN_Q10",
+    "name": "Nở Hoa Thả Bình - Showroom Quận 10 (Flagship)",
+    "address": "183/37 Đường 3 Tháng 2, Phường 11, Quận 10, TP. Hồ Chí Minh",
+    "lat": 10.7725,
+    "lng": 106.6698,
+    "phone": "0976.491.322",
+    "openHours": "07:00 - 21:00",
+    "deliveryRadiusKm": 10,
+    "managerId": "staff_001",
+    "amenities": "Đậu xe ô tô/xe máy miễn phí, cắm hoa nghệ thuật tại chỗ, phòng lạnh bảo quản hoa",
+    "isActive": true,
+    "createdAt": "2026-08-21T00:00:00Z"
+  },
+  {
+    "id": "branch_q1",
+    "code": "CN_Q1",
+    "name": "Nở Hoa Thả Bình - Showroom Bến Nghé Quận 1",
+    "address": "Số 2 Hải Triều, Phường Bến Nghé, Quận 1, TP. Hồ Chí Minh",
+    "lat": 10.7715,
+    "lng": 106.7042,
+    "phone": "0976.491.323",
+    "openHours": "08:00 - 21:30",
+    "deliveryRadiusKm": 8,
+    "managerId": "staff_004",
+    "amenities": "Giao hoa hỏa tốc văn phòng Bitexco, gói quà cao cấp",
+    "isActive": true,
+    "createdAt": "2026-08-21T00:00:00Z"
+  },
+  {
+    "id": "branch_thao_dien",
+    "code": "CN_Q2",
+    "name": "Nở Hoa Thả Bình - Showroom Thảo Điền",
+    "address": "68 Xuân Thủy, Phường Thảo Điền, TP. Thủ Đức, TP. Hồ Chí Minh",
+    "lat": 10.8035,
+    "lng": 106.7328,
+    "phone": "0976.491.324",
+    "openHours": "07:30 - 21:00",
+    "deliveryRadiusKm": 12,
+    "managerId": "staff_005",
+    "amenities": "Không gian workshop cắm hoa, hoa nhập khẩu Hà Lan/Ecuador",
+    "isActive": true,
+    "createdAt": "2026-08-21T00:00:00Z"
+  }
+]

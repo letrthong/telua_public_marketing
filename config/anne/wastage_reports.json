@@ -1,0 +1,27 @@
+[
+  {
+    "id": "wastage_20260822_q10",
+    "branchId": "branch_q10",
+    "date": "2026-08-22",
+    "reportedBy": "staff_002",
+    "items": [
+      {
+        "flowerType": "Hồng đỏ Red Naomi",
+        "damagedStems": 5,
+        "reason": "Dập cánh khi vận chuyển từ Đà Lạt về",
+        "unitCost": 15000,
+        "totalLoss": 75000
+      },
+      {
+        "flowerType": "Tulip trắng Hà Lan",
+        "damagedStems": 3,
+        "reason": "Nở quá độ trong thời tiết nóng",
+        "unitCost": 25000,
+        "totalLoss": 75000
+      }
+    ],
+    "totalLossAmount": 150000,
+    "notes": "Kiểm kê hao hụt cuối ca chiều ngày 22/08/2026",
+    "createdAt": "2026-08-22T21:00:00Z"
+  }
+]

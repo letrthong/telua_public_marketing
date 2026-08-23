@@ -1,0 +1,27 @@
+{
+  "id": "lan_01",
+  "name": "Chậu Lan Hồ Điệp Phú Quý (5 Cành)",
+  "category": "lan_ho_diep",
+  "priceLevelId": "price_lvl_04",
+  "originalPrice": "3,800,000₫",
+  "salePrice": "3,500,000₫",
+  "priceNumber": 3500000,
+  "badge": "Độc Bản VIP",
+  "image": "https://images.unsplash.com/photo-1567696911980-2eed69a46042?w=500",
+  "gallery": [
+    "https://images.unsplash.com/photo-1567696911980-2eed69a46042?w=800",
+    "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/moth_orchid.jpg"
+  ],
+  "description": "Chậu lan hồ điệp loại A 5 cành hoa đều đẹp, thế cắm phong thủy mang lại tài lộc và vượng khí.",
+  "flowerComposition": "Lan hồ điệp vàng hoàng gia (5 ngồng hoa loại 1), Chậu sứ cao cấp dát chỉ vàng",
+  "dimension": "Cao 85cm x Rộng 60cm",
+  "careTips": "Tưới 100ml vào gốc mỗi tuần 1 lần, tránh tưới trực tiếp lên hoa, giữ nơi có ánh sáng tán xạ.",
+  "stockByBranch": {
+    "branch_q10": 3,
+    "branch_q1": 2,
+    "branch_thao_dien": 2
+  },
+  "dailyQuota": 5,
+  "isActive": true,
+  "updatedAt": "2026-08-22T07:00:00Z"
+}
