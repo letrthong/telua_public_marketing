@@ -114,7 +114,8 @@
       "type": "folder",
       "title": "03 Thông tin",
       "children": [
-        "doc_1787147617025"
+        "doc_1787147617025",
+        "doc_1787502400923"
       ]
     },
     "doc_1787147617025": {
@@ -126,7 +127,17 @@
       "updated_at": "2026-08-19T15:31:29.328845Z",
       "created_by": "user_admin",
       "updated_by": "user_admin"
+    },
+    "doc_1787502400923": {
+      "id": "doc_1787502400923",
+      "type": "file",
+      "title": "02 nohoathabinh.com",
+      "parent_id": "folder_1787147591788",
+      "created_by": "user_admin",
+      "updated_by": "user_admin",
+      "created_at": "2026-08-23T16:26:40.923700Z",
+      "updated_at": "2026-08-23T16:29:55.843130Z"
     }
   },
-  "updated_at": "2026-08-19T15:31:29.330617Z"
+  "updated_at": "2026-08-23T16:29:55.848255Z"
 }

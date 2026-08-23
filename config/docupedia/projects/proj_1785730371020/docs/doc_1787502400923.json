@@ -1,0 +1,26 @@
+{
+  "id": "doc_1787502400923",
+  "type": "file",
+  "title": "02 nohoathabinh.com",
+  "parent_id": "folder_1787147591788",
+  "content": {
+    "ops": [
+      {
+        "insert": "Login  "
+      },
+      {
+        "attributes": {
+          "link": "https://nohoathabinh.com/"
+        },
+        "insert": "https://nohoathabinh.com/"
+      },
+      {
+        "insert": "\n     admin@nohoathabinh.vn  123456 \n\n\nNgày cập nhập 23:29 23/8/2026\n"
+      }
+    ]
+  },
+  "created_by": "user_admin",
+  "updated_by": "user_admin",
+  "created_at": "2026-08-23T16:26:40.923700Z",
+  "updated_at": "2026-08-23T16:29:55.843130Z"
+}
