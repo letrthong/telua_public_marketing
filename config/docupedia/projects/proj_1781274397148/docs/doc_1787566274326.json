@@ -1,0 +1,52 @@
+{
+  "id": "doc_1787566274326",
+  "type": "file",
+  "title": "01 ToolBox",
+  "parent_id": "folder_1787566215202",
+  "content": {
+    "ops": [
+      {
+        "insert": "Select "
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Design"
+      },
+      {
+        "insert": " > "
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Toolbox"
+      },
+      {
+        "insert": "\n      -> Interaction Relationships \n          ->Message \n\n"
+      },
+      {
+        "attributes": {
+          "style": "display: block; margin: auto;"
+        },
+        "insert": {
+          "image": "/api/v1/docupedia/projects/proj_1781274397148/uploads/img_1787566468804_7950f8bb.webp"
+        }
+      },
+      {
+        "insert": "\n\n"
+      },
+      {
+        "attributes": {
+          "indent": 1
+        },
+        "insert": "\n"
+      }
+    ]
+  },
+  "created_by": "user_admin",
+  "updated_by": "user_admin",
+  "created_at": "2026-08-24T10:11:14.326537Z",
+  "updated_at": "2026-08-24T10:15:03.814314Z"
+}

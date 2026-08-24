@@ -282,7 +282,8 @@
       "children": [
         "doc_1782876767046",
         "doc_1782877000044",
-        "folder_1782879295067"
+        "folder_1782879295067",
+        "folder_1787566215202"
       ]
     },
     "doc_1782876767046": {
@@ -470,7 +471,25 @@
       "updated_by": "user_admin",
       "created_at": "2026-08-24T06:16:13.767914Z",
       "updated_at": "2026-08-24T06:16:13.767914Z"
+    },
+    "folder_1787566215202": {
+      "id": "folder_1787566215202",
+      "type": "folder",
+      "title": "02 Enterprise Architect",
+      "children": [
+        "doc_1787566274326"
+      ]
+    },
+    "doc_1787566274326": {
+      "id": "doc_1787566274326",
+      "type": "file",
+      "title": "01 ToolBox",
+      "parent_id": "folder_1787566215202",
+      "created_by": "user_admin",
+      "updated_by": "user_admin",
+      "created_at": "2026-08-24T10:11:14.326537Z",
+      "updated_at": "2026-08-24T10:15:03.814314Z"
     }
   },
-  "updated_at": "2026-08-24T07:59:55.583028Z"
+  "updated_at": "2026-08-24T10:15:04.800018Z"
 }
