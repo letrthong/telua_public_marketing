@@ -6,12 +6,57 @@
   "content": {
     "ops": [
       {
-        "insert": "x y 1\n10:15 30/6/2026 d\n"
+        "insert": "1/ "
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Ghép dọc"
+      },
+      {
+        "insert": " : phải trái thẳng\n "
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Chuẩn bị"
+      },
+      {
+        "insert": ": cho xe cho song song với ô ghép dọc và canh vai chính giữa với tim cửa ô ghép dọc và dừng lại trước khi ghép dọc  \n Tiến phải canh xe song song với điểm canh thì dừng ( thường điểm canh ở bên phải cách 1m tính từ ngoài vô)\n\nTrường hợp lùi trái quá sát: nếu bánh xe trái có nguy cơ đụng vạch vàng thì nên dừng lại và đánh lái thẳng và sau đó lùi bánh xe trái vô vạch vàng , tiếp theo đánh lái hết sang trái và lùi cho xe thẳng\n\n2/ "
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Ghép ngang"
+      },
+      {
+        "insert": " : trái thẳng trái thẳng\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Chuẩn bị"
+      },
+      {
+        "insert": ": Cho xe song song với ô ghép ngang và vai cách đầu trên ô ghép dọc khoảng  1 ~2m thì dừng lại và tiến hành ghép ngang\n  Lúc đánh trái tiến thi thấy xe song với góc giao của ô ghép ngang thì dừng\n Về số N, và bắt đầu lùi\n\nTrái thẳng lần 1: lúc lùi nên để bánh xe lọt giữ vạch trắng và vàng\n \n3/ Mí gương chỉ dùng cho đường vuông góc\n\n\n4/ Đánh hết vô lăng về trái hay phải sau đó "
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "trả lái 1.5 vòng"
+      },
+      {
+        "insert": " với ô tô 4 hay 7 chỗ để đánh thẳng\n\n5/ Luôn đạp côn khi thắng\n\n6/ Thẳng tiến và muốn sát lề phải\n  ->Thì đánh lái sang phài\n 7/ Lùi xe và muốn bên phải hẹp lại \n    -> \n\n10:15 30/6/2026 \n"
       }
     ]
   },
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-06-29T07:35:22.451244Z",
-  "updated_at": "2026-06-30T07:32:40.288351Z"
+  "updated_at": "2026-08-24T00:11:38.336420Z"
 }
