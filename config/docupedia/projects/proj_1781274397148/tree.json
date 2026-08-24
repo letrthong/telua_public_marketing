@@ -477,7 +477,8 @@
       "type": "folder",
       "title": "02 Enterprise Architect",
       "children": [
-        "doc_1787566274326"
+        "doc_1787566274326",
+        "doc_1787567907100"
       ]
     },
     "doc_1787566274326": {
@@ -489,7 +490,17 @@
       "updated_by": "user_admin",
       "created_at": "2026-08-24T10:11:14.326537Z",
       "updated_at": "2026-08-24T10:15:03.814314Z"
+    },
+    "doc_1787567907100": {
+      "id": "doc_1787567907100",
+      "type": "file",
+      "title": "02 Find class",
+      "parent_id": "folder_1787566215202",
+      "created_by": "user_admin",
+      "updated_by": "user_admin",
+      "created_at": "2026-08-24T10:38:27.100544Z",
+      "updated_at": "2026-08-24T10:41:54.603657Z"
     }
   },
-  "updated_at": "2026-08-24T10:15:04.800018Z"
+  "updated_at": "2026-08-24T10:41:54.605217Z"
 }
