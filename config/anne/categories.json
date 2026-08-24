@@ -11,7 +11,8 @@
     "isDeleted": false,
     "description": "Các mẫu bó hoa tươi thiết kế cao cấp cho sinh nhật, tình yêu, tốt nghiệp",
     "createdAt": "2026-08-21T00:00:00Z",
-    "updatedAt": "2026-08-23T20:00:00Z"
+    "updatedAt": "2026-08-24T16:07:05Z",
+    "deletedAt": null
   },
   {
     "id": "gio_hoa",
@@ -53,7 +54,7 @@
     "isDeleted": false,
     "description": "Mẫu bình cắm hoa nghệ thuật phong cách 'Thả Bình' tinh tế cho không gian sống",
     "createdAt": "2026-08-21T00:00:00Z",
-    "updatedAt": "2026-08-23T20:22:00Z"
+    "updatedAt": "2026-08-24T15:50:27Z"
   },
   {
     "id": "lan_ho_diep",
@@ -67,7 +68,7 @@
     "isDeleted": false,
     "description": "Chậu hoa lan hồ điệp thuần khiết, quà tặng cao cấp",
     "createdAt": "2026-08-21T00:00:00Z",
-    "updatedAt": "2026-08-23T20:00:00Z"
+    "updatedAt": "2026-08-24T15:50:27Z"
   },
   {
     "id": "hoa_cuoi",
