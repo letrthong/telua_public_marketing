@@ -16,7 +16,8 @@
       "title": "30 Học Lái xe",
       "children": [
         "doc_1782718522451",
-        "folder_1783424906149"
+        "folder_1783424906149",
+        "doc_1787530885112"
       ]
     },
     "doc_1782717810690": {
@@ -201,7 +202,17 @@
       "updated_at": "2026-07-27T17:10:12.929986Z",
       "created_by": "user_admin",
       "updated_by": "user_admin"
+    },
+    "doc_1787530885112": {
+      "id": "doc_1787530885112",
+      "type": "file",
+      "title": "03 Lùi xe",
+      "parent_id": "folder_1782717791747",
+      "created_by": "user_admin",
+      "updated_by": "user_admin",
+      "created_at": "2026-08-24T00:21:25.112150Z",
+      "updated_at": "2026-08-24T00:25:21.924978Z"
     }
   },
-  "updated_at": "2026-08-24T00:11:39.046730Z"
+  "updated_at": "2026-08-24T00:26:56.097207Z"
 }
