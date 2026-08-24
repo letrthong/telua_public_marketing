@@ -1,0 +1,25 @@
+{
+  "id": "doc_1787534702366",
+  "type": "file",
+  "title": "01 Tiền xây dựng",
+  "parent_id": "folder_1787534672068",
+  "content": {
+    "ops": [
+      {
+        "insert": "Ngày 24/08/2026\n"
+      },
+      {
+        "insert": {
+          "image": "/api/v1/docupedia/projects/proj_1785730371020/uploads/img_1787534809466_44042600.webp"
+        }
+      },
+      {
+        "insert": "\n"
+      }
+    ]
+  },
+  "created_by": "user_admin",
+  "updated_by": "user_admin",
+  "created_at": "2026-08-24T01:25:02.366720Z",
+  "updated_at": "2026-08-24T01:26:53.474825Z"
+}

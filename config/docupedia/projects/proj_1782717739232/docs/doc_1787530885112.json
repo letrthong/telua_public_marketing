@@ -1,0 +1,110 @@
+{
+  "id": "doc_1787530885112",
+  "type": "file",
+  "title": "03 Lùi xe",
+  "parent_id": "folder_1782717791747",
+  "content": {
+    "ops": [
+      {
+        "insert": "Tài liệu này bao gồm quy trình 5 bước cơ bản để bạn dễ dàng ghi nhớ và thực hành, kèm theo các lưu ý quan trọng để đảm các bước xử lý khi lùi xe có nguy cơ va chạm hông trái:  \n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Bước 1: Dừng xe ngay lập tức:"
+      },
+      {
+        "insert": " Đạp phanh để dừng lại hoàn toàn, tuyệt đối không cố lùi tiếp để tránh làm xước hay móp xe.  "
+      },
+      {
+        "attributes": {
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Bước 2: Chuyển sang số tiến:"
+      },
+      {
+        "insert": " Gạt cần số sang số D (với xe tự động) hoặc số 1 (với xe số sàn). "
+      },
+      {
+        "attributes": {
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Bước 3: Đánh hết lái sang phải:"
+      },
+      {
+        "insert": " Xoay vô lăng tối đa về bên phải để phần đuôi xe bên trái được đẩy ra xa khỏi tường khi xe tiến lên.  "
+      },
+      {
+        "attributes": {
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Bước 4: Tiến lên từ từ:"
+      },
+      {
+        "insert": " Cho xe nhích chậm lên phía trước, đồng thời quan sát gương chiếu hậu bên trái; dừng lại khi thấy khoảng cách với tường đã đủ an toàn hoặc thân xe đã thẳng.  "
+      },
+      {
+        "attributes": {
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Bước 5: Trả thẳng lái và tiếp tục lùi:"
+      },
+      {
+        "insert": " Xoay vô lăng ngược lại để bánh xe thẳng hàng, cài lại số lùi (R) và từ từ lùi vào vị trí mong muốn.  "
+      },
+      {
+        "attributes": {
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "💡 Lưu ý cốt lõi:"
+      },
+      {
+        "insert": " Luôn giữ tốc độ lùi thật chậm, quan sát kỹ gương chiếu hậu và nhớ"
+      },
+      {
+        "attributes": {
+          "color": "#e60000"
+        },
+        "insert": " nguyên tắc: muốn đuôi xe đi về hướng nào thì đánh vô lăng về hướng đó."
+      },
+      {
+        "insert": "\n"
+      }
+    ]
+  },
+  "created_by": "user_admin",
+  "updated_by": "user_admin",
+  "created_at": "2026-08-24T00:21:25.112150Z",
+  "updated_at": "2026-08-24T01:00:48.813033Z"
+}

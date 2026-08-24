@@ -1,0 +1,16 @@
+{
+  "doc_id": "doc_1787552173767",
+  "history": [
+    {
+      "id": "hist_1787552173774",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "create",
+      "timestamp": "2026-08-24T06:16:13.774763Z",
+      "details": {
+        "title": "25 logcat on target"
+      }
+    }
+  ]
+}

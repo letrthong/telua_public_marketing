@@ -1,0 +1,25 @@
+{
+  "id": "doc_1787567907100",
+  "type": "file",
+  "title": "02 Find class",
+  "parent_id": "folder_1787566215202",
+  "content": {
+    "ops": [
+      {
+        "insert": "...\n"
+      },
+      {
+        "insert": {
+          "image": "/api/v1/docupedia/projects/proj_1781274397148/uploads/img_1787568111329_92d8bddf.webp"
+        }
+      },
+      {
+        "insert": "\n....\n"
+      }
+    ]
+  },
+  "created_by": "user_admin",
+  "updated_by": "user_admin",
+  "created_at": "2026-08-24T10:38:27.100544Z",
+  "updated_at": "2026-08-24T10:41:54.603657Z"
+}

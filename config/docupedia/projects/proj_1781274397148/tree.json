@@ -9,7 +9,8 @@
       "folder_1781664831259",
       "folder_1782805389390",
       "folder_1782876730443",
-      "folder_1787146976138"
+      "folder_1787146976138",
+      "folder_1787551847982"
     ]
   },
   "nodes": {
@@ -49,7 +50,7 @@
       "title": "01 Audio",
       "parent_id": "folder_1781663299075",
       "created_at": "2026-06-17T02:50:41.786279Z",
-      "updated_at": "2026-07-27T09:35:04.074347Z",
+      "updated_at": "2026-08-24T06:08:53.179862Z",
       "created_by": "user_admin",
       "updated_by": "user_admin"
     },
@@ -281,7 +282,8 @@
       "children": [
         "doc_1782876767046",
         "doc_1782877000044",
-        "folder_1782879295067"
+        "folder_1782879295067",
+        "folder_1787566215202"
       ]
     },
     "doc_1782876767046": {
@@ -426,7 +428,79 @@
       "updated_at": "2026-08-19T14:22:35.167194Z",
       "created_by": "user_admin",
       "updated_by": "user_admin"
+    },
+    "folder_1787551847982": {
+      "id": "folder_1787551847982",
+      "type": "folder",
+      "title": "06 Audio",
+      "children": [
+        "folder_1787551873876",
+        "folder_1787551905025",
+        "doc_1787551996677",
+        "doc_1787552173767"
+      ]
+    },
+    "folder_1787551873876": {
+      "id": "folder_1787551873876",
+      "type": "folder",
+      "title": "01 High Level design",
+      "children": []
+    },
+    "folder_1787551905025": {
+      "id": "folder_1787551905025",
+      "type": "folder",
+      "title": "02 Low level design",
+      "children": []
+    },
+    "doc_1787551996677": {
+      "id": "doc_1787551996677",
+      "type": "file",
+      "title": "30 References",
+      "parent_id": "folder_1787551847982",
+      "created_by": "user_admin",
+      "updated_by": "user_admin",
+      "created_at": "2026-08-24T06:13:16.677567Z",
+      "updated_at": "2026-08-24T07:59:55.532044Z"
+    },
+    "doc_1787552173767": {
+      "id": "doc_1787552173767",
+      "type": "file",
+      "title": "25 logcat on target",
+      "parent_id": "folder_1787551847982",
+      "created_by": "user_admin",
+      "updated_by": "user_admin",
+      "created_at": "2026-08-24T06:16:13.767914Z",
+      "updated_at": "2026-08-24T06:16:13.767914Z"
+    },
+    "folder_1787566215202": {
+      "id": "folder_1787566215202",
+      "type": "folder",
+      "title": "02 Enterprise Architect",
+      "children": [
+        "doc_1787566274326",
+        "doc_1787567907100"
+      ]
+    },
+    "doc_1787566274326": {
+      "id": "doc_1787566274326",
+      "type": "file",
+      "title": "01 ToolBox",
+      "parent_id": "folder_1787566215202",
+      "created_by": "user_admin",
+      "updated_by": "user_admin",
+      "created_at": "2026-08-24T10:11:14.326537Z",
+      "updated_at": "2026-08-24T10:15:03.814314Z"
+    },
+    "doc_1787567907100": {
+      "id": "doc_1787567907100",
+      "type": "file",
+      "title": "02 Find class",
+      "parent_id": "folder_1787566215202",
+      "created_by": "user_admin",
+      "updated_by": "user_admin",
+      "created_at": "2026-08-24T10:38:27.100544Z",
+      "updated_at": "2026-08-24T10:41:54.603657Z"
     }
   },
-  "updated_at": "2026-08-19T14:22:35.670838Z"
+  "updated_at": "2026-08-24T10:41:54.605217Z"
 }

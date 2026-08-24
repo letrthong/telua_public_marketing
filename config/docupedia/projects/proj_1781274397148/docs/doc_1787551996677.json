@@ -1,0 +1,60 @@
+{
+  "id": "doc_1787551996677",
+  "type": "file",
+  "title": "30 References",
+  "parent_id": "folder_1787551847982",
+  "content": {
+    "ops": [
+      {
+        "insert": "CarAudioManager\n"
+      },
+      {
+        "attributes": {
+          "italic": true,
+          "color": "#2563eb",
+          "link": "https://cs.android.com/android/platform/superproject/+/android-latest-release:packages/services/Car/service/src/com/android/car/audio/CarAudioService.java"
+        },
+        "insert": "https://cs.android.com/android/platform/superproject/+/android-latest-release:packages/services/Car/service/src/com/android/car/audio/CarAudioService.java"
+      },
+      {
+        "attributes": {
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "https://cs.android.com/android/platform/superproject/+/android-latest-release:packages/services/Car/car-lib/src/android/car/media/CarAudioManager.java"
+      },
+      {
+        "attributes": {
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": " AudioManager\n"
+      },
+      {
+        "attributes": {
+          "italic": true,
+          "color": "#2563eb",
+          "link": "https://cs.android.com/android/platform/superproject/+/android-latest-release:frameworks/base/media/java/android/media/AudioManager.java"
+        },
+        "insert": "https://cs.android.com/android/platform/superproject/+/android-latest-release:frameworks/base/media/java/android/media/AudioManager.java"
+      },
+      {
+        "attributes": {
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "\n"
+      }
+    ]
+  },
+  "created_by": "user_admin",
+  "updated_by": "user_admin",
+  "created_at": "2026-08-24T06:13:16.677567Z",
+  "updated_at": "2026-08-24T07:59:55.532044Z"
+}

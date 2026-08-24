@@ -9,7 +9,8 @@
       "folder_1785730429127",
       "doc_1785852578781",
       "folder_1785942416916",
-      "folder_1787147591788"
+      "folder_1787147591788",
+      "folder_1787534672068"
     ]
   },
   "nodes": {
@@ -18,11 +19,9 @@
       "type": "folder",
       "title": "01  Cơ sở họ tầng",
       "children": [
-        "doc_1785838819204",
         "doc_1785839153175",
         "doc_1785851990681",
-        "doc_1785855272161",
-        "doc_1785855731167"
+        "doc_1785855272161"
       ]
     },
     "folder_1785730429127": {
@@ -74,10 +73,10 @@
     "doc_1785855272161": {
       "id": "doc_1785855272161",
       "type": "file",
-      "title": "03. Vị trí chung cư",
+      "title": "03. Cửa hàng Nguyễn Hồng Đào",
       "parent_id": "folder_1785730407607",
       "created_at": "2026-08-04T14:54:32.161377Z",
-      "updated_at": "2026-08-04T15:06:55.044241Z",
+      "updated_at": "2026-08-24T02:46:48.866800Z",
       "created_by": "user_admin",
       "updated_by": "user_admin"
     },
@@ -94,9 +93,11 @@
     "folder_1785942416916": {
       "id": "folder_1785942416916",
       "type": "folder",
-      "title": "04 Đã Xóa",
+      "title": "10 Đã Xóa",
       "children": [
-        "doc_1785942479135"
+        "doc_1785942479135",
+        "doc_1785838819204",
+        "doc_1785855731167"
       ]
     },
     "doc_1785942479135": {
@@ -114,7 +115,8 @@
       "type": "folder",
       "title": "03 Thông tin",
       "children": [
-        "doc_1787147617025"
+        "doc_1787147617025",
+        "doc_1787502400923"
       ]
     },
     "doc_1787147617025": {
@@ -126,7 +128,35 @@
       "updated_at": "2026-08-19T15:31:29.328845Z",
       "created_by": "user_admin",
       "updated_by": "user_admin"
+    },
+    "doc_1787502400923": {
+      "id": "doc_1787502400923",
+      "type": "file",
+      "title": "02 nohoathabinh.com",
+      "parent_id": "folder_1787147591788",
+      "created_by": "user_admin",
+      "updated_by": "user_admin",
+      "created_at": "2026-08-23T16:26:40.923700Z",
+      "updated_at": "2026-08-23T16:29:55.843130Z"
+    },
+    "folder_1787534672068": {
+      "id": "folder_1787534672068",
+      "type": "folder",
+      "title": "04 Thu Chi",
+      "children": [
+        "doc_1787534702366"
+      ]
+    },
+    "doc_1787534702366": {
+      "id": "doc_1787534702366",
+      "type": "file",
+      "title": "01 Tiền xây dựng",
+      "parent_id": "folder_1787534672068",
+      "created_by": "user_admin",
+      "updated_by": "user_admin",
+      "created_at": "2026-08-24T01:25:02.366720Z",
+      "updated_at": "2026-08-24T01:26:53.474825Z"
     }
   },
-  "updated_at": "2026-08-19T15:31:29.330617Z"
+  "updated_at": "2026-08-24T02:46:49.070818Z"
 }

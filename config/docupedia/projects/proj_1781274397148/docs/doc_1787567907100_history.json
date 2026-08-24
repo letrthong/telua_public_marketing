@@ -1,0 +1,42 @@
+{
+  "doc_id": "doc_1787567907100",
+  "history": [
+    {
+      "id": "hist_1787567907110",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "create",
+      "timestamp": "2026-08-24T10:38:27.110408Z",
+      "details": {
+        "title": "02 Find class"
+      }
+    },
+    {
+      "id": "hist_1787568002813",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-08-24T10:40:02.813477Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1787568114607",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-08-24T10:41:54.607613Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    }
+  ]
+}

@@ -16,7 +16,9 @@
       "title": "30 Học Lái xe",
       "children": [
         "doc_1782718522451",
-        "folder_1783424906149"
+        "folder_1783424906149",
+        "doc_1787530885112",
+        "doc_1787533659397"
       ]
     },
     "doc_1782717810690": {
@@ -35,7 +37,7 @@
       "title": "02 Học Thực Hành",
       "parent_id": "folder_1782717791747",
       "created_at": "2026-06-29T07:35:22.451244Z",
-      "updated_at": "2026-06-30T07:32:40.288351Z",
+      "updated_at": "2026-08-24T00:11:38.336420Z",
       "created_by": "user_admin",
       "updated_by": "user_admin"
     },
@@ -201,7 +203,27 @@
       "updated_at": "2026-07-27T17:10:12.929986Z",
       "created_by": "user_admin",
       "updated_by": "user_admin"
+    },
+    "doc_1787530885112": {
+      "id": "doc_1787530885112",
+      "type": "file",
+      "title": "03 Lùi xe",
+      "parent_id": "folder_1782717791747",
+      "created_by": "user_admin",
+      "updated_by": "user_admin",
+      "created_at": "2026-08-24T00:21:25.112150Z",
+      "updated_at": "2026-08-24T01:00:48.813033Z"
+    },
+    "doc_1787533659397": {
+      "id": "doc_1787533659397",
+      "type": "file",
+      "title": "05 Thi trắc nghiệm",
+      "parent_id": "folder_1782717791747",
+      "created_by": "user_admin",
+      "updated_by": "user_admin",
+      "created_at": "2026-08-24T01:07:39.397011Z",
+      "updated_at": "2026-08-24T01:11:11.693477Z"
     }
   },
-  "updated_at": "2026-07-27T17:11:35.789284Z"
+  "updated_at": "2026-08-24T01:11:11.697102Z"
 }

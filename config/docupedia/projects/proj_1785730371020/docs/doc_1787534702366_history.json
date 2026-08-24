@@ -1,0 +1,29 @@
+{
+  "doc_id": "doc_1787534702366",
+  "history": [
+    {
+      "id": "hist_1787534703074",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "create",
+      "timestamp": "2026-08-24T01:25:03.074574Z",
+      "details": {
+        "title": "01 Tiền xây dựng"
+      }
+    },
+    {
+      "id": "hist_1787534813881",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-08-24T01:26:53.881290Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    }
+  ]
+}
