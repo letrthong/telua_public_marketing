@@ -145,9 +145,9 @@
       },
       {
         "attributes": {
-          "font": "monospace",
           "background": "rgba(0, 0, 0, 0)",
-          "color": "#0000ff"
+          "color": "#0000ff",
+          "font": "monospace"
         },
         "insert": "onKeyEvent"
       },
@@ -161,7 +161,34 @@
         "insert": "CarAudioService.java - Android Code Search"
       },
       {
-        "insert": "\n\n "
+        "insert": "\n\n\n"
+      },
+      {
+        "attributes": {
+          "link": "https://cs.android.com/android/platform/superproject/+/android-latest-release:packages/services/Car/service/src/com/android/car/audio/CarAudioService.java"
+        },
+        "insert": "https://cs.android.com/android/platform/superproject/+/android-latest-release:packages/services/Car/service/src/com/android/car/audio/CarAudioService.java"
+      },
+      {
+        "attributes": {
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "link": "https://cs.android.com/android/platform/superproject/+/android-latest-release:frameworks/base/media/java/android/media/AudioManager.java"
+        },
+        "insert": "https://cs.android.com/android/platform/superproject/+/android-latest-release:frameworks/base/media/java/android/media/AudioManager.java"
+      },
+      {
+        "attributes": {
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "\n "
       },
       {
         "attributes": {
@@ -292,5 +319,5 @@
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-06-17T02:50:41.786279Z",
-  "updated_at": "2026-07-27T09:35:04.074347Z"
+  "updated_at": "2026-08-24T06:08:53.179862Z"
 }
