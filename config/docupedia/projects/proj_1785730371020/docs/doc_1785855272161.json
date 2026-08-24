@@ -1,353 +1,35 @@
 {
   "id": "doc_1785855272161",
   "type": "file",
-  "title": "03. Vị trí chung cư",
+  "title": "03. Vị trí cửa hàng Nguyễn Hồng Đào",
   "parent_id": "folder_1785730407607",
   "content": {
     "ops": [
       {
-        "insert": "\n"
-      },
-      {
-        "attributes": {
-          "col": {
-            "tableId": "7www6p9xfwl",
-            "colId": "ls9ckwfjjr",
-            "width": "25%",
-            "full": true
-          }
-        },
-        "insert": "\n"
-      },
-      {
-        "attributes": {
-          "col": {
-            "tableId": "7www6p9xfwl",
-            "colId": "hhrvkanvjeq",
-            "width": "25%",
-            "full": true
-          }
-        },
-        "insert": "\n"
-      },
-      {
-        "attributes": {
-          "col": {
-            "tableId": "7www6p9xfwl",
-            "colId": "wrwafh7xbeb",
-            "width": "25%",
-            "full": true
-          }
-        },
-        "insert": "\n"
-      },
-      {
-        "attributes": {
-          "col": {
-            "tableId": "7www6p9xfwl",
-            "colId": "gh32luyrpkm",
-            "width": "25%",
-            "full": true
-          }
-        },
-        "insert": "\n"
+        "insert": "Địa Chỉ: 62A Nguyễn Hồng Đào\nSố điện thoại chủ (nam): 0902524700\nNgày đặt cặp: "
       },
       {
         "attributes": {
           "bold": true
         },
-        "insert": "Vị trí"
+        "insert": "25/08/2026"
       },
       {
-        "attributes": {
-          "tableCellInner": {
-            "tableId": "7www6p9xfwl",
-            "rowId": "rqufr536dx",
-            "colId": "ls9ckwfjjr",
-            "rowspan": "1",
-            "colspan": "1"
-          }
-        },
-        "insert": "\n"
+        "insert": " chủ nhà cho 10 ngày để sửa chữa\nNgày thanh toán: "
       },
       {
         "attributes": {
           "bold": true
         },
-        "insert": "Giá tiền"
+        "insert": "ngày 5 hàng tháng"
       },
       {
-        "attributes": {
-          "tableCellInner": {
-            "tableId": "7www6p9xfwl",
-            "rowId": "rqufr536dx",
-            "colId": "hhrvkanvjeq",
-            "rowspan": "1",
-            "colspan": "1"
-          }
-        },
-        "insert": "\n"
+        "insert": "\nTiền đặt cặp trước 1: tháng\n\nDiện tích: "
       },
       {
-        "attributes": {
-          "bold": true
-        },
-        "insert": "Ưu điểm và nhược điểm"
-      },
-      {
-        "attributes": {
-          "tableCellInner": {
-            "tableId": "7www6p9xfwl",
-            "rowId": "rqufr536dx",
-            "colId": "wrwafh7xbeb",
-            "rowspan": "1",
-            "colspan": "1"
-          }
-        },
-        "insert": "\n"
-      },
-      {
-        "attributes": {
-          "bold": true
-        },
-        "insert": "Ngày cập nhập"
-      },
-      {
-        "attributes": {
-          "tableCellInner": {
-            "tableId": "7www6p9xfwl",
-            "rowId": "rqufr536dx",
-            "colId": "gh32luyrpkm",
-            "rowspan": "1",
-            "colspan": "1"
-          }
-        },
-        "insert": "\n"
-      },
-      {
-        "attributes": {
-          "strike": true
-        },
-        "insert": "Chung cư 685 Âu Cơ Tân Phú "
-      },
-      {
-        "attributes": {
-          "tableCellInner": {
-            "tableId": "7www6p9xfwl",
-            "rowId": "gkvu6uzz4sg",
-            "colId": "ls9ckwfjjr",
-            "rowspan": "1",
-            "colspan": "1"
-          }
-        },
-        "insert": "\n"
-      },
-      {
-        "insert": "Hết chỗ"
-      },
-      {
-        "attributes": {
-          "tableCellInner": {
-            "tableId": "7www6p9xfwl",
-            "rowId": "gkvu6uzz4sg",
-            "colId": "hhrvkanvjeq",
-            "rowspan": "1",
-            "colspan": "1"
-          }
-        },
-        "insert": "\n\n"
-      },
-      {
-        "attributes": {
-          "link": "https://maps.app.goo.gl/hxXD6Fy1ZJ9W1Dj28"
-        },
-        "insert": "https://maps.app.goo.gl/hxXD6Fy1ZJ9W1Dj28"
-      },
-      {
-        "attributes": {
-          "tableCellInner": {
-            "tableId": "7www6p9xfwl",
-            "rowId": "gkvu6uzz4sg",
-            "colId": "hhrvkanvjeq",
-            "rowspan": "1",
-            "colspan": "1"
-          }
-        },
-        "insert": "\n"
-      },
-      {
-        "insert": " "
-      },
-      {
-        "attributes": {
-          "tableCellInner": {
-            "tableId": "7www6p9xfwl",
-            "rowId": "gkvu6uzz4sg",
-            "colId": "wrwafh7xbeb",
-            "rowspan": "1",
-            "colspan": "1"
-          }
-        },
-        "insert": "\n"
-      },
-      {
-        "insert": "22:06 4/8/2026"
-      },
-      {
-        "attributes": {
-          "tableCellInner": {
-            "tableId": "7www6p9xfwl",
-            "rowId": "gkvu6uzz4sg",
-            "colId": "gh32luyrpkm",
-            "rowspan": "1",
-            "colspan": "1"
-          }
-        },
-        "insert": "\n"
-      },
-      {
-        "attributes": {
-          "tableCellInner": {
-            "tableId": "7www6p9xfwl",
-            "rowId": "91bbsy3qesd",
-            "colId": "ls9ckwfjjr",
-            "rowspan": "1",
-            "colspan": "1"
-          }
-        },
-        "insert": "\n"
-      },
-      {
-        "attributes": {
-          "tableCellInner": {
-            "tableId": "7www6p9xfwl",
-            "rowId": "91bbsy3qesd",
-            "colId": "hhrvkanvjeq",
-            "rowspan": "1",
-            "colspan": "1"
-          }
-        },
-        "insert": "\n"
-      },
-      {
-        "attributes": {
-          "tableCellInner": {
-            "tableId": "7www6p9xfwl",
-            "rowId": "91bbsy3qesd",
-            "colId": "wrwafh7xbeb",
-            "rowspan": "1",
-            "colspan": "1"
-          }
-        },
-        "insert": "\n"
-      },
-      {
-        "attributes": {
-          "tableCellInner": {
-            "tableId": "7www6p9xfwl",
-            "rowId": "91bbsy3qesd",
-            "colId": "gh32luyrpkm",
-            "rowspan": "1",
-            "colspan": "1"
-          }
-        },
-        "insert": "\n"
-      },
-      {
-        "attributes": {
-          "tableCellInner": {
-            "tableId": "7www6p9xfwl",
-            "rowId": "8pz1rl7ylyg",
-            "colId": "ls9ckwfjjr",
-            "rowspan": "1",
-            "colspan": "1"
-          }
-        },
-        "insert": "\n"
-      },
-      {
-        "attributes": {
-          "tableCellInner": {
-            "tableId": "7www6p9xfwl",
-            "rowId": "8pz1rl7ylyg",
-            "colId": "hhrvkanvjeq",
-            "rowspan": "1",
-            "colspan": "1"
-          }
-        },
-        "insert": "\n"
-      },
-      {
-        "attributes": {
-          "tableCellInner": {
-            "tableId": "7www6p9xfwl",
-            "rowId": "8pz1rl7ylyg",
-            "colId": "wrwafh7xbeb",
-            "rowspan": "1",
-            "colspan": "1"
-          }
-        },
-        "insert": "\n"
-      },
-      {
-        "attributes": {
-          "tableCellInner": {
-            "tableId": "7www6p9xfwl",
-            "rowId": "8pz1rl7ylyg",
-            "colId": "gh32luyrpkm",
-            "rowspan": "1",
-            "colspan": "1"
-          }
-        },
-        "insert": "\n"
-      },
-      {
-        "attributes": {
-          "tableCellInner": {
-            "tableId": "7www6p9xfwl",
-            "rowId": "2i1i4iq0t55",
-            "colId": "ls9ckwfjjr",
-            "rowspan": "1",
-            "colspan": "1"
-          }
-        },
-        "insert": "\n"
-      },
-      {
-        "attributes": {
-          "tableCellInner": {
-            "tableId": "7www6p9xfwl",
-            "rowId": "2i1i4iq0t55",
-            "colId": "hhrvkanvjeq",
-            "rowspan": "1",
-            "colspan": "1"
-          }
-        },
-        "insert": "\n"
-      },
-      {
-        "attributes": {
-          "tableCellInner": {
-            "tableId": "7www6p9xfwl",
-            "rowId": "2i1i4iq0t55",
-            "colId": "wrwafh7xbeb",
-            "rowspan": "1",
-            "colspan": "1"
-          }
-        },
-        "insert": "\n"
-      },
-      {
-        "attributes": {
-          "tableCellInner": {
-            "tableId": "7www6p9xfwl",
-            "rowId": "2i1i4iq0t55",
-            "colId": "gh32luyrpkm",
-            "rowspan": "1",
-            "colspan": "1"
-          }
-        },
-        "insert": "\n"
+        "insert": {
+          "image": "/api/v1/docupedia/projects/proj_1785730371020/uploads/img_1787534216437_c4fe94ba.webp"
+        }
       },
       {
         "insert": "\n"
@@ -357,5 +39,5 @@
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-08-04T14:54:32.161377Z",
-  "updated_at": "2026-08-04T15:06:55.044241Z"
+  "updated_at": "2026-08-24T01:20:18.158804Z"
 }

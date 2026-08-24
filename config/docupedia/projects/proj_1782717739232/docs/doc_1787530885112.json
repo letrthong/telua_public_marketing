@@ -90,12 +90,21 @@
         "insert": "💡 Lưu ý cốt lõi:"
       },
       {
-        "insert": " Luôn giữ tốc độ lùi thật chậm, quan sát kỹ gương chiếu hậu và nhớ nguyên tắc: muốn đuôi xe đi về hướng nào thì đánh vô lăng về hướng đó.\n"
+        "insert": " Luôn giữ tốc độ lùi thật chậm, quan sát kỹ gương chiếu hậu và nhớ"
+      },
+      {
+        "attributes": {
+          "color": "#e60000"
+        },
+        "insert": " nguyên tắc: muốn đuôi xe đi về hướng nào thì đánh vô lăng về hướng đó."
+      },
+      {
+        "insert": "\n"
       }
     ]
   },
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-08-24T00:21:25.112150Z",
-  "updated_at": "2026-08-24T00:25:21.924978Z"
+  "updated_at": "2026-08-24T01:00:48.813033Z"
 }

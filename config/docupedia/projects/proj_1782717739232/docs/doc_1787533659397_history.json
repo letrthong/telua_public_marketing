@@ -1,0 +1,29 @@
+{
+  "doc_id": "doc_1787533659397",
+  "history": [
+    {
+      "id": "hist_1787533659499",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "create",
+      "timestamp": "2026-08-24T01:07:39.499311Z",
+      "details": {
+        "title": "05 Thi trắc nghiệm"
+      }
+    },
+    {
+      "id": "hist_1787533871699",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-08-24T01:11:11.699551Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    }
+  ]
+}
