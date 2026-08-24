@@ -3,9 +3,9 @@
   "name": "Mây Trắng Bồng Bềnh",
   "category": "bo_hoa",
   "priceLevelId": "price_lvl_01",
-  "originalPrice": "450,000₫",
-  "salePrice": "420,000₫",
   "priceNumber": 420000,
+  "salePrice": "420,000₫",
+  "originalPrice": "420,000₫",
   "badge": "-7%",
   "image": "https://images.unsplash.com/photo-1562690868-60bbe7293e94?w=500",
   "gallery": [
@@ -23,5 +23,5 @@
   },
   "dailyQuota": 20,
   "isActive": true,
-  "updatedAt": "2026-08-22T07:00:00Z"
+  "updatedAt": "2026-08-24T15:14:08Z"
 }
