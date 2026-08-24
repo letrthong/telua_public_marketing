@@ -6,7 +6,7 @@
   "content": {
     "ops": [
       {
-        "insert": "Địa Chỉ: 62A Nguyễn Hồng Đào\nSố điện thoại chủ (nam): 0902524700\nNgày đặt cặp: "
+        "insert": "Địa Chỉ: 62A Nguyễn Hồng Đào\nSố điện thoại chủ nhà(nam): 0902524700\nNgày đặt cặp: "
       },
       {
         "attributes": {
@@ -39,5 +39,5 @@
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-08-04T14:54:32.161377Z",
-  "updated_at": "2026-08-24T01:20:18.158804Z"
+  "updated_at": "2026-08-24T02:15:02.270413Z"
 }
