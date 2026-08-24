@@ -1,9 +1,9 @@
 [
   {
     "id": "branch_q10",
-    "code": "CN_Q10",
-    "name": "Nở Hoa Thả Bình - Showroom Quận 10 (Flagship)",
-    "address": "183/37 Đường 3 Tháng 2, Phường 11, Quận 10, TP. Hồ Chí Minh",
+    "code": "CN_TANBINH",
+    "name": "Nở Hoa Thả Bình - Showroom Tân Bình",
+    "address": "62A, Nguyễn Hồng Đào, Tân Bình, TP. Hồ Chí Minh",
     "lat": 10.7725,
     "lng": 106.6698,
     "phone": "0976.491.322",
@@ -12,7 +12,8 @@
     "managerId": "staff_001",
     "amenities": "Đậu xe ô tô/xe máy miễn phí, cắm hoa nghệ thuật tại chỗ, phòng lạnh bảo quản hoa",
     "isActive": true,
-    "createdAt": "2026-08-21T00:00:00Z"
+    "createdAt": "2026-08-21T00:00:00Z",
+    "updatedAt": "2026-08-24T03:02:20Z"
   },
   {
     "id": "branch_q1",
@@ -26,7 +27,7 @@
     "deliveryRadiusKm": 8,
     "managerId": "staff_004",
     "amenities": "Giao hoa hỏa tốc văn phòng Bitexco, gói quà cao cấp",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-08-21T00:00:00Z"
   },
   {
@@ -41,7 +42,7 @@
     "deliveryRadiusKm": 12,
     "managerId": "staff_005",
     "amenities": "Không gian workshop cắm hoa, hoa nhập khẩu Hà Lan/Ecuador",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-08-21T00:00:00Z"
   }
 ]
