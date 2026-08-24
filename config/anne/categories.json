@@ -63,12 +63,12 @@
     "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/moth_orchid.jpg",
     "icon": "fa-solid fa-seedling",
     "order": 5,
-    "status": "active",
-    "isActive": true,
+    "status": "inactive",
+    "isActive": false,
     "isDeleted": false,
     "description": "Chậu hoa lan hồ điệp thuần khiết, quà tặng cao cấp",
     "createdAt": "2026-08-21T00:00:00Z",
-    "updatedAt": "2026-08-24T15:50:27Z"
+    "updatedAt": "2026-08-24T16:38:35Z"
   },
   {
     "id": "hoa_cuoi",
