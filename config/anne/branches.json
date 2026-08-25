@@ -11,7 +11,7 @@
     "deliveryRadiusKm": 10,
     "managerId": "staff_001",
     "amenities": "Đậu xe ô tô/xe máy miễn phí, cắm hoa nghệ thuật tại chỗ, phòng lạnh bảo quản hoa",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-08-21T00:00:00Z",
     "updatedAt": "2026-08-24T03:02:20Z"
   },
