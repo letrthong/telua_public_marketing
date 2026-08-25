@@ -11,7 +11,7 @@
     "deliveryRadiusKm": 10,
     "managerId": "staff_001",
     "amenities": "Đậu xe ô tô/xe máy miễn phí, cắm hoa nghệ thuật tại chỗ, phòng lạnh bảo quản hoa",
-    "isActive": false,
+    "isActive": true,
     "createdAt": "2026-08-21T00:00:00Z",
     "updatedAt": "2026-08-24T03:02:20Z"
   },
@@ -27,7 +27,7 @@
     "deliveryRadiusKm": 8,
     "managerId": "staff_004",
     "amenities": "Giao hoa hỏa tốc văn phòng Bitexco, gói quà cao cấp",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-08-21T00:00:00Z"
   },
   {
@@ -42,7 +42,7 @@
     "deliveryRadiusKm": 12,
     "managerId": "staff_005",
     "amenities": "Không gian workshop cắm hoa, hoa nhập khẩu Hà Lan/Ecuador",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-08-21T00:00:00Z"
   }
 ]

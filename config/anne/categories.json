@@ -63,12 +63,12 @@
     "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/moth_orchid.jpg",
     "icon": "fa-solid fa-seedling",
     "order": 5,
-    "status": "inactive",
-    "isActive": false,
+    "status": "active",
+    "isActive": true,
     "isDeleted": false,
     "description": "Chậu hoa lan hồ điệp thuần khiết, quà tặng cao cấp",
     "createdAt": "2026-08-21T00:00:00Z",
-    "updatedAt": "2026-08-24T16:38:35Z"
+    "updatedAt": "2026-08-25T15:09:02Z"
   },
   {
     "id": "hoa_cuoi",
@@ -77,11 +77,11 @@
     "image": "https://images.unsplash.com/photo-1519741497674-611481863552?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80",
     "icon": "fa-solid fa-heart",
     "order": 6,
-    "status": "inactive",
-    "isActive": false,
+    "status": "active",
+    "isActive": true,
     "isDeleted": false,
     "description": "Hoa cưới cầm tay cô dâu, hoa cài áo và trang trí lễ cưới",
     "createdAt": "2026-08-21T00:00:00Z",
-    "updatedAt": "2026-08-23T20:00:00Z"
+    "updatedAt": "2026-08-25T15:09:23Z"
   }
 ]
