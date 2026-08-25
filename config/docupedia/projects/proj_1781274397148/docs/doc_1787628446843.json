@@ -1,0 +1,93 @@
+{
+  "id": "doc_1787628446843",
+  "type": "file",
+  "title": "03 if else",
+  "parent_id": "folder_1787566215202",
+  "content": {
+    "ops": [
+      {
+        "insert": "1/ Select "
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "fragment "
+      },
+      {
+        "insert": "to if else, switch cases, etc.\n"
+      },
+      {
+        "attributes": {
+          "style": "display: block; margin: auto;"
+        },
+        "insert": {
+          "image": "/api/v1/docupedia/projects/proj_1781274397148/uploads/img_1787628534947_2c7e17a5.webp"
+        }
+      },
+      {
+        "insert": "\n\nif -> select opt"
+      },
+      {
+        "attributes": {
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "if else -> alt"
+      },
+      {
+        "attributes": {
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "switch cases -> alt"
+      },
+      {
+        "attributes": {
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "2/  "
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "if "
+      },
+      {
+        "insert": "IsPhoneRing"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": " else if"
+      },
+      {
+        "insert": " IsTunner ...\n"
+      },
+      {
+        "attributes": {
+          "style": "display: block; margin: auto;"
+        },
+        "insert": {
+          "image": "/api/v1/docupedia/projects/proj_1781274397148/uploads/img_1787629060542_5eecd0e5.webp"
+        }
+      },
+      {
+        "insert": "\n\n"
+      }
+    ]
+  },
+  "created_by": "user_admin",
+  "updated_by": "user_admin",
+  "created_at": "2026-08-25T03:27:26.843163Z",
+  "updated_at": "2026-08-25T03:38:13.458778Z"
+}

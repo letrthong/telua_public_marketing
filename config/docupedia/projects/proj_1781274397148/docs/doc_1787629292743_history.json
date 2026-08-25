@@ -1,0 +1,42 @@
+{
+  "doc_id": "doc_1787629292743",
+  "history": [
+    {
+      "id": "hist_1787629292753",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "create",
+      "timestamp": "2026-08-25T03:41:32.753274Z",
+      "details": {
+        "title": "04 Sequence diagram"
+      }
+    },
+    {
+      "id": "hist_1787629325409",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-08-25T03:42:05.409133Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1787629348665",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-08-25T03:42:28.665515Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    }
+  ]
+}

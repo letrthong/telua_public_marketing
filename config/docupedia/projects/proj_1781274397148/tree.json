@@ -478,7 +478,9 @@
       "title": "02 Enterprise Architect",
       "children": [
         "doc_1787566274326",
-        "doc_1787567907100"
+        "doc_1787567907100",
+        "doc_1787628446843",
+        "doc_1787629292743"
       ]
     },
     "doc_1787566274326": {
@@ -500,7 +502,27 @@
       "updated_by": "user_admin",
       "created_at": "2026-08-24T10:38:27.100544Z",
       "updated_at": "2026-08-24T10:41:54.603657Z"
+    },
+    "doc_1787628446843": {
+      "id": "doc_1787628446843",
+      "type": "file",
+      "title": "03 if else",
+      "parent_id": "folder_1787566215202",
+      "created_by": "user_admin",
+      "updated_by": "user_admin",
+      "created_at": "2026-08-25T03:27:26.843163Z",
+      "updated_at": "2026-08-25T03:38:13.458778Z"
+    },
+    "doc_1787629292743": {
+      "id": "doc_1787629292743",
+      "type": "file",
+      "title": "04 Sequence diagram",
+      "parent_id": "folder_1787566215202",
+      "created_by": "user_admin",
+      "updated_by": "user_admin",
+      "created_at": "2026-08-25T03:41:32.743181Z",
+      "updated_at": "2026-08-25T03:42:28.257525Z"
     }
   },
-  "updated_at": "2026-08-24T10:41:54.605217Z"
+  "updated_at": "2026-08-25T03:42:28.265792Z"
 }
