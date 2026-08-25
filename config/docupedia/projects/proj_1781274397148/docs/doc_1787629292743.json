@@ -6,17 +6,28 @@
   "content": {
     "ops": [
       {
+        "insert": "1/ if \n"
+      },
+      {
         "insert": {
           "image": "/api/v1/docupedia/projects/proj_1781274397148/uploads/img_1787630604386_b1b08328.webp"
         }
       },
       {
-        "insert": "1/ if \n\n\n2/ Event - signal\n"
+        "insert": "\n\n2/ return\n\n"
+      },
+      {
+        "insert": {
+          "image": "/api/v1/docupedia/projects/proj_1781274397148/uploads/img_1787640877210_a211faa7.webp"
+        }
+      },
+      {
+        "insert": "\n\n2/ Event - signal\n"
       }
     ]
   },
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-08-25T03:41:32.743181Z",
-  "updated_at": "2026-08-25T04:03:27.930493Z"
+  "updated_at": "2026-08-25T06:54:44.414954Z"
 }
