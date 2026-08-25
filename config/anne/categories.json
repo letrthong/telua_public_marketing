@@ -15,32 +15,18 @@
     "deletedAt": null
   },
   {
-    "id": "gio_hoa",
-    "name": "Giỏ & Lẵng Hoa",
-    "slug": "gio-hoa",
-    "image": "https://images.unsplash.com/photo-1582794543139-8ac9cb0f7b11?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80",
-    "icon": "fa-solid fa-basket-shopping",
-    "order": 2,
-    "status": "active",
-    "isActive": true,
-    "isDeleted": false,
-    "description": "Giỏ hoa và lẵng hoa để bàn sang trọng, tinh tế",
-    "createdAt": "2026-08-21T00:00:00Z",
-    "updatedAt": "2026-08-23T20:00:00Z"
-  },
-  {
     "id": "ke_hoa",
     "name": "Kệ Hoa Khai Trương",
     "slug": "ke-hoa",
     "image": "https://images.unsplash.com/photo-1507290439931-a861b5a38200?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80",
     "icon": "fa-solid fa-crown",
-    "order": 3,
+    "order": 2,
     "status": "active",
     "isActive": true,
     "isDeleted": false,
     "description": "Kệ hoa chúc mừng khai trương, kỷ niệm, sự kiện hồng phát",
     "createdAt": "2026-08-21T00:00:00Z",
-    "updatedAt": "2026-08-23T20:00:00Z"
+    "updatedAt": "2026-08-25T01:30:17Z"
   },
   {
     "id": "binh_hoa",
@@ -48,13 +34,27 @@
     "slug": "binh-cam-hoa",
     "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/binh_ho_phach.png",
     "icon": "fa-solid fa-wine-glass",
-    "order": 4,
+    "order": 3,
     "status": "active",
     "isActive": true,
     "isDeleted": false,
     "description": "Mẫu bình cắm hoa nghệ thuật phong cách 'Thả Bình' tinh tế cho không gian sống",
     "createdAt": "2026-08-21T00:00:00Z",
-    "updatedAt": "2026-08-24T15:50:27Z"
+    "updatedAt": "2026-08-25T01:30:45Z"
+  },
+  {
+    "id": "gio_hoa",
+    "name": "Giỏ & Lẵng Hoa",
+    "slug": "gio-hoa",
+    "image": "https://images.unsplash.com/photo-1582794543139-8ac9cb0f7b11?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80",
+    "icon": "fa-solid fa-basket-shopping",
+    "order": 4,
+    "status": "active",
+    "isActive": true,
+    "isDeleted": false,
+    "description": "Giỏ hoa và lẵng hoa để bàn sang trọng, tinh tế",
+    "createdAt": "2026-08-21T00:00:00Z",
+    "updatedAt": "2026-08-25T01:30:45Z"
   },
   {
     "id": "lan_ho_diep",
