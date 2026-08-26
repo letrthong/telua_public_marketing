@@ -6,12 +6,72 @@
   "content": {
     "ops": [
       {
-        "insert": "Khoảng cách an toàn tối thiểu: 60km/h = 35m; 60 - 80km/h = 55m; 80 - 100km/h = 70m; 100 - 120km/h = 100m\n\n\nXe cơ giới không bao gồm xe gắn máy: Trong khu vực đông dân cư, đường hai chiều; đường một chiều có một làn xe cơ giới: 50km/h.\n\nHạng D2 là 24 tuổi. Độ tuổi lấy bằng theo hạng (cách nhau 3 tuổi).\n\nXe dưới 50cm3: 16 tuổi; Hạng A1, A, B1, B, C1: 18 tuổi;\n\nHạng C, BE: 21 tuổi;\n\nHạng D1, D2, C1E, CE: 24 tuổi;\n\nHạng D, D1E, D2E, DE: 27 tuổi.\n\nPhục hồi điểm GPLX (chưa hết điểm): Không bị trừ điểm trong 12 tháng (từ lần trừ gần nhất) -> phục hồi đủ 12 điểm.\n\nLái xe làm việc: Không quá 10 giờ 1 ngày\n\nHạng B: đến 08 chỗ (không kể lái xe); ô tô tải và chuyên dùng đến 3.500 kg; kéo rơ moóc đến 750 kg;\n\n\nLái xe liên tục: Không quá 4 giờ.\n\n\nHạng DE: lái xe hạng D kéo rơ moóc trên 750 kg; xe ô tô chở khách nối toa.\n\nHạng D là 27 tuổi. Độ tuổi lấy bằng theo hạng (cách nhau 3 tuổi).\n\nXe dưới 50cm3: 16 tuổi; Hạng A1, A, B1, B, C1: 18 tuổi;\n\nHạng C, BE: 21 tuổi;\n\nHạng D1, D2, C1E, CE: 24 tuổi;\n\nHạng D, D1E, D2E, DE: 27 tuổi\n\nHạng A1 lái xe mô tô hai bánh đến 125 cm3 hoặc đến 11 kW\n\nVạch kẻ đường chỉ sự phân chia làn đường\n\n\n\n\n\n\n\n"
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Khoảng cách an toàn tối thiểu: "
+      },
+      {
+        "insert": "\nDưới 60km/h = 35m; "
+      },
+      {
+        "attributes": {
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "60 - 80km/h = 55m;"
+      },
+      {
+        "attributes": {
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "80 - 100km/h = 70m; "
+      },
+      {
+        "attributes": {
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "100 - 120km/h = 100m"
+      },
+      {
+        "attributes": {
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "\n\nXe cơ giới không bao gồm xe gắn máy: \nTrong khu vực đông dân cư, đường hai chiều; đường một chiều có một làn xe cơ giới: "
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "50km/h."
+      },
+      {
+        "insert": "\n\nHạng D2 là 24 tuổi. Độ tuổi lấy bằng theo hạng "
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "(cách nhau 3 tuổi)."
+      },
+      {
+        "insert": "\n\nXe dưới 50cm3: 16 tuổi; Hạng A1, A, B1, B, C1: 18 tuổi;\n\nHạng C, BE: 21 tuổi;\n\nHạng D1, D2, C1E, CE: 24 tuổi;\n\nHạng D, D1E, D2E, DE: 27 tuổi.\n\nPhục hồi điểm GPLX (chưa hết điểm): Không bị trừ điểm trong 12 tháng (từ lần trừ gần nhất) -> phục hồi đủ 12 điểm.\n\nLái xe làm việc: Không quá 10 giờ 1 ngày\n\nHạng B: đến 08 chỗ (không kể lái xe); ô tô tải và chuyên dùng đến 3.500 kg; kéo rơ moóc đến 750 kg;\n\n\nLái xe liên tục: Không quá 4 giờ.\n\n\nHạng DE: lái xe hạng D kéo rơ moóc trên 750 kg; xe ô tô chở khách nối toa.\n\nHạng D là 27 tuổi. Độ tuổi lấy bằng theo hạng (cách nhau 3 tuổi).\n\nXe dưới 50cm3: 16 tuổi; Hạng A1, A, B1, B, C1: 18 tuổi;\n\nHạng C, BE: 21 tuổi;\n\nHạng D1, D2, C1E, CE: 24 tuổi;\n\nHạng D, D1E, D2E, DE: 27 tuổi\n\nHạng A1 lái xe mô tô hai bánh đến 125 cm3 hoặc đến 11 kW\n\nVạch kẻ đường chỉ sự phân chia làn đường\n\n\n\n\n\n\n\n"
       }
     ]
   },
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-08-24T01:07:39.397011Z",
-  "updated_at": "2026-08-25T03:46:05.986829Z"
+  "updated_at": "2026-08-26T11:14:14.323284Z"
 }
