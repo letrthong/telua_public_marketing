@@ -56,9 +56,9 @@
       "title": "30 Thiết kế cửa hàng",
       "parent_id": "folder_1785730407607",
       "created_at": "2026-08-04T13:59:50.681870Z",
-      "updated_at": "2026-08-05T03:18:43.698237Z",
+      "updated_at": "2026-08-26T01:38:10.178221Z",
       "created_by": "user_admin",
-      "updated_by": "user_1785839343630"
+      "updated_by": "user_admin"
     },
     "doc_1785852578781": {
       "id": "doc_1785852578781",
@@ -158,5 +158,5 @@
       "updated_at": "2026-08-24T01:26:53.474825Z"
     }
   },
-  "updated_at": "2026-08-24T02:46:49.070818Z"
+  "updated_at": "2026-08-26T01:38:10.181345Z"
 }
