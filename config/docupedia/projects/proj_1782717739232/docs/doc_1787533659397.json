@@ -45,10 +45,16 @@
         "attributes": {
           "list": "bullet"
         },
-        "insert": "\n"
+        "insert": "\n\n"
       },
       {
-        "insert": "\n\nXe cơ giới không bao gồm xe gắn máy: \nTrong khu vực đông dân cư, đường hai chiều; đường một chiều có một làn xe cơ giới: "
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Đường có giải phân cách được xem là đường đôi. Ngoài khu vực dân cư; đường đôi; đường một chiều có hai làn xe cơ giới trở lên:"
+      },
+      {
+        "insert": "\n  ô tô kéo rơ moóc 60km/h; \n  mô tô, xe buýt, ô tô đầu kéo: 70km/h;\n  xe trên 29 chỗ, xe tải trên 3,5 tấn: 80km/h; \n xe con, xe đến 29 chỗ, tải dưới 3,5 tấn: 90km/h\n\nXe cơ giới không bao gồm xe gắn máy: \nTrong khu vực đông dân cư, đường hai chiều; đường một chiều có một làn xe cơ giới: "
       },
       {
         "attributes": {
@@ -73,5 +79,5 @@
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-08-24T01:07:39.397011Z",
-  "updated_at": "2026-08-26T11:14:14.323284Z"
+  "updated_at": "2026-08-27T06:59:13.547362Z"
 }
