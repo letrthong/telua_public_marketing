@@ -10,7 +10,8 @@
       "doc_1785852578781",
       "folder_1785942416916",
       "folder_1787147591788",
-      "folder_1787534672068"
+      "folder_1787534672068",
+      "folder_1787964574748"
     ]
   },
   "nodes": {
@@ -156,7 +157,25 @@
       "updated_by": "user_admin",
       "created_at": "2026-08-24T01:25:02.366720Z",
       "updated_at": "2026-08-24T01:26:53.474825Z"
+    },
+    "folder_1787964574748": {
+      "id": "folder_1787964574748",
+      "type": "folder",
+      "title": "05 Checklist",
+      "children": [
+        "doc_1787964622278"
+      ]
+    },
+    "doc_1787964622278": {
+      "id": "doc_1787964622278",
+      "type": "file",
+      "title": "01 Công việc  tháng 8-9/2026",
+      "parent_id": "folder_1787964574748",
+      "created_by": "user_admin",
+      "updated_by": "user_admin",
+      "created_at": "2026-08-29T00:50:22.278864Z",
+      "updated_at": "2026-08-29T00:54:06.805817Z"
     }
   },
-  "updated_at": "2026-08-26T01:38:10.181345Z"
+  "updated_at": "2026-08-29T00:54:24.244885Z"
 }
