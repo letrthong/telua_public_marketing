@@ -1,0 +1,33 @@
+{
+  "doc_id": "doc_1787997868334",
+  "history": [
+    {
+      "id": "hist_1787997868819",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "create",
+      "timestamp": "2026-08-29T10:04:28.819990Z",
+      "details": {
+        "title": "01 ứng dụng"
+      }
+    },
+    {
+      "id": "hist_1787997891513",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-08-29T10:04:51.513767Z",
+      "details": {
+        "changes": {
+          "title": {
+            "old": "01 ứng dụng",
+            "new": "01 Cài ứng dụng"
+          },
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    }
+  ]
+}

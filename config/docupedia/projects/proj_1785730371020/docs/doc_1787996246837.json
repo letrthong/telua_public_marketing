@@ -6,7 +6,13 @@
   "content": {
     "ops": [
       {
-        "insert": "Thông tin về kích thước\n\n"
+        "attributes": {
+          "bold": true
+        },
+        "insert": "1/ Thông tin về kích thước"
+      },
+      {
+        "insert": "\n\n"
       },
       {
         "attributes": {
@@ -298,7 +304,19 @@
         "insert": "\n"
       },
       {
-        "insert": "1m2"
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "ia0zfa318m7",
+            "rowId": "ku1i4186cqb",
+            "colId": "ocpnzvtgorc",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "1m\\2"
       },
       {
         "attributes": {
@@ -313,7 +331,13 @@
         "insert": "\n"
       },
       {
-        "insert": "\nCách bố trí cửa hiện tại\n"
+        "attributes": {
+          "bold": true
+        },
+        "insert": "2 Cách bố trí cửa hiện tại"
+      },
+      {
+        "insert": "\n"
       },
       {
         "insert": {
@@ -328,5 +352,5 @@
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-08-29T09:37:26.837079Z",
-  "updated_at": "2026-08-29T09:46:01.063460Z"
+  "updated_at": "2026-08-29T09:46:34.853084Z"
 }

@@ -42,7 +42,25 @@
         "insert": "Chuẩn bị"
       },
       {
-        "insert": ": Cho xe song song với ô ghép ngang và vai cách đầu trên ô ghép dọc khoảng  1 ~2m thì dừng lại và tiến hành ghép ngang\n  Lúc đánh trái tiến thi thấy xe song với góc giao của ô ghép ngang thì dừng\n Về số N, và bắt đầu lùi\n\nTrái thẳng lần 1: lúc lùi nên để bánh xe lọt giữ vạch trắng và vàng\n \n3/ Mí gương chỉ dùng cho đường vuông góc\n\n\n4/ Đánh hết vô lăng về trái hay phải sau đó "
+        "insert": ": Cho xe song song với ô ghép ngang và vai cách đầu trên ô ghép dọc khoảng  1 ~2m thì dừng lại và tiến hành ghép ngang\n  Lúc đánh trái tiến thi thấy xe song với góc giao của ô ghép ngang thì dừng\n Về số N, và bắt đầu lùi\n\nTrái thẳng lần 1: lúc lùi nên để bánh xe lọt giữ vạch trắng và vàng\n \n3"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "/ Mí gương chỉ dùng cho đường vuông góc"
+      },
+      {
+        "insert": "\n\n\n4/ "
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Đánh hết vô lăng "
+      },
+      {
+        "insert": "về trái hay phải sau đó "
       },
       {
         "attributes": {
@@ -51,12 +69,21 @@
         "insert": "trả lái 1.5 vòng"
       },
       {
-        "insert": " với ô tô 4 hay 7 chỗ để đánh thẳng\n\n5/ Luôn đạp côn khi thắng\n\n6/ Thẳng tiến và muốn sát lề phải\n  ->Thì đánh lái sang phài\n \nNgày cập nhập: 10:47 25/8/2026\n"
+        "insert": " với ô tô 4 hay 7 chỗ để đánh thẳng\n\n5/ Luôn đạp côn khi thắng\n\n6/ "
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Thẳng tiến và muốn sát lề phải"
+      },
+      {
+        "insert": "\n  ->Thì đánh lái sang phài\n \nNgày cập nhập: 10:47 25/8/2026\n"
       }
     ]
   },
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-06-29T07:35:22.451244Z",
-  "updated_at": "2026-08-25T03:47:13.683942Z"
+  "updated_at": "2026-08-29T10:02:05.327432Z"
 }

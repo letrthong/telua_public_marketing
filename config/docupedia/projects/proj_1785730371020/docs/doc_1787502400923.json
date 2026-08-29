@@ -6,7 +6,7 @@
   "content": {
     "ops": [
       {
-        "insert": "Login  "
+        "insert": "Thông tin để login  "
       },
       {
         "attributes": {
@@ -15,12 +15,174 @@
         "insert": "https://nohoathabinh.com/"
       },
       {
-        "insert": "\n     admin@nohoathabinh.vn  123456 \n\n\nNgày cập nhập 23:29 23/8/2026\n"
+        "insert": "\n  \n"
+      },
+      {
+        "attributes": {
+          "col": {
+            "tableId": "p0qetpgs0jf",
+            "colId": "posxox7um9n",
+            "width": "33.33333333333333%",
+            "full": true
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "col": {
+            "tableId": "p0qetpgs0jf",
+            "colId": "3lzw3znkvr6",
+            "width": "33.33333333333333%",
+            "full": true
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "col": {
+            "tableId": "p0qetpgs0jf",
+            "colId": "rw9ks6vgfp",
+            "width": "33.33333333333333%",
+            "full": true
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "STT"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "p0qetpgs0jf",
+            "rowId": "pou3zfb3mtb",
+            "colId": "posxox7um9n",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Tài khoản"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "p0qetpgs0jf",
+            "rowId": "pou3zfb3mtb",
+            "colId": "3lzw3znkvr6",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": " Mật khẩu"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "p0qetpgs0jf",
+            "rowId": "pou3zfb3mtb",
+            "colId": "rw9ks6vgfp",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "1"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "p0qetpgs0jf",
+            "rowId": "1ceeelnrwfn",
+            "colId": "posxox7um9n",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "admin@nohoathabinh.vn"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "p0qetpgs0jf",
+            "rowId": "1ceeelnrwfn",
+            "colId": "3lzw3znkvr6",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "123456"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "p0qetpgs0jf",
+            "rowId": "1ceeelnrwfn",
+            "colId": "rw9ks6vgfp",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "p0qetpgs0jf",
+            "rowId": "pe66whj3tt",
+            "colId": "posxox7um9n",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "p0qetpgs0jf",
+            "rowId": "pe66whj3tt",
+            "colId": "3lzw3znkvr6",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "p0qetpgs0jf",
+            "rowId": "pe66whj3tt",
+            "colId": "rw9ks6vgfp",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "\n\n\nNgày cập nhập 23:29 23/8/2026\n"
       }
     ]
   },
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-08-23T16:26:40.923700Z",
-  "updated_at": "2026-08-23T16:29:55.843130Z"
+  "updated_at": "2026-08-29T09:48:00.767426Z"
 }

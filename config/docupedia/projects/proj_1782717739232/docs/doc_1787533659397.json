@@ -45,7 +45,28 @@
         "attributes": {
           "list": "bullet"
         },
-        "insert": "\n\n"
+        "insert": "\n"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Thứ tự xe ưu tiên"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "\n"
       },
       {
         "attributes": {
@@ -79,5 +100,5 @@
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-08-24T01:07:39.397011Z",
-  "updated_at": "2026-08-27T06:59:13.547362Z"
+  "updated_at": "2026-08-29T10:03:35.317919Z"
 }
