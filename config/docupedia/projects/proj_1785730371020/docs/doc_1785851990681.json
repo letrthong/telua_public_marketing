@@ -1,8 +1,8 @@
 {
   "id": "doc_1785851990681",
   "type": "file",
-  "title": "30 Thiết kế cửa hàng",
-  "parent_id": "folder_1785730407607",
+  "title": "01 Thiết kế cửa hàng",
+  "parent_id": "folder_1787996319526",
   "content": {
     "ops": [
       {
@@ -44,5 +44,5 @@
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-08-04T13:59:50.681870Z",
-  "updated_at": "2026-08-26T01:38:10.178221Z"
+  "updated_at": "2026-08-29T09:41:08.712374Z"
 }

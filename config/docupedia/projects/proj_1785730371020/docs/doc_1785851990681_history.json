@@ -196,6 +196,22 @@
           "content": "Nội dung tài liệu được cập nhật"
         }
       }
+    },
+    {
+      "id": "hist_1787996468727",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-08-29T09:41:08.727704Z",
+      "details": {
+        "changes": {
+          "title": {
+            "old": "30 Thiết kế cửa hàng",
+            "new": "01 Thiết kế cửa hàng"
+          }
+        }
+      }
     }
   ]
 }

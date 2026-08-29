@@ -1,0 +1,332 @@
+{
+  "id": "doc_1787996246837",
+  "type": "file",
+  "title": "10 kích thước",
+  "parent_id": "folder_1787996319526",
+  "content": {
+    "ops": [
+      {
+        "insert": "Thông tin về kích thước\n\n"
+      },
+      {
+        "attributes": {
+          "col": {
+            "tableId": "ia0zfa318m7",
+            "colId": "mago4q0xu5o",
+            "width": "33.33333333333333%",
+            "full": true
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "col": {
+            "tableId": "ia0zfa318m7",
+            "colId": "17acpvxlw1i",
+            "width": "33.33333333333333%",
+            "full": true
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "col": {
+            "tableId": "ia0zfa318m7",
+            "colId": "ocpnzvtgorc",
+            "width": "33.33333333333333%",
+            "full": true
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "STT"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "ia0zfa318m7",
+            "rowId": "h8glx6otk5u",
+            "colId": "mago4q0xu5o",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Kích thước"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "ia0zfa318m7",
+            "rowId": "h8glx6otk5u",
+            "colId": "17acpvxlw1i",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border-color: rgb(0, 255, 128);"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Đơn vị(m)"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "ia0zfa318m7",
+            "rowId": "h8glx6otk5u",
+            "colId": "ocpnzvtgorc",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "1"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "ia0zfa318m7",
+            "rowId": "7pg7q8qzdwk",
+            "colId": "mago4q0xu5o",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Chiều dài"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "ia0zfa318m7",
+            "rowId": "7pg7q8qzdwk",
+            "colId": "17acpvxlw1i",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "8m"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "ia0zfa318m7",
+            "rowId": "7pg7q8qzdwk",
+            "colId": "ocpnzvtgorc",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "2"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "ia0zfa318m7",
+            "rowId": "45bownt2ouf",
+            "colId": "mago4q0xu5o",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Chiều rộng"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "ia0zfa318m7",
+            "rowId": "45bownt2ouf",
+            "colId": "17acpvxlw1i",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "3m2"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "ia0zfa318m7",
+            "rowId": "45bownt2ouf",
+            "colId": "ocpnzvtgorc",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "3"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "ia0zfa318m7",
+            "rowId": "b9fpd7zocow",
+            "colId": "mago4q0xu5o",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Chiều cao"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "ia0zfa318m7",
+            "rowId": "b9fpd7zocow",
+            "colId": "17acpvxlw1i",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "2m5"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "ia0zfa318m7",
+            "rowId": "b9fpd7zocow",
+            "colId": "ocpnzvtgorc",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "4"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "ia0zfa318m7",
+            "rowId": "e1433vn1iy",
+            "colId": "mago4q0xu5o",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Chiểu rộng cửa trước"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "ia0zfa318m7",
+            "rowId": "e1433vn1iy",
+            "colId": "17acpvxlw1i",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "2m6"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "ia0zfa318m7",
+            "rowId": "e1433vn1iy",
+            "colId": "ocpnzvtgorc",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "5"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "ia0zfa318m7",
+            "rowId": "ku1i4186cqb",
+            "colId": "mago4q0xu5o",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Chiều rộng cửa sau"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "ia0zfa318m7",
+            "rowId": "ku1i4186cqb",
+            "colId": "17acpvxlw1i",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "1m2"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "ia0zfa318m7",
+            "rowId": "ku1i4186cqb",
+            "colId": "ocpnzvtgorc",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "\nCách bố trí cửa hiện tại\n"
+      },
+      {
+        "insert": {
+          "image": "/api/v1/docupedia/projects/proj_1785730371020/uploads/img_1787996556078_f9b6f597.webp"
+        }
+      },
+      {
+        "insert": "\n\nNgày cập nhập: 16:42 29/8/2026\n"
+      }
+    ]
+  },
+  "created_by": "user_admin",
+  "updated_by": "user_admin",
+  "created_at": "2026-08-29T09:37:26.837079Z",
+  "updated_at": "2026-08-29T09:46:01.063460Z"
+}

@@ -2,7 +2,7 @@
   "id": "doc_1785855272161",
   "type": "file",
   "title": "03. Cửa hàng Nguyễn Hồng Đào",
-  "parent_id": "folder_1785730407607",
+  "parent_id": "folder_1787996387816",
   "content": {
     "ops": [
       {
@@ -24,7 +24,7 @@
         "insert": "ngày 5 hàng tháng"
       },
       {
-        "insert": "\nTiền đặt cặp trước: 1 tháng\nHợp đồng thuê: 1 năm hay 2 năm ?\n\nGiá tiền điện\nGiá tiền nước\n\nGoogle map: "
+        "insert": "\nTiền đặt cặp trước: 1 tháng\nHợp đồng thuê: 1 năm \n\nGiá tiền điện\nGiá tiền nước\n\nGoogle map: "
       },
       {
         "attributes": {
@@ -48,5 +48,5 @@
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-08-04T14:54:32.161377Z",
-  "updated_at": "2026-08-24T02:46:48.866800Z"
+  "updated_at": "2026-08-29T09:40:15.071605Z"
 }

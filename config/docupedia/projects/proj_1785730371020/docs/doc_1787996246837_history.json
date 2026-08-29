@@ -1,0 +1,58 @@
+{
+  "doc_id": "doc_1787996246837",
+  "history": [
+    {
+      "id": "hist_1787996247220",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "create",
+      "timestamp": "2026-08-29T09:37:27.220595Z",
+      "details": {
+        "title": "31 kích thước"
+      }
+    },
+    {
+      "id": "hist_1787996483525",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-08-29T09:41:23.525356Z",
+      "details": {
+        "changes": {
+          "title": {
+            "old": "31 kích thước",
+            "new": "10 kích thước"
+          }
+        }
+      }
+    },
+    {
+      "id": "hist_1787996576380",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-08-29T09:42:56.380873Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1787996761066",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-08-29T09:46:01.066292Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    }
+  ]
+}
