@@ -32,5 +32,22 @@
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&q=80&w=600",
         "lat": 10.775301,
         "lng": 106.702266
+    },
+    {
+        "id": "49f6c0f6-5ac0-4e7c-867f-d10859110902",
+        "name": "Quán Lẩu Đông Xuyên",
+        "type": "local_food",
+        "address": "NDA5IE5ndXnhu4VuIENow60gVGhhbmgsIHF14bqtbiAxMQ==",
+        "phone": "",
+        "website": "",
+        "locationId": "1b2cc977-063f-45df-8481-833a560bb815",
+        "status": "pending",
+        "rating": 5,
+        "createdAt": "2026-08-30",
+        "updatedAt": "2026-08-30",
+        "description": "WCB5IHogMSAyIDMgNCBhIGIgYyBkIGUgZCAxMiAzNDU=",
+        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&q=80&w=600",
+        "lat": 10.779441,
+        "lng": 106.695056
     }
 ]
