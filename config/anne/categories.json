@@ -29,8 +29,9 @@
       }
     },
     "createdAt": "2026-08-21T00:00:00Z",
-    "updatedAt": "2026-08-24T16:07:05Z",
-    "deletedAt": null
+    "updatedAt": "2026-08-30T01:21:46Z",
+    "deletedAt": null,
+    "textId": "cat_bouquet"
   },
   {
     "id": "ke_hoa",
@@ -49,8 +50,8 @@
         "description": "Grand opening congratulatory flower stands for milestones and prosperity"
       },
       "ja": {
-        "name": "祝賀スタンド花",
-        "description": "開店祝い、記念式典、繁栄を祈る豪華な祝賀スタンド花"
+        "name": "生花花束",
+        "description": "誕生日、記念日、卒業祝いに最適なプレミアムデザイン生花ブーケ"
       },
       "ko": {
         "name": "축하 화환",
@@ -62,7 +63,9 @@
       }
     },
     "createdAt": "2026-08-21T00:00:00Z",
-    "updatedAt": "2026-08-25T01:30:17Z"
+    "updatedAt": "2026-08-30T01:23:12Z",
+    "textId": "cat_stand",
+    "deletedAt": null
   },
   {
     "id": "binh_hoa",

@@ -1,0 +1,27 @@
+{
+  "id": "binh_hoa_01",
+  "name": "Bình Gốm Tĩnh Lặng",
+  "category": "binh_hoa",
+  "priceLevelId": "price_lvl_03",
+  "originalPrice": "1,950,000₫",
+  "salePrice": "1,800,000₫",
+  "priceNumber": 1800000,
+  "badge": "Nghệ Thuật",
+  "image": "https://images.unsplash.com/photo-1582794543139-8ac9cb0f7b11?w=500",
+  "gallery": [
+    "https://images.unsplash.com/photo-1582794543139-8ac9cb0f7b11?w=800",
+    "https://images.unsplash.com/photo-1563241527-3004b7be0ffd?w=800"
+  ],
+  "description": "Bình hoa gốm thủ công kết hợp hoa cẩm tú cầu và tulip nhập khẩu tạo điểm nhấn không gian phòng khách.",
+  "flowerComposition": "Tulip Hà Lan (8 cành), Cẩm Tú Cầu Nhật (2 bông lớn), Lan Mokara, Bình gốm Bát Tràng tráng men mờ",
+  "dimension": "Cao 65cm x Rộng 50cm",
+  "careTips": "Bình đã có sẵn xốp cắm giữ ẩm, châm 100ml nước sạch mỗi ngày vào xốp.",
+  "stockByBranch": {
+    "branch_q10": 5,
+    "branch_q1": 3,
+    "branch_thao_dien": 3
+  },
+  "dailyQuota": 8,
+  "isActive": true,
+  "updatedAt": "2026-08-22T07:00:00Z"
+}

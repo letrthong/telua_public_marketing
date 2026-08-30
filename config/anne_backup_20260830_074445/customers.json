@@ -1,0 +1,53 @@
+[
+  {
+    "id": "cust_001",
+    "phone": "0987654321",
+    "email": "nva@gmail.com",
+    "fullName": "Nguyễn Văn A",
+    "passwordHash": "pbkdf2:sha256:260000$u86I0vfgyQoDoXdM$2e114fe7c26b13344898dbe7c586abea0763e7b9c3d88f1ce50f0b629b1a6630",
+    "role": "customer",
+    "tier": "gold",
+    "loyaltyPoints": 350,
+    "totalSpent": 4500000,
+    "orderCount": 5,
+    "savedAddresses": [
+      "123 Nguyễn Huệ, Phường Bến Nghé, Quận 1, TP.HCM"
+    ],
+    "isActive": true,
+    "createdAt": "2026-08-21T00:00:00Z"
+  },
+  {
+    "id": "cust_002",
+    "phone": "0912345678",
+    "email": "lanhuong@gmail.com",
+    "fullName": "Phạm Lan Hương",
+    "passwordHash": "pbkdf2:sha256:260000$u86I0vfgyQoDoXdM$2e114fe7c26b13344898dbe7c586abea0763e7b9c3d88f1ce50f0b629b1a6630",
+    "role": "customer",
+    "tier": "vip",
+    "loyaltyPoints": 1200,
+    "totalSpent": 15800000,
+    "orderCount": 12,
+    "savedAddresses": [
+      "45 Lê Duẩn, Bến Nghé, Quận 1, TP.HCM"
+    ],
+    "isActive": true,
+    "createdAt": "2026-08-21T08:30:00Z"
+  },
+  {
+    "id": "cust_003",
+    "phone": "0933112233",
+    "email": "hoangnam@gmail.com",
+    "fullName": "Đỗ Hoàng Nam",
+    "passwordHash": "pbkdf2:sha256:260000$u86I0vfgyQoDoXdM$2e114fe7c26b13344898dbe7c586abea0763e7b9c3d88f1ce50f0b629b1a6630",
+    "role": "customer",
+    "tier": "silver",
+    "loyaltyPoints": 150,
+    "totalSpent": 1850000,
+    "orderCount": 2,
+    "savedAddresses": [
+      "88 Song Hành, An Phú, Quận 2, TP.HCM"
+    ],
+    "isActive": true,
+    "createdAt": "2026-08-22T09:15:00Z"
+  }
+]
