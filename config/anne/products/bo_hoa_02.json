@@ -1,20 +1,49 @@
 {
   "id": "bo_hoa_02",
   "name": "Hoàng Hôn Ấm Áp",
+  "nameTextId": null,
   "category": "bo_hoa",
   "priceLevelId": "price_lvl_02",
-  "originalPrice": "890,000₫",
-  "salePrice": "850,000₫",
   "priceNumber": 850000,
+  "salePrice": "850,000₫",
+  "originalPrice": "850,000₫",
   "badge": "Bán Chạy",
-  "image": "/flower/images/bo_hoa_02.webp",
+  "image": "/api/flower/v1/images/prod_1788079508_6f785c4c.jpg",
   "gallery": [
     "/flower/images/bo_hoa_02.webp"
   ],
   "description": "Tone cam cháy rực rỡ mang đến nguồn năng lượng tích cực và sự ấm áp.",
+  "descTextId": null,
   "flowerComposition": "Hồng cam Spirit (12 cành), Hoa Đồng Tiền Mini, Cúc Mẫu Đơn Cam, Lá Khuynh Diệp",
+  "compTextId": null,
   "dimension": "Cao 55cm x Rộng 45cm",
   "careTips": "Thay nước bình hoa 2 ngày một lần, tránh ánh nắng trực tiếp.",
+  "i18n": {
+    "en": {
+      "careTips": "Change vase water every 2 days, keep away from direct sunlight and heat.",
+      "description": "Vibrant warm burnt orange palette radiating positive energy, joy, and heartwarming enthusiasm.",
+      "flowerComposition": "Spirit Orange Roses (12 stems), Mini Gerberas, Orange Peony Chrysanthemums, Silver Eucalyptus",
+      "name": "Warm Sunset Orange Bouquet"
+    },
+    "ja": {
+      "careTips": "2日ごとに花瓶の水を交換し、直射日光を避けて涼しい場所に飾ってください。",
+      "description": "鮮やかな夕焼けオレンジトーンが温かいエネルギーと元気を届ける、お祝いに最適な華やかブーケ。",
+      "flowerComposition": "スピリットオレンジバラ（12本）、ミニガーベラ、オレンジマム、ユーカリ葉",
+      "name": "夕暮れの温もり オレンジブーケ"
+    },
+    "ko": {
+      "careTips": "이틀에 한 번 물을 갈아주시고, 직사광선이 닿지 않는 서늘한 곳에 두세요.",
+      "description": "노을빛을 머금은 화사한 오렌지 톤으로 긍정적인 활력과 따스한 감동을 전하는 인기 꽃다발.",
+      "flowerComposition": "스피릿 오렌지 장미 (12송이), 미니 거베라, 오렌지 퐁퐁 소국, 유칼립투스",
+      "name": "따스한 노을 오렌지 꽃다발"
+    },
+    "zh": {
+      "careTips": "每隔2天为花瓶更换清水，置于避免强光直射处。",
+      "description": "浓郁温暖的落日落霞橙黄色系，传递满满的积极能量与诚挚暖意。",
+      "flowerComposition": "烈焰橙玫瑰（12支）、迷你太阳花、橙色乒乓菊、尤加利叶",
+      "name": "暖阳落日 橙光艺术花束"
+    }
+  },
   "stockByBranch": {
     "branch_q10": 8,
     "branch_q1": 5,
@@ -22,31 +51,5 @@
   },
   "dailyQuota": 15,
   "isActive": true,
-  "updatedAt": "2026-08-22T07:00:00Z",
-  "i18n": {
-    "en": {
-      "name": "Warm Sunset Orange Bouquet",
-      "flowerComposition": "Spirit Orange Roses (12 stems), Mini Gerberas, Orange Peony Chrysanthemums, Silver Eucalyptus",
-      "description": "Vibrant warm burnt orange palette radiating positive energy, joy, and heartwarming enthusiasm.",
-      "careTips": "Change vase water every 2 days, keep away from direct sunlight and heat."
-    },
-    "ja": {
-      "name": "夕暮れの温もり オレンジブーケ",
-      "flowerComposition": "スピリットオレンジバラ（12本）、ミニガーベラ、オレンジマム、ユーカリ葉",
-      "description": "鮮やかな夕焼けオレンジトーンが温かいエネルギーと元気を届ける、お祝いに最適な華やかブーケ。",
-      "careTips": "2日ごとに花瓶の水を交換し、直射日光を避けて涼しい場所に飾ってください。"
-    },
-    "ko": {
-      "name": "따스한 노을 오렌지 꽃다발",
-      "flowerComposition": "스피릿 오렌지 장미 (12송이), 미니 거베라, 오렌지 퐁퐁 소국, 유칼립투스",
-      "description": "노을빛을 머금은 화사한 오렌지 톤으로 긍정적인 활력과 따스한 감동을 전하는 인기 꽃다발.",
-      "careTips": "이틀에 한 번 물을 갈아주시고, 직사광선이 닿지 않는 서늘한 곳에 두세요."
-    },
-    "zh": {
-      "name": "暖阳落日 橙光艺术花束",
-      "flowerComposition": "烈焰橙玫瑰（12支）、迷你太阳花、橙色乒乓菊、尤加利叶",
-      "description": "浓郁温暖的落日落霞橙黄色系，传递满满的积极能量与诚挚暖意。",
-      "careTips": "每隔2天为花瓶更换清水，置于避免强光直射处。"
-    }
-  }
+  "updatedAt": "2026-08-30T08:45:27Z"
 }

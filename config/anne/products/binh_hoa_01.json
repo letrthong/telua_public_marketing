@@ -1,20 +1,49 @@
 {
   "id": "binh_hoa_01",
   "name": "Bình Gốm Tĩnh Lặng",
+  "nameTextId": null,
   "category": "binh_hoa",
   "priceLevelId": "price_lvl_03",
-  "originalPrice": "1,950,000₫",
-  "salePrice": "1,800,000₫",
   "priceNumber": 1800000,
+  "salePrice": "1,800,000₫",
+  "originalPrice": "1,800,000₫",
   "badge": "Nghệ Thuật",
-  "image": "/flower/images/binh_hoa_01.webp",
+  "image": "/api/flower/v1/images/prod_1788079372_d45e5331.webp",
   "gallery": [
     "/flower/images/binh_hoa_01.webp"
   ],
   "description": "Bình hoa gốm thủ công kết hợp hoa cẩm tú cầu và tulip nhập khẩu tạo điểm nhấn không gian phòng khách.",
+  "descTextId": null,
   "flowerComposition": "Tulip Hà Lan (8 cành), Cẩm Tú Cầu Nhật (2 bông lớn), Lan Mokara, Bình gốm Bát Tràng tráng men mờ",
+  "compTextId": null,
   "dimension": "Cao 65cm x Rộng 50cm",
   "careTips": "Bình đã có sẵn xốp cắm giữ ẩm, châm 100ml nước sạch mỗi ngày vào xốp.",
+  "i18n": {
+    "en": {
+      "careTips": "Add 100ml of fresh water directly onto the floral foam daily.",
+      "description": "Artisan handmade ceramic vase arrangement featuring imported tulips and hydrangeas, creating a serene centerpiece for living spaces.",
+      "flowerComposition": "Dutch Tulips (8 stems), Japanese Hydrangeas (2 large blooms), Mokara Orchids, Matte Glazed Ceramic Vase",
+      "name": "Tranquil Ceramic Flower Vase"
+    },
+    "ja": {
+      "careTips": "毎日吸水スポンジに約100mlのきれいな水を補給してください。",
+      "description": "職人の手作り陶器花瓶にチューリップと紫陽花を贅沢にあしらった、リビングに穏やかな品格を添える逸品。",
+      "flowerComposition": "オランダ産チューリップ（8本）、日本産アジサイ（大輪2輪）、モカラ蘭、マット釉薬高級陶器花瓶",
+      "name": "静寂の美 陶器フラワーアレンジメント"
+    },
+    "ko": {
+      "careTips": "화병 속 오아시스에 매일 신선한 물 100ml를 보충해 주세요.",
+      "description": "수제 세라믹 화병과 고급 수입 튤립, 수국이 조화를 이루어 거실 공간을 우아하게 채워주는 프리미엄 센터피스.",
+      "flowerComposition": "네덜란드 튤립 (8송이), 일본 수국 (대형 2송이), 모카라 난, 매트 도자기 화병",
+      "name": "고요한 쉼 세라믹 플라워 화병"
+    },
+    "zh": {
+      "careTips": "每天向花瓶内的吸水花泥补充约100毫升清水保湿。",
+      "description": "手工匠心陶瓷花瓶与进口郁金香、绣球花完美结合，为客厅与艺术空间增添宁静典雅的格调。",
+      "flowerComposition": "荷兰郁金香（8支）、日本进口大绣球（2朵）、莫卡拉兰花、哑光手工陶瓷花瓶",
+      "name": "静谧时光 艺术陶瓷插花瓶"
+    }
+  },
   "stockByBranch": {
     "branch_q10": 5,
     "branch_q1": 3,
@@ -22,31 +51,5 @@
   },
   "dailyQuota": 8,
   "isActive": true,
-  "updatedAt": "2026-08-22T07:00:00Z",
-  "i18n": {
-    "en": {
-      "name": "Tranquil Ceramic Flower Vase",
-      "flowerComposition": "Dutch Tulips (8 stems), Japanese Hydrangeas (2 large blooms), Mokara Orchids, Matte Glazed Ceramic Vase",
-      "description": "Artisan handmade ceramic vase arrangement featuring imported tulips and hydrangeas, creating a serene centerpiece for living spaces.",
-      "careTips": "Add 100ml of fresh water directly onto the floral foam daily."
-    },
-    "ja": {
-      "name": "静寂の美 陶器フラワーアレンジメント",
-      "flowerComposition": "オランダ産チューリップ（8本）、日本産アジサイ（大輪2輪）、モカラ蘭、マット釉薬高級陶器花瓶",
-      "description": "職人の手作り陶器花瓶にチューリップと紫陽花を贅沢にあしらった、リビングに穏やかな品格を添える逸品。",
-      "careTips": "毎日吸水スポンジに約100mlのきれいな水を補給してください。"
-    },
-    "ko": {
-      "name": "고요한 쉼 세라믹 플라워 화병",
-      "flowerComposition": "네덜란드 튤립 (8송이), 일본 수국 (대형 2송이), 모카라 난, 매트 도자기 화병",
-      "description": "수제 세라믹 화병과 고급 수입 튤립, 수국이 조화를 이루어 거실 공간을 우아하게 채워주는 프리미엄 센터피스.",
-      "careTips": "화병 속 오아시스에 매일 신선한 물 100ml를 보충해 주세요."
-    },
-    "zh": {
-      "name": "静谧时光 艺术陶瓷插花瓶",
-      "flowerComposition": "荷兰郁金香（8支）、日本进口大绣球（2朵）、莫卡拉兰花、哑光手工陶瓷花瓶",
-      "description": "手工匠心陶瓷花瓶与进口郁金香、绣球花完美结合，为客厅与艺术空间增添宁静典雅的格调。",
-      "careTips": "每天向花瓶内的吸水花泥补充约100毫升清水保湿。"
-    }
-  }
+  "updatedAt": "2026-08-30T08:43:04Z"
 }

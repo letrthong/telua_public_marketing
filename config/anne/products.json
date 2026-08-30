@@ -2,13 +2,14 @@
   {
     "id": "binh_hoa_01",
     "name": "Bình Gốm Tĩnh Lặng",
+    "nameTextId": null,
     "category": "binh_hoa",
     "priceLevelId": "price_lvl_03",
     "priceNumber": 1800000,
     "salePrice": "1,800,000₫",
-    "originalPrice": "1,950,000₫",
+    "originalPrice": "1,800,000₫",
     "badge": "Nghệ Thuật",
-    "image": "/api/flower/v1/images/binh_hoa_01.webp",
+    "image": "/api/flower/v1/images/prod_1788079372_d45e5331.webp",
     "i18n": {
       "en": {
         "name": "Tranquil Ceramic Flower Vase"
@@ -30,7 +31,7 @@
     },
     "dailyQuota": 8,
     "isActive": true,
-    "updatedAt": "2026-08-22T07:00:00Z"
+    "updatedAt": "2026-08-30T08:43:04Z"
   },
   {
     "id": "binh_hoa_04",
@@ -102,13 +103,14 @@
   {
     "id": "bo_hoa_02",
     "name": "Hoàng Hôn Ấm Áp",
+    "nameTextId": null,
     "category": "bo_hoa",
     "priceLevelId": "price_lvl_02",
     "priceNumber": 850000,
     "salePrice": "850,000₫",
-    "originalPrice": "890,000₫",
+    "originalPrice": "850,000₫",
     "badge": "Bán Chạy",
-    "image": "/api/flower/v1/images/bo_hoa_02.webp",
+    "image": "/api/flower/v1/images/prod_1788079508_6f785c4c.jpg",
     "i18n": {
       "en": {
         "name": "Warm Sunset Orange Bouquet"
@@ -130,7 +132,7 @@
     },
     "dailyQuota": 15,
     "isActive": true,
-    "updatedAt": "2026-08-22T07:00:00Z"
+    "updatedAt": "2026-08-30T08:45:27Z"
   },
   {
     "id": "bo_hoa_1788048445",
