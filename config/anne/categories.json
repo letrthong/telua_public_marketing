@@ -97,7 +97,9 @@
       }
     },
     "createdAt": "2026-08-21T00:00:00Z",
-    "updatedAt": "2026-08-25T01:30:45Z"
+    "updatedAt": "2026-08-30T02:47:57Z",
+    "textId": "cat_vase",
+    "deletedAt": null
   },
   {
     "id": "gio_hoa",
@@ -129,7 +131,9 @@
       }
     },
     "createdAt": "2026-08-21T00:00:00Z",
-    "updatedAt": "2026-08-25T01:30:45Z"
+    "updatedAt": "2026-08-30T02:48:19Z",
+    "textId": "cat_basket",
+    "deletedAt": null
   },
   {
     "id": "lan_ho_diep",
@@ -161,7 +165,9 @@
       }
     },
     "createdAt": "2026-08-21T00:00:00Z",
-    "updatedAt": "2026-08-25T15:09:02Z"
+    "updatedAt": "2026-08-30T02:48:40Z",
+    "textId": "cat_orchid",
+    "deletedAt": null
   },
   {
     "id": "hoa_cuoi",
@@ -193,6 +199,8 @@
       }
     },
     "createdAt": "2026-08-21T00:00:00Z",
-    "updatedAt": "2026-08-25T15:09:23Z"
+    "updatedAt": "2026-08-30T02:48:56Z",
+    "textId": "cat_wedding",
+    "deletedAt": null
   }
 ]
