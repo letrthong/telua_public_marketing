@@ -8,7 +8,7 @@
     "salePrice": "1,800,000₫",
     "originalPrice": "1,950,000₫",
     "badge": "Nghệ Thuật",
-    "image": "/flower/images/binh_hoa_01.webp",
+    "image": "/api/flower/v1/images/binh_hoa_01.webp",
     "i18n": {
       "en": {
         "name": "Tranquil Ceramic Flower Vase"
@@ -41,7 +41,7 @@
     "salePrice": "690,000₫",
     "originalPrice": "690,000₫",
     "badge": "Bán chạy",
-    "image": "/flower/images/binh_hoa_04.webp",
+    "image": "/api/flower/v1/images/binh_hoa_04.webp",
     "i18n": {
       "en": {
         "name": "Minimalist Ceramic Art Flower Vase"
@@ -75,7 +75,7 @@
     "salePrice": "420,000₫",
     "originalPrice": "420,000₫",
     "badge": "-7%",
-    "image": "/flower/images/bo_hoa_01.webp",
+    "image": "/api/flower/v1/images/bo_hoa_01.webp",
     "i18n": {
       "en": {
         "name": "Floating White Clouds Bouquet"
@@ -108,7 +108,7 @@
     "salePrice": "850,000₫",
     "originalPrice": "890,000₫",
     "badge": "Bán Chạy",
-    "image": "/flower/images/bo_hoa_02.webp",
+    "image": "/api/flower/v1/images/bo_hoa_02.webp",
     "i18n": {
       "en": {
         "name": "Warm Sunset Orange Bouquet"
@@ -141,7 +141,7 @@
     "salePrice": "410,000₫",
     "originalPrice": "410,000₫",
     "badge": "Mới",
-    "image": "/flower/images/bo_hoa_1788048445.webp",
+    "image": "/api/flower/v1/images/bo_hoa_1788048445.webp",
     "i18n": {
       "en": {
         "name": "Velvet Red Roses Bouquet"
@@ -174,7 +174,7 @@
     "salePrice": "450,000₫",
     "originalPrice": "450,000₫",
     "badge": "Mới",
-    "image": "/flower/images/bo_hoa_1788048626.webp",
+    "image": "/api/flower/v1/images/bo_hoa_1788048626.webp",
     "i18n": {
       "en": {
         "name": "Golden Sunlight Rose Bouquet"
@@ -207,7 +207,7 @@
     "salePrice": "400,000₫",
     "originalPrice": "400,000₫",
     "badge": "Mới",
-    "image": "/flower/images/bo_hoa_1788048671.webp",
+    "image": "/api/flower/v1/images/bo_hoa_1788048671.webp",
     "i18n": {
       "en": {
         "name": "Dual Tone Red & Gold Rose Bouquet"
@@ -240,7 +240,7 @@
     "salePrice": "500,000₫",
     "originalPrice": "500,000₫",
     "badge": "Mới",
-    "image": "/flower/images/bo_hoa_1788048730.webp",
+    "image": "/api/flower/v1/images/bo_hoa_1788048730.webp",
     "i18n": {
       "en": {
         "name": "Sweet Pastel Roses & Tana Daisies"
@@ -273,7 +273,7 @@
     "salePrice": "500,000₫",
     "originalPrice": "500,000₫",
     "badge": "Mới",
-    "image": "/flower/images/bo_hoa_1788048775.webp",
+    "image": "/api/flower/v1/images/bo_hoa_1788048775.webp",
     "i18n": {
       "en": {
         "name": "Graceful Roses & White Oriental Lilies"
@@ -306,7 +306,7 @@
     "salePrice": "880,000₫",
     "originalPrice": "880,000₫",
     "badge": "-4%",
-    "image": "/flower/images/gio_hoa_01.webp",
+    "image": "/api/flower/v1/images/gio_hoa_01.webp",
     "i18n": {
       "en": {
         "name": "Morning Sunshine Flower Basket"
@@ -339,7 +339,7 @@
     "salePrice": "450,000₫",
     "originalPrice": "450,000₫",
     "badge": "Mới",
-    "image": "/flower/images/hoa_cuoi_1787840801.webp",
+    "image": "/api/flower/v1/images/hoa_cuoi_1787840801.webp",
     "i18n": {
       "en": {
         "name": "Pure Innocence Bridal Bouquet"
@@ -372,7 +372,7 @@
     "salePrice": "1,800,000₫",
     "originalPrice": "1,800,000₫",
     "badge": "Hot",
-    "image": "/flower/images/ke_hoa_02.webp",
+    "image": "/api/flower/v1/images/ke_hoa_02.webp",
     "i18n": {
       "en": {
         "name": "Ember Modern Congratulatory Flower Stand"
@@ -405,7 +405,7 @@
     "salePrice": "1,500,000₫",
     "originalPrice": "1,500,000₫",
     "badge": "",
-    "image": "/flower/images/ke_hoa_04.webp",
+    "image": "/api/flower/v1/images/ke_hoa_04.webp",
     "i18n": {
       "en": {
         "name": "Fortune & Flourishing Red Grand Stand"
@@ -438,7 +438,7 @@
     "salePrice": "3,500,000₫",
     "originalPrice": "3,500,000₫",
     "badge": "Độc Bản VIP",
-    "image": "/flower/images/lan_01.webp",
+    "image": "/api/flower/v1/images/lan_01.webp",
     "i18n": {
       "en": {
         "name": "Prosperity Phalaenopsis Orchid Pot (5 Stems)"
