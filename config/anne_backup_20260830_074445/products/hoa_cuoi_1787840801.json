@@ -20,31 +20,5 @@
   },
   "dailyQuota": 15,
   "isActive": true,
-  "updatedAt": "2026-08-28T15:18:51Z",
-  "i18n": {
-    "en": {
-      "name": "xxxxxxxxxxxxxx x",
-      "flowerComposition": "",
-      "description": "",
-      "careTips": "Để nơi thoáng mát, phun sương mỗi ngày"
-    },
-    "ja": {
-      "name": "xxxxxxxxxxxxxx x",
-      "flowerComposition": "",
-      "description": "",
-      "careTips": "Để nơi thoáng mát, phun sương mỗi ngày"
-    },
-    "ko": {
-      "name": "xxxxxxxxxxxxxx x",
-      "flowerComposition": "",
-      "description": "",
-      "careTips": "Để nơi thoáng mát, phun sương mỗi ngày"
-    },
-    "zh": {
-      "name": "xxxxxxxxxxxxxx x",
-      "flowerComposition": "",
-      "description": "",
-      "careTips": "Để nơi thoáng mát, phun sương mỗi ngày"
-    }
-  }
+  "updatedAt": "2026-08-28T15:18:51Z"
 }

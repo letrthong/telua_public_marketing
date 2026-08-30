@@ -23,31 +23,5 @@
   },
   "dailyQuota": 10,
   "isActive": true,
-  "updatedAt": "2026-08-27T22:07:13Z",
-  "i18n": {
-    "en": {
-      "name": "Morning Sunshine Flower Basket",
-      "flowerComposition": "Juliet David Austin Roses, Eustoma, White Baby's Breath, Handwoven Rattan Basket",
-      "description": "A sweet pastel vintage basket arrangement, perfect for birthdays and corporate appreciation.",
-      "careTips": "Keep in a cool place, thoroughly mist floral foam each morning."
-    },
-    "ja": {
-      "name": "朝の陽ざし フラワーバスケット",
-      "flowerComposition": "ジュリエットローズ、トルコキキョウ、かすみ草、手編みラタンバスケット",
-      "description": "パステルトーンの優しい色合いが魅力的なヴィンテージ風バスケットフラワーギフト。",
-      "careTips": "涼しい場所に置き、毎朝吸水スポンジにたっぷりと水を与えてください。"
-    },
-    "ko": {
-      "name": "아침 햇살 꽃바구니",
-      "flowerComposition": "줄리엣 로즈, 리시안셔스, 안개꽃, 핸드메이드 라탄 바구니",
-      "description": "달콤한 파스텔 톤의 빈티지 꽃바구니로 생일 축하 및 감사 선물로 제격입니다.",
-      "careTips": "서늘한 곳에 보관하고 매일 아침 오아시스에 물을 충분히 주세요."
-    },
-    "zh": {
-      "name": "晨光暖阳手提花篮",
-      "flowerComposition": "朱丽叶玫瑰、洋桔梗、满天星、手工藤编花篮",
-      "description": "柔美粉嫩的复古藤编花篮，适合生日庆典与商务感恩赠礼。",
-      "careTips": "放置于阴凉通风处，每天早晨向花泥充分喷水保湿。"
-    }
-  }
+  "updatedAt": "2026-08-27T22:07:13Z"
 }

@@ -1,0 +1,79 @@
+[
+  {
+    "id": "staff_admin",
+    "phone": "0900000000",
+    "email": "admin@nohoathabinh.vn",
+    "fullName": "Tổng Quản Trị Hệ Thống",
+    "passwordHash": "pbkdf2:sha256:260000$u86I0vfgyQoDoXdM$2e114fe7c26b13344898dbe7c586abea0763e7b9c3d88f1ce50f0b629b1a6630",
+    "role": "super_admin",
+    "branchId": null,
+    "isActive": true,
+    "createdAt": "2026-08-21T00:00:00Z"
+  },
+  {
+    "id": "staff_001",
+    "phone": "0909123456",
+    "email": "mai.tran@nohoathabinh.vn",
+    "fullName": "Trần Thị Mai",
+    "passwordHash": "pbkdf2:sha256:260000$u86I0vfgyQoDoXdM$2e114fe7c26b13344898dbe7c586abea0763e7b9c3d88f1ce50f0b629b1a6630",
+    "role": "branch_manager",
+    "branchId": "branch_q10",
+    "isActive": true,
+    "createdAt": "2026-08-21T00:00:00Z"
+  },
+  {
+    "id": "staff_002",
+    "phone": "0909654321",
+    "email": "lan.le@nohoathabinh.vn",
+    "fullName": "Lê Ngọc Lan",
+    "passwordHash": "pbkdf2:sha256:260000$u86I0vfgyQoDoXdM$2e114fe7c26b13344898dbe7c586abea0763e7b9c3d88f1ce50f0b629b1a6630",
+    "role": "florist",
+    "branchId": "branch_q10",
+    "isActive": true,
+    "createdAt": "2026-08-21T00:00:00Z"
+  },
+  {
+    "id": "staff_003",
+    "phone": "0909777888",
+    "email": "hoa.nguyen@nohoathabinh.vn",
+    "fullName": "Nguyễn Thanh Hòa",
+    "passwordHash": "pbkdf2:sha256:260000$u86I0vfgyQoDoXdM$2e114fe7c26b13344898dbe7c586abea0763e7b9c3d88f1ce50f0b629b1a6630",
+    "role": "sales_consultant",
+    "branchId": "branch_q10",
+    "isActive": true,
+    "createdAt": "2026-08-21T00:00:00Z"
+  },
+  {
+    "id": "staff_004",
+    "phone": "0909111222",
+    "email": "manager.q1@nohoathabinh.vn",
+    "fullName": "Nguyễn Văn Q1",
+    "passwordHash": "pbkdf2:sha256:260000$u86I0vfgyQoDoXdM$2e114fe7c26b13344898dbe7c586abea0763e7b9c3d88f1ce50f0b629b1a6630",
+    "role": "branch_manager",
+    "branchId": "branch_q1",
+    "isActive": true,
+    "createdAt": "2026-08-21T00:00:00Z"
+  },
+  {
+    "id": "staff_005",
+    "phone": "0909333444",
+    "email": "florist.q1@nohoathabinh.vn",
+    "fullName": "Trần Hoa Q1",
+    "passwordHash": "pbkdf2:sha256:260000$u86I0vfgyQoDoXdM$2e114fe7c26b13344898dbe7c586abea0763e7b9c3d88f1ce50f0b629b1a6630",
+    "role": "florist",
+    "branchId": "branch_q1",
+    "isActive": true,
+    "createdAt": "2026-08-21T00:00:00Z"
+  },
+  {
+    "id": "staff_006",
+    "phone": "0909555666",
+    "email": "manager.td@nohoathabinh.vn",
+    "fullName": "Lê Thảo Điền",
+    "passwordHash": "pbkdf2:sha256:260000$u86I0vfgyQoDoXdM$2e114fe7c26b13344898dbe7c586abea0763e7b9c3d88f1ce50f0b629b1a6630",
+    "role": "branch_manager",
+    "branchId": "branch_thao_dien",
+    "isActive": true,
+    "createdAt": "2026-08-21T00:00:00Z"
+  }
+]

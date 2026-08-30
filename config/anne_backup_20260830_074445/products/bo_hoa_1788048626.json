@@ -21,31 +21,5 @@
   "dailyQuota": 15,
   "isActive": true,
   "createdAt": "2026-08-30T00:10:26Z",
-  "updatedAt": "2026-08-30T00:10:26Z",
-  "i18n": {
-    "en": {
-      "name": "Hoa hồng vàng",
-      "flowerComposition": "Xyz",
-      "description": "",
-      "careTips": "Để nơi thoáng mát, phun sương mỗi ngày"
-    },
-    "ja": {
-      "name": "Hoa hồng vàng",
-      "flowerComposition": "Xyz",
-      "description": "",
-      "careTips": "Để nơi thoáng mát, phun sương mỗi ngày"
-    },
-    "ko": {
-      "name": "Hoa hồng vàng",
-      "flowerComposition": "Xyz",
-      "description": "",
-      "careTips": "Để nơi thoáng mát, phun sương mỗi ngày"
-    },
-    "zh": {
-      "name": "Hoa hồng vàng",
-      "flowerComposition": "Xyz",
-      "description": "",
-      "careTips": "Để nơi thoáng mát, phun sương mỗi ngày"
-    }
-  }
+  "updatedAt": "2026-08-30T00:10:26Z"
 }

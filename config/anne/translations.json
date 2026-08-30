@@ -9,6 +9,7 @@
   ],
   "translations": {
     "site_title": {
+      "type": "system",
       "vi": "Nở Hoa Thả Bình - Đặt Hoa Online Giao Tận Nơi",
       "en": "Nở Hoa Thả Bình - Online Fresh Flower Delivery",
       "ja": "Nở Hoa Thả Bình - オンラインフラワーデリバリー",
@@ -16,13 +17,15 @@
       "zh": "Nở Hoa Thả Bình - 鲜花在线订购与配送"
     },
     "hotline": {
-      "vi": "Hotline: +84 035.6315.873",
-      "en": "Hotline: +84 035.6315.873",
-      "ja": "ホットライン: +84 035.6315.873",
-      "ko": "고객센터: +84 035.6315.873",
-      "zh": "服务热线: +84 035.6315.873"
+      "type": "system",
+      "vi": "Hotline:",
+      "en": "Hotline:",
+      "ja": "ホットライン:",
+      "ko": "고객센터:",
+      "zh": "服务热线:"
     },
     "hero_heading": {
+      "type": "system",
       "vi": "Gửi Trọn Vẹn Cảm Xúc",
       "en": "Deliver Pure Emotions",
       "ja": "想いを届ける華やかな彩り",
@@ -30,20 +33,15 @@
       "zh": "传递真挚浪漫与感动"
     },
     "hero_desc": {
+      "type": "system",
       "vi": "Khám phá bộ sưu tập hoa tươi thiết kế độc bản, giao hoa hỏa tốc 2H tại TP.HCM.",
       "en": "Explore exclusive bespoke flower arrangements with guaranteed 2-hour express delivery in HCMC.",
       "ja": "ホーチミン市内最短2時間でお届けする特別なオリジナルフラワーコレクション。",
       "ko": "호치민시 전역 2시간 당일 특급 배송, 오직 하나뿐인 독창적인 생화 디자인을 만나보세요.",
       "zh": "探索独家原创设计鲜花系列，胡志明市内保证2小时极速准时送达。"
     },
-    "store_address_val": {
-      "vi": "183/37 Đường 3 Tháng 2, Phường 11, Quận 10, TP. Hồ Chí Minh",
-      "en": "183/37 3/2 Street, Ward 11, District 10, Ho Chi Minh City",
-      "ja": "183/37 3/2通り, 11街区, 10区, ホーチミン市",
-      "ko": "183/37 3/2 거리, 11동, 10군, 호치민시",
-      "zh": "胡志明市第10郡第11坊2月3日街183/37号"
-    },
     "feat_delivery_title": {
+      "type": "system",
       "vi": "Giao Hàng Nhanh 2H",
       "en": "2H Fast Delivery",
       "ja": "2時間特急配達",
@@ -51,6 +49,7 @@
       "zh": "2小时极速送达"
     },
     "feat_delivery_desc": {
+      "type": "system",
       "vi": "Giao hoa hỏa tốc nội thành TP.HCM đảm bảo đúng hẹn.",
       "en": "Express flower delivery across HCMC on time, every time.",
       "ja": "ホーチミン市内全域へ時間厳守で確実にお届けします。",
@@ -58,6 +57,7 @@
       "zh": "胡志明市内全天候准时配送，使命必达。"
     },
     "feat_photo_title": {
+      "type": "system",
       "vi": "Chụp Hình Trước Giao",
       "en": "Photo Before Shipping",
       "ja": "発送前写真確認",
@@ -65,6 +65,7 @@
       "zh": "配送前实拍确认"
     },
     "feat_photo_desc": {
+      "type": "system",
       "vi": "Gửi ảnh sản phẩm thực tế cho khách hàng trước khi giao.",
       "en": "Real product photos sent to you before delivery dispatch.",
       "ja": "発送前にお客様へ実際の商品の完成写真をお送りします。",
@@ -72,11 +73,644 @@
       "zh": "鲜花出库配送前向客户发送实物实拍照片。"
     },
     "test_banner_slogan": {
+      "type": "user",
       "vi": "Nở Hoa Thả Bình - Sắc Hoa Yêu Thương",
       "en": "Nở Hoa Thả Bình - Blooms of Pure Love",
       "ja": "Nở Hoa Thả Bình - 愛の花びら",
       "ko": "Nở Hoa Thả Bình - 사랑의 꽃",
       "zh": "Nở Hoa Thả Bình - 爱的绽放"
+    },
+    "banner_promo_title": {
+      "type": "system",
+      "vi": "Kệ Hoa Chúc Mừng & Khai Trương",
+      "en": "Congratulation & Grand Opening Stands",
+      "ja": "お祝い・開店祝いスタンド花",
+      "ko": "축하 & 개업 스탠드 화환",
+      "zh": "开业庆典 & 商务花牌"
+    },
+    "banner_promo_desc": {
+      "type": "system",
+      "vi": "Mang thịnh vượng, tài lộc đến đối tác và bạn bè",
+      "en": "Bring prosperity, good fortune and elegance to partners and friends",
+      "ja": "ビジネスパートナーやご友人に繁栄と幸福をお届けします",
+      "ko": "소중한 파트너와 지인에게 번영과 성공을 기원합니다",
+      "zh": "为合作伙伴与亲友送上繁荣昌盛的美好祝愿"
+    },
+    "banner_promo_btn": {
+      "type": "system",
+      "vi": "Khám Phá Kệ Hoa",
+      "en": "Discover Stands",
+      "ja": "スタンド花を見る",
+      "ko": "화환 둘러보기",
+      "zh": "探索花牌"
+    },
+    "prod_detail_story_title": {
+      "type": "system",
+      "vi": "Ý Nghĩa & Thiết Kế",
+      "en": "Meaning & Design",
+      "ja": "意味・デザインコンセプト",
+      "ko": "의미 & 디자인",
+      "zh": "花语寓意与设计"
+    },
+    "prod_detail_composition_title": {
+      "type": "system",
+      "vi": "Thành Phần Hoa:",
+      "en": "Flower Composition:",
+      "ja": "使用花材:",
+      "ko": "꽃 구성:",
+      "zh": "鲜花花材:"
+    },
+    "prod_detail_dimensions_title": {
+      "type": "system",
+      "vi": "Kích Thước",
+      "en": "Dimensions",
+      "ja": "サイズ",
+      "ko": "크기 / 사이즈",
+      "zh": "规格尺寸"
+    },
+    "prod_detail_care_title": {
+      "type": "system",
+      "vi": "Giữ Hoa Tươi",
+      "en": "Care Tips",
+      "ja": "お手入れ方法",
+      "ko": "꽃 관리법",
+      "zh": "保鲜保养"
+    },
+    "prod_detail_stock_title": {
+      "type": "system",
+      "vi": "Tồn kho tại Showroom:",
+      "en": "Showroom Availability:",
+      "ja": "ショールーム在庫状況:",
+      "ko": "쇼룸 매장 재고:",
+      "zh": "门店展厅库存:"
+    },
+    "modal_btn_close": {
+      "type": "system",
+      "vi": "Đóng",
+      "en": "Close",
+      "ja": "閉じる",
+      "ko": "닫기",
+      "zh": "关闭"
+    },
+    "modal_btn_add_to_cart": {
+      "type": "system",
+      "vi": "Thêm Vào Giỏ Hàng",
+      "en": "Add to Cart",
+      "ja": "カートに追加",
+      "ko": "장바구니 담기",
+      "zh": "加入购物车"
+    },
+    "loading_detail": {
+      "type": "system",
+      "vi": "Đang tải chi tiết & album ảnh...",
+      "en": "Loading details & photo gallery...",
+      "ja": "詳細とギャラリーを読み込み中...",
+      "ko": "상세 정보 및 갤러리를 불러오는 중...",
+      "zh": "正在加载详情与相册..."
+    },
+    "prod_badge_new": {
+      "type": "system",
+      "vi": "Mẫu Mới",
+      "en": "New Arrival",
+      "ja": "新作",
+      "ko": "신상품",
+      "zh": "新品上市"
+    },
+    "prod_dim_standard": {
+      "type": "system",
+      "vi": "Kích thước tiêu chuẩn",
+      "en": "Standard Size",
+      "ja": "標準サイズ",
+      "ko": "표준 사이즈",
+      "zh": "标准规格"
+    },
+    "prod_care_default": {
+      "type": "system",
+      "vi": "Cắt vát gốc 45 độ, phun sương nhẹ cánh hoa và giữ nước sạch mỗi ngày.",
+      "en": "Trim stems at a 45-degree angle, mist petals lightly, and change water daily.",
+      "ja": "茎を斜め45度に切り戻し、花びらに軽く霧吹きをし、毎日清潔な水を取り替えてください。",
+      "ko": "줄기 끝을 45도 사선으로 자르고 꽃잎에 가볍게 분무하며 매일 깨끗한 물로 갈아주세요.",
+      "zh": "斜剪花茎45度，轻微喷雾花瓣，并每日更换新鲜清水。"
+    },
+    "prod_desc_fallback": {
+      "type": "system",
+      "vi": "Mẫu hoa tươi thiết kế độc quyền tại Nở Hoa Thả Bình với sự kết hợp hài hòa giữa màu sắc và hương thơm.",
+      "en": "Exclusive bespoke floral design from Nở Hoa Thả Bình, creating perfect harmony of colors and scent.",
+      "ja": "Nở Hoa Thả Bình限定のオリジナルデザイン。色合いと香りのハーモニーをお届けします。",
+      "ko": "Nở Hoa Thả Bình만의 독점 디자인으로 색감과 향기가 조화로운 생화 상품입니다.",
+      "zh": "Nở Hoa Thả Bình独家原创设计鲜花，色彩与芬芳完美交融。"
+    },
+    "prod_comp_fallback": {
+      "type": "system",
+      "vi": "Hoa tươi tự nhiên chọn lọc loại 1, giấy gói cao cấp chuẩn showroom.",
+      "en": "100% select grade-A fresh natural flowers, luxury showroom gift wrapping.",
+      "ja": "厳選された特級生花100%、ショールーム仕様の高級ラッピング。",
+      "ko": "엄선된 프리미엄 1등급 생화, 쇼룸 전용 고급 포장재 사용.",
+      "zh": "甄选特级新鲜花材，展厅级精美高端包装。"
+    },
+    "cart_drawer_title": {
+      "type": "system",
+      "vi": "Giỏ Hàng Của Bạn",
+      "en": "Your Shopping Cart",
+      "ja": "ショッピングカート",
+      "ko": "내 장바구니",
+      "zh": "我的购物车"
+    },
+    "cart_empty_title": {
+      "type": "system",
+      "vi": "Giỏ hàng của bạn đang trống",
+      "en": "Your cart is currently empty",
+      "ja": "カートは空です",
+      "ko": "장바구니가 비어 있습니다",
+      "zh": "您的购物车是空的"
+    },
+    "cart_empty_desc": {
+      "type": "system",
+      "vi": "Hãy chọn những đóa hoa tươi đẹp nhất nhé!",
+      "en": "Explore and pick your favorite fresh blooms!",
+      "ja": "素敵なお花をお選びください！",
+      "ko": "아름다운 생화를 장바구니에 담아보세요!",
+      "zh": "挑选您心仪的美丽鲜花吧！"
+    },
+    "cart_subtotal_lbl": {
+      "type": "system",
+      "vi": "Tạm tính:",
+      "en": "Subtotal:",
+      "ja": "小計:",
+      "ko": "소계:",
+      "zh": "小计:"
+    },
+    "cart_free_ship_hint": {
+      "type": "system",
+      "vi": "💡 Miễn phí vận chuyển cho đơn hàng hoa tươi từ 500.000₫",
+      "en": "💡 Free shipping on flower orders from 500,000₫",
+      "ja": "💡 500,000₫以上のご注文で送料無料",
+      "ko": "💡 500,000₫ 이상 주문 시 무료 배송",
+      "zh": "💡 鲜花订单满 500,000₫ 享免运费"
+    },
+    "cart_checkout_btn": {
+      "type": "system",
+      "vi": "Tiến Hành Đặt Hoa",
+      "en": "Proceed to Checkout",
+      "ja": "注文手続きへ進む",
+      "ko": "주문 결제 진행하기",
+      "zh": "前往结账下单"
+    },
+    "toast_added_cart_item": {
+      "type": "system",
+      "vi": "Đã thêm \"{name}\" vào giỏ hàng!",
+      "en": "Added \"{name}\" to cart!",
+      "ja": "「{name}」をカートに追加しました！",
+      "ko": "\"{name}\" 상품을 장바구니에 담았습니다!",
+      "zh": "已将“{name}”加入购物车！"
+    },
+    "checkout_modal_title": {
+      "type": "system",
+      "vi": "Đặt Hoa Giao Tận Nơi",
+      "en": "Doorstep Flower Delivery",
+      "ja": "フラワーお届け配達",
+      "ko": "꽃 배달 주문하기",
+      "zh": "鲜花专人配送预订"
+    },
+    "checkout_modal_subtitle": {
+      "type": "system",
+      "vi": "Hẹn giờ 30 ngày • Tặng thiệp & ruy-băng • Giao hỏa tốc 2H",
+      "en": "30-day scheduled delivery • Free card & ribbon • 2H express dispatch",
+      "ja": "30日先まで指定可能 • メッセージカード＆リボン無料 • 2時間特急配達",
+      "ko": "30일 예약 배송 • 무료 카드 & 리본 증정 • 2시간 특급 배송",
+      "zh": "30天预约配送 • 免费赠送精美贺卡及横幅 • 2小时极速送达"
+    },
+    "checkout_sec_delivery_time": {
+      "type": "system",
+      "vi": "1. Thời Gian Giao Hoa",
+      "en": "1. Delivery Time",
+      "ja": "1. お届け日時",
+      "ko": "1. 배송 희망 일시",
+      "zh": "1. 配送时间"
+    },
+    "checkout_express_2h": {
+      "type": "system",
+      "vi": "⚡ Hỏa Tốc 2H",
+      "en": "⚡ 2H Express",
+      "ja": "⚡ 2時間特急",
+      "ko": "⚡ 2시간 특급",
+      "zh": "⚡ 2小时极速"
+    },
+    "checkout_lbl_delivery_date": {
+      "type": "system",
+      "vi": "Ngày giao hoa (Chọn trong 30 ngày) *",
+      "en": "Delivery Date (Choose within 30 days) *",
+      "ja": "お届け日 (30日以内指定) *",
+      "ko": "배송 날짜 (30일 이내 선택) *",
+      "zh": "配送日期 (30天内预约) *"
+    },
+    "checkout_lbl_timeslot": {
+      "type": "system",
+      "vi": "Khung giờ giao hàng *",
+      "en": "Delivery Time Slot *",
+      "ja": "お届け時間帯 *",
+      "ko": "배송 시간대 *",
+      "zh": "配送时间段 *"
+    },
+    "checkout_sec_recipient": {
+      "type": "system",
+      "vi": "2. Thông Tin Người Nhận",
+      "en": "2. Recipient Information",
+      "ja": "2. お届け先情報",
+      "ko": "2. 수령인 정보",
+      "zh": "2. 收件人信息"
+    },
+    "checkout_lbl_recipient_name": {
+      "type": "system",
+      "vi": "Họ tên người nhận *",
+      "en": "Recipient Name *",
+      "ja": "お届け先のお名前 *",
+      "ko": "수령인 이름 *",
+      "zh": "收件人姓名 *"
+    },
+    "checkout_placeholder_recipient_name": {
+      "type": "system",
+      "vi": "Ví dụ: Trần Thị Mai",
+      "en": "e.g. Mary Jane",
+      "ja": "例：山田 花子",
+      "ko": "예: 김영희",
+      "zh": "例如：张小丽"
+    },
+    "checkout_lbl_recipient_phone": {
+      "type": "system",
+      "vi": "Số điện thoại nhận hoa *",
+      "en": "Recipient Phone Number *",
+      "ja": "お届け先電話番号 *",
+      "ko": "수령인 연락처 *",
+      "zh": "收件人电话 *"
+    },
+    "checkout_lbl_recipient_address": {
+      "type": "system",
+      "vi": "Địa chỉ giao hoa chi tiết *",
+      "en": "Detailed Delivery Address *",
+      "ja": "お届け先詳細住所 *",
+      "ko": "상세 배송 주소 *",
+      "zh": "详细配送地址 *"
+    },
+    "checkout_placeholder_recipient_address": {
+      "type": "system",
+      "vi": "Số nhà, tên đường, Phường/Xã, Quận/Huyện, TP.HCM...",
+      "en": "House number, street, ward, district, HCMC...",
+      "ja": "番地、建物名、区、ホーチミン市...",
+      "ko": "상세 주소, 동/호수, 구, 호치민시...",
+      "zh": "门牌号、街道、坊、郡、胡志明市..."
+    },
+    "checkout_lbl_delivery_notes": {
+      "type": "system",
+      "vi": "Chỉ dẫn địa chỉ giao (Ghi chú)",
+      "en": "Delivery Instructions (Notes)",
+      "ja": "配達時のご要望・目印",
+      "ko": "배송 요청사항 / 위치 안내",
+      "zh": "配送指引与备注"
+    },
+    "checkout_placeholder_delivery_notes": {
+      "type": "system",
+      "vi": "Ví dụ: Tòa nhà Bitexco, Tầng 12, gọi trước 15p hoặc gửi Lễ tân...",
+      "en": "e.g. Bitexco Tower, 12th Floor, call 15 mins ahead or leave at reception...",
+      "ja": "例：Bitexcoタワー12階、到着15分前に連絡、または受付預け...",
+      "ko": "예: 비텍스코 타워 12층, 15분 전 연락 또는 안내데스크 보관...",
+      "zh": "例如：Bitexco大厦12层，提前15分钟致电或交前台..."
+    },
+    "checkout_sec_card_ribbon": {
+      "type": "system",
+      "vi": "3. Lời Chúc Viết Thiệp & Banner Ruy-băng (Miễn phí)",
+      "en": "3. Complimentary Card Message & Ribbon Banner",
+      "ja": "3. メッセージカード＆リボン名札（無料）",
+      "ko": "3. 축하 카드 & 리본 문구 (무료)",
+      "zh": "3. 免费贺卡寄语与横幅丝带"
+    },
+    "checkout_lbl_card_message": {
+      "type": "system",
+      "vi": "Lời chúc viết tay trên thiệp",
+      "en": "Handwritten Card Message",
+      "ja": "手書きメッセージカードの内容",
+      "ko": "카드에 적을 축하 메시지",
+      "zh": "手写贺卡寄语"
+    },
+    "checkout_placeholder_card_message": {
+      "type": "system",
+      "vi": "Chúc em sinh nhật vui vẻ, luôn xinh đẹp và hạnh phúc...",
+      "en": "Wishing you a happy birthday, always bright and joyful...",
+      "ja": "お誕生日おめでとうございます。幸せに満ちた素敵な一年になりますように...",
+      "ko": "생일을 진심으로 축하하며 언제나 행복이 가득하길 바랍니다...",
+      "zh": "祝你生日快乐，永远美丽幸福..."
+    },
+    "checkout_lbl_ribbon_banner": {
+      "type": "system",
+      "vi": "Nội dung dải ruy-băng / Banner kệ hoa",
+      "en": "Ribbon Banner / Stand Header Text",
+      "ja": "リボン・立て札のメッセージ",
+      "ko": "리본 / 화환 문구",
+      "zh": "丝带 / 花牌横幅文字"
+    },
+    "checkout_placeholder_ribbon_banner": {
+      "type": "system",
+      "vi": "Ví dụ: Công ty ABC Chúc Mừng Khai Trương Hồng Phát",
+      "en": "e.g. ABC Company Congratulates Grand Opening",
+      "ja": "例：株式会社ABC 祝 開店御祝",
+      "ko": "예: ABC 주식회사 개업을 축하합니다",
+      "zh": "例如：ABC公司 祝 开业大吉"
+    },
+    "checkout_sec_sender": {
+      "type": "system",
+      "vi": "4. Thông Tin Người Gửi",
+      "en": "4. Sender Information",
+      "ja": "4. ご注文者様情報",
+      "ko": "4. 주문자 정보",
+      "zh": "4. 发件人信息"
+    },
+    "checkout_anonymous_option": {
+      "type": "system",
+      "vi": "🎭 Gửi hoa bí mật (Ẩn danh)",
+      "en": "🎭 Send anonymously (Secret Sender)",
+      "ja": "🎭 匿名配送（シークレットギフト）",
+      "ko": "🎭 익명 배송 (보내는 분 숨김)",
+      "zh": "🎭 匿名送花（隐藏发件人）"
+    },
+    "checkout_lbl_sender_name": {
+      "type": "system",
+      "vi": "Họ tên của bạn *",
+      "en": "Your Full Name *",
+      "ja": "ご注文者様のお名前 *",
+      "ko": "주문자 성함 *",
+      "zh": "您的姓名 *"
+    },
+    "checkout_lbl_sender_phone": {
+      "type": "system",
+      "vi": "Số điện thoại *",
+      "en": "Your Phone Number *",
+      "ja": "ご注文者様電話番号 *",
+      "ko": "주문자 연락처 *",
+      "zh": "您的电话 *"
+    },
+    "checkout_lbl_sender_email": {
+      "type": "system",
+      "vi": "Email nhận hóa đơn",
+      "en": "Email for Receipt",
+      "ja": "領収書受け取り用メールアドレス",
+      "ko": "영수증 수신용 이메일",
+      "zh": "接收电子收据邮箱"
+    },
+    "checkout_placeholder_voucher": {
+      "type": "system",
+      "vi": "Nhập mã voucher (PHUNU15, FREESHIP, ANNE10...)",
+      "en": "Enter promo code (PHUNU15, FREESHIP, ANNE10...)",
+      "ja": "クーポンコードを入力 (PHUNU15, FREESHIP, ANNE10...)",
+      "ko": "할인 코드 입력 (PHUNU15, FREESHIP, ANNE10...)",
+      "zh": "输入优惠券代码 (PHUNU15, FREESHIP, ANNE10...)"
+    },
+    "checkout_btn_apply_voucher": {
+      "type": "system",
+      "vi": "Áp Dụng",
+      "en": "Apply",
+      "ja": "適用",
+      "ko": "적용",
+      "zh": "应用"
+    },
+    "checkout_lbl_subtotal": {
+      "type": "system",
+      "vi": "Tiền hàng:",
+      "en": "Subtotal:",
+      "ja": "商品合計:",
+      "ko": "상품 금액:",
+      "zh": "商品小计:"
+    },
+    "checkout_lbl_shipping": {
+      "type": "system",
+      "vi": "Phí vận chuyển:",
+      "en": "Shipping Fee:",
+      "ja": "配送料:",
+      "ko": "배송비:",
+      "zh": "配送费用:"
+    },
+    "checkout_lbl_free_shipping": {
+      "type": "system",
+      "vi": "Miễn phí",
+      "en": "Free",
+      "ja": "無料",
+      "ko": "무료",
+      "zh": "免费"
+    },
+    "checkout_lbl_discount": {
+      "type": "system",
+      "vi": "Giảm giá voucher:",
+      "en": "Voucher Discount:",
+      "ja": "クーポン割引:",
+      "ko": "할인 금액:",
+      "zh": "优惠券抵扣:"
+    },
+    "checkout_lbl_total": {
+      "type": "system",
+      "vi": "Tổng thanh toán:",
+      "en": "Total Payment:",
+      "ja": "お支払い合計:",
+      "ko": "최종 결제 금액:",
+      "zh": "最终总额:"
+    },
+    "checkout_sec_payment": {
+      "type": "system",
+      "vi": "5. Phương Thức Thanh Toán",
+      "en": "5. Payment Method",
+      "ja": "5. お支払い方法",
+      "ko": "5. 결제 수단",
+      "zh": "5. 支付方式"
+    },
+    "checkout_pay_vietqr": {
+      "type": "system",
+      "vi": "⚡ Quét mã VietQR (Tự động)",
+      "en": "⚡ VietQR Scan (Instant)",
+      "ja": "⚡ VietQRコード決済 (自動)",
+      "ko": "⚡ VietQR 간편결제 (자동)",
+      "zh": "⚡ VietQR扫码支付 (即时)"
+    },
+    "checkout_pay_cod": {
+      "type": "system",
+      "vi": "💵 Thanh toán tiền mặt (COD)",
+      "en": "💵 Cash on Delivery (COD)",
+      "ja": "💵 代金引換 (COD)",
+      "ko": "💵 착불 현금 결제 (COD)",
+      "zh": "💵 货到付款 (COD)"
+    },
+    "checkout_btn_submit": {
+      "type": "system",
+      "vi": "Hoàn Tất Đặt Hoa",
+      "en": "Complete Order",
+      "ja": "注文を確定する",
+      "ko": "주문 완료하기",
+      "zh": "完成预订下单"
+    },
+    "checkout_submitting": {
+      "type": "system",
+      "vi": "Đang tạo đơn hàng...",
+      "en": "Creating your order...",
+      "ja": "ご注文を作成中...",
+      "ko": "주문을 접수하는 중...",
+      "zh": "正在生成订单..."
+    },
+    "checkout_date_today": {
+      "type": "system",
+      "vi": "Hôm nay",
+      "en": "Today",
+      "ja": "本日",
+      "ko": "오늘",
+      "zh": "今天"
+    },
+    "checkout_date_tomorrow": {
+      "type": "system",
+      "vi": "Ngày mai",
+      "en": "Tomorrow",
+      "ja": "明日",
+      "ko": "내일",
+      "zh": "明天"
+    },
+    "cat_all": {
+      "type": "system",
+      "vi": "Tất Cả",
+      "en": "All Categories",
+      "ja": "すべてのカテゴリー",
+      "ko": "전체 카테고리",
+      "zh": "全部鲜花分类"
+    },
+    "cat_bouquet": {
+      "type": "system",
+      "vi": "Bó Hoa Tươi",
+      "en": "Fresh Bouquets",
+      "ja": "花束",
+      "ko": "꽃다발",
+      "zh": "精美花束"
+    },
+    "cat_basket": {
+      "type": "system",
+      "vi": "Giỏ & Lẵng Hoa",
+      "en": "Flower Baskets",
+      "ja": "フラワーバスケット",
+      "ko": "꽃바구니",
+      "zh": "精美花篮"
+    },
+    "cat_stand": {
+      "type": "system",
+      "vi": "Kệ Hoa Khai Trương",
+      "en": "Grand Opening Stands",
+      "ja": "スタンド花",
+      "ko": "축하 화환",
+      "zh": "开业花架"
+    },
+    "cat_vase": {
+      "type": "user",
+      "vi": "Bình Cắm Hoa",
+      "en": "Flower Vases",
+      "ja": "花瓶アレンジ",
+      "ko": "화병 꽃꽂이",
+      "zh": "艺术插花瓶"
+    },
+    "cat_orchid": {
+      "type": "user",
+      "vi": "Lan Hồ Điệp",
+      "en": "Phalaenopsis Orchids",
+      "ja": "胡蝶蘭",
+      "ko": "호접란",
+      "zh": "高贵蝴蝶兰"
+    },
+    "cat_wedding": {
+      "type": "user",
+      "vi": "Hoa Cưới Cầm Tay",
+      "en": "Bridal Wedding Flowers",
+      "ja": "ウェディングブーケ",
+      "ko": "웨딩 부케",
+      "zh": "婚礼新娘手捧花"
+    },
+    "cat_event": {
+      "type": "user",
+      "vi": "Hoa Sự Kiện",
+      "en": "Event Flowers",
+      "ja": "イベントフラワー",
+      "ko": "이벤트 플라워",
+      "zh": "活动会议鲜花"
+    },
+    "prod_name_bo_hoa_01": {
+      "type": "user",
+      "vi": "Mây Trắng Bồng Bềnh",
+      "en": "Floating White Clouds Bouquet",
+      "ja": "白い雲のフローティングブーケ",
+      "ko": "몽실몽실 하얀 구름 꽃다발",
+      "zh": "漂浮白云艺术花束"
+    },
+    "prod_comp_bo_hoa_01": {
+      "type": "user",
+      "vi": "Hồng trắng Ohara (10 cành), Hoa Sao Xanh, Cúc Tana, Lá Bạc Dollar",
+      "en": "White Ohara Roses (10 stems), Tweedia, Tana Daisies, Silver Dollar Eucalyptus",
+      "ja": "ホワイトオハラローズ（10本）、ブルースター、タナ菊、ユーカリポポラス",
+      "ko": "화이트 오하라 장미 (10송이), 옥시페탈룸, 타나 데이지, 유칼립투스",
+      "zh": "白色欧哈拉玫瑰（10支）、蓝星花、塔娜小雏菊、尤加利叶"
+    },
+    "prod_desc_bo_hoa_01": {
+      "type": "user",
+      "vi": "Bó hoa tone trắng tinh khôi kết hợp hoa sao xanh mang đến cảm giác dịu êm, thanh lịch.",
+      "en": "A pure white bouquet accented with sky blue tweedia, conveying serene elegance and gentle care.",
+      "ja": "純白の花々とブルースターが織りなす、穏やかで上品な特別なフラワーギフト。",
+      "ko": "순백의 꽃과 은은한 블루 스타가 어우러져 차분하고 우아한 감동을 선사합니다.",
+      "zh": "纯净白白色系搭配淡雅蓝星花，传递宁静优雅与真挚心意。"
+    },
+    "cat_desc_basket": {
+      "type": "system",
+      "vi": "Giỏ hoa và lẵng hoa để bàn sang trọng, tinh tế",
+      "en": "Elegant and sophisticated flower baskets and table arrangements",
+      "ja": "華やかで洗練されたテーブルアレンジメント＆フラワーバスケット",
+      "ko": "고급스럽고 우아한 테이블 센터피스 및 플라워 바구니",
+      "zh": "高雅精致的艺术插花手提花篮与桌面花礼"
+    },
+    "cat_desc_bouquet": {
+      "type": "system",
+      "vi": "Các mẫu bó hoa tươi thiết kế cao cấp cho sinh nhật, tình yêu, tốt nghiệp",
+      "en": "Premium designer fresh bouquets for birthdays, romance, and graduations",
+      "ja": "誕生日、記念日、卒業祝いに最適なプレミアムデザイン生花ブーケ",
+      "ko": "생일, 기념일, 졸업 축하를 위한 프리미엄 맞춤 디자인 꽃다발",
+      "zh": "精美设计高端鲜花花束，适于生日、纪念日与毕业庆典"
+    },
+    "cat_desc_stand": {
+      "type": "system",
+      "vi": "Kệ hoa chúc mừng khai trương, kỷ niệm, sự kiện hồng phát",
+      "en": "Grand opening congratulatory flower stands for milestones and prosperity",
+      "ja": "開店祝い、記念式典、繁栄を祈る豪華な祝賀スタンド花",
+      "ko": "개업 축하, 기념식, 사업 번창을 기원하는 품격 있는 축하 화환",
+      "zh": "开业庆典、周年纪念与高端商务祝贺花架"
+    },
+    "cat_desc_vase": {
+      "type": "system",
+      "vi": "Mẫu bình cắm hoa nghệ thuật phong cách 'Thả Bình' tinh tế cho không gian sống",
+      "en": "Artisan vases enhancing the natural beauty of living spaces",
+      "ja": "住空間に自然な美しさと品格を添えるアート花瓶コレクション",
+      "ko": "생활 공간에 자연스러운 아름다움을 더하는 감각적인 플라워 화병",
+      "zh": "为生活空间增添自然艺术美感的精美插花花瓶"
+    },
+    "cat_desc_orchid": {
+      "type": "system",
+      "vi": "Chậu hoa lan hồ điệp thuần khiết, quà tặng cao cấp",
+      "en": "Pure Phalaenopsis orchid pots, the ultimate luxury gift",
+      "ja": "気品あふれる純白・黄金の胡蝶蘭鉢植え、最高級ギフト",
+      "ko": "순수하고 기품 있는 호접란 화분, 최고급 프리미엄 선물",
+      "zh": "高贵典雅特级蝴蝶兰盆栽，至尊商务与节庆礼品"
+    },
+    "cat_desc_wedding": {
+      "type": "system",
+      "vi": "Bó hoa cưới cô dâu lộng lẫy và hoa cài áo chú rể ngày trọng đại",
+      "en": "Splendid bridal wedding bouquets and groom boutonnieres for your big day",
+      "ja": "特別な日を彩る華やかな花嫁ブーケ＆新郎コサージュセット",
+      "ko": "소중한 날을 위한 눈부신 신부 웨딩 부케 및 신랑 부토니에",
+      "zh": "浪漫唯美新娘手捧花与新郎同款精致胸花"
+    },
+    "cat_desc_event": {
+      "type": "system",
+      "vi": "Hoa sự kiện sang trọng, tinh tế cho hội nghị và dạ tiệc",
+      "en": "Luxurious floral arrangements for corporate events and galas",
+      "ja": "イベントや祝賀会を彩る高級フラワーアレンジメント",
+      "ko": "기업 행사 및 파티를 위한 고급스러운 플라워 연출",
+      "zh": "适于高端商务会议与庆典晚宴的豪华花艺"
     }
   }
 }

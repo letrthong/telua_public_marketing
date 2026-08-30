@@ -23,32 +23,5 @@
   },
   "dailyQuota": 20,
   "isActive": true,
-  "updatedAt": "2026-08-30T00:14:06Z",
-  "i18n": {
-    "en": {
-      "name": "Floating White Clouds Bouquet",
-      "flowerComposition": "White Ohara Roses (10 stems), Tweedia, Tana Daisies, Silver Dollar Eucalyptus",
-      "description": "A pure white bouquet accented with sky blue tweedia, conveying serene elegance and gentle care.",
-      "careTips": "Trim stems at 45 degrees, lightly mist petals every morning."
-    },
-    "ja": {
-      "name": "白い雲のフローティングブーケ",
-      "flowerComposition": "ホワイトオハラローズ（10本）、ブルースター、タナ菊、ユーカリポポラス",
-      "description": "純白の花々とブルースターが織りなす、穏やかで上品な特別なフラワーギフト。",
-      "careTips": "茎を45度にカットし、毎朝花びらに軽く霧吹きをしてください。"
-    },
-    "ko": {
-      "name": "몽실몽실 하얀 구름 꽃다발",
-      "flowerComposition": "화이트 오하라 장미 (10송이), 옥시페탈룸, 타나 데이지, 유칼립투스",
-      "description": "순백의 꽃과 은은한 블루 스타가 어우러져 차분하고 우아한 감동을 선사합니다.",
-      "careTips": "줄기 끝을 45도로 비스듬히 자르고 매일 아침 꽃잎에 가볍게 분무해 주세요."
-    },
-    "zh": {
-      "name": "漂浮白云艺术花束",
-      "flowerComposition": "白色欧哈拉玫瑰（10支）、蓝星花、塔娜小雏菊、尤加利叶",
-      "description": "纯净白白色系搭配淡雅蓝星花，传递宁静优雅与真挚心意。",
-      "careTips": "将花茎以45度角剪切，每天早晨轻轻向花瓣喷雾。"
-    }
-  },
-  "nameTextId": "prod_name_bo_hoa_01"
+  "updatedAt": "2026-08-30T00:14:06Z"
 }

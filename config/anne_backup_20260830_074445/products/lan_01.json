@@ -23,31 +23,5 @@
   },
   "dailyQuota": 5,
   "isActive": true,
-  "updatedAt": "2026-08-24T15:46:52Z",
-  "i18n": {
-    "en": {
-      "name": "Prosperity Phalaenopsis Orchid Pot (5 Stems)",
-      "flowerComposition": "Royal Yellow Phalaenopsis Orchids (5 Premium Stems), Gold-rimmed Luxury Ceramic Pot",
-      "description": "Premium Grade A 5-stem yellow orchid arrangement styled with Feng Shui elegance to bring prosperity and fortune.",
-      "careTips": "Water 100ml at root base once a week, avoid direct water on petals, place in filtered light."
-    },
-    "ja": {
-      "name": "富貴 黄金胡蝶蘭 鉢植え（5本立ち）",
-      "flowerComposition": "ロイヤルイエロー胡蝶蘭（特級5本立ち）、金縁高級陶器鉢",
-      "description": "風水に基づき美しく仕立てられた最高級5本立ち胡蝶蘭。繁栄と幸運をもたらす特別な贈り物。",
-      "careTips": "週に1回、根元に100mlの水を与えてください。花びらに水がかからないようにし、レースカーテン越しの光に当ててください。"
-    },
-    "ko": {
-      "name": "부귀 황금 호접란 화분 (5대)",
-      "flowerComposition": "로열 옐로우 호접란 (최고급 5대), 골드 라인 고급 도자기 화분",
-      "description": "풍수지리적 번영과 행운을 기원하는 프리미엄 5대 황금 호접란으로 개업 및 승진 축하에 최고입니다.",
-      "careTips": "일주일에 한 번 뿌리 쪽에 100ml 정도 물을 주고, 꽃에 직접 닿지 않도록 통풍이 잘되는 반양지에 두세요."
-    },
-    "zh": {
-      "name": "大富大贵 黄金蝴蝶兰盆栽（5株）",
-      "flowerComposition": "皇家黄钻特级蝴蝶兰（5支高品质花梗）、描金高档陶瓷盆",
-      "description": "严选特级5株金黄蝴蝶兰，依照招财风水造型精心栽培，寓意富贵荣华与事业宏图大展。",
-      "careTips": "每周向根部浇水100毫升一次，避免直接喷淋花朵，置于散射光充足处。"
-    }
-  }
+  "updatedAt": "2026-08-24T15:46:52Z"
 }

@@ -10,6 +10,24 @@
     "isActive": true,
     "isDeleted": false,
     "description": "Các mẫu bó hoa tươi thiết kế cao cấp cho sinh nhật, tình yêu, tốt nghiệp",
+    "i18n": {
+      "en": {
+        "name": "Fresh Bouquets",
+        "description": "Premium designer fresh bouquets for birthdays, romance, and graduations"
+      },
+      "ja": {
+        "name": "生花花束",
+        "description": "誕生日、記念日、卒業祝いに最適なプレミアムデザイン生花ブーケ"
+      },
+      "ko": {
+        "name": "생화 꽃다발",
+        "description": "생일, 기념일, 졸업 축하를 위한 프리미엄 맞춤 디자인 꽃다발"
+      },
+      "zh": {
+        "name": "鲜花花束",
+        "description": "精美设计高端鲜花花束，适于生日、纪念日与毕业庆典"
+      }
+    },
     "createdAt": "2026-08-21T00:00:00Z",
     "updatedAt": "2026-08-24T16:07:05Z",
     "deletedAt": null
@@ -25,6 +43,24 @@
     "isActive": true,
     "isDeleted": false,
     "description": "Kệ hoa chúc mừng khai trương, kỷ niệm, sự kiện hồng phát",
+    "i18n": {
+      "en": {
+        "name": "Grand Opening Stands",
+        "description": "Grand opening congratulatory flower stands for milestones and prosperity"
+      },
+      "ja": {
+        "name": "祝賀スタンド花",
+        "description": "開店祝い、記念式典、繁栄を祈る豪華な祝賀スタンド花"
+      },
+      "ko": {
+        "name": "축하 화환",
+        "description": "개업 축하, 기념식, 사업 번창을 기원하는 품격 있는 축하 화환"
+      },
+      "zh": {
+        "name": "开业庆典花架",
+        "description": "开业庆典、周年纪念与高端商务祝贺花架"
+      }
+    },
     "createdAt": "2026-08-21T00:00:00Z",
     "updatedAt": "2026-08-25T01:30:17Z"
   },
@@ -39,6 +75,24 @@
     "isActive": true,
     "isDeleted": false,
     "description": "Mẫu bình cắm hoa nghệ thuật phong cách 'Thả Bình' tinh tế cho không gian sống",
+    "i18n": {
+      "en": {
+        "name": "Artisan Vases",
+        "description": "Artisan vases enhancing the natural beauty of living spaces"
+      },
+      "ja": {
+        "name": "アート花瓶",
+        "description": "住空間に自然な美しさと品格を添えるアート花瓶コレクション"
+      },
+      "ko": {
+        "name": "예술 화병",
+        "description": "생활 공간에 자연스러운 아름다움을 더하는 감각적인 플라워 화병"
+      },
+      "zh": {
+        "name": "艺术花瓶",
+        "description": "为生活空间增添自然艺术美感的精美插花花瓶"
+      }
+    },
     "createdAt": "2026-08-21T00:00:00Z",
     "updatedAt": "2026-08-25T01:30:45Z"
   },
@@ -53,6 +107,24 @@
     "isActive": true,
     "isDeleted": false,
     "description": "Giỏ hoa và lẵng hoa để bàn sang trọng, tinh tế",
+    "i18n": {
+      "en": {
+        "name": "Baskets & Arrangements",
+        "description": "Elegant and sophisticated flower baskets and table arrangements"
+      },
+      "ja": {
+        "name": "バスケット・アレンジメント",
+        "description": "華やかで洗練されたテーブルアレンジメント＆フラワーバスケット"
+      },
+      "ko": {
+        "name": "꽃바구니 & 센터피스",
+        "description": "고급스럽고 우아한 테이블 센터피스 및 플라워 바구니"
+      },
+      "zh": {
+        "name": "精美花篮与桌花",
+        "description": "高雅精致的艺术插花手提花篮与桌面花礼"
+      }
+    },
     "createdAt": "2026-08-21T00:00:00Z",
     "updatedAt": "2026-08-25T01:30:45Z"
   },
@@ -67,6 +139,24 @@
     "isActive": true,
     "isDeleted": false,
     "description": "Chậu hoa lan hồ điệp thuần khiết, quà tặng cao cấp",
+    "i18n": {
+      "en": {
+        "name": "Phalaenopsis Orchids",
+        "description": "Pure Phalaenopsis orchid pots, the ultimate luxury gift"
+      },
+      "ja": {
+        "name": "胡蝶蘭",
+        "description": "気品あふれる純白・黄金の胡蝶蘭鉢植え、最高級ギフト"
+      },
+      "ko": {
+        "name": "호접란",
+        "description": "순수하고 기품 있는 호접란 화분, 최고급 프리미엄 선물"
+      },
+      "zh": {
+        "name": "特级蝴蝶兰",
+        "description": "高贵典雅特级蝴蝶兰盆栽，至尊商务与节庆礼品"
+      }
+    },
     "createdAt": "2026-08-21T00:00:00Z",
     "updatedAt": "2026-08-25T15:09:02Z"
   },
@@ -81,6 +171,24 @@
     "isActive": true,
     "isDeleted": false,
     "description": "Hoa cưới cầm tay cô dâu, hoa cài áo và trang trí lễ cưới",
+    "i18n": {
+      "en": {
+        "name": "Bridal Wedding",
+        "description": "Splendid bridal wedding bouquets and groom boutonnieres for your big day"
+      },
+      "ja": {
+        "name": "ウェディングブーケ",
+        "description": "特別な日を彩る華やかな花嫁ブーケ＆新郎コサージュセット"
+      },
+      "ko": {
+        "name": "웨딩 부케",
+        "description": "소중한 날을 위한 눈부신 신부 웨딩 부케 및 신랑 부토니에"
+      },
+      "zh": {
+        "name": "新娘手捧花",
+        "description": "浪漫唯美新娘手捧花与新郎同款精致胸花"
+      }
+    },
     "createdAt": "2026-08-21T00:00:00Z",
     "updatedAt": "2026-08-25T15:09:23Z"
   }
