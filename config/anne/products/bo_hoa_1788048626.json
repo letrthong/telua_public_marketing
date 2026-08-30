@@ -1,6 +1,6 @@
 {
   "id": "bo_hoa_1788048626",
-  "name": "Hoa hồng vàng",
+  "name": "Bó Hoa Hồng Vàng Ánh Dương",
   "category": "bo_hoa",
   "priceLevelId": "price_lvl_01",
   "priceNumber": 450000,
@@ -24,28 +24,28 @@
   "updatedAt": "2026-08-30T00:10:26Z",
   "i18n": {
     "en": {
-      "name": "Hoa hồng vàng",
-      "flowerComposition": "Xyz",
-      "description": "",
-      "careTips": "Để nơi thoáng mát, phun sương mỗi ngày"
+      "name": "Golden Sunlight Rose Bouquet",
+      "flowerComposition": "Yellow Roses (10 stems), White Daisy, Silver Leaf",
+      "description": "Vibrant yellow roses radiant like morning sunshine, symbolizing friendship, success and positivity.",
+      "careTips": "Keep in a cool ventilated spot away from direct sunlight."
     },
     "ja": {
-      "name": "Hoa hồng vàng",
-      "flowerComposition": "Xyz",
-      "description": "",
-      "careTips": "Để nơi thoáng mát, phun sương mỗi ngày"
+      "name": "陽光の輝き イエローローズ花束",
+      "flowerComposition": "イエローローズ（10本）、ホワイトデージー、シルバーリーフ",
+      "description": "朝の陽光のように眩しい黄バラが、友情と輝かしい成功を祝福するブーケ。",
+      "careTips": "直射日光を避け、風通しの良い涼しい場所に置いてください。"
     },
     "ko": {
-      "name": "Hoa hồng vàng",
-      "flowerComposition": "Xyz",
-      "description": "",
-      "careTips": "Để nơi thoáng mát, phun sương mỗi ngày"
+      "name": "햇살 가득 옐로우 장미 꽃다발",
+      "flowerComposition": "노란 장미 (10송이), 화이트 데이지, 실버 리프",
+      "description": "화사한 아침 햇살을 닮은 노란 장미로 따뜻한 우정과 찬란한 성공을 축하합니다.",
+      "careTips": "직사광선을 피하고 통풍이 잘되는 시원한 곳에 보관하세요."
     },
     "zh": {
-      "name": "Hoa hồng vàng",
-      "flowerComposition": "Xyz",
-      "description": "",
-      "careTips": "Để nơi thoáng mát, phun sương mỗi ngày"
+      "name": "晨曦暖阳 黄玫瑰艺术花束",
+      "flowerComposition": "精选金黄玫瑰（10支）、白色小雏菊、银叶菊",
+      "description": "明亮如晨光的金黄玫瑰，寓意真挚友谊、事业蒸蒸日上与美好祝福。",
+      "careTips": "避免强光直射，置于阴凉通风处养护。"
     }
   }
 }

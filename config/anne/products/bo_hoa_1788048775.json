@@ -1,6 +1,6 @@
 {
   "id": "bo_hoa_1788048775",
-  "name": "Hoa hồng và hoa ly",
+  "name": "Bó Hoa Hồng & Hoa Ly Trắng Thanh Lịch",
   "category": "bo_hoa",
   "priceLevelId": "price_lvl_01",
   "priceNumber": 500000,
@@ -24,28 +24,28 @@
   "updatedAt": "2026-08-30T00:12:55Z",
   "i18n": {
     "en": {
-      "name": "Hoa hồng và hoa ly",
-      "flowerComposition": "Xyz",
-      "description": "",
-      "careTips": "Để nơi thoáng mát, phun sương mỗi ngày"
+      "name": "Graceful Roses & White Oriental Lilies",
+      "flowerComposition": "White Oriental Lilies (3 blooms), Pastel Roses (8 stems), Eucalyptus",
+      "description": "Fragrant grand white lilies harmoniously styled with gentle pastel roses, exuding noble refinement.",
+      "careTips": "Remove pollen anthers from open lilies to prevent staining and extend bloom life."
     },
     "ja": {
-      "name": "Hoa hồng và hoa ly",
-      "flowerComposition": "Xyz",
-      "description": "",
-      "careTips": "Để nơi thoáng mát, phun sương mỗi ngày"
+      "name": "優雅な百合とパステルローズの花束",
+      "flowerComposition": "白ユリ（大輪3輪）、パステルローズ（8本）、ユーカリ",
+      "description": "気品あふれる香りの白百合と優美なバラが格調高い美しさを放つ特別な花束。",
+      "careTips": "花粉がつかないよう百合の葯（やく）を取り除くと長持ちします。"
     },
     "ko": {
-      "name": "Hoa hồng và hoa ly",
-      "flowerComposition": "Xyz",
-      "description": "",
-      "careTips": "Để nơi thoáng mát, phun sương mỗi ngày"
+      "name": "우아한 백합과 파스텔 장미 꽃다발",
+      "flowerComposition": "화이트 오리엔탈 백합 (3송이), 파스텔 장미 (8송이), 유칼립투스",
+      "description": "은은하고 그윽한 향의 순백 백합과 부드러운 장미가 품격 있는 아름다움을 선사합니다.",
+      "careTips": "백합의 꽃밥(수술)을 제거해 주시면 꽃이 더 오래갑니다."
     },
     "zh": {
-      "name": "Hoa hồng và hoa ly",
-      "flowerComposition": "Xyz",
-      "description": "",
-      "careTips": "Để nơi thoáng mát, phun sương mỗi ngày"
+      "name": "芬芳雅韵 香水百合与玫瑰花束",
+      "flowerComposition": "纯白多头香水百合（3大朵）、柔粉玫瑰（8支）、尤加利叶",
+      "description": "清香四溢的纯白百合与温婉玫瑰相得益彰，尽显高雅庄重与尊贵品位。",
+      "careTips": "百合开花后及时摘除花蕊花药，可避免花瓣染色并延长花期。"
     }
   }
 }

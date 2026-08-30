@@ -1,6 +1,6 @@
 {
   "id": "bo_hoa_1788048445",
-  "name": "Hoa hồng",
+  "name": "Bó Hoa Hồng Đỏ Kiêu Kỳ",
   "category": "bo_hoa",
   "priceLevelId": "price_lvl_01",
   "priceNumber": 410000,
@@ -24,28 +24,28 @@
   "updatedAt": "2026-08-30T00:07:25Z",
   "i18n": {
     "en": {
-      "name": "Hoa hồng",
-      "flowerComposition": "Xyz",
-      "description": "",
-      "careTips": "Để nơi thoáng mát, phun sương mỗi ngày"
+      "name": "Velvet Red Roses Bouquet",
+      "flowerComposition": "Ecuador Red Roses (12 stems), Baby's Breath, Italian Ruscus",
+      "description": "A classic romantic bouquet featuring deep red velvet roses paired with delicate baby's breath.",
+      "careTips": "Trim stems at a 45-degree angle daily and change with clean cool water."
     },
     "ja": {
-      "name": "Hoa hồng",
-      "flowerComposition": "Xyz",
-      "description": "",
-      "careTips": "Để nơi thoáng mát, phun sương mỗi ngày"
+      "name": "ベルベットレッドローズ 花束",
+      "flowerComposition": "エクアドル産赤バラ（12本）、カスミソウ、イタリアンルスカス",
+      "description": "深紅のバラと純白のカスミソウが織りなす、洗練されたクラシックなロマンスブーケ。",
+      "careTips": "毎日水を取り替え、茎の先端を斜めにカットしてください。"
     },
     "ko": {
-      "name": "Hoa hồng",
-      "flowerComposition": "Xyz",
-      "description": "",
-      "careTips": "Để nơi thoáng mát, phun sương mỗi ngày"
+      "name": "벨벳 레드 로즈 꽃다발",
+      "flowerComposition": "에콰도르 레드 장미 (12송이), 안개꽃, 루스커스",
+      "description": "매혹적인 딥 레드 장미와 순백의 안개꽃이 어우러진 클래식 로맨틱 꽃다발입니다.",
+      "careTips": "매일 줄기 끝을 사선으로 자르고 깨끗한 물로 교체해 주세요."
     },
     "zh": {
-      "name": "Hoa hồng",
-      "flowerComposition": "Xyz",
-      "description": "",
-      "careTips": "Để nơi thoáng mát, phun sương mỗi ngày"
+      "name": "丝绒红玫瑰 浪漫花束",
+      "flowerComposition": "厄瓜多尔顶级红玫瑰（12支）、满天星、意大利鲁斯卡斯叶",
+      "description": "经典浓郁的丝绒红玫瑰搭配洁白轻柔的满天星，传递至死不渝的真挚爱意。",
+      "careTips": "每日以45度角剪根并换上清洁凉水。"
     }
   }
 }

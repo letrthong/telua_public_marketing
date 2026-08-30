@@ -1,6 +1,6 @@
 {
   "id": "bo_hoa_1788048730",
-  "name": "Hoa hồng và hoa cúc",
+  "name": "Bó Hoa Hồng Phấn & Cúc Tana",
   "category": "bo_hoa",
   "priceLevelId": "price_lvl_01",
   "priceNumber": 500000,
@@ -24,28 +24,28 @@
   "updatedAt": "2026-08-30T00:12:10Z",
   "i18n": {
     "en": {
-      "name": "Hoa hồng và hoa cúc",
-      "flowerComposition": "Xyz",
-      "description": "",
-      "careTips": "Để nơi thoáng mát, phun sương mỗi ngày"
+      "name": "Sweet Pastel Roses & Tana Daisies",
+      "flowerComposition": "Pink Juliet Roses (10 stems), Tana Daisies, Blue Star, Baby Grass",
+      "description": "Gentle pastel pink roses surrounded by dainty Tana daisies, evoking fresh youthful sweetness.",
+      "careTips": "Keep water level at 1/3 of the vase and trim 1cm off stems daily."
     },
     "ja": {
-      "name": "Hoa hồng và hoa cúc",
-      "flowerComposition": "Xyz",
-      "description": "",
-      "careTips": "Để nơi thoáng mát, phun sương mỗi ngày"
+      "name": "スウィートピンク＆タナ菊のブーケ",
+      "flowerComposition": "ピンクローズ（10本）、タナ菊、ブルースター、グリーン",
+      "description": "優しいピンクのバラと可憐なタナ菊が織りなす、透明感あふれる可憐な花束。",
+      "careTips": "花瓶の水を3分の1程度に保ち、毎日茎を1cm切り戻してください。"
     },
     "ko": {
-      "name": "Hoa hồng và hoa cúc",
-      "flowerComposition": "Xyz",
-      "description": "",
-      "careTips": "Để nơi thoáng mát, phun sương mỗi ngày"
+      "name": "달콤한 파스텔 핑크 & 타나 데이지 꽃다발",
+      "flowerComposition": "핑크 장미 (10송이), 타나 데이지, 블루스타, 그린 소재",
+      "description": "은은한 파스텔 핑크 장미와 청초한 타나 데이지가 조화로운 사랑스러운 꽃다발.",
+      "careTips": "화병의 물을 1/3 정도 채우고 매일 줄기 끝을 1cm 잘라주세요."
     },
     "zh": {
-      "name": "Hoa hồng và hoa cúc",
-      "flowerComposition": "Xyz",
-      "description": "",
-      "careTips": "Để nơi thoáng mát, phun sương mỗi ngày"
+      "name": "粉黛甜心 玫瑰与塔娜小菊",
+      "flowerComposition": "粉色茱丽叶玫瑰（10支）、塔娜小雏菊、蓝星花、配叶",
+      "description": "柔美治愈的粉色玫瑰伴着清新灵动的塔娜小菊，洋溢着少女般的甜美与纯真。",
+      "careTips": "花瓶水位保持在1/3处，每天斜切剪根1厘米。"
     }
   }
 }
