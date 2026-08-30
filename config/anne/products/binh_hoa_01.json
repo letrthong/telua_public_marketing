@@ -7,10 +7,9 @@
   "salePrice": "1,800,000₫",
   "priceNumber": 1800000,
   "badge": "Nghệ Thuật",
-  "image": "https://images.unsplash.com/photo-1582794543139-8ac9cb0f7b11?w=500",
+  "image": "/flower/images/binh_hoa_01.webp",
   "gallery": [
-    "https://images.unsplash.com/photo-1582794543139-8ac9cb0f7b11?w=800",
-    "https://images.unsplash.com/photo-1563241527-3004b7be0ffd?w=800"
+    "/flower/images/binh_hoa_01.webp"
   ],
   "description": "Bình hoa gốm thủ công kết hợp hoa cẩm tú cầu và tulip nhập khẩu tạo điểm nhấn không gian phòng khách.",
   "flowerComposition": "Tulip Hà Lan (8 cành), Cẩm Tú Cầu Nhật (2 bông lớn), Lan Mokara, Bình gốm Bát Tràng tráng men mờ",

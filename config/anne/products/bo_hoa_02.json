@@ -7,10 +7,9 @@
   "salePrice": "850,000₫",
   "priceNumber": 850000,
   "badge": "Bán Chạy",
-  "image": "https://images.unsplash.com/photo-1526047932273-341f2a7631f9?w=500",
+  "image": "/flower/images/bo_hoa_02.webp",
   "gallery": [
-    "https://images.unsplash.com/photo-1526047932273-341f2a7631f9?w=800",
-    "https://images.unsplash.com/photo-1562690868-60bbe7293e94?w=800"
+    "/flower/images/bo_hoa_02.webp"
   ],
   "description": "Tone cam cháy rực rỡ mang đến nguồn năng lượng tích cực và sự ấm áp.",
   "flowerComposition": "Hồng cam Spirit (12 cành), Hoa Đồng Tiền Mini, Cúc Mẫu Đơn Cam, Lá Khuynh Diệp",
