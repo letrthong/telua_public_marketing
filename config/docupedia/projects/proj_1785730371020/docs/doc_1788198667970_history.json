@@ -1,0 +1,65 @@
+{
+  "doc_id": "doc_1788198667970",
+  "history": [
+    {
+      "id": "hist_1788198667995",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "create",
+      "timestamp": "2026-08-31T17:51:07.995906Z",
+      "details": {
+        "title": "02 Vật liệu"
+      }
+    },
+    {
+      "id": "hist_1788198681065",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-08-31T17:51:21.065893Z",
+      "details": {
+        "changes": {
+          "title": {
+            "old": "02 Vật liệu",
+            "new": "20 Vật liệu"
+          }
+        }
+      }
+    },
+    {
+      "id": "hist_1788198728079",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-08-31T17:52:08.079174Z",
+      "details": {
+        "changes": {
+          "title": {
+            "old": "20 Vật liệu",
+            "new": "02 Vật liệu"
+          },
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1788198772072",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-08-31T17:52:52.072888Z",
+      "details": {
+        "changes": {
+          "title": {
+            "old": "02 Vật liệu",
+            "new": "30 Vật liệu"
+          }
+        }
+      }
+    }
+  ]
+}

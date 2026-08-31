@@ -6,12 +6,317 @@
   "content": {
     "ops": [
       {
-        "insert": "1 kiếm mặt bằng cửa hàng xong 25/08/2026 \n\n2 Thiết kế của hàng\n     2.1 hệ thống điện \n     2.2 hệ thống nước\n     2.3  Bố trí bàn và kệ\n \n\n"
+        "attributes": {
+          "color": "#008a00",
+          "bold": true
+        },
+        "insert": "Các công việc cần làm"
+      },
+      {
+        "insert": "\n\n"
+      },
+      {
+        "attributes": {
+          "col": {
+            "tableId": "ebgka97aqde",
+            "colId": "wjeut4mo0xo",
+            "width": "33.33333333333333%",
+            "full": true
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "col": {
+            "tableId": "ebgka97aqde",
+            "colId": "7bj5p440oc4",
+            "width": "33.33333333333333%",
+            "full": true
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "col": {
+            "tableId": "ebgka97aqde",
+            "colId": "wnx3oxt3hdl",
+            "width": "33.33333333333333%",
+            "full": true
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Số TT"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "ebgka97aqde",
+            "rowId": "34mvc23xtub",
+            "colId": "wjeut4mo0xo",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Công việc"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "ebgka97aqde",
+            "rowId": "34mvc23xtub",
+            "colId": "7bj5p440oc4",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Tình Trạng"
+      },
+      {
+        "insert": " ( Xong, Đang làm, treo)"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "ebgka97aqde",
+            "rowId": "34mvc23xtub",
+            "colId": "wnx3oxt3hdl",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "1"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "ebgka97aqde",
+            "rowId": "9vng2eecj08",
+            "colId": "wjeut4mo0xo",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "kiếm mặt bằng cửa hàng xong "
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "ebgka97aqde",
+            "rowId": "9vng2eecj08",
+            "colId": "7bj5p440oc4",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "  -> 62A Nguyễn Hồng Đào"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "ebgka97aqde",
+            "rowId": "9vng2eecj08",
+            "colId": "7bj5p440oc4",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Xong  - 25/08/2026"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "ebgka97aqde",
+            "rowId": "9vng2eecj08",
+            "colId": "wnx3oxt3hdl",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "2"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "ebgka97aqde",
+            "rowId": "a7glllau1yb",
+            "colId": "wjeut4mo0xo",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Thiết kế của hàng -> Bố trí bàn và kệ "
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "ebgka97aqde",
+            "rowId": "a7glllau1yb",
+            "colId": "7bj5p440oc4",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Đang làm "
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "ebgka97aqde",
+            "rowId": "a7glllau1yb",
+            "colId": "wnx3oxt3hdl",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "3"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "ebgka97aqde",
+            "rowId": "011p5mef8czfg",
+            "colId": "wjeut4mo0xo",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Thiết kế của hàng -> hệ thống nước"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "ebgka97aqde",
+            "rowId": "011p5mef8czfg",
+            "colId": "7bj5p440oc4",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Treo"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "ebgka97aqde",
+            "rowId": "011p5mef8czfg",
+            "colId": "wnx3oxt3hdl",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "4"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "ebgka97aqde",
+            "rowId": "dkt0x4hl8d",
+            "colId": "wjeut4mo0xo",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Thiết kế của hàng -> hệ thống điện"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "ebgka97aqde",
+            "rowId": "dkt0x4hl8d",
+            "colId": "7bj5p440oc4",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Treo"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "ebgka97aqde",
+            "rowId": "dkt0x4hl8d",
+            "colId": "wnx3oxt3hdl",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "color": "#e60000",
+          "italic": true
+        },
+        "insert": " Ngày cập nhập"
+      },
+      {
+        "insert": ":  00:57 1/9/2026\n"
       }
     ]
   },
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-08-29T00:50:22.278864Z",
-  "updated_at": "2026-08-29T00:54:06.805817Z"
+  "updated_at": "2026-08-31T17:58:35.424312Z"
 }

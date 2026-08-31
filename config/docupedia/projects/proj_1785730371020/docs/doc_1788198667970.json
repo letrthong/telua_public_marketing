@@ -1,0 +1,41 @@
+{
+  "id": "doc_1788198667970",
+  "type": "file",
+  "title": "30 Vật liệu",
+  "parent_id": "folder_1787996319526",
+  "content": {
+    "ops": [
+      {
+        "insert": "...\n"
+      },
+      {
+        "attributes": {
+          "width": "739",
+          "style": ""
+        },
+        "insert": {
+          "image": "/api/v1/docupedia/projects/proj_1785730371020/uploads/img_1788198698071_ff69b5da.webp"
+        }
+      },
+      {
+        "insert": "\n..\n"
+      },
+      {
+        "attributes": {
+          "width": "739",
+          "style": ""
+        },
+        "insert": {
+          "image": "/api/v1/docupedia/projects/proj_1785730371020/uploads/img_1788198717765_398d9525.webp"
+        }
+      },
+      {
+        "insert": "\n...\n"
+      }
+    ]
+  },
+  "created_by": "user_admin",
+  "updated_by": "user_admin",
+  "created_at": "2026-08-31T17:51:07.970673Z",
+  "updated_at": "2026-08-31T17:52:52.070818Z"
+}
