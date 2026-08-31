@@ -334,23 +334,27 @@
         "attributes": {
           "bold": true
         },
-        "insert": "2 Cách bố trí cửa hiện tại"
+        "insert": "2 Cách bố trí  hiện tại"
       },
       {
         "insert": "\n"
       },
       {
+        "attributes": {
+          "width": "402",
+          "style": ""
+        },
         "insert": {
-          "image": "/api/v1/docupedia/projects/proj_1785730371020/uploads/img_1787996556078_f9b6f597.webp"
+          "image": "/api/v1/docupedia/projects/proj_1785730371020/uploads/img_1788194876501_561c818e.webp"
         }
       },
       {
-        "insert": "\n\nNgày cập nhập: 16:42 29/8/2026\n"
+        "insert": "\n \nNgày cập nhập: 16:42 29/8/2026\n"
       }
     ]
   },
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-08-29T09:37:26.837079Z",
-  "updated_at": "2026-08-29T09:46:34.853084Z"
+  "updated_at": "2026-08-31T16:48:05.795367Z"
 }
