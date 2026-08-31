@@ -7,9 +7,9 @@
   "salePrice": "1,500,000₫",
   "originalPrice": "1,500,000₫",
   "badge": "",
-  "image": "/flower/images/ke_hoa_04.webp",
+  "image": "/api/flower/v1/images/ke_hoa_04.webp",
   "gallery": [
-    "/flower/images/ke_hoa_04.webp"
+    "/api/flower/v1/images/ke_hoa_04.webp"
   ],
   "description": "",
   "flowerComposition": "Hồng Đỏ Sa Mạc (18 cành), Hoa Đồng Tiền đỏ, Hồng Phấn, Lá Bạc Dollar, Kèm Banner chúc mừng cao cấp",

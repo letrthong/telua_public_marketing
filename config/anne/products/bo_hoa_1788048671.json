@@ -7,9 +7,9 @@
   "salePrice": "400,000₫",
   "originalPrice": "400,000₫",
   "badge": "Mới",
-  "image": "/flower/images/bo_hoa_1788048671.webp",
+  "image": "/api/flower/v1/images/bo_hoa_1788048671.webp",
   "gallery": [
-    "/flower/images/bo_hoa_1788048671.webp"
+    "/api/flower/v1/images/bo_hoa_1788048671.webp"
   ],
   "description": "",
   "flowerComposition": "Yzx",

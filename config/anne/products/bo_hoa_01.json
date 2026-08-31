@@ -7,9 +7,9 @@
   "salePrice": "420,000₫",
   "originalPrice": "420,000₫",
   "badge": "-7%",
-  "image": "/flower/images/bo_hoa_01.webp",
+  "image": "/api/flower/v1/images/bo_hoa_01.webp",
   "gallery": [
-    "/flower/images/bo_hoa_01.webp"
+    "/api/flower/v1/images/bo_hoa_01.webp"
   ],
   "description": "Bó hoa tone trắng dịu êm kết hợp hoa sao xanh thanh lịch.",
   "flowerComposition": "Hồng trắng Ohara (10 cành), Cúc Tana, Hoa Sao Xanh, Lá Bạc Dollar",

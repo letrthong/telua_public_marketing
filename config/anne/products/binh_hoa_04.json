@@ -7,9 +7,9 @@
   "salePrice": "690,000₫",
   "originalPrice": "690,000₫",
   "badge": "Bán chạy",
-  "image": "/flower/images/binh_hoa_04.webp",
+  "image": "/api/flower/v1/images/binh_hoa_04.webp",
   "gallery": [
-    "/flower/images/binh_hoa_04.webp"
+    "/api/flower/v1/images/binh_hoa_04.webp"
   ],
   "description": "",
   "flowerComposition": "Gốm men mờ cao cấp nung nhiệt độ cao 1200 độ C",

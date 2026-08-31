@@ -10,7 +10,7 @@
   "badge": "Nghệ Thuật",
   "image": "/api/flower/v1/images/prod_1788079372_d45e5331.webp",
   "gallery": [
-    "/flower/images/binh_hoa_01.webp"
+    "/api/flower/v1/images/binh_hoa_01.webp"
   ],
   "description": "Bình hoa gốm thủ công kết hợp hoa cẩm tú cầu và tulip nhập khẩu tạo điểm nhấn không gian phòng khách.",
   "descTextId": null,

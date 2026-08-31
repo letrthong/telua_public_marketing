@@ -7,9 +7,9 @@
   "salePrice": "880,000₫",
   "originalPrice": "880,000₫",
   "badge": "-4%",
-  "image": "/flower/images/gio_hoa_01.webp",
+  "image": "/api/flower/v1/images/gio_hoa_01.webp",
   "gallery": [
-    "/flower/images/gio_hoa_01.webp"
+    "/api/flower/v1/images/gio_hoa_01.webp"
   ],
   "description": "Giỏ mây vintage cắm phối hoa tone pastel ngọt ngào, thích hợp tặng sinh nhật, tri ân đối tác.",
   "flowerComposition": "Hồng Juliet David Austin, Cát Tường xoăn, Baby trắng, Giỏ mây đan tay",

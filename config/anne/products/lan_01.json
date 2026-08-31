@@ -7,9 +7,9 @@
   "salePrice": "3,500,000₫",
   "originalPrice": "3,500,000₫",
   "badge": "Độc Bản VIP",
-  "image": "/flower/images/lan_01.webp",
+  "image": "/api/flower/v1/images/lan_01.webp",
   "gallery": [
-    "/flower/images/lan_01.webp"
+    "/api/flower/v1/images/lan_01.webp"
   ],
   "description": "Chậu lan hồ điệp loại A 5 cành hoa đều đẹp, thế cắm phong thủy mang lại tài lộc và vượng khí.",
   "flowerComposition": "Lan hồ điệp vàng hoàng gia (5 ngồng hoa loại 1), Chậu sứ cao cấp dát chỉ vàng",

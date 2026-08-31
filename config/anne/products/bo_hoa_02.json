@@ -10,7 +10,7 @@
   "badge": "Bán Chạy",
   "image": "/api/flower/v1/images/prod_1788079508_6f785c4c.jpg",
   "gallery": [
-    "/flower/images/bo_hoa_02.webp"
+    "/api/flower/v1/images/bo_hoa_02.webp"
   ],
   "description": "Tone cam cháy rực rỡ mang đến nguồn năng lượng tích cực và sự ấm áp.",
   "descTextId": null,

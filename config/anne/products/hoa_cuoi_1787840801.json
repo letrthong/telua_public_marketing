@@ -7,9 +7,9 @@
   "salePrice": "450,000₫",
   "originalPrice": "450,000₫",
   "badge": "Mới",
-  "image": "/flower/images/hoa_cuoi_1787840801.webp",
+  "image": "/api/flower/v1/images/hoa_cuoi_1787840801.webp",
   "gallery": [
-    "/flower/images/hoa_cuoi_1787840801.webp"
+    "/api/flower/v1/images/hoa_cuoi_1787840801.webp"
   ],
   "description": "",
   "flowerComposition": "",

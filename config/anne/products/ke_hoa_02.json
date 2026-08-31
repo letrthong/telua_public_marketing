@@ -7,9 +7,9 @@
   "salePrice": "1,800,000₫",
   "originalPrice": "1,800,000₫",
   "badge": "Hot",
-  "image": "/flower/images/ke_hoa_02.webp",
+  "image": "/api/flower/v1/images/ke_hoa_02.webp",
   "gallery": [
-    "/flower/images/ke_hoa_02.webp"
+    "/api/flower/v1/images/ke_hoa_02.webp"
   ],
   "description": "",
   "flowerComposition": "Hoa Hồng Cam Spirit (20 cành), Cúc Mẫu Đơn cam, Hoa Đồng Tiền nhí, Lá Bạch Đàn, Kèm Banner chúc mừng cao cấp",
