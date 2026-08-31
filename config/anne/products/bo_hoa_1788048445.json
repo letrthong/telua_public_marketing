@@ -7,7 +7,7 @@
   "salePrice": "410,000₫",
   "originalPrice": "410,000₫",
   "badge": "Mới",
-  "image": "//api/flower/v1/images/bo_hoa_1788048445.webp",
+  "image": "/api/flower/v1/images/bo_hoa_1788048445.webp",
   "gallery": [
     "/api/flower/v1/images/bo_hoa_1788048445.webp"
   ],
