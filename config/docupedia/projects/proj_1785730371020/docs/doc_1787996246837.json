@@ -6,13 +6,16 @@
   "content": {
     "ops": [
       {
+        "insert": "\n"
+      },
+      {
         "attributes": {
           "bold": true
         },
         "insert": "1/ Thông tin về kích thước"
       },
       {
-        "insert": "\n\n"
+        "insert": "\n"
       },
       {
         "attributes": {
@@ -342,19 +345,227 @@
       {
         "attributes": {
           "width": "402",
-          "style": ""
+          "style": "display: block; margin: auto;"
         },
         "insert": {
           "image": "/api/v1/docupedia/projects/proj_1785730371020/uploads/img_1788194876501_561c818e.webp"
         }
       },
       {
-        "insert": "\n \nNgày cập nhập: 16:42 29/8/2026\n"
+        "insert": "\n \n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "3/  Thông số tổng quan"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Kích thước:"
+      },
+      {
+        "insert": " Chiều sâu 8m, chiều ngang phía sau 3.2m (ghi chú 3m2), chiều ngang cửa trước 2.6m (ghi chú 2m6). Tổng diện tích khoảng 25 - 26 mét vuông."
+      },
+      {
+        "attributes": {
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Hình dáng:"
+      },
+      {
+        "insert": " Không gian chữ nhật dài, cửa chính mở rộng, phía sau có một khoảng hở hoặc cửa phụ rộng 1.2m (1m2)."
+      },
+      {
+        "attributes": {
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Phong cách bố trí:"
+      },
+      {
+        "insert": " Dạng tuyến tính  , bố trí dọc theo hai bên tường để chừa lối đi ở giữa."
+      },
+      {
+        "attributes": {
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "4/ "
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Phân bổ khu vực công năng"
+      },
+      {
+        "insert": "\nLayout được chia làm hai trục chính dọc theo hai bên tường:\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Dãy bên trái (Từ ngoài vào trong):"
+      },
+      {
+        "attributes": {
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Khu trưng bày hoa:"
+      },
+      {
+        "insert": " Chiếm phần lớn diện tích phía trước, thu hút khách hàng ngay khi bước vào."
+      },
+      {
+        "attributes": {
+          "indent": 1,
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Quầy thu ngân:"
+      },
+      {
+        "insert": " Đặt ở vị trí trung tâm của dãy trái."
+      },
+      {
+        "attributes": {
+          "indent": 1,
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Khu vực cắm hoa:"
+      },
+      {
+        "insert": " Nằm ngay sau quầy thu ngân."
+      },
+      {
+        "attributes": {
+          "indent": 1,
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Khu sơ chế hoa (Bồn nước,...):"
+      },
+      {
+        "insert": " Đặt ở tận cùng phía trong."
+      },
+      {
+        "attributes": {
+          "indent": 1,
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Dãy bên phải (Từ ngoài vào trong):"
+      },
+      {
+        "attributes": {
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Kệ hoa:"
+      },
+      {
+        "insert": " Chạy dọc xuyên suốt bức tường bên phải, bị ngắt quãng bởi một mảng tường lồi/cột trụ."
+      },
+      {
+        "attributes": {
+          "indent": 1,
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Trục giao thông (Lối đi):"
+      },
+      {
+        "insert": " Nằm ở giữa, rộng rãi ở phía cửa và bị bóp hẹp dần, bẻ xéo về phía cuối cửa hàng."
+      },
+      {
+        "attributes": {
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "5/ Hình ảnh minh họa"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "style": "display: block; margin: auto;"
+        },
+        "insert": {
+          "image": "/api/v1/docupedia/projects/proj_1785730371020/uploads/img_1788195829408_a91d7417.webp"
+        }
+      },
+      {
+        "insert": "\n\nNgày cập nhập:  00:10 1/9/2026\n"
       }
     ]
   },
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-08-29T09:37:26.837079Z",
-  "updated_at": "2026-08-31T16:48:05.795367Z"
+  "updated_at": "2026-08-31T17:11:53.702336Z"
 }
