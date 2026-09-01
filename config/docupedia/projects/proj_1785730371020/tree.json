@@ -117,7 +117,8 @@
       "title": "03 Thông tin",
       "children": [
         "doc_1787147617025",
-        "doc_1787502400923"
+        "doc_1787502400923",
+        "doc_1788238344752"
       ]
     },
     "doc_1787147617025": {
@@ -248,7 +249,7 @@
       "created_by": "user_admin",
       "updated_by": "user_admin",
       "created_at": "2026-08-31T23:59:31.566412Z",
-      "updated_at": "2026-09-01T04:16:23.240372Z"
+      "updated_at": "2026-09-01T04:30:38.554036Z"
     },
     "doc_1788233259868": {
       "id": "doc_1788233259868",
@@ -259,7 +260,17 @@
       "updated_by": "user_admin",
       "created_at": "2026-09-01T03:27:39.868575Z",
       "updated_at": "2026-09-01T04:24:39.753944Z"
+    },
+    "doc_1788238344752": {
+      "id": "doc_1788238344752",
+      "type": "file",
+      "title": "04 Links",
+      "parent_id": "folder_1787147591788",
+      "created_by": "user_admin",
+      "updated_by": "user_admin",
+      "created_at": "2026-09-01T04:52:24.752254Z",
+      "updated_at": "2026-09-01T04:52:41.759307Z"
     }
   },
-  "updated_at": "2026-09-01T04:24:39.768237Z"
+  "updated_at": "2026-09-01T04:52:41.760221Z"
 }

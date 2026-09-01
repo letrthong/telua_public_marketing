@@ -1,0 +1,26 @@
+{
+  "id": "doc_1788238344752",
+  "type": "file",
+  "title": "04 Links",
+  "parent_id": "folder_1787147591788",
+  "content": {
+    "ops": [
+      {
+        "insert": "....\n"
+      },
+      {
+        "attributes": {
+          "link": "https://sketchup.trimble.com/en/plans-and-pricing/sketchup-free"
+        },
+        "insert": "Free 3D Modeling Software | 3D Design Online | SketchUp Free Subscription | Trimble"
+      },
+      {
+        "insert": "\n\n....\n"
+      }
+    ]
+  },
+  "created_by": "user_admin",
+  "updated_by": "user_admin",
+  "created_at": "2026-09-01T04:52:24.752254Z",
+  "updated_at": "2026-09-01T04:52:41.759307Z"
+}

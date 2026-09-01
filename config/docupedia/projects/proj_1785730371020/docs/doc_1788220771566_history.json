@@ -76,6 +76,19 @@
           "content": "Nội dung tài liệu được cập nhật"
         }
       }
+    },
+    {
+      "id": "hist_1788237039068",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-09-01T04:30:39.068588Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
     }
   ]
 }
