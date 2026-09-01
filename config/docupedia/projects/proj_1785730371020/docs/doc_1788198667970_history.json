@@ -60,6 +60,19 @@
           }
         }
       }
+    },
+    {
+      "id": "hist_1788236419550",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-09-01T04:20:19.550281Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
     }
   ]
 }

@@ -10,8 +10,7 @@
       },
       {
         "attributes": {
-          "width": "739",
-          "style": ""
+          "width": "739"
         },
         "insert": {
           "image": "/api/v1/docupedia/projects/proj_1785730371020/uploads/img_1788198698071_ff69b5da.webp"
@@ -22,20 +21,42 @@
       },
       {
         "attributes": {
-          "width": "739",
-          "style": ""
+          "width": "739"
         },
         "insert": {
           "image": "/api/v1/docupedia/projects/proj_1785730371020/uploads/img_1788198717765_398d9525.webp"
         }
       },
       {
-        "insert": "\n...\n"
+        "insert": "\n\n"
+      },
+      {
+        "attributes": {
+          "width": "467",
+          "style": ""
+        },
+        "insert": {
+          "image": "/api/v1/docupedia/projects/proj_1785730371020/uploads/img_1788236388942_88fd1371.webp"
+        }
+      },
+      {
+        "insert": "\n\n"
+      },
+      {
+        "attributes": {
+          "style": "display: block; margin: auto;"
+        },
+        "insert": {
+          "image": "/api/v1/docupedia/projects/proj_1785730371020/uploads/img_1788236409480_609f25b0.webp"
+        }
+      },
+      {
+        "insert": "\n\n...\n"
       }
     ]
   },
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-08-31T17:51:07.970673Z",
-  "updated_at": "2026-08-31T17:52:52.070818Z"
+  "updated_at": "2026-09-01T04:20:19.545095Z"
 }

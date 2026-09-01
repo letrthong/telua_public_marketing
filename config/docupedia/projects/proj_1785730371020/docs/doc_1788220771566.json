@@ -6,12 +6,54 @@
   "content": {
     "ops": [
       {
-        "insert": "...\nMáy lạnh Daikin Inverter 1.5 HP FTKB35ZVMV ( Model 2025 )\n\nNếu chạy liên tục giá tiền điện khoảng 1tr8_2tr  trong 1 tháng với giá 4.000vnd cho 1 kg\n\nhttps://dienmaynguyenlinh.com/may-lanh-daikin-inverter-ftkb35zvmv?gad_source=1&gad_campaignid=24056074304&gbraid=0AAAABET3RZuhavOa_YpCNrUpyz0COSsTf&gclid=CjwKCAjwzNTUBhAjEiwA7zcvWqhBnNoDHOE5Sk4CYsq2uekbL1n44IXHT-Q9KSalgpeY53PjyfqPFxoC964QAvD_BwE\n...\n"
+        "insert": "Thông tin máy lạnh\nMáy lạnh Daikin Inverter 1.5 HP FTKB35ZVMV ( Model 2025 )\n\nNếu chạy liên tục giá tiền điện khoảng "
+      },
+      {
+        "attributes": {
+          "token": "number"
+        },
+        "insert": "1"
+      },
+      {
+        "insert": "tr8_2tr  trong "
+      },
+      {
+        "attributes": {
+          "token": "number"
+        },
+        "insert": "1"
+      },
+      {
+        "insert": " tháng với giá "
+      },
+      {
+        "attributes": {
+          "token": "number"
+        },
+        "insert": "4.000"
+      },
+      {
+        "insert": "vnd cho "
+      },
+      {
+        "attributes": {
+          "token": "number"
+        },
+        "insert": "1"
+      },
+      {
+        "insert": " kg\n\n\n..."
+      },
+      {
+        "attributes": {
+          "blockquote": true
+        },
+        "insert": "\n"
       }
     ]
   },
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-08-31T23:59:31.566412Z",
-  "updated_at": "2026-09-01T00:09:49.918171Z"
+  "updated_at": "2026-09-01T04:16:23.240372Z"
 }
