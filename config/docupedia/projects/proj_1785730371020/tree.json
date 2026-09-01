@@ -182,9 +182,9 @@
       "title": "10 kích thước",
       "parent_id": "folder_1785730407607",
       "created_by": "user_admin",
-      "updated_by": "user_admin",
+      "updated_by": "user_1785839343630",
       "created_at": "2026-08-29T09:37:26.837079Z",
-      "updated_at": "2026-08-31T17:48:07.999992Z"
+      "updated_at": "2026-09-01T01:28:09.685640Z"
     },
     "folder_1787996266063": {
       "id": "folder_1787996266063",
@@ -250,5 +250,5 @@
       "updated_at": "2026-09-01T00:09:49.918171Z"
     }
   },
-  "updated_at": "2026-09-01T00:09:50.286485Z"
+  "updated_at": "2026-09-01T01:28:09.804641Z"
 }

@@ -229,6 +229,19 @@
           "content": "Nội dung tài liệu được cập nhật"
         }
       }
+    },
+    {
+      "id": "hist_1788226089809",
+      "user_id": "user_1785839343630",
+      "username": "anne",
+      "display_name": "anne",
+      "action": "update",
+      "timestamp": "2026-09-01T01:28:09.809071Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
     }
   ]
 }

@@ -572,6 +572,17 @@
         "insert": "\n\nCách chưng bày\n"
       },
       {
+        "insert": {
+          "image": "/api/v1/docupedia/projects/proj_1785730371020/uploads/img_1788226060085_821ed27f.webp"
+        }
+      },
+      {
+        "attributes": {
+          "align": "center"
+        },
+        "insert": "\n"
+      },
+      {
         "attributes": {
           "style": "display: block; margin: auto;"
         },
@@ -585,7 +596,7 @@
     ]
   },
   "created_by": "user_admin",
-  "updated_by": "user_admin",
+  "updated_by": "user_1785839343630",
   "created_at": "2026-08-29T09:37:26.837079Z",
-  "updated_at": "2026-08-31T17:48:07.999992Z"
+  "updated_at": "2026-09-01T01:28:09.685640Z"
 }
