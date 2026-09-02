@@ -9,7 +9,181 @@
         "attributes": {
           "bold": true
         },
-        "insert": "1/ Xô nhựa cắm hoa"
+        "insert": "1/ Chiều cao bó hoa"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "col": {
+            "tableId": "qtay2ieiot",
+            "colId": "y3p66jvyhac",
+            "width": "33.33333333333333%",
+            "full": true
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "col": {
+            "tableId": "qtay2ieiot",
+            "colId": "0rfsal24aif",
+            "width": "33.33333333333333%",
+            "full": true
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "col": {
+            "tableId": "qtay2ieiot",
+            "colId": "xrn0mvihl48",
+            "width": "33.33333333333333%",
+            "full": true
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "STT"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "qtay2ieiot",
+            "rowId": "v63hkpe893l",
+            "colId": "y3p66jvyhac",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "background-color: rgb(17, 188, 238);"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Loại hoa"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "qtay2ieiot",
+            "rowId": "v63hkpe893l",
+            "colId": "0rfsal24aif",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "background-color: rgb(17, 188, 238);"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Chiều cao (cm)"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "qtay2ieiot",
+            "rowId": "v63hkpe893l",
+            "colId": "xrn0mvihl48",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "background-color: rgb(17, 188, 238);"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "1"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "qtay2ieiot",
+            "rowId": "fd7bhtwzlwf",
+            "colId": "y3p66jvyhac",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Hoa cúc vàng Đà Lạt"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "qtay2ieiot",
+            "rowId": "fd7bhtwzlwf",
+            "colId": "0rfsal24aif",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "70cm"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "qtay2ieiot",
+            "rowId": "fd7bhtwzlwf",
+            "colId": "xrn0mvihl48",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "qtay2ieiot",
+            "rowId": "p0d77gpxg4p",
+            "colId": "y3p66jvyhac",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "qtay2ieiot",
+            "rowId": "p0d77gpxg4p",
+            "colId": "0rfsal24aif",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "qtay2ieiot",
+            "rowId": "p0d77gpxg4p",
+            "colId": "xrn0mvihl48",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "\n\n\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "2/ Xô nhựa hay mica cắm hoa"
       },
       {
         "insert": "\n\n"
@@ -69,7 +243,8 @@
             "rowId": "7p76zjb5z9",
             "colId": "tfs90k2ouhm",
             "rowspan": "1",
-            "colspan": "1"
+            "colspan": "1",
+            "style": "background-color: rgb(41, 150, 134);"
           }
         },
         "insert": "\n"
@@ -84,7 +259,8 @@
             "rowId": "7p76zjb5z9",
             "colId": "y17j0dnerde",
             "rowspan": "1",
-            "colspan": "1"
+            "colspan": "1",
+            "style": "background-color: rgb(41, 150, 134);"
           }
         },
         "insert": "\n"
@@ -99,10 +275,14 @@
             "rowId": "7p76zjb5z9",
             "colId": "mds5250f5lc",
             "rowspan": "1",
-            "colspan": "1"
+            "colspan": "1",
+            "style": "background-color: rgb(41, 150, 134);"
           }
         },
         "insert": "\n"
+      },
+      {
+        "insert": "1"
       },
       {
         "attributes": {
@@ -139,6 +319,9 @@
           }
         },
         "insert": "\n"
+      },
+      {
+        "insert": "2"
       },
       {
         "attributes": {
@@ -252,15 +435,33 @@
         "attributes": {
           "bold": true
         },
-        "insert": "2/ Bình thủy tinh cắm hoa"
+        "insert": "2/  1668.com"
       },
       {
-        "insert": "\n..\nNgày cập nhập: 11:18 1/9/2026\n"
+        "insert": "\n高40cm插花桶"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "link": "https://m.1688.com/offer/1045869202025.html?ptow=113d26e7c9a&spm=a312h.2018_new_sem.dh_002.157.4e807744P3uiaT&src=zhanwai&ptid=01770000000c5e27d7721178c5a73fc8&callByHgJs=1&removesafearea=1&src_cna=DnAHI3idRXoCAav3mXve1uaW"
+        },
+        "insert": "https://m.1688.com/offer/1045869202025.html?ptow=113d26e7c9a&spm=a312h.2018_new_sem.dh_002.157.4e807744P3uiaT&src=zhanwai&ptid=01770000000c5e27d7721178c5a73fc8&callByHgJs=1&removesafearea=1&src_cna=DnAHI3idRXoCAav3mXve1uaW"
+      },
+      {
+        "insert": "\n\n\n..\nNgày cập nhập: 11:18 1/9/2026\n"
       }
     ]
   },
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-09-01T03:27:39.868575Z",
-  "updated_at": "2026-09-01T04:24:39.753944Z"
+  "updated_at": "2026-09-02T04:17:20.347894Z"
 }
