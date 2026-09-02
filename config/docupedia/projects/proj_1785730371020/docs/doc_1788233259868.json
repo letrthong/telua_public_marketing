@@ -37,18 +37,7 @@
         "insert": "\n"
       },
       {
-        "attributes": {
-          "col": {
-            "tableId": "qtay2ieiot",
-            "colId": "xrn0mvihl48",
-            "width": "33.33333333333333%",
-            "full": true
-          }
-        },
-        "insert": "\n"
-      },
-      {
-        "insert": "STT"
+        "insert": "Loại hoa"
       },
       {
         "attributes": {
@@ -62,9 +51,6 @@
           }
         },
         "insert": "\n"
-      },
-      {
-        "insert": "Loại hoa"
       },
       {
         "attributes": {
@@ -75,37 +61,6 @@
             "rowspan": "1",
             "colspan": "1",
             "style": "background-color: rgb(17, 188, 238);"
-          }
-        },
-        "insert": "\n"
-      },
-      {
-        "insert": "Chiều cao (cm)"
-      },
-      {
-        "attributes": {
-          "tableCellInner": {
-            "tableId": "qtay2ieiot",
-            "rowId": "v63hkpe893l",
-            "colId": "xrn0mvihl48",
-            "rowspan": "1",
-            "colspan": "1",
-            "style": "background-color: rgb(17, 188, 238);"
-          }
-        },
-        "insert": "\n"
-      },
-      {
-        "insert": "1"
-      },
-      {
-        "attributes": {
-          "tableCellInner": {
-            "tableId": "qtay2ieiot",
-            "rowId": "fd7bhtwzlwf",
-            "colId": "y3p66jvyhac",
-            "rowspan": "1",
-            "colspan": "1"
           }
         },
         "insert": "\n"
@@ -118,7 +73,7 @@
           "tableCellInner": {
             "tableId": "qtay2ieiot",
             "rowId": "fd7bhtwzlwf",
-            "colId": "0rfsal24aif",
+            "colId": "y3p66jvyhac",
             "rowspan": "1",
             "colspan": "1"
           }
@@ -126,14 +81,16 @@
         "insert": "\n"
       },
       {
-        "insert": "70cm"
+        "insert": {
+          "image": "/api/v1/docupedia/projects/proj_1785730371020/uploads/img_1788322969955_a635dccd.webp"
+        }
       },
       {
         "attributes": {
           "tableCellInner": {
             "tableId": "qtay2ieiot",
             "rowId": "fd7bhtwzlwf",
-            "colId": "xrn0mvihl48",
+            "colId": "0rfsal24aif",
             "rowspan": "1",
             "colspan": "1"
           }
@@ -158,18 +115,6 @@
             "tableId": "qtay2ieiot",
             "rowId": "p0d77gpxg4p",
             "colId": "0rfsal24aif",
-            "rowspan": "1",
-            "colspan": "1"
-          }
-        },
-        "insert": "\n"
-      },
-      {
-        "attributes": {
-          "tableCellInner": {
-            "tableId": "qtay2ieiot",
-            "rowId": "p0d77gpxg4p",
-            "colId": "xrn0mvihl48",
             "rowspan": "1",
             "colspan": "1"
           }
@@ -186,19 +131,7 @@
         "insert": "2/ Xô nhựa hay mica cắm hoa"
       },
       {
-        "insert": "\n\n"
-      },
-      {
-        "attributes": {
-          "width": "630",
-          "style": "display: block; margin: auto;"
-        },
-        "insert": {
-          "image": "/api/v1/docupedia/projects/proj_1785730371020/uploads/img_1788236000046_d7d6a102.webp"
-        }
-      },
-      {
-        "insert": "\n"
+        "insert": "\n\n  \n"
       },
       {
         "attributes": {
@@ -229,22 +162,6 @@
             "colId": "mds5250f5lc",
             "width": "33.33333333333333%",
             "full": true
-          }
-        },
-        "insert": "\n"
-      },
-      {
-        "insert": "STT"
-      },
-      {
-        "attributes": {
-          "tableCellInner": {
-            "tableId": "tvdnr58sxmh",
-            "rowId": "7p76zjb5z9",
-            "colId": "tfs90k2ouhm",
-            "rowspan": "1",
-            "colspan": "1",
-            "style": "background-color: rgb(41, 150, 134);"
           }
         },
         "insert": "\n"
@@ -257,6 +174,19 @@
           "tableCellInner": {
             "tableId": "tvdnr58sxmh",
             "rowId": "7p76zjb5z9",
+            "colId": "tfs90k2ouhm",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "background-color: rgb(41, 150, 134);"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "tvdnr58sxmh",
+            "rowId": "7p76zjb5z9",
             "colId": "y17j0dnerde",
             "rowspan": "1",
             "colspan": "1",
@@ -266,7 +196,7 @@
         "insert": "\n"
       },
       {
-        "insert": "Kích thước"
+        "insert": "Kích thước -cm ( Chiêu cao x Chiều dài x Chiều rộng)"
       },
       {
         "attributes": {
@@ -282,7 +212,7 @@
         "insert": "\n"
       },
       {
-        "insert": "1"
+        "insert": "Xô nhựa"
       },
       {
         "attributes": {
@@ -297,6 +227,11 @@
         "insert": "\n"
       },
       {
+        "insert": {
+          "image": "/api/v1/docupedia/projects/proj_1785730371020/uploads/img_1788322991651_0817f591.webp"
+        }
+      },
+      {
         "attributes": {
           "tableCellInner": {
             "tableId": "tvdnr58sxmh",
@@ -307,6 +242,9 @@
           }
         },
         "insert": "\n"
+      },
+      {
+        "insert": "30cm x  25cm x 25cm"
       },
       {
         "attributes": {
@@ -321,10 +259,11 @@
         "insert": "\n"
       },
       {
-        "insert": "2"
+        "insert": "Bình mica hình trụ đựng hoa"
       },
       {
         "attributes": {
+          "header": 1,
           "tableCellInner": {
             "tableId": "tvdnr58sxmh",
             "rowId": "837l97tsjwh",
@@ -340,12 +279,32 @@
           "tableCellInner": {
             "tableId": "tvdnr58sxmh",
             "rowId": "837l97tsjwh",
+            "colId": "tfs90k2ouhm",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": {
+          "image": "/api/v1/docupedia/projects/proj_1785730371020/uploads/img_1788323347755_5b7bb4a7.webp"
+        }
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "tvdnr58sxmh",
+            "rowId": "837l97tsjwh",
             "colId": "y17j0dnerde",
             "rowspan": "1",
             "colspan": "1"
           }
         },
         "insert": "\n"
+      },
+      {
+        "insert": "40cm x 20cm x 20 cm"
       },
       {
         "attributes": {
@@ -435,7 +394,13 @@
         "attributes": {
           "bold": true
         },
-        "insert": "2/  1668.com"
+        "insert": "2/   "
+      },
+      {
+        "attributes": {
+          "link": "https://www.1688.com/"
+        },
+        "insert": "https://www.1688.com/"
       },
       {
         "insert": "\n高40cm插花桶"
@@ -447,21 +412,12 @@
         "insert": "\n"
       },
       {
-        "insert": "\n"
-      },
-      {
-        "attributes": {
-          "link": "https://m.1688.com/offer/1045869202025.html?ptow=113d26e7c9a&spm=a312h.2018_new_sem.dh_002.157.4e807744P3uiaT&src=zhanwai&ptid=01770000000c5e27d7721178c5a73fc8&callByHgJs=1&removesafearea=1&src_cna=DnAHI3idRXoCAav3mXve1uaW"
-        },
-        "insert": "https://m.1688.com/offer/1045869202025.html?ptow=113d26e7c9a&spm=a312h.2018_new_sem.dh_002.157.4e807744P3uiaT&src=zhanwai&ptid=01770000000c5e27d7721178c5a73fc8&callByHgJs=1&removesafearea=1&src_cna=DnAHI3idRXoCAav3mXve1uaW"
-      },
-      {
-        "insert": "\n\n\n..\nNgày cập nhập: 11:18 1/9/2026\n"
+        "insert": " \n\n\n..\nNgày cập nhập: 11:18 1/9/2026\n"
       }
     ]
   },
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-09-01T03:27:39.868575Z",
-  "updated_at": "2026-09-02T04:17:20.347894Z"
+  "updated_at": "2026-09-02T04:31:23.894150Z"
 }
