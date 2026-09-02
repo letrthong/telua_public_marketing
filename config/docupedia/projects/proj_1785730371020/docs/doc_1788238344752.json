@@ -28,12 +28,20 @@
       },
       {
         "attributes": {
-          "width": "507",
-          "style": ""
+          "width": "507"
         },
         "insert": {
           "image": "/api/v1/docupedia/projects/proj_1785730371020/uploads/img_1788267579227_7e195c12.webp"
         }
+      },
+      {
+        "insert": "\n\n"
+      },
+      {
+        "attributes": {
+          "link": "https://noithatgiasi.org"
+        },
+        "insert": "https://noithatgiasi.org"
       },
       {
         "insert": "\n....\n"
@@ -43,5 +51,5 @@
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-09-01T04:52:24.752254Z",
-  "updated_at": "2026-09-01T12:59:49.501165Z"
+  "updated_at": "2026-09-02T03:09:29.859449Z"
 }

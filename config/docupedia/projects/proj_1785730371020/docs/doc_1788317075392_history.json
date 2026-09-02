@@ -11,6 +11,48 @@
       "details": {
         "title": "11 Bố trí khu trưng bày"
       }
+    },
+    {
+      "id": "hist_1788317345457",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-09-02T02:49:05.457944Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1788317452668",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-09-02T02:50:52.668956Z",
+      "details": {
+        "changes": {
+          "title": {
+            "old": "11 Bố trí khu trưng bày",
+            "new": "11 Khu trưng bày"
+          }
+        }
+      }
+    },
+    {
+      "id": "hist_1788317582477",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-09-02T02:53:02.477266Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
     }
   ]
 }

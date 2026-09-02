@@ -6,7 +6,632 @@
   "content": {
     "ops": [
       {
-        "insert": "...\n"
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Gỗ MDF phủ Melamine"
+      },
+      {
+        "insert": "\n \nBa vật liệu phủ bề mặt Melamine, Laminate và Acrylic có cấu tạo, ưu điểm và phân khúc giá hoàn toàn khác nhau, đáp ứng từng nhu cầu riêng biệt trong thiết kế nội thất.\n"
+      },
+      {
+        "attributes": {
+          "col": {
+            "tableId": "dcehsu4ach",
+            "colId": "14djijzgpg3",
+            "width": "25%",
+            "full": true
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "col": {
+            "tableId": "dcehsu4ach",
+            "colId": "uyzpilvnc6",
+            "width": "25%",
+            "full": true
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "col": {
+            "tableId": "dcehsu4ach",
+            "colId": "4qcui5othem",
+            "width": "25%",
+            "full": true
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "col": {
+            "tableId": "dcehsu4ach",
+            "colId": "rr8bivftzl8",
+            "width": "25%",
+            "full": true
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Tiêu chí"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "dcehsu4ach",
+            "rowId": "2b04euuz44u",
+            "colId": "14djijzgpg3",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border: 1px solid rgb(196, 199, 197); padding: 8px 12px; font-family: Google Sans Text, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Melamine (Giải pháp tiêu chuẩn)"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "dcehsu4ach",
+            "rowId": "2b04euuz44u",
+            "colId": "uyzpilvnc6",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border: 1px solid rgb(196, 199, 197); padding: 8px 12px; font-family: Google Sans Text, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Laminate (Chuyên gia chống trầy)"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "dcehsu4ach",
+            "rowId": "2b04euuz44u",
+            "colId": "4qcui5othem",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border: 1px solid rgb(196, 199, 197); padding: 8px 12px; font-family: Google Sans Text, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Acrylic (Nữ hoàng bóng gương)"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "dcehsu4ach",
+            "rowId": "2b04euuz44u",
+            "colId": "rr8bivftzl8",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border: 1px solid rgb(196, 199, 197); padding: 8px 12px; font-family: Google Sans Text, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Cấu tạo & Độ dày"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "dcehsu4ach",
+            "rowId": "7bp8eieb9q",
+            "colId": "14djijzgpg3",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border: 1px solid rgb(196, 199, 197); padding: 8px 12px; font-family: Google Sans Text, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Là một lớp giấy trang trí mỏng (khoảng 0.3 - 0.4mm) được nhúng keo Melamine ép trực tiếp lên cốt gỗ."
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "dcehsu4ach",
+            "rowId": "7bp8eieb9q",
+            "colId": "uyzpilvnc6",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border: 1px solid rgb(196, 199, 197); padding: 8px 12px; font-family: Google Sans Text, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Gồm nhiều lớp giấy Kraft xếp chồng, ép ở nhiệt độ và áp suất rất cao. Dày dặn hơn hẳn (từ 0.5 - 1.2mm)."
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "dcehsu4ach",
+            "rowId": "7bp8eieb9q",
+            "colId": "4qcui5othem",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border: 1px solid rgb(196, 199, 197); padding: 8px 12px; font-family: Google Sans Text, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Là lớp nhựa dẻo polymer trong suốt hoặc có màu, độ dày cao nhất (từ 0.8 - 2.0mm)."
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "dcehsu4ach",
+            "rowId": "7bp8eieb9q",
+            "colId": "rr8bivftzl8",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border: 1px solid rgb(196, 199, 197); padding: 8px 12px; font-family: Google Sans Text, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Đặc điểm bề mặt"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "dcehsu4ach",
+            "rowId": "yuptg7hbtr",
+            "colId": "14djijzgpg3",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border: 1px solid rgb(196, 199, 197); padding: 8px 12px; font-family: Google Sans Text, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Phẳng mịn, độ bóng thấp hoặc mờ."
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "dcehsu4ach",
+            "rowId": "yuptg7hbtr",
+            "colId": "uyzpilvnc6",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border: 1px solid rgb(196, 199, 197); padding: 8px 12px; font-family: Google Sans Text, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Đa dạng hiệu ứng xúc giác: nhám, sần, mờ, vân nổi 3D, bóng nhẹ."
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "dcehsu4ach",
+            "rowId": "yuptg7hbtr",
+            "colId": "4qcui5othem",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border: 1px solid rgb(196, 199, 197); padding: 8px 12px; font-family: Google Sans Text, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Siêu phẳng, bóng gương sâu rực rỡ, tạo ảo giác không gian rộng hơn."
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "dcehsu4ach",
+            "rowId": "yuptg7hbtr",
+            "colId": "rr8bivftzl8",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border: 1px solid rgb(196, 199, 197); padding: 8px 12px; font-family: Google Sans Text, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Mẫu mã & Màu sắc"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "dcehsu4ach",
+            "rowId": "477e0czx4ru",
+            "colId": "14djijzgpg3",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border: 1px solid rgb(196, 199, 197); padding: 8px 12px; font-family: Google Sans Text, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Đa dạng màu trơn và vân gỗ cơ bản."
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "dcehsu4ach",
+            "rowId": "477e0czx4ru",
+            "colId": "uyzpilvnc6",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border: 1px solid rgb(196, 199, 197); padding: 8px 12px; font-family: Google Sans Text, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Cực kỳ phong phú. Có hàng nghìn mẫu giả gỗ tự nhiên, giả đá, giả da, giả vải, kim loại rất chân thực."
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "dcehsu4ach",
+            "rowId": "477e0czx4ru",
+            "colId": "4qcui5othem",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border: 1px solid rgb(196, 199, 197); padding: 8px 12px; font-family: Google Sans Text, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Tập trung chủ yếu vào các màu đơn sắc (trắng, đen, đỏ, xám...) tinh tế và hiện đại. Rất ít vân gỗ."
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "dcehsu4ach",
+            "rowId": "477e0czx4ru",
+            "colId": "rr8bivftzl8",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border: 1px solid rgb(196, 199, 197); padding: 8px 12px; font-family: Google Sans Text, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Chống trầy & Chịu lực"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "dcehsu4ach",
+            "rowId": "67w07v9tvft",
+            "colId": "14djijzgpg3",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border: 1px solid rgb(196, 199, 197); padding: 8px 12px; font-family: Google Sans Text, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Trung bình. Đủ để chống trầy xước nhẹ trong sinh hoạt hàng ngày."
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "dcehsu4ach",
+            "rowId": "67w07v9tvft",
+            "colId": "uyzpilvnc6",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border: 1px solid rgb(196, 199, 197); padding: 8px 12px; font-family: Google Sans Text, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Tốt nhất"
+      },
+      {
+        "insert": ". Khả năng chống trầy xước, chịu va đập, chịu nhiệt, và mài mòn cực kỳ xuất sắc."
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "dcehsu4ach",
+            "rowId": "67w07v9tvft",
+            "colId": "4qcui5othem",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border: 1px solid rgb(196, 199, 197); padding: 8px 12px; font-family: Google Sans Text, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Khá kém (dễ xước dăm nếu lau chùi bằng khăn thô ráp), trừ khi dùng dòng Acrylic cao cấp phủ chống xước 6H."
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "dcehsu4ach",
+            "rowId": "67w07v9tvft",
+            "colId": "rr8bivftzl8",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border: 1px solid rgb(196, 199, 197); padding: 8px 12px; font-family: Google Sans Text, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Thẩm mỹ viền cạnh"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "dcehsu4ach",
+            "rowId": "zsd8mpp7ro",
+            "colId": "14djijzgpg3",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border: 1px solid rgb(196, 199, 197); padding: 8px 12px; font-family: Google Sans Text, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Dán cạnh có đường chỉ lai (nhìn thấy vạch mỏng giữa mặt và cạnh ván)."
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "dcehsu4ach",
+            "rowId": "zsd8mpp7ro",
+            "colId": "uyzpilvnc6",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border: 1px solid rgb(196, 199, 197); padding: 8px 12px; font-family: Google Sans Text, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Dán cạnh có đường chỉ lai."
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "dcehsu4ach",
+            "rowId": "zsd8mpp7ro",
+            "colId": "4qcui5othem",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border: 1px solid rgb(196, 199, 197); padding: 8px 12px; font-family: Google Sans Text, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Dán cạnh "
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "no-line (không đường lai)"
+      },
+      {
+        "insert": ", viền tủ liền khối như một tấm nhựa đặc, chống nước tuyệt đối."
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "dcehsu4ach",
+            "rowId": "zsd8mpp7ro",
+            "colId": "rr8bivftzl8",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border: 1px solid rgb(196, 199, 197); padding: 8px 12px; font-family: Google Sans Text, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Giá thành"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "dcehsu4ach",
+            "rowId": "211mgw975uf",
+            "colId": "14djijzgpg3",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border: 1px solid rgb(196, 199, 197); padding: 8px 12px; font-family: Google Sans Text, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Rẻ nhất"
+      },
+      {
+        "insert": ", mang lại hiệu quả kinh tế cao nhất."
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "dcehsu4ach",
+            "rowId": "211mgw975uf",
+            "colId": "uyzpilvnc6",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border: 1px solid rgb(196, 199, 197); padding: 8px 12px; font-family: Google Sans Text, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Cao. Thường đắt gấp 1.5 - 2 lần so với Melamine."
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "dcehsu4ach",
+            "rowId": "211mgw975uf",
+            "colId": "4qcui5othem",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border: 1px solid rgb(196, 199, 197); padding: 8px 12px; font-family: Google Sans Text, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Đắt nhất"
+      },
+      {
+        "insert": ". Thường đắt gấp 2 - 3 lần so với Melamine."
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "dcehsu4ach",
+            "rowId": "211mgw975uf",
+            "colId": "rr8bivftzl8",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border: 1px solid rgb(196, 199, 197); padding: 8px 12px; font-family: Google Sans Text, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Ứng dụng tối ưu nhất"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "dcehsu4ach",
+            "rowId": "zouwvu44aym",
+            "colId": "14djijzgpg3",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border: 1px solid rgb(196, 199, 197); padding: 8px 12px; font-family: Google Sans Text, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Thùng/khung bên trong của mọi loại tủ; bàn học, giường ngủ, tủ quần áo giá rẻ đến tầm trung."
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "dcehsu4ach",
+            "rowId": "zouwvu44aym",
+            "colId": "uyzpilvnc6",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border: 1px solid rgb(196, 199, 197); padding: 8px 12px; font-family: Google Sans Text, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Mặt bàn bếp, mặt bàn làm việc, tủ bếp dưới, ốp tường, tủ kệ ở khu vực đông người qua lại."
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "dcehsu4ach",
+            "rowId": "zouwvu44aym",
+            "colId": "4qcui5othem",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border: 1px solid rgb(196, 199, 197); padding: 8px 12px; font-family: Google Sans Text, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Mặt tiền (cánh) tủ bếp trên, tủ áo cánh phẳng, kệ tivi cao cấp mang phong cách hiện đại, sang trọng."
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "dcehsu4ach",
+            "rowId": "zouwvu44aym",
+            "colId": "rr8bivftzl8",
+            "rowspan": "1",
+            "colspan": "1",
+            "style": "border: 1px solid rgb(196, 199, 197); padding: 8px 12px; font-family: Google Sans Text, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "\n\n"
       },
       {
         "attributes": {
@@ -32,8 +657,7 @@
       },
       {
         "attributes": {
-          "width": "467",
-          "style": ""
+          "width": "467"
         },
         "insert": {
           "image": "/api/v1/docupedia/projects/proj_1785730371020/uploads/img_1788236388942_88fd1371.webp"
@@ -58,5 +682,5 @@
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-08-31T17:51:07.970673Z",
-  "updated_at": "2026-09-01T04:20:19.545095Z"
+  "updated_at": "2026-09-02T02:59:04.430404Z"
 }

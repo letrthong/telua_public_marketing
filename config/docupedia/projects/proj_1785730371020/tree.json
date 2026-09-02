@@ -240,7 +240,7 @@
       "created_by": "user_admin",
       "updated_by": "user_admin",
       "created_at": "2026-08-31T17:51:07.970673Z",
-      "updated_at": "2026-09-01T04:20:19.545095Z"
+      "updated_at": "2026-09-02T02:59:04.430404Z"
     },
     "doc_1788220771566": {
       "id": "doc_1788220771566",
@@ -270,18 +270,18 @@
       "created_by": "user_admin",
       "updated_by": "user_admin",
       "created_at": "2026-09-01T04:52:24.752254Z",
-      "updated_at": "2026-09-01T12:59:49.501165Z"
+      "updated_at": "2026-09-02T03:09:29.859449Z"
     },
     "doc_1788317075392": {
       "id": "doc_1788317075392",
       "type": "file",
-      "title": "11 Bố trí khu trưng bày",
+      "title": "11 Khu trưng bày",
       "parent_id": "folder_1787996319526",
       "created_by": "user_admin",
       "updated_by": "user_admin",
       "created_at": "2026-09-02T02:44:35.392736Z",
-      "updated_at": "2026-09-02T02:44:35.392736Z"
+      "updated_at": "2026-09-02T02:53:02.472739Z"
     }
   },
-  "updated_at": "2026-09-02T02:44:35.588543Z"
+  "updated_at": "2026-09-02T03:09:29.860762Z"
 }
