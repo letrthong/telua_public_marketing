@@ -1,0 +1,74 @@
+{
+  "doc_id": "doc_1788320220383",
+  "history": [
+    {
+      "id": "hist_1788320220387",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "create",
+      "timestamp": "2026-09-02T03:37:00.387715Z",
+      "details": {
+        "title": "11 Quay thu ngân"
+      }
+    },
+    {
+      "id": "hist_1788320236787",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-09-02T03:37:16.787414Z",
+      "details": {
+        "changes": {
+          "title": {
+            "old": "11 Quay thu ngân",
+            "new": "11 Quày thu ngân"
+          }
+        }
+      }
+    },
+    {
+      "id": "hist_1788320257566",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-09-02T03:37:37.566520Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1788320602077",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-09-02T03:43:22.077923Z",
+      "details": {
+        "changes": {
+          "title": {
+            "old": "11 Quày thu ngân",
+            "new": "12 Quày thu ngân"
+          }
+        }
+      }
+    },
+    {
+      "id": "hist_1788320747690",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-09-02T03:45:47.690480Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    }
+  ]
+}

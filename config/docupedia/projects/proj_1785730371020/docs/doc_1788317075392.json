@@ -10,6 +10,44 @@
       },
       {
         "attributes": {
+          "style": "display: block; margin: auto;"
+        },
+        "insert": {
+          "image": "/api/v1/docupedia/projects/proj_1785730371020/uploads/img_1788319983495_74d3b0e4.webp"
+        }
+      },
+      {
+        "attributes": {
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "width": "457",
+          "style": "display: block; margin: auto;"
+        },
+        "insert": {
+          "image": "/api/v1/docupedia/projects/proj_1785730371020/uploads/img_1788320101877_bd50f72a.webp"
+        }
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "link": "https://www.tiktok.com/@dailyflowersnl/video/7678766084362636577"
+        },
+        "insert": "https://www.tiktok.com/@dailyflowersnl/video/7678766084362636577"
+      },
+      {
+        "insert": "\n\n"
+      },
+      {
+        "attributes": {
           "width": "545",
           "style": "display: block; margin: auto;"
         },
@@ -49,5 +87,5 @@
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-09-02T02:44:35.392736Z",
-  "updated_at": "2026-09-02T02:53:02.472739Z"
+  "updated_at": "2026-09-02T03:38:46.165020Z"
 }
