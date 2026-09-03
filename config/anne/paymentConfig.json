@@ -4,7 +4,7 @@
       "code": "vietqr",
       "label": "Thanh toán Online (VietQR)",
       "description": "Chuyển khoản tự động qua mã QR chuẩn Napas 247 EMVCo. Hệ thống/backend tự động xác nhận khi nhận được tiền; nhân viên không cần thao tác thu tiền.",
-      "enabled": true
+      "enabled": false
     },
     "cash": {
       "code": "cash",
@@ -13,5 +13,5 @@
       "enabled": true
     }
   },
-  "updatedAt": "2026-09-02T10:16:13Z"
+  "updatedAt": "2026-09-03T01:07:29Z"
 }
