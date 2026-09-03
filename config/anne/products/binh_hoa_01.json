@@ -8,7 +8,7 @@
   "salePrice": "1,800,000₫",
   "originalPrice": "1,800,000₫",
   "badge": "Nghệ Thuật",
-  "image": "/api/flower/v1/images/prod_1788079372_d45e5331.webp",
+  "image": "/api/flower/v1/images/prod_1788454261_f7139bdb.webp",
   "gallery": [
     "/api/flower/v1/images/binh_hoa_01.webp"
   ],
@@ -51,5 +51,5 @@
   },
   "dailyQuota": 8,
   "isActive": true,
-  "updatedAt": "2026-08-30T08:43:04Z"
+  "updatedAt": "2026-09-03T16:51:06Z"
 }

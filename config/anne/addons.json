@@ -1,5 +1,20 @@
 [
   {
+    "id": "addon_54521",
+    "name": "Candles",
+    "nameVi": "Nến",
+    "category": "decoration",
+    "price": 80000,
+    "image": "/api/flower/v1/images/addon_1788454518_35349add.webp",
+    "description": "",
+    "sortOrder": 1,
+    "status": "active",
+    "isActive": true,
+    "isDeleted": false,
+    "createdAt": "2026-09-03T16:55:21Z",
+    "updatedAt": "2026-09-03T16:55:21Z"
+  },
+  {
     "id": "addon_vase",
     "name": "Pretty Glass Vase",
     "nameVi": "Bình Hoa Thủy Tinh Xinh Xắn",

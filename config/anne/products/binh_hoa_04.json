@@ -1,20 +1,49 @@
 {
   "id": "binh_hoa_04",
   "name": "Bình Gốm Cắm Hoa Nghệ Thuật Minimalist",
+  "nameTextId": null,
   "category": "binh_hoa",
   "priceLevelId": "price_lvl_02",
   "priceNumber": 690000,
   "salePrice": "690,000₫",
   "originalPrice": "690,000₫",
   "badge": "Bán chạy",
-  "image": "/api/flower/v1/images/binh_hoa_04.webp",
+  "image": "/api/flower/v1/images/prod_1788454343_9b0bb516.webp",
   "gallery": [
     "/api/flower/v1/images/binh_hoa_04.webp"
   ],
   "description": "",
+  "descTextId": null,
   "flowerComposition": "Gốm men mờ cao cấp nung nhiệt độ cao 1200 độ C",
+  "compTextId": null,
   "dimension": "Cao 30cm x Rộng 18cm",
   "careTips": "Rửa sạch lòng bình bằng nước ấm và phơi khô sau mỗi lần cắm hoa.",
+  "i18n": {
+    "en": {
+      "careTips": "Rinse inner vessel thoroughly with warm water and air dry completely after each floral use.",
+      "description": "Artisan rustic handmade ceramic vase in Scandinavian minimalist aesthetic, enhancing the natural silhouette of fresh cut blooms.",
+      "flowerComposition": "High-fired 1200°C Premium Matte Glazed Ceramic",
+      "name": "Minimalist Ceramic Art Flower Vase"
+    },
+    "ja": {
+      "careTips": "使用後は内側をぬるま湯で洗い、しっかりと自然乾燥させてください。",
+      "description": "北欧ミニマリズムを取り入れた素朴で温かみのある職人手作り花瓶。あらゆる生花の自然な美しさを引き出します。",
+      "flowerComposition": "1200℃高温焼成プレミアムマット釉薬陶器",
+      "name": "北欧ミニマリスト 陶器アート花瓶"
+    },
+    "ko": {
+      "careTips": "꽃을 비운 후 화병 내부를 미온수로 헹구고 완전히 자연 건조해 주세요.",
+      "description": "스칸디나비안 미니멀리즘 감성의 수제 도자기 화병으로 생화의 자연스러운 라인을 돋보이게 해줍니다.",
+      "flowerComposition": "1200℃ 고온 소성 프리미엄 매트 세라믹",
+      "name": "미니멀리스트 세라믹 플라워 화병"
+    },
+    "zh": {
+      "careTips": "每次使用后用温水清洗瓶身内部，倒置风干保存。",
+      "description": "北欧极简美学手作陶艺花瓶，质朴温润，完美衬托鲜花的自然姿态与空间格调。",
+      "flowerComposition": "1200℃高温烧制特级哑光高级陶艺",
+      "name": "极简北欧风 艺术陶瓷花瓶"
+    }
+  },
   "stockByBranch": {
     "branch_q10": 8,
     "branch_q1": 5,
@@ -22,31 +51,5 @@
   },
   "dailyQuota": 15,
   "isActive": true,
-  "updatedAt": "2026-08-27T14:13:44Z",
-  "i18n": {
-    "en": {
-      "name": "Minimalist Ceramic Art Flower Vase",
-      "flowerComposition": "High-fired 1200°C Premium Matte Glazed Ceramic",
-      "description": "Artisan rustic handmade ceramic vase in Scandinavian minimalist aesthetic, enhancing the natural silhouette of fresh cut blooms.",
-      "careTips": "Rinse inner vessel thoroughly with warm water and air dry completely after each floral use."
-    },
-    "ja": {
-      "name": "北欧ミニマリスト 陶器アート花瓶",
-      "flowerComposition": "1200℃高温焼成プレミアムマット釉薬陶器",
-      "description": "北欧ミニマリズムを取り入れた素朴で温かみのある職人手作り花瓶。あらゆる生花の自然な美しさを引き出します。",
-      "careTips": "使用後は内側をぬるま湯で洗い、しっかりと自然乾燥させてください。"
-    },
-    "ko": {
-      "name": "미니멀리스트 세라믹 플라워 화병",
-      "flowerComposition": "1200℃ 고온 소성 프리미엄 매트 세라믹",
-      "description": "스칸디나비안 미니멀리즘 감성의 수제 도자기 화병으로 생화의 자연스러운 라인을 돋보이게 해줍니다.",
-      "careTips": "꽃을 비운 후 화병 내부를 미온수로 헹구고 완전히 자연 건조해 주세요."
-    },
-    "zh": {
-      "name": "极简北欧风 艺术陶瓷花瓶",
-      "flowerComposition": "1200℃高温烧制特级哑光高级陶艺",
-      "description": "北欧极简美学手作陶艺花瓶，质朴温润，完美衬托鲜花的自然姿态与空间格调。",
-      "careTips": "每次使用后用温水清洗瓶身内部，倒置风干保存。"
-    }
-  }
+  "updatedAt": "2026-09-03T16:52:35Z"
 }
