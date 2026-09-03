@@ -1,0 +1,38 @@
+{
+  "id": "bo_hoa_1788453978",
+  "name": "Hoàng hôn thác nước - Hoa hồng cam",
+  "nameTextId": null,
+  "category": "bo_hoa",
+  "priceLevelId": "price_lvl_01",
+  "priceNumber": 450000,
+  "salePrice": "450,000₫",
+  "originalPrice": "450,000₫",
+  "badge": "",
+  "image": "/api/flower/v1/images/prod_1788453913_045717c5.webp",
+  "gallery": [
+    "/api/flower/v1/images/prod_1788453913_045717c5.webp"
+  ],
+  "description": "x",
+  "descTextId": null,
+  "flowerComposition": "xx",
+  "compTextId": null,
+  "dimension": "x",
+  "careTips": "",
+  "i18n": {
+    "en": {
+      "name": "Waterfall Sunset - Orange Roses",
+      "flowerComposition": "",
+      "description": "",
+      "careTips": ""
+    }
+  },
+  "stockByBranch": {
+    "branch_q10": 10,
+    "branch_q1": 5,
+    "branch_thao_dien": 5
+  },
+  "dailyQuota": 15,
+  "isActive": true,
+  "createdAt": "2026-09-03T16:46:18Z",
+  "updatedAt": "2026-09-03T16:46:18Z"
+}
