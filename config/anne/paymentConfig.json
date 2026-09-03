@@ -1,0 +1,17 @@
+{
+  "methods": {
+    "online": {
+      "code": "vietqr",
+      "label": "Thanh toán Online (VietQR)",
+      "description": "Chuyển khoản tự động qua mã QR chuẩn Napas 247 EMVCo. Hệ thống/backend tự động xác nhận khi nhận được tiền; nhân viên không cần thao tác thu tiền.",
+      "enabled": true
+    },
+    "cash": {
+      "code": "cash",
+      "label": "Tiền mặt (COD / Tại quầy)",
+      "description": "Thanh toán tiền mặt khi nhận hàng (COD) hoặc trực tiếp tại cửa hàng (pickup). Nhân viên xác nhận trạng thái đã thanh toán sau khi thu tiền.",
+      "enabled": true
+    }
+  },
+  "updatedAt": "2026-09-02T10:16:13Z"
+}
