@@ -1191,6 +1191,54 @@
       "ja": "ご注文手続きへ",
       "ko": "주문하기",
       "zh": "立即结算"
+    },
+    "addons_title": {
+      "type": "system",
+      "vi": "Chọn Sản Phẩm Kèm Theo Để Thêm Phần Đặc Biệt",
+      "en": "Select Add-Ons To Make It Extra Special",
+      "ja": "特別な一品をプラスするアドオンを選択",
+      "ko": "더 특별하게 만드는 애드온을 선택하세요",
+      "zh": "选择附加产品，让礼物更特别"
+    },
+    "addon_vase_name": {
+      "type": "system",
+      "vi": "Bình Hoa Thủy Tinh Xinh Xắn",
+      "en": "Pretty Glass Vase",
+      "ja": "上品なガラス花瓶",
+      "ko": "예쁜 유리 화병",
+      "zh": "精美玻璃花瓶"
+    },
+    "addon_chocolate_name": {
+      "type": "system",
+      "vi": "Hộp Socola Cao Cấp",
+      "en": "Premium Chocolates",
+      "ja": "高級チョコレートボックス",
+      "ko": "프리미엄 초콜릿 세트",
+      "zh": "比利时进口巧克力礼盒"
+    },
+    "addon_teddy_name": {
+      "type": "system",
+      "vi": "Gấu Bông Đáng Yêu",
+      "en": "Cute Teddy Bear",
+      "ja": "かわいいテディベア",
+      "ko": "사랑스러운 테디베어",
+      "zh": "可爱泰迪熊公仔"
+    },
+    "addon_cake_name": {
+      "type": "system",
+      "vi": "Bánh Kem Sinh Nhật",
+      "en": "Birthday Cake",
+      "ja": "バースデーケーキ",
+      "ko": "생일 축하 케이크",
+      "zh": "精致生日蛋糕"
+    },
+    "addon_balloon_name": {
+      "type": "system",
+      "vi": "Bóng Bay Trang Trí",
+      "en": "Balloon Bouquet",
+      "ja": "お祝いバルーンブーケ",
+      "ko": "파티 축하 풍선 다발",
+      "zh": "浪漫派对气球束"
     }
   }
 }
