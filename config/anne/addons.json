@@ -7,12 +7,13 @@
     "price": 80000,
     "image": "/api/flower/v1/images/addon_1788454518_35349add.webp",
     "description": "",
-    "sortOrder": 1,
+    "sortOrder": 6,
     "status": "active",
     "isActive": true,
     "isDeleted": false,
     "createdAt": "2026-09-03T16:55:21Z",
-    "updatedAt": "2026-09-03T16:55:21Z"
+    "updatedAt": "2026-09-04T00:38:54Z",
+    "deletedAt": null
   },
   {
     "id": "addon_vase",
@@ -20,7 +21,7 @@
     "nameVi": "Bình Hoa Thủy Tinh Xinh Xắn",
     "category": "vase",
     "price": 150000,
-    "image": "/api/flower/v1/images/addon_1788339901_429fa1cc.webp",
+    "image": "/api/flower/v1/images/addon_1788482306_5bed0d8c.webp",
     "description": "Bình thủy tinh trong suốt cao cấp, tôn lên vẻ đẹp của bó hoa.",
     "isActive": true,
     "sortOrder": 1,
@@ -28,7 +29,7 @@
     "status": "active",
     "isDeleted": false,
     "deletedAt": null,
-    "updatedAt": "2026-09-02T09:05:04Z"
+    "updatedAt": "2026-09-04T00:38:31Z"
   },
   {
     "id": "addon_chocolate",
