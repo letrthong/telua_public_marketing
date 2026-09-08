@@ -1,0 +1,24 @@
+{
+  "id": "doc_1788833117751",
+  "type": "file",
+  "title": "07 Proxy",
+  "parent_id": "folder_1781664831259",
+  "content": {
+    "ops": [
+      {
+        "attributes": {
+          "color": "#cd5937",
+          "bold": true
+        },
+        "insert": "kinit"
+      },
+      {
+        "insert": "\n"
+      }
+    ]
+  },
+  "created_by": "user_admin",
+  "updated_by": "user_admin",
+  "created_at": "2026-09-08T02:05:17.751901Z",
+  "updated_at": "2026-09-08T02:05:27.646839Z"
+}
