@@ -1,0 +1,41 @@
+{
+  "id": "doc_1788835792141",
+  "type": "file",
+  "title": "01 Skill",
+  "parent_id": "folder_1788835777642",
+  "content": {
+    "ops": [
+      {
+        "attributes": {
+          "link": "https://github.com/decebals/claude-code-java"
+        },
+        "insert": "decebals/claude-code-java: Reusable AI development infrastructure for Java projects, optimized for Claude Code"
+      },
+      {
+        "insert": "\n\njdubois/dr-jskill\ndecebals/claude-code-java\npepperize/java-skills\nsoujava/agent-skills\n\nhttps://github.com/decebals/claude-code-java/tree/main\n\nAndroid Automotive OS (AAOS)\n"
+      },
+      {
+        "attributes": {
+          "link": "https://github.com/dpconde/claude-android-skill"
+        },
+        "insert": "dpconde/claude-android-skill: Claude Code skill for building modern Android apps following best practices."
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "link": "https://github.com/rcosteira79/android-skills"
+        },
+        "insert": "https://github.com/rcosteira79/android-skills"
+      },
+      {
+        "insert": "\n"
+      }
+    ]
+  },
+  "created_by": "user_admin",
+  "updated_by": "user_admin",
+  "created_at": "2026-09-08T02:49:52.141730Z",
+  "updated_at": "2026-09-08T03:01:47.370543Z"
+}
