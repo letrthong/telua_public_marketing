@@ -27,16 +27,7 @@
         "insert": "  "
       },
       {
-        "insert": "https://cs.android.com/android/platform/superproject/main\n\n"
-      },
-      {
-        "attributes": {
-          "link": "https://scrcpy.dev/#download"
-        },
-        "insert": "Scrcpy - Free Android Screen Mirroring | Display & Control Android on PC"
-      },
-      {
-        "insert": "\nscrcpy\n"
+        "insert": "https://cs.android.com/android/platform/superproject/main\n\n \nscrcpy\n"
       },
       {
         "attributes": {
@@ -179,5 +170,5 @@
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-06-23T06:51:59.236546Z",
-  "updated_at": "2026-08-10T06:39:47.276915Z"
+  "updated_at": "2026-09-09T03:15:09.611385Z"
 }
