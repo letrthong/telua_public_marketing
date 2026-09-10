@@ -114,6 +114,51 @@
         "insert": "\n"
       },
       {
+        "insert": "\nGit cherry-pick\ngit cherry-pick <commit-hash>"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": "revert a file after cherry-pick"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "git checkout e1350c322fd3f57bc233d1d7f551fd98751aa776 -- file.xyz﻿"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "\nDelete remote branch\ngit push <remote-name> --delete <branch-name>"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": "git push origin --delete usr/etr1hc/my_task"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
         "insert": "\nCập nhập lúc 10:43 24/7/2026\n"
       }
     ]
@@ -121,5 +166,5 @@
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-06-12T16:08:48.145458Z",
-  "updated_at": "2026-08-07T08:02:14.015190Z"
+  "updated_at": "2026-09-10T06:36:42.579120Z"
 }
