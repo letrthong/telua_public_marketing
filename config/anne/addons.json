@@ -8,11 +8,11 @@
     "image": "/api/flower/v1/images/addon_1788454518_35349add.webp",
     "description": "",
     "sortOrder": 6,
-    "status": "active",
-    "isActive": true,
+    "status": "inactive",
+    "isActive": false,
     "isDeleted": false,
     "createdAt": "2026-09-03T16:55:21Z",
-    "updatedAt": "2026-09-04T00:38:54Z",
+    "updatedAt": "2026-09-11T09:57:10Z",
     "deletedAt": null
   },
   {
@@ -39,13 +39,13 @@
     "price": 250000,
     "image": "/api/flower/v1/images/addon_1788340555_05e87714.jpg",
     "description": "Hộp socola Bỉ nhập khẩu, ngọt ngào cho người thương.",
-    "isActive": true,
+    "isActive": false,
     "sortOrder": 2,
     "createdAt": "2026-09-02T00:00:00Z",
-    "status": "active",
+    "status": "inactive",
     "isDeleted": false,
     "deletedAt": null,
-    "updatedAt": "2026-09-02T09:15:57Z"
+    "updatedAt": "2026-09-11T09:57:14Z"
   },
   {
     "id": "addon_teddy",
@@ -55,13 +55,13 @@
     "price": 180000,
     "image": "/api/flower/v1/images/addon_1788340463_2a4c8094.webp",
     "description": "Gấu bông mềm mại, biểu tượng yêu thương ngọt ngào.",
-    "isActive": true,
+    "isActive": false,
     "sortOrder": 3,
     "createdAt": "2026-09-02T00:00:00Z",
-    "status": "active",
+    "status": "inactive",
     "isDeleted": false,
     "deletedAt": null,
-    "updatedAt": "2026-09-02T09:14:27Z"
+    "updatedAt": "2026-09-11T09:57:18Z"
   },
   {
     "id": "addon_cake",
@@ -71,13 +71,13 @@
     "price": 350000,
     "image": "/api/flower/v1/images/addon_1788340330_92d010e7.webp",
     "description": "Bánh kem sinh nhật tươi, hoàn hảo cho dịp tổ chức tiệc.",
-    "isActive": true,
+    "isActive": false,
     "sortOrder": 4,
     "createdAt": "2026-09-02T00:00:00Z",
-    "status": "active",
+    "status": "inactive",
     "isDeleted": false,
     "deletedAt": null,
-    "updatedAt": "2026-09-02T09:12:13Z"
+    "updatedAt": "2026-09-11T09:57:22Z"
   },
   {
     "id": "addon_balloon",
@@ -87,8 +87,10 @@
     "price": 120000,
     "image": "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=200",
     "description": "Chùm bóng bay rực rỡ, thêm sinh khí cho buổi tiệc.",
-    "isActive": true,
+    "isActive": false,
     "sortOrder": 5,
-    "createdAt": "2026-09-02T00:00:00Z"
+    "createdAt": "2026-09-02T00:00:00Z",
+    "status": "inactive",
+    "updatedAt": "2026-09-11T09:57:25Z"
   }
 ]

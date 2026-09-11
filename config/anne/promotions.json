@@ -13,11 +13,11 @@
     "usedCount": 45,
     "topBarMessage": "🔥 ƯU ĐÃI 20/10: Nhập mã PHUNU15 giảm 15% + Tặng thiệp hoa thiết kế!",
     "heroBannerUrl": "https://images.unsplash.com/photo-1561181286-d3fee7d55364?w=1200",
-    "status": "active",
-    "isActive": true,
+    "status": "inactive",
+    "isActive": false,
     "isDeleted": false,
     "createdAt": "2026-08-20T00:00:00Z",
-    "updatedAt": "2026-08-23T20:25:00Z"
+    "updatedAt": "2026-09-11T09:56:52Z"
   },
   {
     "id": "promo_anne10",
