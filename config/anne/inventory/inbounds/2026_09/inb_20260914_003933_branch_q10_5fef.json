@@ -1,0 +1,28 @@
+{
+  "id": "inb_20260914_003933_branch_q10_5fef",
+  "inboundCode": "NH_20260914_0E5",
+  "branchId": "branch_q10",
+  "supplier": "Vườn Hoa Đà Lạt Hasfarm",
+  "importDate": "2026-09-14",
+  "receivedBy": "staff_admin",
+  "receiverName": "Tổng Quản Trị Hệ Thống",
+  "paymentStatus": "paid",
+  "items": [
+    {
+      "materialId": "bo_hoa_1788453978",
+      "materialName": "Hoàng hôn thác nước - Hoa hồng cam",
+      "quantity": 50,
+      "bundles": null,
+      "stemsPerBundle": null,
+      "importMode": "stem",
+      "unit": "bình",
+      "costPrice": 225000,
+      "totalAmount": 11250000
+    }
+  ],
+  "totalItems": 1,
+  "totalStems": 50,
+  "totalCost": 11250000,
+  "notes": "",
+  "createdAt": "2026-09-13T17:39:33Z"
+}

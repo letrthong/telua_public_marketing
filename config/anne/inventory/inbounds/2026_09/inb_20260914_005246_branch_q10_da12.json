@@ -1,0 +1,28 @@
+{
+  "id": "inb_20260914_005246_branch_q10_da12",
+  "inboundCode": "NH_20260914_53D",
+  "branchId": "branch_q10",
+  "supplier": "Vườn Hoa Đà Lạt Hasfarm",
+  "importDate": "2026-09-14",
+  "receivedBy": "staff_admin",
+  "receiverName": "Tổng Quản Trị Hệ Thống",
+  "paymentStatus": "paid",
+  "items": [
+    {
+      "materialId": "binh_hoa_01",
+      "materialName": "Bình Gốm Tĩnh Lặng",
+      "quantity": 50,
+      "bundles": null,
+      "stemsPerBundle": null,
+      "importMode": "stem",
+      "unit": "bình",
+      "costPrice": 900000,
+      "totalAmount": 45000000
+    }
+  ],
+  "totalItems": 1,
+  "totalStems": 50,
+  "totalCost": 45000000,
+  "notes": "",
+  "createdAt": "2026-09-13T17:52:46Z"
+}

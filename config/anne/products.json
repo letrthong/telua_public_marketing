@@ -4,6 +4,9 @@
     "name": "Hoàng hôn thác nước - Hoa hồng cam",
     "nameTextId": null,
     "category": "bo_hoa",
+    "productType": "arranged",
+    "recipe": null,
+    "stemCount": 0,
     "priceLevelId": "price_lvl_01",
     "priceNumber": 450000,
     "salePrice": "450,000₫",
@@ -17,13 +20,11 @@
     },
     "stockByBranch": {
       "branch_q10": 10,
-      "branch_q1": 5,
-      "branch_thao_dien": 5
+      "branch_q1": 5
     },
     "dailyQuota": 15,
     "isActive": true,
-    "updatedAt": "2026-09-03T16:46:18Z",
-    "productType": "direct"
+    "updatedAt": "2026-09-13T17:43:17Z"
   },
   {
     "id": "binh_hoa_01",
