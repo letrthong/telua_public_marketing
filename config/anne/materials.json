@@ -1,32 +1,5 @@
 [
   {
-    "id": "bo_hoa_1788453978",
-    "name": "Hoàng hôn thác nước - Hoa hồng cam",
-    "nameTextId": null,
-    "category": "bo_hoa",
-    "productType": "arranged",
-    "recipe": null,
-    "stemCount": 0,
-    "priceLevelId": "price_lvl_01",
-    "priceNumber": 450000,
-    "salePrice": "450,000₫",
-    "originalPrice": "450,000₫",
-    "badge": "",
-    "image": "/api/flower/v1/images/prod_1788453913_045717c5.webp",
-    "i18n": {
-      "en": {
-        "name": "Waterfall Sunset - Orange Roses"
-      }
-    },
-    "stockByBranch": {
-      "branch_q10": 10,
-      "branch_q1": 5
-    },
-    "dailyQuota": 15,
-    "isActive": true,
-    "updatedAt": "2026-09-13T17:43:17Z"
-  },
-  {
     "id": "binh_hoa_01",
     "name": "Bình Gốm Tĩnh Lặng",
     "nameTextId": null,
@@ -34,8 +7,8 @@
     "productType": "direct",
     "recipe": null,
     "stemCount": 1,
-    "unit": null,
-    "costPrice": null,
+    "unit": "bình",
+    "costPrice": 190000,
     "priceLevelId": "price_lvl_01",
     "priceNumber": 380000,
     "salePrice": "380,000₫",
@@ -62,7 +35,9 @@
     },
     "dailyQuota": 8,
     "isActive": true,
-    "updatedAt": "2026-09-14T03:24:57Z"
+    "updatedAt": "2026-09-14T03:24:57Z",
+    "minStockAlert": 10,
+    "minAlertLevel": 10
   },
   {
     "id": "binh_hoa_04",
@@ -98,7 +73,11 @@
     },
     "dailyQuota": 13,
     "isActive": true,
-    "updatedAt": "2026-09-14T00:17:18Z"
+    "updatedAt": "2026-09-14T00:17:18Z",
+    "unit": "bình",
+    "costPrice": 345000,
+    "minStockAlert": 10,
+    "minAlertLevel": 10
   },
   {
     "id": "bo_hoa_01",
@@ -133,7 +112,11 @@
     "dailyQuota": 20,
     "isActive": true,
     "updatedAt": "2026-08-30T00:14:06Z",
-    "productType": "direct"
+    "productType": "direct",
+    "unit": "cành",
+    "costPrice": 210000,
+    "minStockAlert": 10,
+    "minAlertLevel": 10
   },
   {
     "id": "bo_hoa_02",
@@ -168,45 +151,11 @@
     "dailyQuota": 15,
     "isActive": true,
     "updatedAt": "2026-08-30T08:45:27Z",
-    "productType": "direct"
-  },
-  {
-    "id": "bo_hoa_1788048445",
-    "name": "Bó Hoa Hồng Đỏ Kiêu Kỳ",
-    "nameTextId": null,
-    "category": "bo_hoa",
-    "productType": "arranged",
-    "recipe": null,
-    "stemCount": 0,
-    "unit": null,
-    "costPrice": null,
-    "priceLevelId": "price_lvl_01",
-    "priceNumber": 410000,
-    "salePrice": "410,000₫",
-    "originalPrice": "410,000₫",
-    "badge": "Mới",
-    "image": "/api/flower/v1/images/bo_hoa_1788048445.webp",
-    "i18n": {
-      "en": {
-        "name": "Velvet Red Roses Bouquet"
-      },
-      "ja": {
-        "name": "ベルベットレッドローズ 花束"
-      },
-      "ko": {
-        "name": "벨벳 레드 로즈 꽃다발"
-      },
-      "zh": {
-        "name": "丝绒红玫瑰 浪漫花束"
-      }
-    },
-    "stockByBranch": {
-      "branch_q10": 10,
-      "branch_q1": 5
-    },
-    "dailyQuota": 15,
-    "isActive": true,
-    "updatedAt": "2026-09-14T03:25:36Z"
+    "productType": "direct",
+    "unit": "cành",
+    "costPrice": 425000,
+    "minStockAlert": 10,
+    "minAlertLevel": 10
   },
   {
     "id": "bo_hoa_1788048626",
@@ -242,7 +191,11 @@
     },
     "dailyQuota": 15,
     "isActive": true,
-    "updatedAt": "2026-09-13T17:34:55Z"
+    "updatedAt": "2026-09-13T17:34:55Z",
+    "unit": "cành",
+    "costPrice": 225000,
+    "minStockAlert": 10,
+    "minAlertLevel": 10
   },
   {
     "id": "bo_hoa_1788048671",
@@ -276,7 +229,11 @@
     "dailyQuota": 15,
     "isActive": true,
     "updatedAt": "2026-08-30T00:11:11Z",
-    "productType": "direct"
+    "productType": "direct",
+    "unit": "cành",
+    "costPrice": 200000,
+    "minStockAlert": 10,
+    "minAlertLevel": 10
   },
   {
     "id": "bo_hoa_1788048730",
@@ -310,7 +267,11 @@
     "dailyQuota": 15,
     "isActive": true,
     "updatedAt": "2026-08-30T00:12:10Z",
-    "productType": "direct"
+    "productType": "direct",
+    "unit": "cành",
+    "costPrice": 250000,
+    "minStockAlert": 10,
+    "minAlertLevel": 10
   },
   {
     "id": "bo_hoa_1788048775",
@@ -344,7 +305,11 @@
     "dailyQuota": 15,
     "isActive": true,
     "updatedAt": "2026-08-30T00:12:55Z",
-    "productType": "direct"
+    "productType": "direct",
+    "unit": "cành",
+    "costPrice": 250000,
+    "minStockAlert": 10,
+    "minAlertLevel": 10
   },
   {
     "id": "gio_hoa_01",
@@ -378,7 +343,11 @@
     "dailyQuota": 10,
     "isActive": true,
     "updatedAt": "2026-08-27T22:07:13Z",
-    "productType": "direct"
+    "productType": "direct",
+    "unit": "cành",
+    "costPrice": 440000,
+    "minStockAlert": 10,
+    "minAlertLevel": 10
   },
   {
     "id": "hoa_cuoi_1787840801",
@@ -412,7 +381,11 @@
     "dailyQuota": 15,
     "isActive": true,
     "updatedAt": "2026-08-28T15:18:51Z",
-    "productType": "direct"
+    "productType": "direct",
+    "unit": "cành",
+    "costPrice": 225000,
+    "minStockAlert": 10,
+    "minAlertLevel": 10
   },
   {
     "id": "ke_hoa_02",
@@ -446,7 +419,11 @@
     "dailyQuota": 10,
     "isActive": true,
     "updatedAt": "2026-08-30T00:04:03Z",
-    "productType": "direct"
+    "productType": "direct",
+    "unit": "cành",
+    "costPrice": 900000,
+    "minStockAlert": 10,
+    "minAlertLevel": 10
   },
   {
     "id": "ke_hoa_04",
@@ -480,7 +457,11 @@
     "dailyQuota": 8,
     "isActive": true,
     "updatedAt": "2026-08-28T15:16:33Z",
-    "productType": "direct"
+    "productType": "direct",
+    "unit": "cành",
+    "costPrice": 750000,
+    "minStockAlert": 10,
+    "minAlertLevel": 10
   },
   {
     "id": "lan_01",
@@ -514,6 +495,10 @@
     "dailyQuota": 5,
     "isActive": true,
     "updatedAt": "2026-08-24T15:46:52Z",
-    "productType": "direct"
+    "productType": "direct",
+    "unit": "cành",
+    "costPrice": 1750000,
+    "minStockAlert": 10,
+    "minAlertLevel": 10
   }
 ]
