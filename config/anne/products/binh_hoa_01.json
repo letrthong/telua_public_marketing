@@ -3,10 +3,13 @@
   "name": "Bình Gốm Tĩnh Lặng",
   "nameTextId": null,
   "category": "binh_hoa",
-  "priceLevelId": "price_lvl_03",
-  "priceNumber": 1800000,
-  "salePrice": "1,800,000₫",
-  "originalPrice": "1,800,000₫",
+  "productType": "direct",
+  "recipe": [],
+  "stemCount": 0,
+  "priceLevelId": "price_lvl_01",
+  "priceNumber": 380000,
+  "salePrice": "380,000₫",
+  "originalPrice": "380,000₫",
   "badge": "Nghệ Thuật",
   "image": "/api/flower/v1/images/prod_1788454261_f7139bdb.webp",
   "gallery": [
@@ -46,10 +49,9 @@
   },
   "stockByBranch": {
     "branch_q10": 5,
-    "branch_q1": 3,
-    "branch_thao_dien": 3
+    "branch_q1": 3
   },
   "dailyQuota": 8,
   "isActive": true,
-  "updatedAt": "2026-09-03T16:51:06Z"
+  "updatedAt": "2026-09-14T00:18:20Z"
 }

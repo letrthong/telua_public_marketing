@@ -31,10 +31,13 @@
     "name": "Bình Gốm Tĩnh Lặng",
     "nameTextId": null,
     "category": "binh_hoa",
-    "priceLevelId": "price_lvl_03",
-    "priceNumber": 1800000,
-    "salePrice": "1,800,000₫",
-    "originalPrice": "1,800,000₫",
+    "productType": "direct",
+    "recipe": null,
+    "stemCount": 0,
+    "priceLevelId": "price_lvl_01",
+    "priceNumber": 380000,
+    "salePrice": "380,000₫",
+    "originalPrice": "380,000₫",
     "badge": "Nghệ Thuật",
     "image": "/api/flower/v1/images/prod_1788454261_f7139bdb.webp",
     "i18n": {
@@ -53,19 +56,20 @@
     },
     "stockByBranch": {
       "branch_q10": 5,
-      "branch_q1": 3,
-      "branch_thao_dien": 3
+      "branch_q1": 3
     },
     "dailyQuota": 8,
     "isActive": true,
-    "updatedAt": "2026-09-03T16:51:06Z",
-    "productType": "direct"
+    "updatedAt": "2026-09-14T00:18:20Z"
   },
   {
     "id": "binh_hoa_04",
     "name": "Bình Gốm Cắm Hoa Nghệ Thuật Minimalist",
     "nameTextId": null,
     "category": "binh_hoa",
+    "productType": "direct",
+    "recipe": null,
+    "stemCount": 1,
     "priceLevelId": "price_lvl_02",
     "priceNumber": 690000,
     "salePrice": "690,000₫",
@@ -88,13 +92,11 @@
     },
     "stockByBranch": {
       "branch_q10": 8,
-      "branch_q1": 5,
-      "branch_thao_dien": 4
+      "branch_q1": 5
     },
-    "dailyQuota": 15,
+    "dailyQuota": 13,
     "isActive": true,
-    "updatedAt": "2026-09-03T16:52:35Z",
-    "productType": "direct"
+    "updatedAt": "2026-09-14T00:17:18Z"
   },
   {
     "id": "bo_hoa_01",

@@ -3,6 +3,9 @@
   "name": "Bình Gốm Cắm Hoa Nghệ Thuật Minimalist",
   "nameTextId": null,
   "category": "binh_hoa",
+  "productType": "direct",
+  "recipe": [],
+  "stemCount": 1,
   "priceLevelId": "price_lvl_02",
   "priceNumber": 690000,
   "salePrice": "690,000₫",
@@ -46,10 +49,9 @@
   },
   "stockByBranch": {
     "branch_q10": 8,
-    "branch_q1": 5,
-    "branch_thao_dien": 4
+    "branch_q1": 5
   },
-  "dailyQuota": 15,
+  "dailyQuota": 13,
   "isActive": true,
-  "updatedAt": "2026-09-03T16:52:35Z"
+  "updatedAt": "2026-09-14T00:17:18Z"
 }
