@@ -6,10 +6,12 @@
   "productType": "direct",
   "recipe": [],
   "stemCount": 1,
-  "priceLevelId": "price_lvl_02",
-  "priceNumber": 690000,
-  "salePrice": "690,000₫",
-  "originalPrice": "690,000₫",
+  "unit": null,
+  "costPrice": null,
+  "priceLevelId": "price_lvl_01",
+  "priceNumber": 150000,
+  "salePrice": "150,000₫",
+  "originalPrice": "150,000₫",
   "badge": "Bán chạy",
   "image": "/api/flower/v1/images/prod_1788454343_9b0bb516.webp",
   "gallery": [
@@ -53,5 +55,5 @@
   },
   "dailyQuota": 13,
   "isActive": true,
-  "updatedAt": "2026-09-14T00:17:18Z"
+  "updatedAt": "2026-09-15T04:05:52Z"
 }
