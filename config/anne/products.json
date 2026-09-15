@@ -37,9 +37,9 @@
     "unit": null,
     "costPrice": null,
     "priceLevelId": "price_lvl_01",
-    "priceNumber": 380000,
-    "salePrice": "380,000₫",
-    "originalPrice": "380,000₫",
+    "priceNumber": 120000,
+    "salePrice": "120,000₫",
+    "originalPrice": "120,000₫",
     "badge": "Nghệ Thuật",
     "image": "/api/flower/v1/images/prod_1788454261_f7139bdb.webp",
     "i18n": {
@@ -62,7 +62,7 @@
     },
     "dailyQuota": 8,
     "isActive": true,
-    "updatedAt": "2026-09-14T03:24:57Z"
+    "updatedAt": "2026-09-15T03:33:37Z"
   },
   {
     "id": "binh_hoa_04",
