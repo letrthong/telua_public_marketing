@@ -1,0 +1,42 @@
+{
+  "doc_id": "doc_1789440441809",
+  "history": [
+    {
+      "id": "hist_1789440442189",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "create",
+      "timestamp": "2026-09-15T02:47:22.189981Z",
+      "details": {
+        "title": "51 in 3D"
+      }
+    },
+    {
+      "id": "hist_1789440455022",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-09-15T02:47:35.022880Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1789440549121",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-09-15T02:49:09.121528Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    }
+  ]
+}
