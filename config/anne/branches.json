@@ -3,17 +3,17 @@
     "id": "branch_q10",
     "code": "CN_TANBINH",
     "name": "Nở Hoa Thả Bình - Showroom Tân Bình",
-    "address": "62A, Nguyễn Hồng Đào, Tân Bình, TP. Hồ Chí Minh",
+    "address": "62A, Nguyễn Hồng Đào, Phường Tân Bình, TP. Hồ Chí Minh",
     "lat": 10.7725,
     "lng": 106.6698,
     "phone": "0976.491.322",
-    "openHours": "07:00 - 21:00",
+    "openHours": "08:00 - 20:00",
     "deliveryRadiusKm": 10,
     "managerId": "staff_001",
     "amenities": "Đậu xe ô tô/xe máy miễn phí, cắm hoa nghệ thuật tại chỗ, phòng lạnh bảo quản hoa",
     "isActive": true,
     "createdAt": "2026-08-21T00:00:00Z",
-    "updatedAt": "2026-08-24T03:02:20Z"
+    "updatedAt": "2026-09-15T10:10:18Z"
   },
   {
     "id": "branch_q1",
