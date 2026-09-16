@@ -146,8 +146,17 @@ do
     # Lấy dung lượng RAM thực sự CÒN TRỐNG tính bằng MB (Available)
     AVAILABLE_MB=$(free -m | awk '/^Mem:/ {print $7}')
 
+    # LƯU Ý: docker prune giải phóng DISK, KHÔNG giải phóng RAM.
+    # Nên KHÔNG dùng docker prune khi RAM thấp (trigger sai).
+    # RAM thấp thường do process/container đang chạy chiếm — cần restart service, không phải prune.
     if [ "$AVAILABLE_MB" -lt 70 ]; then
-        docker system prune -f --volumes=false
+        log "CẢNH BÁO: RAM khả dụng thấp (${AVAILABLE_MB}MB). Docker prune không giúp giải phóng RAM."
+        log "Đang thử restart telua_web để giải phóng RAM..."
+        if systemctl restart telua_web 2>/dev/null; then
+            log "Restart telua_web thành công để giải phóng RAM."
+        else
+            log "LỖI: Restart telua_web thất bại khi RAM thấp. Cần kiểm tra thủ công."
+        fi
     fi
 
     # Nếu RAM Khả dụng dưới 40MB
@@ -155,7 +164,12 @@ do
         log "CẢNH BÁO CRITICAL: RAM khả dụng chỉ còn ${AVAILABLE_MB}MB (< 50MB). Nguy cơ Out of Memory!"
         log "Đang khởi động lại hệ thống để bảo vệ máy chủ..."
         sleep 5
-        reboot
+        # Đặt trong if để reboot fail KHÔNG giết script (set -e)
+        if reboot 2>/dev/null; then
+            log "Đã gửi lệnh reboot."
+        else
+            log "LỖI: Không thể reboot (cần quyền root). Cần kiểm tra thủ công ngay!"
+        fi
     fi
 
     DISK_USAGE=$(df / | grep / | awk '{ print $5 }' | sed 's/%//g')
@@ -167,11 +181,13 @@ do
         log "Dung lượng > 80%, đang dọn dẹp sâu..."
         # Xóa build cache để giải phóng dung lượng lớn
         docker builder prune -f
-        # Xóa các image cũ, rác
-        docker image prune -f
+        # Xóa image dangling (không dùng) + image cũ hơn 24h — có filter, không xóa image mới
+        docker image prune -f --filter "until=24h"
+        # Dọn container dừng lâu hơn 24h — có filter, không xóa container mới dừng
+        docker container prune -f --filter "until=24h"
     else
         log "Ổ cứng vẫn ổn, giữ lại cache để build nhanh."
-        # Vẫn nên dọn dẹp nhẹ nhàng các container/network thừa
+        # Vẫn nên dọn dẹp nhẹ nhàng các container dừng lâu hơn 24h
         docker container prune -f --filter "until=24h"
     fi
 
