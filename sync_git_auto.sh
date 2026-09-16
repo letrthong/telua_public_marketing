@@ -154,7 +154,7 @@ do
     else
         log "Ổ cứng vẫn ổn, giữ lại cache để build nhanh."
         # Vẫn nên dọn dẹp nhẹ nhàng các container/network thừa
-        docker system prune -f --volumes=false
+        docker container prune -f --filter "until=24h"
     fi
 
     DISK_USAGE=$(df / | grep / | awk '{ print $5 }' | sed 's/%//g')
