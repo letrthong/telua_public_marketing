@@ -41,7 +41,6 @@ if [ ! -d "/opt/telua_web/app/key" ]; then
     mkdir -p "/opt/telua_web/app/key"
 fi
 
-HEALTH_FAIL_COUNT=0
 while true
 do
     # Kiểm tra kích thước log và xóa nếu quá dài
@@ -93,6 +92,13 @@ do
             fi
         else
             log "LỖI PULL! Không thể pull từ remote. Có thể có xung đột (conflict)."
+            # Dọn dẹp trạng thái rebase dở để repo không bị kẹt giữa rebase,
+            # tránh chu kỳ sau commit nhầm vào giữa rebase-in-progress.
+            if git rebase --abort 2>/dev/null; then
+                log "Đã hủy rebase (git rebase --abort) để dọn dẹp trạng thái."
+            else
+                log "Không có rebase đang dở hoặc không thể abort. Cần kiểm tra thủ công."
+            fi
             log "Vui lòng giải quyết thủ công. Script sẽ thử lại trong chu kỳ tiếp theo."
         fi
 
@@ -102,23 +108,35 @@ do
 
     # --- KIỂM TRA HEALTH CHECK ---
     log "Đang kiểm tra health_check..."
-    # Dùng curl lấy status code. Thêm || echo "000" để tránh script chết do 'set -e' khi ứng dụng sập hẳn
-    HTTP_STATUS=$(curl -s -o /dev/null -w "%{http_code}" https://telua.vn/health_check|| echo "000")
+    # Dùng curl lấy status code, có timeout (--max-time 10) để không treo vô hạn,
+    # và thử lại tối đa 3 lần, mỗi lần cách nhau 30 giây.
+    # Thêm || echo "000" để tránh script chết do 'set -e' khi ứng dụng sập hẳn.
+    HTTP_STATUS="000"
+    for attempt in 1 2 3; do
+        HTTP_STATUS=$(curl -s --max-time 10 -o /dev/null -w "%{http_code}" https://telua.vn/health_check || echo "000")
+        if [ "$HTTP_STATUS" -eq 200 ]; then
+            break
+        fi
+        log "Lần thử $attempt/3: health_check trả về HTTP Code: $HTTP_STATUS"
+        if [ "$attempt" -lt 3 ]; then
+            sleep 30
+        fi
+    done
     HEALTH_LOG_FILE="health_check.log"
     
     if [ "$HTTP_STATUS" -ne 200 ]; then
-        log "CẢNH BÁO: health_check thất bại! Trả về HTTP Code: $HTTP_STATUS"
+        log "CẢNH BÁO: health_check thất bại sau 3 lần thử! Trả về HTTP Code: $HTTP_STATUS"
         # Ghi riêng vào file log health_check theo yêu cầu
-        HEALTH_FAIL_COUNT=$((HEALTH_FAIL_COUNT+1))
-        if [ "$HEALTH_FAIL_COUNT" -ge 2 ]; then
-            echo "[$(date '+%Y-%m-%d %H:%M:%S')] CẢNH BÁO: health_check thất bại! Trả về HTTP Code: $HTTP_STATUS" >> "$HEALTH_LOG_FILE"
-            log "Health check lỗi liên tiếp 2 lần. Đang restart service telua_web..."
-            systemctl restart telua_web
-            HEALTH_FAIL_COUNT=0
+        echo "[$(date '+%Y-%m-%d %H:%M:%S')] CẢNH BÁO: health_check thất bại! Trả về HTTP Code: $HTTP_STATUS" >> "$HEALTH_LOG_FILE"
+        log "Đang restart service telua_web..."
+        # Đặt trong if để systemctl restart fail KHÔNG giết script (set -e)
+        if systemctl restart telua_web; then
+            log "Restart telua_web thành công."
+        else
+            log "LỖI: Restart telua_web thất bại! Cần kiểm tra thủ công."
         fi
     else
         log "Health check OK (200)"
-        HEALTH_FAIL_COUNT=0
     fi
 
     # Kiểm tra RAM: Sử dụng thông số Available (Khả dụng) để chống Out of Memory chính xác nhất
