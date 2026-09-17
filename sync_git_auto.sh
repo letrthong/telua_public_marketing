@@ -27,7 +27,7 @@ fi
 # --- CẤU HÌNH ---
 SOURCE_DIRS=("/opt/telua_web/app/config" "/opt/telua_web/app/video")
 DEST_DIR="."
-INTERVAL=1800 # 30 phút (1800 giây)
+INTERVAL=900 # 15 phút (900 giây)
 LOG_FILE="${SYNC_LOG_FILE:-/opt/sync_history.log}"
 MAX_LOG_LINES=5000
 
