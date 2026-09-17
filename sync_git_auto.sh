@@ -6,30 +6,35 @@
 #
 # Main features:
 # 1. Sync configuration and video folders from /opt/telua_web/app to the current repo, commit & push if there are changes.
-# 2. Check the health_check endpoint, only restart the telua_web service if it fails 2 times in a row.
+# 2. Check the health_check endpoint, only restart the telua_web service if it fails.
 # 3. Monitor and clean up RAM, disk, and logs to ensure the server runs stably.
-# 4. Repeat the entire process every 30 minutes.
+# 4. Repeat the entire process every 15 minutes.
 #
 # Author:  Thong LT
 # =============================
 
-# Thoát ngay lập tức nếu một lệnh thoát với trạng thái khác không.
-set -e
+# KHÔNG dùng set -e vì đây là daemon loop chạy nền liên tục.
+# Bất kỳ lệnh phụ nào lỗi (rsync, docker, mạng chập chờn) sẽ không làm chết script.
+export PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:$PATH"
+
+# Xác định thư mục chứa script
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
 # Load cấu hình từ file .env cùng thư mục (nếu có)
-if [ -f "$(dirname "$0")/.env" ]; then
-    source "$(dirname "$0")/.env"
+if [ -f "$SCRIPT_DIR/.env" ]; then
+    # shellcheck disable=SC1091
+    source "$SCRIPT_DIR/.env"
 fi
 
 # git config --global credential.helper store
- 
 
 # --- CẤU HÌNH ---
 SOURCE_DIRS=("/opt/telua_web/app/config" "/opt/telua_web/app/video")
-DEST_DIR="."
+DEST_DIR="$SCRIPT_DIR"
 INTERVAL=900 # 15 phút (900 giây)
 LOG_FILE="${SYNC_LOG_FILE:-/opt/sync_history.log}"
 MAX_LOG_LINES=5000
+HEALTH_LOG_FILE="$SCRIPT_DIR/health_check.log"
 
 log() {
     echo "[$(date '+%H:%M:%S')] $1"
@@ -38,15 +43,17 @@ log() {
 # Kiểm tra và tạo thư mục key (không sync)
 if [ ! -d "/opt/telua_web/app/key" ]; then
     log "Thư mục key '/opt/telua_web/app/key' không tồn tại. Đang tạo mới..."
-    mkdir -p "/opt/telua_web/app/key"
+    mkdir -p "/opt/telua_web/app/key" 2>/dev/null || log "CẢNH BÁO: Không thể tạo thư mục /opt/telua_web/app/key"
 fi
+
+cd "$SCRIPT_DIR" || exit 1
 
 while true
 do
-    # Kiểm tra kích thước log và xóa nếu quá dài
+    # 0. Kiểm tra kích thước log và xóa nếu quá dài
     if [ -f "$LOG_FILE" ]; then
-        LINE_COUNT=$(wc -l < "$LOG_FILE" 2>/dev/null || echo 0)
-        if [ "$LINE_COUNT" -gt "$MAX_LOG_LINES" ]; then
+        LINE_COUNT=$(wc -l < "$LOG_FILE" 2>/dev/null | tr -d ' ' || echo 0)
+        if [[ "$LINE_COUNT" =~ ^[0-9]+$ ]] && [ "$LINE_COUNT" -gt "$MAX_LOG_LINES" ]; then
             : > "$LOG_FILE"
             log "Log quá dài ($LINE_COUNT dòng). Đã xóa nội dung log cũ."
         fi
@@ -59,29 +66,36 @@ do
     for DIR in "${SOURCE_DIRS[@]}"; do
         if [ ! -d "$DIR" ]; then
             log "Thư mục nguồn '$DIR' không tồn tại. Đang tạo mới..."
-            mkdir -p "$DIR"
+            mkdir -p "$DIR" 2>/dev/null || log "CẢNH BÁO: Không thể tạo thư mục $DIR"
         fi
     done
 
-    
     # 1. Đồng bộ file từ nguồn vào Repo B
     log "Bước 1: Chạy rsync..."
-    rsync -av --exclude='.git' "${SOURCE_DIRS[@]}" "$DEST_DIR"
+    # rsync có thể trả về 24 (file vanished khi đang ghi/xóa video) hoặc 23 -> log cảnh báo và không dừng script
+    if ! rsync -av --exclude='.git' "${SOURCE_DIRS[@]}" "$DEST_DIR"; then
+        log "CẢNH BÁO: rsync kết thúc với mã $? (có thể do file đang ghi hoặc quyền). Tiếp tục quy trình..."
+    fi
 
     # 2. Kiểm tra thay đổi trong Git
-    if [[ -n $(git status --porcelain) ]]; then
+    GIT_STATUS_OUTPUT=$(git status --porcelain 2>/dev/null || true)
+    if [[ -n "$GIT_STATUS_OUTPUT" ]]; then
         log "Bước 2: Phát hiện thay đổi. Đang chuẩn bị push..."
         
         # Thêm tất cả thay đổi
-        git add -A
+        git add -A || log "CẢNH BÁO: git add gặp sự cố."
         
-        # Commit với thời gian
-        git commit -m "Auto-sync: $(date '+%Y-%m-%d %H:%M:%S')"
+        # Chỉ commit khi thực sự có thay đổi được staged
+        if ! git diff --cached --quiet 2>/dev/null; then
+            if ! git commit -m "Auto-sync: $(date '+%Y-%m-%d %H:%M:%S')"; then
+                log "CẢNH BÁO: git commit thất bại (có thể do lock file hoặc config user.name/email)."
+            fi
+        fi
         
         # TRƯỚC KHI PUSH: Thử pull về để tránh lỗi xung đột (conflict)
         # --rebase giúp lịch sử git sạch hơn
         log "Bước 3: Pull (rebase) để đồng bộ trước khi push..."
-        if git pull --rebase origin main; then # Thay 'main' bằng tên nhánh của bạn nếu khác
+        if git pull --rebase origin main; then
             # 4. Thực hiện Push
             log "Bước 4: Push các thay đổi..."
             if git push; then
@@ -92,8 +106,7 @@ do
             fi
         else
             log "LỖI PULL! Không thể pull từ remote. Có thể có xung đột (conflict)."
-            # Dọn dẹp trạng thái rebase dở để repo không bị kẹt giữa rebase,
-            # tránh chu kỳ sau commit nhầm vào giữa rebase-in-progress.
+            # Dọn dẹp trạng thái rebase dở để repo không bị kẹt giữa rebase
             if git rebase --abort 2>/dev/null; then
                 log "Đã hủy rebase (git rebase --abort) để dọn dẹp trạng thái."
             else
@@ -108,13 +121,17 @@ do
 
     # --- KIỂM TRA HEALTH CHECK ---
     log "Đang kiểm tra health_check..."
-    # Dùng curl lấy status code, có timeout (--max-time 10) để không treo vô hạn,
-    # và thử lại tối đa 3 lần, mỗi lần cách nhau 30 giây.
-    # Thêm || echo "000" để tránh script chết do 'set -e' khi ứng dụng sập hẳn.
     HTTP_STATUS="000"
     for attempt in 1 2 3; do
-        HTTP_STATUS=$(curl -s --max-time 10 -o /dev/null -w "%{http_code}" https://telua.vn/health_check || echo "000")
-        if [ "$HTTP_STATUS" -eq 200 ]; then
+        # Lấy HTTP status code một cách an toàn, tránh lỗi 000000 do lặp echo
+        RAW_STATUS=$(curl -s --max-time 10 -o /dev/null -w "%{http_code}" https://telua.vn/health_check 2>/dev/null || true)
+        if [[ "$RAW_STATUS" =~ ^[0-9]{3}$ ]]; then
+            HTTP_STATUS="$RAW_STATUS"
+        else
+            HTTP_STATUS="000"
+        fi
+
+        if [ "$HTTP_STATUS" = "200" ]; then
             break
         fi
         log "Lần thử $attempt/3: health_check trả về HTTP Code: $HTTP_STATUS"
@@ -122,15 +139,13 @@ do
             sleep 30
         fi
     done
-    HEALTH_LOG_FILE="health_check.log"
     
-    if [ "$HTTP_STATUS" -ne 200 ]; then
+    if [ "$HTTP_STATUS" != "200" ]; then
         log "CẢNH BÁO: health_check thất bại sau 3 lần thử! Trả về HTTP Code: $HTTP_STATUS"
-        # Ghi riêng vào file log health_check theo yêu cầu
-        echo "[$(date '+%Y-%m-%d %H:%M:%S')] CẢNH BÁO: health_check thất bại! Trả về HTTP Code: $HTTP_STATUS" >> "$HEALTH_LOG_FILE"
+        # Ghi riêng vào file log health_check
+        echo "[$(date '+%Y-%m-%d %H:%M:%S')] CẢNH BÁO: health_check thất bại! Trả về HTTP Code: $HTTP_STATUS" >> "$HEALTH_LOG_FILE" 2>/dev/null || true
         log "Đang restart service telua_web..."
-        # Đặt trong if để systemctl restart fail KHÔNG giết script (set -e)
-        if systemctl restart telua_web; then
+        if systemctl restart telua_web 2>/dev/null; then
             log "Restart telua_web thành công."
         else
             log "LỖI: Restart telua_web thất bại! Cần kiểm tra thủ công."
@@ -139,17 +154,32 @@ do
         log "Health check OK (200)"
     fi
 
-    # Kiểm tra RAM: Sử dụng thông số Available (Khả dụng) để chống Out of Memory chính xác nhất
-    MEM_INFO=$(free -m | awk '/^Mem:/ {printf "RAM Used: %sMB, Available: %sMB / Total: %sMB", $3, $7, $2}')
-    log "$MEM_INFO"
+    # --- KIỂM TRA RAM ---
+    # Lấy thông tin RAM hiện tại
+    MEM_INFO=$(free -m 2>/dev/null | awk '/^Mem:/ {printf "RAM Used: %sMB, Available: %sMB / Total: %sMB", $3, $7, $2}')
+    if [ -n "$MEM_INFO" ]; then
+        log "$MEM_INFO"
+    fi
 
     # Lấy dung lượng RAM thực sự CÒN TRỐNG tính bằng MB (Available)
-    AVAILABLE_MB=$(free -m | awk '/^Mem:/ {print $7}')
+    RAW_AVAILABLE=$(free -m 2>/dev/null | awk '/^Mem:/ {print $7}')
+    if [[ "$RAW_AVAILABLE" =~ ^[0-9]+$ ]]; then
+        AVAILABLE_MB="$RAW_AVAILABLE"
+    else
+        AVAILABLE_MB=9999 # Giá trị an toàn nếu không đọc được RAM để không trigger bừa
+    fi
 
-    # LƯU Ý: docker prune giải phóng DISK, KHÔNG giải phóng RAM.
-    # Nên KHÔNG dùng docker prune khi RAM thấp (trigger sai).
-    # RAM thấp thường do process/container đang chạy chiếm — cần restart service, không phải prune.
-    if [ "$AVAILABLE_MB" -lt 70 ]; then
+    # Xử lý phân cấp RAM: Dùng if/elif để không bị restart xong reboot kép
+    if [ "$AVAILABLE_MB" -lt 40 ]; then
+        log "CẢNH BÁO CRITICAL: RAM khả dụng chỉ còn ${AVAILABLE_MB}MB (< 40MB). Nguy cơ Out of Memory!"
+        log "Đang khởi động lại hệ thống để bảo vệ máy chủ..."
+        sleep 5
+        if reboot 2>/dev/null; then
+            log "Đã gửi lệnh reboot."
+        else
+            log "LỖI: Không thể reboot (cần quyền root). Cần kiểm tra thủ công ngay!"
+        fi
+    elif [ "$AVAILABLE_MB" -lt 70 ]; then
         log "CẢNH BÁO: RAM khả dụng thấp (${AVAILABLE_MB}MB). Docker prune không giúp giải phóng RAM."
         log "Đang thử restart telua_web để giải phóng RAM..."
         if systemctl restart telua_web 2>/dev/null; then
@@ -159,20 +189,14 @@ do
         fi
     fi
 
-    # Nếu RAM Khả dụng dưới 40MB
-    if [ "$AVAILABLE_MB" -lt 40 ]; then
-        log "CẢNH BÁO CRITICAL: RAM khả dụng chỉ còn ${AVAILABLE_MB}MB (< 50MB). Nguy cơ Out of Memory!"
-        log "Đang khởi động lại hệ thống để bảo vệ máy chủ..."
-        sleep 5
-        # Đặt trong if để reboot fail KHÔNG giết script (set -e)
-        if reboot 2>/dev/null; then
-            log "Đã gửi lệnh reboot."
-        else
-            log "LỖI: Không thể reboot (cần quyền root). Cần kiểm tra thủ công ngay!"
-        fi
+    # --- KIỂM TRA DUNG LƯỢNG Ổ ĐĨA ---
+    # Dùng df -P chuẩn POSIX đảm bảo output trên đúng 1 dòng per mount
+    RAW_DISK=$(df -P / 2>/dev/null | awk 'NR==2 {gsub(/%/, "", $5); print $5}')
+    if [[ "$RAW_DISK" =~ ^[0-9]+$ ]]; then
+        DISK_USAGE="$RAW_DISK"
+    else
+        DISK_USAGE=0
     fi
-
-    DISK_USAGE=$(df / | grep / | awk '{ print $5 }' | sed 's/%//g')
     log ""
     log "Dung lượng ổ đĩa hiện tại: $DISK_USAGE%"
     log ""
@@ -180,22 +204,26 @@ do
     if [ "$DISK_USAGE" -gt 80 ]; then
         log "Dung lượng > 80%, đang dọn dẹp sâu..."
         # Xóa build cache để giải phóng dung lượng lớn
-        docker builder prune -f
-        # Xóa image dangling (không dùng) + image cũ hơn 24h — có filter, không xóa image mới
-        docker image prune -f --filter "until=24h"
-        # Dọn container dừng lâu hơn 24h — có filter, không xóa container mới dừng
-        docker container prune -f --filter "until=24h"
+        docker builder prune -f 2>/dev/null || log "CẢNH BÁO: docker builder prune thất bại."
+        # Xóa image dangling (không dùng) + image cũ hơn 24h
+        docker image prune -f --filter "until=24h" 2>/dev/null || true
+        # Dọn container dừng lâu hơn 24h
+        docker container prune -f --filter "until=24h" 2>/dev/null || true
     else
         log "Ổ cứng vẫn ổn, giữ lại cache để build nhanh."
-        # Vẫn nên dọn dẹp nhẹ nhàng các container dừng lâu hơn 24h
-        docker container prune -f --filter "until=24h"
+        docker container prune -f --filter "until=24h" 2>/dev/null || true
     fi
 
-    DISK_USAGE=$(df / | grep / | awk '{ print $5 }' | sed 's/%//g')
+    # Đọc lại dung lượng ổ đĩa sau khi dọn dẹp
+    RAW_DISK=$(df -P / 2>/dev/null | awk 'NR==2 {gsub(/%/, "", $5); print $5}')
+    if [[ "$RAW_DISK" =~ ^[0-9]+$ ]]; then
+        DISK_USAGE="$RAW_DISK"
+    fi
     log ""
     log "Dung lượng ổ đĩa hiện tại: $DISK_USAGE%"
     log ""
 
-    log "Đợi 30 phút... "
-    sleep $INTERVAL
+    WAIT_MINUTES=$((INTERVAL / 60))
+    log "Đợi $WAIT_MINUTES phút... "
+    sleep "$INTERVAL"
 done
