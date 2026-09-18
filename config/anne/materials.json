@@ -84,10 +84,15 @@
     "name": "Mây Trắng Bồng Bềnh",
     "nameTextId": "prod_name_bo_hoa_01",
     "category": "bo_hoa",
+    "productType": "direct",
+    "recipe": null,
+    "stemCount": 10,
+    "unit": "cành",
+    "costPrice": 60000,
     "priceLevelId": "price_lvl_01",
-    "priceNumber": 420000,
-    "salePrice": "420,000₫",
-    "originalPrice": "420,000₫",
+    "priceNumber": 120000,
+    "salePrice": "120,000₫",
+    "originalPrice": "120,000₫",
     "badge": "-7%",
     "image": "/api/flower/v1/images/bo_hoa_01.webp",
     "i18n": {
@@ -105,16 +110,11 @@
       }
     },
     "stockByBranch": {
-      "branch_q10": 12,
-      "branch_q1": 6,
-      "branch_thao_dien": 4
+      "branch_q10": 12
     },
-    "dailyQuota": 20,
+    "dailyQuota": 12,
     "isActive": true,
-    "updatedAt": "2026-08-30T00:14:06Z",
-    "productType": "direct",
-    "unit": "cành",
-    "costPrice": 210000,
+    "updatedAt": "2026-09-18T00:54:31Z",
     "minStockAlert": 10,
     "minAlertLevel": 10
   },
