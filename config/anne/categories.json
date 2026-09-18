@@ -173,7 +173,7 @@
     "id": "hoa_cuoi",
     "name": "Hoa Cưới & Cầm Tay",
     "slug": "hoa-cuoi",
-    "image": "https://images.unsplash.com/photo-1519741497674-611481863552?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80",
+    "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/no.jpg",
     "icon": "fa-solid fa-heart",
     "order": 6,
     "status": "active",
@@ -199,7 +199,7 @@
       }
     },
     "createdAt": "2026-08-21T00:00:00Z",
-    "updatedAt": "2026-08-30T02:48:56Z",
+    "updatedAt": "2026-09-18T14:52:40Z",
     "textId": "cat_wedding",
     "deletedAt": null
   }
