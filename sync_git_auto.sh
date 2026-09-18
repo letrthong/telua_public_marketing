@@ -31,7 +31,7 @@ fi
 # --- CẤU HÌNH ---
 SOURCE_DIRS=("/opt/telua_web/app/config" "/opt/telua_web/app/video")
 DEST_DIR="$SCRIPT_DIR"
-INTERVAL=900 # 15 phút (900 giây)
+INTERVAL=600 # 10 phút (600 giây)
 LOG_FILE="${SYNC_LOG_FILE:-/opt/sync_history.log}"
 MAX_LOG_LINES=5000
 HEALTH_LOG_FILE="$SCRIPT_DIR/health_check.log"
@@ -122,7 +122,7 @@ do
     # --- KIỂM TRA HEALTH CHECK ---
     log "Đang kiểm tra health_check..."
     HTTP_STATUS="000"
-    for attempt in 1 2 3; do
+    for attempt in 1 2 3 4 5 6; do
         # Lấy HTTP status code một cách an toàn, tránh lỗi 000000 do lặp echo
         RAW_STATUS=$(curl -s --max-time 10 -o /dev/null -w "%{http_code}" https://telua.vn/health_check 2>/dev/null || true)
         if [[ "$RAW_STATUS" =~ ^[0-9]{3}$ ]]; then
@@ -134,14 +134,14 @@ do
         if [ "$HTTP_STATUS" = "200" ]; then
             break
         fi
-        log "Lần thử $attempt/3: health_check trả về HTTP Code: $HTTP_STATUS"
-        if [ "$attempt" -lt 3 ]; then
+        log "Lần thử $attempt/6: health_check trả về HTTP Code: $HTTP_STATUS"
+        if [ "$attempt" -lt 6 ]; then
             sleep 30
         fi
     done
     
     if [ "$HTTP_STATUS" != "200" ]; then
-        log "CẢNH BÁO: health_check thất bại sau 3 lần thử! Trả về HTTP Code: $HTTP_STATUS"
+        log "CẢNH BÁO: health_check thất bại sau 6 lần thử! Trả về HTTP Code: $HTTP_STATUS"
         # Ghi riêng vào file log health_check
         echo "[$(date '+%Y-%m-%d %H:%M:%S')] CẢNH BÁO: health_check thất bại! Trả về HTTP Code: $HTTP_STATUS" >> "$HEALTH_LOG_FILE" 2>/dev/null || true
         log "Đang restart service telua_web..."
