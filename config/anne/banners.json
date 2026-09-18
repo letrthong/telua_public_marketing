@@ -11,14 +11,14 @@
     },
     {
       "id": "banner_02",
-      "image": "https://images.unsplash.com/photo-1563241527-3004b7be0ffd?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+      "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/no_hoa_ly.jpg",
       "link": "#products",
       "active": true,
       "order": 2
     },
     {
       "id": "banner_03",
-      "image": "/api/flower/v1/images/bo_hoa_1788048626.webp",
+      "image": "https://images.unsplash.com/photo-1563241527-3004b7be0ffd?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
       "link": "#products",
       "active": true,
       "order": 3
@@ -38,5 +38,5 @@
       "order": 5
     }
   ],
-  "updatedAt": "2026-09-18T14:55:04Z"
+  "updatedAt": "2026-09-18T15:05:05Z"
 }
