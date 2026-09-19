@@ -1,6 +1,6 @@
 {
-  "interval": 6000,
-  "autoplay": false,
+  "interval": 9000,
+  "autoplay": true,
   "banners": [
     {
       "id": "banner_01",
@@ -38,5 +38,5 @@
       "order": 5
     }
   ],
-  "updatedAt": "2026-09-18T15:05:05Z"
+  "updatedAt": "2026-09-19T00:09:52Z"
 }
