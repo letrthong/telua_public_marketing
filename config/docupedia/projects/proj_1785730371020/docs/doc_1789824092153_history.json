@@ -1,0 +1,46 @@
+{
+  "doc_id": "doc_1789824092153",
+  "history": [
+    {
+      "id": "hist_1789824092652",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "create",
+      "timestamp": "2026-09-19T13:21:32.652832Z",
+      "details": {
+        "title": "3 nohoathabinh.com"
+      }
+    },
+    {
+      "id": "hist_1789824347844",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-09-19T13:25:47.844457Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1789824369934",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-09-19T13:26:09.934171Z",
+      "details": {
+        "changes": {
+          "title": {
+            "old": "3 nohoathabinh.com",
+            "new": "03 nohoathabinh.com"
+          },
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    }
+  ]
+}

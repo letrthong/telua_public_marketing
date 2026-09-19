@@ -118,7 +118,8 @@
       "children": [
         "doc_1787147617025",
         "doc_1787502400923",
-        "doc_1788238344752"
+        "doc_1788238344752",
+        "doc_1789824092153"
       ]
     },
     "doc_1787147617025": {
@@ -303,7 +304,17 @@
       "updated_by": "user_admin",
       "created_at": "2026-09-15T02:47:21.809333Z",
       "updated_at": "2026-09-15T02:49:09.109346Z"
+    },
+    "doc_1789824092153": {
+      "id": "doc_1789824092153",
+      "type": "file",
+      "title": "03 nohoathabinh.com",
+      "parent_id": "folder_1787147591788",
+      "created_by": "user_admin",
+      "updated_by": "user_admin",
+      "created_at": "2026-09-19T13:21:32.153884Z",
+      "updated_at": "2026-09-19T13:26:09.882866Z"
     }
   },
-  "updated_at": "2026-09-15T02:49:09.110241Z"
+  "updated_at": "2026-09-19T13:26:09.883438Z"
 }

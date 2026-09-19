@@ -1,0 +1,17 @@
+{
+  "id": "doc_1789824092153",
+  "type": "file",
+  "title": "03 nohoathabinh.com",
+  "parent_id": "folder_1787147591788",
+  "content": {
+    "ops": [
+      {
+        "insert": "github.com/-> https://github.com/letrthong/telua_public_image/tree/main/anne/images\n\nhttps://nohoathabinh.com/ -> https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/no.jpg\n\n\nhttps://images.unsplash.com/photo-1563241527-3004b7be0ffd?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80\n\n\nhttps://nohoathabinh.com//api/flower/v1/images/prod_1788079508_6f785c4c.jpg\n               https://github.com/letrthong/telua_public_marketing/tree/main/images/products  ->    /api/flower/v1/images/prod_1788079508_6f785c4c.jpg\n \n\n"
+      }
+    ]
+  },
+  "created_by": "user_admin",
+  "updated_by": "user_admin",
+  "created_at": "2026-09-19T13:21:32.153884Z",
+  "updated_at": "2026-09-19T13:26:09.882866Z"
+}
