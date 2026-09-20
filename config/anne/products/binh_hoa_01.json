@@ -1,6 +1,6 @@
 {
   "id": "binh_hoa_01",
-  "name": "Bình Gốm Tĩnh Lặng",
+  "name": "Bình Thủy tinh 30cm",
   "nameTextId": null,
   "category": "binh_hoa",
   "productType": "direct",
@@ -50,10 +50,9 @@
     }
   },
   "stockByBranch": {
-    "branch_q10": 5,
-    "branch_q1": 3
+    "branch_q10": 5
   },
-  "dailyQuota": 8,
+  "dailyQuota": 5,
   "isActive": true,
-  "updatedAt": "2026-09-15T03:33:37Z"
+  "updatedAt": "2026-09-20T06:39:52Z"
 }

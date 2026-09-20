@@ -1,7 +1,33 @@
 [
   {
+    "id": "binh_hoa_1789885874",
+    "name": "Bình hoa gốm men atlantic",
+    "nameTextId": null,
+    "category": "binh_hoa",
+    "productType": "direct",
+    "recipe": null,
+    "stemCount": 0,
+    "unit": "bình",
+    "costPrice": 210000,
+    "priceLevelId": "price_lvl_02",
+    "priceNumber": 420000,
+    "salePrice": "420,000₫",
+    "originalPrice": "420,000₫",
+    "badge": "",
+    "image": "/api/flower/v1/images/prod_1789885814_e4059959.png",
+    "i18n": null,
+    "stockByBranch": {
+      "branch_q10": 10
+    },
+    "dailyQuota": 10,
+    "isActive": true,
+    "updatedAt": "2026-09-20T06:31:14Z",
+    "minStockAlert": 10,
+    "minAlertLevel": 10
+  },
+  {
     "id": "binh_hoa_01",
-    "name": "Bình Gốm Tĩnh Lặng",
+    "name": "Bình Thủy tinh 30cm",
     "nameTextId": null,
     "category": "binh_hoa",
     "productType": "direct",
@@ -30,12 +56,11 @@
       }
     },
     "stockByBranch": {
-      "branch_q10": 5,
-      "branch_q1": 3
+      "branch_q10": 5
     },
-    "dailyQuota": 8,
+    "dailyQuota": 5,
     "isActive": true,
-    "updatedAt": "2026-09-15T03:33:37Z",
+    "updatedAt": "2026-09-20T06:39:52Z",
     "minStockAlert": 10,
     "minAlertLevel": 10
   },

@@ -1,0 +1,34 @@
+{
+  "id": "binh_hoa_1789885874",
+  "name": "Bình hoa gốm men atlantic",
+  "nameTextId": null,
+  "category": "binh_hoa",
+  "productType": "direct",
+  "recipe": [],
+  "stemCount": 0,
+  "unit": null,
+  "costPrice": null,
+  "priceLevelId": "price_lvl_02",
+  "priceNumber": 420000,
+  "salePrice": "420,000₫",
+  "originalPrice": "420,000₫",
+  "badge": "",
+  "image": "/api/flower/v1/images/prod_1789885814_e4059959.png",
+  "gallery": [
+    "/api/flower/v1/images/prod_1789885814_e4059959.png"
+  ],
+  "description": "",
+  "descTextId": null,
+  "flowerComposition": "",
+  "compTextId": null,
+  "dimension": "",
+  "careTips": "",
+  "i18n": null,
+  "stockByBranch": {
+    "branch_q10": 10
+  },
+  "dailyQuota": 10,
+  "isActive": true,
+  "createdAt": "2026-09-20T06:31:14Z",
+  "updatedAt": "2026-09-20T06:31:14Z"
+}
