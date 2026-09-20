@@ -13,7 +13,7 @@
   "salePrice": "50,000₫",
   "originalPrice": "50,000₫",
   "badge": "",
-  "image": "https://images.unsplash.com/photo-1562690868-60bbe7293e94?w=500",
+  "image": "/api/flower/v1/images/prod_1789892941_940d9882.png",
   "gallery": [
     "https://images.unsplash.com/photo-1562690868-60bbe7293e94?w=500"
   ],
@@ -29,6 +29,5 @@
   },
   "dailyQuota": 10,
   "isActive": true,
-  "createdAt": "2026-09-20T08:25:50Z",
-  "updatedAt": "2026-09-20T08:25:50Z"
+  "updatedAt": "2026-09-20T08:29:15Z"
 }
