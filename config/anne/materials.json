@@ -20,8 +20,8 @@
       "branch_q10": 10
     },
     "dailyQuota": 10,
-    "isActive": true,
-    "updatedAt": "2026-09-20T08:29:15Z",
+    "isActive": false,
+    "updatedAt": "2026-09-20T08:52:28Z",
     "minStockAlert": 10,
     "minAlertLevel": 10
   },
