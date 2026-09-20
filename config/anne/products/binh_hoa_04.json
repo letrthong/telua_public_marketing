@@ -1,6 +1,6 @@
 {
   "id": "binh_hoa_04",
-  "name": "Bình Gốm Cắm Hoa Nghệ Thuật Minimalist",
+  "name": "Bình Gốm Minh Long",
   "nameTextId": null,
   "category": "binh_hoa",
   "productType": "direct",
@@ -13,7 +13,7 @@
   "salePrice": "150,000₫",
   "originalPrice": "150,000₫",
   "badge": "Bán chạy",
-  "image": "/api/flower/v1/images/prod_1788454343_9b0bb516.webp",
+  "image": "/api/flower/v1/images/prod_1789886436_f5dc3da5.png",
   "gallery": [
     "/api/flower/v1/images/binh_hoa_04.webp"
   ],
@@ -50,10 +50,9 @@
     }
   },
   "stockByBranch": {
-    "branch_q10": 8,
-    "branch_q1": 5
+    "branch_q10": 8
   },
-  "dailyQuota": 13,
+  "dailyQuota": 8,
   "isActive": true,
-  "updatedAt": "2026-09-15T04:05:52Z"
+  "updatedAt": "2026-09-20T06:41:26Z"
 }
