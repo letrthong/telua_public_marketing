@@ -1,5 +1,31 @@
 [
   {
+    "id": "binh_hoa_1789892750",
+    "name": "Lưới silicon định vị cắm hoa",
+    "nameTextId": null,
+    "category": "binh_hoa",
+    "productType": "direct",
+    "recipe": null,
+    "stemCount": 0,
+    "unit": "bình",
+    "costPrice": 25000,
+    "priceLevelId": "price_lvl_01",
+    "priceNumber": 50000,
+    "salePrice": "50,000₫",
+    "originalPrice": "50,000₫",
+    "badge": "",
+    "image": "https://images.unsplash.com/photo-1562690868-60bbe7293e94?w=500",
+    "i18n": null,
+    "stockByBranch": {
+      "branch_q10": 10
+    },
+    "dailyQuota": 10,
+    "isActive": true,
+    "updatedAt": "2026-09-20T08:25:50Z",
+    "minStockAlert": 10,
+    "minAlertLevel": 10
+  },
+  {
     "id": "binh_hoa_1789885874",
     "name": "Bình hoa gốm men atlantic",
     "nameTextId": null,
