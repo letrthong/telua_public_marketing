@@ -124,7 +124,7 @@ do
     HTTP_STATUS="000"
     for attempt in 1 2 3 4 5 6; do
         # Lấy HTTP status code một cách an toàn, tránh lỗi 000000 do lặp echo
-        RAW_STATUS=$(curl -s --max-time 10 -o /dev/null -w "%{http_code}" https://telua.vn/health_check/db_ready 2>/dev/null || true)
+        RAW_STATUS=$(curl -sL --connect-timeout 5 --max-time 10 -o /dev/null -w "%{http_code}" https://telua.vn/health_check/db_ready 2>/dev/null || true)
         if [[ "$RAW_STATUS" =~ ^[0-9]{3}$ ]]; then
             HTTP_STATUS="$RAW_STATUS"
         else
