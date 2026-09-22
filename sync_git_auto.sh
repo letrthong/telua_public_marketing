@@ -23,7 +23,7 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 # Load cấu hình từ file .env cùng thư mục (nếu có)
 if [ -f "$SCRIPT_DIR/.env" ]; then
     # shellcheck disable=SC1091
-    source "$SCRIPT_DIR/.env"
+    . "$SCRIPT_DIR/.env"
 fi
 
 # git config --global credential.helper store
