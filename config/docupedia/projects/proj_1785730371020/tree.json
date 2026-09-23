@@ -307,12 +307,12 @@
     "doc_1789824092153": {
       "id": "doc_1789824092153",
       "type": "file",
-      "title": "03 nohoathabinh.com",
+      "title": "03  link Hình Ảnh",
       "parent_id": "folder_1787147591788",
       "created_by": "user_admin",
       "updated_by": "user_admin",
       "created_at": "2026-09-19T13:21:32.153884Z",
-      "updated_at": "2026-09-19T13:26:09.882866Z"
+      "updated_at": "2026-09-23T09:32:08.792572Z"
     },
     "folder_1789977247667": {
       "id": "folder_1789977247667",
@@ -324,5 +324,5 @@
       ]
     }
   },
-  "updated_at": "2026-09-21T07:54:33.862014Z"
+  "updated_at": "2026-09-23T09:32:08.794129Z"
 }

@@ -41,6 +41,22 @@
           "content": "Nội dung tài liệu được cập nhật"
         }
       }
+    },
+    {
+      "id": "hist_1790155928795",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-09-23T09:32:08.795752Z",
+      "details": {
+        "changes": {
+          "title": {
+            "old": "03 nohoathabinh.com",
+            "new": "03  link Hình Ảnh"
+          }
+        }
+      }
     }
   ]
 }
