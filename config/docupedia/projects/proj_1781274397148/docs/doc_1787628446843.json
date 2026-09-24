@@ -26,34 +26,122 @@
         }
       },
       {
-        "insert": "\n\nif -> select opt"
+        "insert": "\n\n\n"
       },
       {
         "attributes": {
-          "list": "bullet"
+          "col": {
+            "tableId": "3zc2rbr2dcl",
+            "colId": "8fomhe4pj27",
+            "width": "50%",
+            "full": true
+          }
         },
         "insert": "\n"
       },
       {
-        "insert": "if else -> alt"
-      },
-      {
         "attributes": {
-          "list": "bullet"
+          "col": {
+            "tableId": "3zc2rbr2dcl",
+            "colId": "cq4mgh9sef",
+            "width": "50%",
+            "full": true
+          }
         },
         "insert": "\n"
       },
       {
-        "insert": "switch cases -> alt"
+        "insert": "if "
       },
       {
         "attributes": {
-          "list": "bullet"
+          "tableCellInner": {
+            "tableId": "3zc2rbr2dcl",
+            "rowId": "55dfky7t7zd",
+            "colId": "8fomhe4pj27",
+            "rowspan": "1",
+            "colspan": "1"
+          }
         },
         "insert": "\n"
       },
       {
-        "insert": "2/  "
+        "insert": "opt"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "3zc2rbr2dcl",
+            "rowId": "55dfky7t7zd",
+            "colId": "cq4mgh9sef",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "if else"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "3zc2rbr2dcl",
+            "rowId": "spb3kjhwxle",
+            "colId": "8fomhe4pj27",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "alt"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "3zc2rbr2dcl",
+            "rowId": "spb3kjhwxle",
+            "colId": "cq4mgh9sef",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "switch cases "
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "3zc2rbr2dcl",
+            "rowId": "p10qmczu6op",
+            "colId": "8fomhe4pj27",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "alt"
+      },
+      {
+        "attributes": {
+          "tableCellInner": {
+            "tableId": "3zc2rbr2dcl",
+            "rowId": "p10qmczu6op",
+            "colId": "cq4mgh9sef",
+            "rowspan": "1",
+            "colspan": "1"
+          }
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": " \n2/  "
       },
       {
         "attributes": {
@@ -89,5 +177,5 @@
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-08-25T03:27:26.843163Z",
-  "updated_at": "2026-08-25T03:38:13.458778Z"
+  "updated_at": "2026-09-24T04:15:35.093003Z"
 }
