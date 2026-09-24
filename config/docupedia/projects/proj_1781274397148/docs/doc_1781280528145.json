@@ -159,12 +159,30 @@
         "insert": "\n"
       },
       {
-        "insert": "\nCập nhập lúc 10:43 24/7/2026\n"
+        "insert": "\nFetch the latest version from the server and completely overwrite local.\ngit fetch origin"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "git reset --hard origin/xyz_main"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "\nCập nhập lúc 10:01 24/9/2026\n"
       }
     ]
   },
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-06-12T16:08:48.145458Z",
-  "updated_at": "2026-09-10T06:36:42.579120Z"
+  "updated_at": "2026-09-24T03:03:31.828911Z"
 }
