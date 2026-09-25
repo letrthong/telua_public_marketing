@@ -1,0 +1,16 @@
+{
+  "doc_id": "doc_1790330144539",
+  "history": [
+    {
+      "id": "hist_1790330144544",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "create",
+      "timestamp": "2026-09-25T09:55:44.544909Z",
+      "details": {
+        "title": "01 telua.co"
+      }
+    }
+  ]
+}

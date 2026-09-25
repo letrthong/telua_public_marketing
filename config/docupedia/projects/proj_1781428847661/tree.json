@@ -66,7 +66,9 @@
       "id": "folder_1781688957059",
       "type": "folder",
       "title": "02 Cloud",
-      "children": []
+      "children": [
+        "doc_1790330144539"
+      ]
     },
     "folder_1781689412235": {
       "id": "folder_1781689412235",
@@ -184,7 +186,17 @@
       "updated_at": "2026-07-27T09:05:56.852274Z",
       "created_by": "user_admin",
       "updated_by": "user_admin"
+    },
+    "doc_1790330144539": {
+      "id": "doc_1790330144539",
+      "type": "file",
+      "title": "01 telua.co",
+      "parent_id": "folder_1781688957059",
+      "created_by": "user_admin",
+      "updated_by": "user_admin",
+      "created_at": "2026-09-25T09:55:44.539319Z",
+      "updated_at": "2026-09-25T09:55:44.539319Z"
     }
   },
-  "updated_at": "2026-07-27T09:05:56.853280Z"
+  "updated_at": "2026-09-25T09:55:44.539840Z"
 }
