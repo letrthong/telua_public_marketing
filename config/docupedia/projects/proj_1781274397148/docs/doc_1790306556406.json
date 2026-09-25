@@ -42,7 +42,7 @@
         "insert": "TranslationManagerServiceShellCommand.java - Android Code Search"
       },
       {
-        "insert": "\n\n"
+        "insert": "\n\nadb shell dumpsys your_service"
       },
       {
         "attributes": {
@@ -55,5 +55,5 @@
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-09-25T03:22:36.406805Z",
-  "updated_at": "2026-09-25T03:57:24.364668Z"
+  "updated_at": "2026-09-25T07:08:02.954212Z"
 }
