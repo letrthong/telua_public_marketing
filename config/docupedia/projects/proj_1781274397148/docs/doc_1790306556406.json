@@ -1,0 +1,53 @@
+{
+  "id": "doc_1790306556406",
+  "type": "file",
+  "title": "02 ShellCommand",
+  "parent_id": "folder_1781663299075",
+  "content": {
+    "ops": [
+      {
+        "insert": "\n\nimport android.os.ShellCommand;"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": "public class TranslationManagerServiceShellCommand extendsShellCommand {"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "}"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "link": "https://cs.android.com/android/platform/superproject/+/android-latest-release:frameworks/base/services/translation/java/com/android/server/translation/TranslationManagerServiceShellCommand.java;l=24?q=TranslationManagerServiceShellCommand%20&ss=android%2Fplatform%2Fsuperproject"
+        },
+        "insert": "TranslationManagerServiceShellCommand.java - Android Code Search"
+      },
+      {
+        "insert": "\n"
+      }
+    ]
+  },
+  "created_by": "user_admin",
+  "updated_by": "user_admin",
+  "created_at": "2026-09-25T03:22:36.406805Z",
+  "updated_at": "2026-09-25T03:24:05.665950Z"
+}

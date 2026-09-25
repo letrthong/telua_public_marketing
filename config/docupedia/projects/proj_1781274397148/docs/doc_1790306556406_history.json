@@ -1,0 +1,29 @@
+{
+  "doc_id": "doc_1790306556406",
+  "history": [
+    {
+      "id": "hist_1790306556411",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "create",
+      "timestamp": "2026-09-25T03:22:36.411342Z",
+      "details": {
+        "title": "02 ShellCommand"
+      }
+    },
+    {
+      "id": "hist_1790306645668",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-09-25T03:24:05.668892Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    }
+  ]
+}
