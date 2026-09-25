@@ -108,6 +108,19 @@
           }
         }
       }
+    },
+    {
+      "id": "hist_1790324345173",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-09-25T08:19:05.173228Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
     }
   ]
 }
