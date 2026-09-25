@@ -13,7 +13,7 @@
   "salePrice": "150,000₫",
   "originalPrice": "150,000₫",
   "badge": "Bán chạy",
-  "image": "/api/flower/v1/images/prod_1789886436_f5dc3da5.png",
+  "image": "/api/flower/v1/images/prod_1790354670_c53fbba3.jpg",
   "gallery": [
     "/api/flower/v1/images/binh_hoa_04.webp"
   ],
@@ -54,5 +54,5 @@
   },
   "dailyQuota": 8,
   "isActive": true,
-  "updatedAt": "2026-09-20T06:41:26Z"
+  "updatedAt": "2026-09-25T16:44:42Z"
 }
