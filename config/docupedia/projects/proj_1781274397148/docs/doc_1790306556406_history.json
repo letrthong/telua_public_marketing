@@ -76,6 +76,38 @@
           "content": "Nội dung tài liệu được cập nhật"
         }
       }
+    },
+    {
+      "id": "hist_1790320683377",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-09-25T07:18:03.377203Z",
+      "details": {
+        "changes": {
+          "title": {
+            "old": "02 ShellCommand",
+            "new": "02 dumpsys"
+          }
+        }
+      }
+    },
+    {
+      "id": "hist_1790320693983",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-09-25T07:18:13.983652Z",
+      "details": {
+        "changes": {
+          "title": {
+            "old": "02 dumpsys",
+            "new": "02 Dumpsys"
+          }
+        }
+      }
     }
   ]
 }

@@ -557,13 +557,13 @@
     "doc_1790306556406": {
       "id": "doc_1790306556406",
       "type": "file",
-      "title": "02 ShellCommand",
+      "title": "02 Dumpsys",
       "parent_id": "folder_1781663299075",
       "created_by": "user_admin",
       "updated_by": "user_admin",
       "created_at": "2026-09-25T03:22:36.406805Z",
-      "updated_at": "2026-09-25T07:08:02.954212Z"
+      "updated_at": "2026-09-25T07:18:13.980354Z"
     }
   },
-  "updated_at": "2026-09-25T07:08:02.955326Z"
+  "updated_at": "2026-09-25T07:18:13.981569Z"
 }
