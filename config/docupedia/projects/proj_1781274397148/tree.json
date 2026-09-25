@@ -541,7 +541,8 @@
       "type": "folder",
       "title": "07 AI",
       "children": [
-        "doc_1788835792141"
+        "doc_1788835792141",
+        "doc_1790353816931"
       ]
     },
     "doc_1788835792141": {
@@ -563,7 +564,17 @@
       "updated_by": "user_admin",
       "created_at": "2026-09-25T03:22:36.406805Z",
       "updated_at": "2026-09-25T08:51:08.073663Z"
+    },
+    "doc_1790353816931": {
+      "id": "doc_1790353816931",
+      "type": "file",
+      "title": "02 Links",
+      "parent_id": "folder_1788835777642",
+      "created_by": "user_admin",
+      "updated_by": "user_admin",
+      "created_at": "2026-09-25T16:30:16.931077Z",
+      "updated_at": "2026-09-25T16:34:17.569885Z"
     }
   },
-  "updated_at": "2026-09-25T09:42:59.289960Z"
+  "updated_at": "2026-09-25T16:34:17.570932Z"
 }

@@ -1,0 +1,58 @@
+{
+  "doc_id": "doc_1790353816931",
+  "history": [
+    {
+      "id": "hist_1790353816934",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "create",
+      "timestamp": "2026-09-25T16:30:16.934928Z",
+      "details": {
+        "title": "02 links"
+      }
+    },
+    {
+      "id": "hist_1790353842478",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-09-25T16:30:42.478920Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1790353898212",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-09-25T16:31:38.212693Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1790354057572",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-09-25T16:34:17.572627Z",
+      "details": {
+        "changes": {
+          "title": {
+            "old": "02 links",
+            "new": "02 Links"
+          }
+        }
+      }
+    }
+  ]
+}

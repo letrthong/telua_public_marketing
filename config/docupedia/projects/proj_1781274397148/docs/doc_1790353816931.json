@@ -1,0 +1,26 @@
+{
+  "id": "doc_1790353816931",
+  "type": "file",
+  "title": "02 Links",
+  "parent_id": "folder_1788835777642",
+  "content": {
+    "ops": [
+      {
+        "insert": "..\n"
+      },
+      {
+        "attributes": {
+          "link": "https://openrouter.ai/"
+        },
+        "insert": "https://openrouter.ai/"
+      },
+      {
+        "insert": "\n..\n"
+      }
+    ]
+  },
+  "created_by": "user_admin",
+  "updated_by": "user_admin",
+  "created_at": "2026-09-25T16:30:16.931077Z",
+  "updated_at": "2026-09-25T16:34:17.569885Z"
+}
