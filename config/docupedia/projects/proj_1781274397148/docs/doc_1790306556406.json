@@ -15,7 +15,7 @@
         "insert": "\n\n"
       },
       {
-        "insert": "public class TranslationManagerServiceShellCommand extendsShellCommand {"
+        "insert": "public class TranslationManagerServiceShellCommand extends ShellCommand {"
       },
       {
         "attributes": {
@@ -42,6 +42,12 @@
         "insert": "TranslationManagerServiceShellCommand.java - Android Code Search"
       },
       {
+        "insert": "\n\n"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
         "insert": "\n"
       }
     ]
@@ -49,5 +55,5 @@
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-09-25T03:22:36.406805Z",
-  "updated_at": "2026-09-25T03:24:05.665950Z"
+  "updated_at": "2026-09-25T03:57:24.364668Z"
 }
