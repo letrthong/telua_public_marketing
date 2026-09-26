@@ -3,15 +3,18 @@
   "name": "Hoàng Hôn Ấm Áp",
   "nameTextId": null,
   "category": "bo_hoa",
+  "productType": "direct",
+  "recipe": [],
+  "stemCount": 0,
+  "unit": null,
+  "costPrice": null,
   "priceLevelId": "price_lvl_02",
-  "priceNumber": 850000,
-  "salePrice": "850,000₫",
-  "originalPrice": "850,000₫",
+  "priceNumber": 350000,
+  "salePrice": "350,000₫",
+  "originalPrice": "350,000₫",
   "badge": "Bán Chạy",
-  "image": "/api/flower/v1/images/prod_1788079508_6f785c4c.jpg",
-  "gallery": [
-    "/api/flower/v1/images/bo_hoa_02.webp"
-  ],
+  "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/no_03.jpg",
+  "gallery": [],
   "description": "Tone cam cháy rực rỡ mang đến nguồn năng lượng tích cực và sự ấm áp.",
   "descTextId": null,
   "flowerComposition": "Hồng cam Spirit (12 cành), Hoa Đồng Tiền Mini, Cúc Mẫu Đơn Cam, Lá Khuynh Diệp",
@@ -45,11 +48,9 @@
     }
   },
   "stockByBranch": {
-    "branch_q10": 8,
-    "branch_q1": 5,
-    "branch_thao_dien": 2
+    "branch_q10": 8
   },
-  "dailyQuota": 15,
+  "dailyQuota": 8,
   "isActive": true,
-  "updatedAt": "2026-08-30T08:45:27Z"
+  "updatedAt": "2026-09-26T16:15:01Z"
 }
