@@ -37,7 +37,7 @@
     "id": "ke_hoa",
     "name": "Kệ Hoa Khai Trương",
     "slug": "ke-hoa",
-    "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/no_100_01jpg",
+    "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/no_100_01.jpg",
     "icon": "fa-solid fa-crown",
     "order": 2,
     "status": "active",
@@ -63,7 +63,7 @@
       }
     },
     "createdAt": "2026-08-21T00:00:00Z",
-    "updatedAt": "2026-09-26T04:49:14Z",
+    "updatedAt": "2026-09-26T04:50:30Z",
     "textId": "cat_stand",
     "deletedAt": null
   },
@@ -71,7 +71,7 @@
     "id": "binh_hoa",
     "name": "Bình Cắm Hoa",
     "slug": "binh-cam-hoa",
-    "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/binh_ho_phach.png",
+    "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/no_04.jpg",
     "icon": "fa-solid fa-wine-glass",
     "order": 3,
     "status": "active",
@@ -97,7 +97,7 @@
       }
     },
     "createdAt": "2026-08-21T00:00:00Z",
-    "updatedAt": "2026-08-30T02:47:57Z",
+    "updatedAt": "2026-09-26T04:54:05Z",
     "textId": "cat_vase",
     "deletedAt": null
   },
@@ -105,7 +105,7 @@
     "id": "gio_hoa",
     "name": "Giỏ & Lẵng Hoa",
     "slug": "gio-hoa",
-    "image": "https://images.unsplash.com/photo-1582794543139-8ac9cb0f7b11?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80",
+    "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/no_11.jpg",
     "icon": "fa-solid fa-basket-shopping",
     "order": 4,
     "status": "active",
@@ -131,7 +131,7 @@
       }
     },
     "createdAt": "2026-08-21T00:00:00Z",
-    "updatedAt": "2026-08-30T02:48:19Z",
+    "updatedAt": "2026-09-26T04:53:07Z",
     "textId": "cat_basket",
     "deletedAt": null
   },

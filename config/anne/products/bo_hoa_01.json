@@ -13,7 +13,7 @@
   "salePrice": "120,000₫",
   "originalPrice": "120,000₫",
   "badge": "-7%",
-  "image": "/api/flower/v1/images/bo_hoa_01.webp",
+  "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/no_09.jpg",
   "gallery": [
     "/api/flower/v1/images/bo_hoa_01.webp"
   ],
@@ -54,5 +54,5 @@
   },
   "dailyQuota": 12,
   "isActive": true,
-  "updatedAt": "2026-09-18T00:54:31Z"
+  "updatedAt": "2026-09-26T04:59:31Z"
 }
