@@ -6,15 +6,15 @@
   "productType": "direct",
   "recipe": [],
   "stemCount": 5,
-  "priceLevelId": "price_lvl_01",
+  "unit": null,
+  "costPrice": null,
+  "priceLevelId": "price_lvl_02",
   "priceNumber": 450000,
   "salePrice": "450,000₫",
   "originalPrice": "450,000₫",
   "badge": "Mới",
-  "image": "/api/flower/v1/images/bo_hoa_1788048626.webp",
-  "gallery": [
-    "/api/flower/v1/images/bo_hoa_1788048626.webp"
-  ],
+  "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/no_12.jpg",
+  "gallery": [],
   "description": "",
   "descTextId": null,
   "flowerComposition": "Xyz",
@@ -23,35 +23,22 @@
   "careTips": "Để nơi thoáng mát, phun sương mỗi ngày",
   "i18n": {
     "en": {
-      "careTips": "Keep in a cool ventilated spot away from direct sunlight.",
-      "description": "Vibrant yellow roses radiant like morning sunshine, symbolizing friendship, success and positivity.",
-      "flowerComposition": "Yellow Roses (10 stems), White Daisy, Silver Leaf",
       "name": "Golden Sunlight Rose Bouquet"
     },
     "ja": {
-      "careTips": "直射日光を避け、風通しの良い涼しい場所に置いてください。",
-      "description": "朝の陽光のように眩しい黄バラが、友情と輝かしい成功を祝福するブーケ。",
-      "flowerComposition": "イエローローズ（10本）、ホワイトデージー、シルバーリーフ",
       "name": "陽光の輝き イエローローズ花束"
     },
     "ko": {
-      "careTips": "직사광선을 피하고 통풍이 잘되는 시원한 곳에 보관하세요.",
-      "description": "화사한 아침 햇살을 닮은 노란 장미로 따뜻한 우정과 찬란한 성공을 축하합니다.",
-      "flowerComposition": "노란 장미 (10송이), 화이트 데이지, 실버 리프",
       "name": "햇살 가득 옐로우 장미 꽃다발"
     },
     "zh": {
-      "careTips": "避免强光直射，置于阴凉通风处养护。",
-      "description": "明亮如晨光的金黄玫瑰，寓意真挚友谊、事业蒸蒸日上与美好祝福。",
-      "flowerComposition": "精选金黄玫瑰（10支）、白色小雏菊、银叶菊",
       "name": "晨曦暖阳 黄玫瑰艺术花束"
     }
   },
   "stockByBranch": {
-    "branch_q10": 10,
-    "branch_q1": 5
+    "branch_q10": 10
   },
-  "dailyQuota": 15,
+  "dailyQuota": 10,
   "isActive": true,
-  "updatedAt": "2026-09-13T17:34:55Z"
+  "updatedAt": "2026-09-26T16:22:01Z"
 }

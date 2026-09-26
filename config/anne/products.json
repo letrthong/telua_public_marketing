@@ -269,12 +269,14 @@
     "productType": "direct",
     "recipe": null,
     "stemCount": 5,
-    "priceLevelId": "price_lvl_01",
+    "unit": null,
+    "costPrice": null,
+    "priceLevelId": "price_lvl_02",
     "priceNumber": 450000,
     "salePrice": "450,000₫",
     "originalPrice": "450,000₫",
     "badge": "Mới",
-    "image": "/api/flower/v1/images/bo_hoa_1788048626.webp",
+    "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/no_12.jpg",
     "i18n": {
       "en": {
         "name": "Golden Sunlight Rose Bouquet"
@@ -290,12 +292,11 @@
       }
     },
     "stockByBranch": {
-      "branch_q10": 10,
-      "branch_q1": 5
+      "branch_q10": 10
     },
-    "dailyQuota": 15,
+    "dailyQuota": 10,
     "isActive": true,
-    "updatedAt": "2026-09-13T17:34:55Z"
+    "updatedAt": "2026-09-26T16:22:01Z"
   },
   {
     "id": "bo_hoa_1788048671",
