@@ -3,7 +3,7 @@
     "id": "bo_hoa",
     "name": "Bó Hoa Tươi",
     "slug": "bo-hoa",
-    "image": "https://images.unsplash.com/photo-1591886960571-74d43a9d4166?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80",
+    "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/no_05.jpg",
     "icon": "fa-solid fa-spa",
     "order": 1,
     "status": "active",
@@ -29,7 +29,7 @@
       }
     },
     "createdAt": "2026-08-21T00:00:00Z",
-    "updatedAt": "2026-08-30T01:21:46Z",
+    "updatedAt": "2026-09-26T04:45:41Z",
     "deletedAt": null,
     "textId": "cat_bouquet"
   },
@@ -37,7 +37,7 @@
     "id": "ke_hoa",
     "name": "Kệ Hoa Khai Trương",
     "slug": "ke-hoa",
-    "image": "https://images.unsplash.com/photo-1507290439931-a861b5a38200?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80",
+    "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/no_100_01jpg",
     "icon": "fa-solid fa-crown",
     "order": 2,
     "status": "active",
@@ -63,7 +63,7 @@
       }
     },
     "createdAt": "2026-08-21T00:00:00Z",
-    "updatedAt": "2026-08-30T01:23:12Z",
+    "updatedAt": "2026-09-26T04:49:14Z",
     "textId": "cat_stand",
     "deletedAt": null
   },
@@ -173,7 +173,7 @@
     "id": "hoa_cuoi",
     "name": "Hoa Cưới & Cầm Tay",
     "slug": "hoa-cuoi",
-    "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/hoa_tha_binh.jpg",
+    "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/no_09.jpg",
     "icon": "fa-solid fa-heart",
     "order": 6,
     "status": "active",
@@ -199,7 +199,7 @@
       }
     },
     "createdAt": "2026-08-21T00:00:00Z",
-    "updatedAt": "2026-09-19T13:29:15Z",
+    "updatedAt": "2026-09-26T04:46:29Z",
     "textId": "cat_wedding",
     "deletedAt": null
   }
