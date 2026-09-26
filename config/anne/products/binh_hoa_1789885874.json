@@ -13,7 +13,7 @@
   "salePrice": "420,000₫",
   "originalPrice": "420,000₫",
   "badge": "",
-  "image": "/api/flower/v1/images/prod_1789885814_e4059959.png",
+  "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/binh_ho_phach.png",
   "gallery": [
     "/api/flower/v1/images/prod_1789885814_e4059959.png"
   ],
@@ -29,6 +29,5 @@
   },
   "dailyQuota": 10,
   "isActive": true,
-  "createdAt": "2026-09-20T06:31:14Z",
-  "updatedAt": "2026-09-20T06:31:14Z"
+  "updatedAt": "2026-09-26T16:58:07Z"
 }

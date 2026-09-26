@@ -4,7 +4,7 @@
   "banners": [
     {
       "id": "banner_01",
-      "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/no.jpg",
+      "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/no_14.jpg",
       "link": "#products",
       "active": true,
       "order": 1
@@ -25,18 +25,18 @@
     },
     {
       "id": "banner_04",
-      "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/no_06.jpg",
+      "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/no_13.jpg",
       "link": "#products",
       "active": true,
       "order": 4
     },
     {
       "id": "banner_05",
-      "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/no_08.jpg",
+      "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/no.jpg",
       "link": "#products",
       "active": true,
       "order": 5
     }
   ],
-  "updatedAt": "2026-09-26T04:42:44Z"
+  "updatedAt": "2026-09-26T16:52:40Z"
 }

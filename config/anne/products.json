@@ -38,14 +38,14 @@
     "salePrice": "420,000₫",
     "originalPrice": "420,000₫",
     "badge": "",
-    "image": "/api/flower/v1/images/prod_1789885814_e4059959.png",
+    "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/binh_ho_phach.png",
     "i18n": null,
     "stockByBranch": {
       "branch_q10": 10
     },
     "dailyQuota": 10,
     "isActive": true,
-    "updatedAt": "2026-09-20T06:31:14Z"
+    "updatedAt": "2026-09-26T16:58:07Z"
   },
   {
     "id": "bo_hoa_1788453978",
@@ -127,7 +127,7 @@
     "salePrice": "150,000₫",
     "originalPrice": "150,000₫",
     "badge": "Bán chạy",
-    "image": "/api/flower/v1/images/prod_1790354670_c53fbba3.jpg",
+    "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/binh_gốm_sứ.jpg",
     "i18n": {
       "en": {
         "name": "Minimalist Ceramic Art Flower Vase"
@@ -147,7 +147,7 @@
     },
     "dailyQuota": 8,
     "isActive": true,
-    "updatedAt": "2026-09-25T16:44:42Z"
+    "updatedAt": "2026-09-26T16:56:00Z"
   },
   {
     "id": "bo_hoa_01",
