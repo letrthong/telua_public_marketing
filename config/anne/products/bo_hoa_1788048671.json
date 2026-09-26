@@ -1,53 +1,58 @@
 {
   "id": "bo_hoa_1788048671",
   "name": "Bó Hoa Hồng Song Sắc Hoàng Kim",
+  "nameTextId": null,
   "category": "bo_hoa",
-  "priceLevelId": "price_lvl_01",
+  "productType": "direct",
+  "recipe": [],
+  "stemCount": 0,
+  "unit": null,
+  "costPrice": null,
+  "priceLevelId": "price_lvl_02",
   "priceNumber": 400000,
   "salePrice": "400,000₫",
   "originalPrice": "400,000₫",
   "badge": "Mới",
-  "image": "/api/flower/v1/images/bo_hoa_1788048671.webp",
+  "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/no_50.jpg",
   "gallery": [
     "/api/flower/v1/images/bo_hoa_1788048671.webp"
   ],
   "description": "",
+  "descTextId": null,
   "flowerComposition": "Yzx",
+  "compTextId": null,
   "dimension": "",
   "careTips": "Để nơi thoáng mát, phun sương mỗi ngày",
-  "stockByBranch": {
-    "branch_q10": 10,
-    "branch_q1": 5,
-    "branch_thao_dien": 5
-  },
-  "dailyQuota": 15,
-  "isActive": true,
-  "createdAt": "2026-08-30T00:11:11Z",
-  "updatedAt": "2026-08-30T00:11:11Z",
   "i18n": {
     "en": {
-      "name": "Dual Tone Red & Gold Rose Bouquet",
-      "flowerComposition": "Red & Yellow Gradient Roses (15 stems), Chamomile, Eucalyptus",
+      "careTips": "Mist outer petals lightly and replenish water every morning.",
       "description": "An energetic blend of fiery red and golden gradient roses creating a luxurious statement.",
-      "careTips": "Mist outer petals lightly and replenish water every morning."
+      "flowerComposition": "Red & Yellow Gradient Roses (15 stems), Chamomile, Eucalyptus",
+      "name": "Dual Tone Red & Gold Rose Bouquet"
     },
     "ja": {
-      "name": "情熱のツートン ローズブーケ",
-      "flowerComposition": "赤・黄グラデーションローズ（15本）、カモミール、ユーカリ",
+      "careTips": "毎朝花びらに軽く霧吹きをし、新鮮な水を補充してください。",
       "description": "鮮烈な赤と黄金色のグラデーションが空間を華麗に彩るラグジュアリーブーケ。",
-      "careTips": "毎朝花びらに軽く霧吹きをし、新鮮な水を補充してください。"
+      "flowerComposition": "赤・黄グラデーションローズ（15本）、カモミール、ユーカリ",
+      "name": "情熱のツートン ローズブーケ"
     },
     "ko": {
-      "name": "투톤 골드 & 레드 장미 꽃다발",
-      "flowerComposition": "레드&골드 그라데이션 장미 (15송이), 카모마일, 유칼립투스",
+      "careTips": "매일 아침 꽃잎에 가볍게 분무하고 물을 갈아주세요.",
       "description": "강렬한 레드와 황금빛 그라데이션 장미가 어우러져 세련된 화려함을 전합니다.",
-      "careTips": "매일 아침 꽃잎에 가볍게 분무하고 물을 갈아주세요."
+      "flowerComposition": "레드&골드 그라데이션 장미 (15송이), 카모마일, 유칼립투스",
+      "name": "투톤 골드 & 레드 장미 꽃다발"
     },
     "zh": {
-      "name": "金彩流光 双色玫瑰花束",
-      "flowerComposition": "红黄渐变双色玫瑰（15支）、洋甘菊、尤加利叶",
+      "careTips": "每日向花瓣轻柔喷水，并定时换水保湿。",
       "description": "热情炽红与灿烂金黄交相辉映，展现别致奢华与非凡格调。",
-      "careTips": "每日向花瓣轻柔喷水，并定时换水保湿。"
+      "flowerComposition": "红黄渐变双色玫瑰（15支）、洋甘菊、尤加利叶",
+      "name": "金彩流光 双色玫瑰花束"
     }
-  }
+  },
+  "stockByBranch": {
+    "branch_q10": 10
+  },
+  "dailyQuota": 10,
+  "isActive": true,
+  "updatedAt": "2026-09-26T17:10:19Z"
 }

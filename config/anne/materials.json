@@ -249,13 +249,19 @@
   {
     "id": "bo_hoa_1788048671",
     "name": "Bó Hoa Hồng Song Sắc Hoàng Kim",
+    "nameTextId": null,
     "category": "bo_hoa",
-    "priceLevelId": "price_lvl_01",
+    "productType": "direct",
+    "recipe": null,
+    "stemCount": 0,
+    "unit": "cành",
+    "costPrice": 200000,
+    "priceLevelId": "price_lvl_02",
     "priceNumber": 400000,
     "salePrice": "400,000₫",
     "originalPrice": "400,000₫",
     "badge": "Mới",
-    "image": "/api/flower/v1/images/bo_hoa_1788048671.webp",
+    "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/no_50.jpg",
     "i18n": {
       "en": {
         "name": "Dual Tone Red & Gold Rose Bouquet"
@@ -271,16 +277,11 @@
       }
     },
     "stockByBranch": {
-      "branch_q10": 10,
-      "branch_q1": 5,
-      "branch_thao_dien": 5
+      "branch_q10": 10
     },
-    "dailyQuota": 15,
+    "dailyQuota": 10,
     "isActive": true,
-    "updatedAt": "2026-08-30T00:11:11Z",
-    "productType": "direct",
-    "unit": "cành",
-    "costPrice": 200000,
+    "updatedAt": "2026-09-26T17:10:19Z",
     "minStockAlert": 10,
     "minAlertLevel": 10
   },
