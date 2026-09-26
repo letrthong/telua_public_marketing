@@ -1,52 +1,58 @@
 {
   "id": "hoa_cuoi_1787840801",
   "name": "Hoa Cưới Cầm Tay Cô Dâu Tinh Khôi",
+  "nameTextId": null,
   "category": "hoa_cuoi",
-  "priceLevelId": "price_lvl_01",
+  "productType": "direct",
+  "recipe": [],
+  "stemCount": 0,
+  "unit": null,
+  "costPrice": null,
+  "priceLevelId": "price_lvl_02",
   "priceNumber": 450000,
   "salePrice": "450,000₫",
   "originalPrice": "450,000₫",
   "badge": "Mới",
-  "image": "/api/flower/v1/images/hoa_cuoi_1787840801.webp",
+  "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/no.jpg",
   "gallery": [
     "/api/flower/v1/images/hoa_cuoi_1787840801.webp"
   ],
   "description": "",
+  "descTextId": null,
   "flowerComposition": "",
+  "compTextId": null,
   "dimension": "",
   "careTips": "Để nơi thoáng mát, phun sương mỗi ngày",
-  "stockByBranch": {
-    "branch_q10": 10,
-    "branch_q1": 5,
-    "branch_thao_dien": 5
-  },
-  "dailyQuota": 15,
-  "isActive": true,
-  "updatedAt": "2026-08-28T15:18:51Z",
   "i18n": {
     "en": {
-      "name": "Pure Innocence Bridal Bouquet",
-      "flowerComposition": "White Ohara Roses (9 stems), Calla Lilies (5 stems), Baby Breath, White Satin Ribbon",
+      "careTips": "Keep in water until the ceremony, pat dry stems before walking down the aisle.",
       "description": "An exquisite designer wedding bouquet blending white Ohara garden roses and sleek calla lilies with silk ribbon.",
-      "careTips": "Keep in water until the ceremony, pat dry stems before walking down the aisle."
+      "flowerComposition": "White Ohara Roses (9 stems), Calla Lilies (5 stems), Baby Breath, White Satin Ribbon",
+      "name": "Pure Innocence Bridal Bouquet"
     },
     "ja": {
-      "name": "純白のウェディング ブライダルブーケ",
-      "flowerComposition": "ホワイトオハラローズ（9本）、カラー（5本）、カスミソウ、サテンリボン",
+      "careTips": "挙式直前まで水につけておき、入場前に茎の水分を拭き取ってください。",
       "description": "純白のバラと凛としたカラーが花嫁の美しさを際立たせる至高のウェディングブーケ。",
-      "careTips": "挙式直前まで水につけておき、入場前に茎の水分を拭き取ってください。"
+      "flowerComposition": "ホワイトオハラローズ（9本）、カラー（5本）、カスミソウ、サテンリボン",
+      "name": "純白のウェディング ブライダルブーケ"
     },
     "ko": {
-      "name": "순백의 신부 웨딩 부케",
-      "flowerComposition": "화이트 오하라 장미 (9송이), 카라 (5송이), 안개꽃, 실크 리본",
+      "careTips": "본식 직전까지 줄기를 물에 담가두고 입장 전 물기를 닦아내세요.",
       "description": "고급스러운 화이트 가든 로즈와 단아한 카라가 완벽하게 어우러진 명품 웨딩 부케.",
-      "careTips": "본식 직전까지 줄기를 물에 담가두고 입장 전 물기를 닦아내세요."
+      "flowerComposition": "화이트 오하라 장미 (9송이), 카라 (5송이), 안개꽃, 실크 리본",
+      "name": "순백의 신부 웨딩 부케"
     },
     "zh": {
-      "name": "纯洁初心 新娘手捧花",
-      "flowerComposition": "纯白欧哈拉玫瑰（9支）、白色马蹄莲（5支）、满天星、高级真丝缎带",
+      "careTips": "典礼前保持花茎浸水保湿，入场前用纸巾擦干茎部水分。",
       "description": "优雅典雅的白玫瑰与亭亭玉立的马蹄莲完美融合，映衬新娘一生中最圣洁美丽的瞬间。",
-      "careTips": "典礼前保持花茎浸水保湿，入场前用纸巾擦干茎部水分。"
+      "flowerComposition": "纯白欧哈拉玫瑰（9支）、白色马蹄莲（5支）、满天星、高级真丝缎带",
+      "name": "纯洁初心 新娘手捧花"
     }
-  }
+  },
+  "stockByBranch": {
+    "branch_q10": 10
+  },
+  "dailyQuota": 10,
+  "isActive": true,
+  "updatedAt": "2026-09-26T17:18:39Z"
 }

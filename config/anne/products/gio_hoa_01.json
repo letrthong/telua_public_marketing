@@ -1,52 +1,58 @@
 {
   "id": "gio_hoa_01",
   "name": "Giỏ Hoa Nắng Sớm",
+  "nameTextId": null,
   "category": "gio_hoa",
-  "priceLevelId": "price_lvl_02",
-  "priceNumber": 880000,
-  "salePrice": "880,000₫",
-  "originalPrice": "880,000₫",
+  "productType": "direct",
+  "recipe": [],
+  "stemCount": 0,
+  "unit": null,
+  "costPrice": null,
+  "priceLevelId": "price_lvl_01",
+  "priceNumber": 280000,
+  "salePrice": "280,000₫",
+  "originalPrice": "280,000₫",
   "badge": "-4%",
-  "image": "/api/flower/v1/images/gio_hoa_01.webp",
+  "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/no.jpg",
   "gallery": [
     "/api/flower/v1/images/gio_hoa_01.webp"
   ],
   "description": "Giỏ mây vintage cắm phối hoa tone pastel ngọt ngào, thích hợp tặng sinh nhật, tri ân đối tác.",
+  "descTextId": null,
   "flowerComposition": "Hồng Juliet David Austin, Cát Tường xoăn, Baby trắng, Giỏ mây đan tay",
+  "compTextId": null,
   "dimension": "Cao 45cm x Rộng 40cm",
   "careTips": "Để nơi thoáng mát, phun nước đẫm xốp cắm hoa vào buổi sáng.",
-  "stockByBranch": {
-    "branch_q10": 6,
-    "branch_q1": 4,
-    "branch_thao_dien": 1
-  },
-  "dailyQuota": 10,
-  "isActive": true,
-  "updatedAt": "2026-08-27T22:07:13Z",
   "i18n": {
     "en": {
-      "name": "Morning Sunshine Flower Basket",
-      "flowerComposition": "Juliet David Austin Roses, Eustoma, White Baby's Breath, Handwoven Rattan Basket",
+      "careTips": "Keep in a cool place, thoroughly mist floral foam each morning.",
       "description": "A sweet pastel vintage basket arrangement, perfect for birthdays and corporate appreciation.",
-      "careTips": "Keep in a cool place, thoroughly mist floral foam each morning."
+      "flowerComposition": "Juliet David Austin Roses, Eustoma, White Baby's Breath, Handwoven Rattan Basket",
+      "name": "Morning Sunshine Flower Basket"
     },
     "ja": {
-      "name": "朝の陽ざし フラワーバスケット",
-      "flowerComposition": "ジュリエットローズ、トルコキキョウ、かすみ草、手編みラタンバスケット",
+      "careTips": "涼しい場所に置き、毎朝吸水スポンジにたっぷりと水を与えてください。",
       "description": "パステルトーンの優しい色合いが魅力的なヴィンテージ風バスケットフラワーギフト。",
-      "careTips": "涼しい場所に置き、毎朝吸水スポンジにたっぷりと水を与えてください。"
+      "flowerComposition": "ジュリエットローズ、トルコキキョウ、かすみ草、手編みラタンバスケット",
+      "name": "朝の陽ざし フラワーバスケット"
     },
     "ko": {
-      "name": "아침 햇살 꽃바구니",
-      "flowerComposition": "줄리엣 로즈, 리시안셔스, 안개꽃, 핸드메이드 라탄 바구니",
+      "careTips": "서늘한 곳에 보관하고 매일 아침 오아시스에 물을 충분히 주세요.",
       "description": "달콤한 파스텔 톤의 빈티지 꽃바구니로 생일 축하 및 감사 선물로 제격입니다.",
-      "careTips": "서늘한 곳에 보관하고 매일 아침 오아시스에 물을 충분히 주세요."
+      "flowerComposition": "줄리엣 로즈, 리시안셔스, 안개꽃, 핸드메이드 라탄 바구니",
+      "name": "아침 햇살 꽃바구니"
     },
     "zh": {
-      "name": "晨光暖阳手提花篮",
-      "flowerComposition": "朱丽叶玫瑰、洋桔梗、满天星、手工藤编花篮",
+      "careTips": "放置于阴凉通风处，每天早晨向花泥充分喷水保湿。",
       "description": "柔美粉嫩的复古藤编花篮，适合生日庆典与商务感恩赠礼。",
-      "careTips": "放置于阴凉通风处，每天早晨向花泥充分喷水保湿。"
+      "flowerComposition": "朱丽叶玫瑰、洋桔梗、满天星、手工藤编花篮",
+      "name": "晨光暖阳手提花篮"
     }
-  }
+  },
+  "stockByBranch": {
+    "branch_q10": 6
+  },
+  "dailyQuota": 6,
+  "isActive": true,
+  "updatedAt": "2026-09-26T17:16:14Z"
 }

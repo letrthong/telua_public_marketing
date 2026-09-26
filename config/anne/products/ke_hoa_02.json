@@ -1,52 +1,58 @@
 {
   "id": "ke_hoa_02",
   "name": "Kệ Hoa Chúc Mừng Ember Corgart",
+  "nameTextId": null,
   "category": "ke_hoa",
-  "priceLevelId": "price_lvl_03",
-  "priceNumber": 1800000,
-  "salePrice": "1,800,000₫",
-  "originalPrice": "1,800,000₫",
+  "productType": "direct",
+  "recipe": [],
+  "stemCount": 0,
+  "unit": null,
+  "costPrice": null,
+  "priceLevelId": "price_lvl_01",
+  "priceNumber": 180000,
+  "salePrice": "180,000₫",
+  "originalPrice": "180,000₫",
   "badge": "Hot",
   "image": "/api/flower/v1/images/ke_hoa_02.webp",
   "gallery": [
     "/api/flower/v1/images/ke_hoa_02.webp"
   ],
   "description": "",
+  "descTextId": null,
   "flowerComposition": "Hoa Hồng Cam Spirit (20 cành), Cúc Mẫu Đơn cam, Hoa Đồng Tiền nhí, Lá Bạch Đàn, Kèm Banner chúc mừng cao cấp",
+  "compTextId": null,
   "dimension": "Cao 160cm x Rộng 70cm (Kệ chân gỗ)",
   "careTips": "Đặt nơi thoáng mát tránh ánh nắng gắt trực tiếp, châm nước vào mút xốp mỗi ngày.",
-  "stockByBranch": {
-    "branch_q10": 5,
-    "branch_q1": 3,
-    "branch_thao_dien": 2
-  },
-  "dailyQuota": 10,
-  "isActive": true,
-  "updatedAt": "2026-08-30T00:04:03Z",
   "i18n": {
     "en": {
-      "name": "Ember Modern Congratulatory Flower Stand",
-      "flowerComposition": "Spirit Orange Roses (20 stems), Orange Peony Mums, Mini Gerberas, Eucalyptus Leaves, Includes Custom Premium Event Banner",
+      "careTips": "Place in a cool shaded area away from direct sunlight, replenish water onto floral foam daily.",
       "description": "Chic contemporary terracotta pastel floral stand with imported roses, tailored for brand launches and grand milestones.",
-      "careTips": "Place in a cool shaded area away from direct sunlight, replenish water onto floral foam daily."
+      "flowerComposition": "Spirit Orange Roses (20 stems), Orange Peony Mums, Mini Gerberas, Eucalyptus Leaves, Includes Custom Premium Event Banner",
+      "name": "Ember Modern Congratulatory Flower Stand"
     },
     "ja": {
-      "name": "モダン祝賀スタンド花 エンバー・コルガート",
-      "flowerComposition": "スピリットオレンジバラ（20本）、オレンジ大輪マム、ミニガーベラ、ユーカリ、特製祝賀名札リボン付き",
+      "careTips": "直射日光を避け涼しい場所に設置し、毎日吸水スポンジに水を補給してください。",
       "description": "テラコッタオレンジの洗練されたモダンスタンド花。ブランド発表会や新店舗オープンに最適なスタイリッシュデザイン。",
-      "careTips": "直射日光を避け涼しい場所に設置し、毎日吸水スポンジに水を補給してください。"
+      "flowerComposition": "スピリットオレンジバラ（20本）、オレンジ大輪マム、ミニガーベラ、ユーカリ、特製祝賀名札リボン付き",
+      "name": "モダン祝賀スタンド花 エンバー・コルガート"
     },
     "ko": {
-      "name": "엠버 모던 축하 스탠드 화환",
-      "flowerComposition": "스피릿 오렌지 장미 (20송이), 오렌지 퐁퐁 국화, 미니 거베라, 유칼립투스, 고급 맞춤 행사 리본 포함",
+      "careTips": "직사광선을 피해 통풍이 잘되는 곳에 두시고 매일 오아시스에 물을 보충해 주세요.",
       "description": "세련된 테라코타 오렌지 톤의 현대적인 우드 스탠드 화환으로 브랜드 론칭 및 기념행사에 독보적인 품격을 더합니다.",
-      "careTips": "직사광선을 피해 통풍이 잘되는 곳에 두시고 매일 오아시스에 물을 보충해 주세요."
+      "flowerComposition": "스피릿 오렌지 장미 (20송이), 오렌지 퐁퐁 국화, 미니 거베라, 유칼립투스, 고급 맞춤 행사 리본 포함",
+      "name": "엠버 모던 축하 스탠드 화환"
     },
     "zh": {
-      "name": "焦糖暖阳 现代立式庆典花架",
-      "flowerComposition": "烈焰橙玫瑰（20支）、橙色大牡丹菊、迷你太阳花、尤加利叶、附赠高级定制贺词横幅",
+      "careTips": "放置于阴凉通风处，避免强光暴晒，每天向花泥补充水分。",
       "description": "前沿风尚焦糖暖橙色调现代花架，精选进口鲜花打造，适合品牌发布会与高端开业庆典。",
-      "careTips": "放置于阴凉通风处，避免强光暴晒，每天向花泥补充水分。"
+      "flowerComposition": "烈焰橙玫瑰（20支）、橙色大牡丹菊、迷你太阳花、尤加利叶、附赠高级定制贺词横幅",
+      "name": "焦糖暖阳 现代立式庆典花架"
     }
-  }
+  },
+  "stockByBranch": {
+    "branch_q10": 5
+  },
+  "dailyQuota": 5,
+  "isActive": true,
+  "updatedAt": "2026-09-26T17:14:45Z"
 }

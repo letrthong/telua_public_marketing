@@ -13,7 +13,7 @@
   "salePrice": "150,000₫",
   "originalPrice": "150,000₫",
   "badge": "Bán chạy",
-  "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/binh_gốm_sứ.jpg",
+  "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/binh_gom_su.jpg",
   "gallery": [
     "/api/flower/v1/images/binh_hoa_04.webp"
   ],
@@ -54,5 +54,5 @@
   },
   "dailyQuota": 8,
   "isActive": true,
-  "updatedAt": "2026-09-26T16:56:00Z"
+  "updatedAt": "2026-09-26T17:12:01Z"
 }
