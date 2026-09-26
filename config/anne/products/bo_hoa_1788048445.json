@@ -8,12 +8,12 @@
   "stemCount": 0,
   "unit": null,
   "costPrice": null,
-  "priceLevelId": "price_lvl_01",
+  "priceLevelId": "price_lvl_02",
   "priceNumber": 410000,
   "salePrice": "410,000₫",
   "originalPrice": "410,000₫",
   "badge": "Mới",
-  "image": "/api/flower/v1/images/bo_hoa_1788048445.webp",
+  "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/no_01.jpg",
   "gallery": [
     "/api/flower/v1/images/bo_hoa_1788048445.webp"
   ],
@@ -50,10 +50,9 @@
     }
   },
   "stockByBranch": {
-    "branch_q10": 10,
-    "branch_q1": 5
+    "branch_q10": 10
   },
-  "dailyQuota": 15,
+  "dailyQuota": 10,
   "isActive": true,
-  "updatedAt": "2026-09-14T03:25:36Z"
+  "updatedAt": "2026-09-26T16:49:52Z"
 }
