@@ -5,38 +5,38 @@
     {
       "id": "banner_01",
       "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/no_13.jpg",
-      "link": "#products",
+      "link": "#cat-bo_hoa",
       "active": true,
       "order": 1
     },
     {
       "id": "banner_02",
       "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/no_05.jpg",
-      "link": "#products",
+      "link": "#cat-binh_hoa",
       "active": true,
       "order": 2
     },
     {
       "id": "banner_03",
       "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/no_07.jpg",
-      "link": "#products",
+      "link": "#cat-binh_hoa",
       "active": true,
       "order": 3
     },
     {
       "id": "banner_04",
       "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/no_14.jpg",
-      "link": "#products",
+      "link": "#cat-lan_ho_diep",
       "active": true,
       "order": 4
     },
     {
       "id": "banner_05",
       "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/no.jpg",
-      "link": "#products",
+      "link": "#cat-hoa_cuoi",
       "active": true,
       "order": 5
     }
   ],
-  "updatedAt": "2026-09-26T17:20:27Z"
+  "updatedAt": "2026-09-27T10:48:02Z"
 }
