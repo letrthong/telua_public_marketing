@@ -1,0 +1,42 @@
+{
+  "doc_id": "doc_1790584192215",
+  "history": [
+    {
+      "id": "hist_1790584192220",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "create",
+      "timestamp": "2026-09-28T08:29:52.220813Z",
+      "details": {
+        "title": "03 setVolumeGroupMute"
+      }
+    },
+    {
+      "id": "hist_1790584251308",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-09-28T08:30:51.308826Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1790584373843",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-09-28T08:32:53.843064Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    }
+  ]
+}

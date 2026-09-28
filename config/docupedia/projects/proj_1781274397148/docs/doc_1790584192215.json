@@ -1,0 +1,83 @@
+{
+  "id": "doc_1790584192215",
+  "type": "file",
+  "title": "03 setVolumeGroupMute",
+  "parent_id": "folder_1781663299075",
+  "content": {
+    "ops": [
+      {
+        "attributes": {
+          "link": "https://cs.android.com/android/platform/superproject/+/android-latest-release:packages/services/Car/service/src/com/android/car/audio/CarAudioService.java;l=3449"
+        },
+        "insert": "CarAudioService.java - Android Code Search"
+      },
+      {
+        "insert": "\n @Override"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "    public void setVolumeGroupMute(int zoneId, int groupId, boolean mute, int flags) {"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "    }"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "link": "https://cs.android.com/android/platform/superproject/+/android-latest-release:packages/services/Car/service/src/com/android/car/CarShellCommand.java;l=1065"
+        },
+        "insert": "CarShellCommand.java - Android Code Search"
+      },
+      {
+        "insert": "\n  private void runSetMuteCarVolumeGroup(String zoneString, String groupIdString,"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": "            String muteString) {"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "   }"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "..\n"
+      }
+    ]
+  },
+  "created_by": "user_admin",
+  "updated_by": "user_admin",
+  "created_at": "2026-09-28T08:29:52.215669Z",
+  "updated_at": "2026-09-28T08:32:53.839914Z"
+}
