@@ -122,10 +122,10 @@
     "stemCount": 1,
     "unit": null,
     "costPrice": null,
-    "priceLevelId": "price_lvl_01",
-    "priceNumber": 150000,
-    "salePrice": "150,000₫",
-    "originalPrice": "150,000₫",
+    "priceLevelId": "price_lvl_02",
+    "priceNumber": 490000,
+    "salePrice": "490,000₫",
+    "originalPrice": "490,000₫",
     "badge": "Bán chạy",
     "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/binh_gom_su.jpg",
     "i18n": {
@@ -147,7 +147,7 @@
     },
     "dailyQuota": 8,
     "isActive": true,
-    "updatedAt": "2026-09-26T17:12:01Z"
+    "updatedAt": "2026-09-28T16:29:35Z"
   },
   {
     "id": "bo_hoa_01",
