@@ -1,0 +1,71 @@
+{
+  "id": "doc_1790585751088",
+  "type": "file",
+  "title": "02 onKeyEvent",
+  "parent_id": "folder_1790584702478",
+  "content": {
+    "ops": [
+      {
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "link": "https://cs.android.com/android/platform/superproject/+/android-latest-release:packages/services/Car/service/src/com/android/car/audio/CarAudioService.java;l=307"
+        },
+        "insert": "CarAudioService.java - Android Code SearchCarAudioService.java - Android Code Search"
+      },
+      {
+        "insert": "\n private final KeyEventListener mCarKeyEventListener = new KeyEventListener() {"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "        @Override"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "        public void onKeyEvent(KeyEvent event, int displayType, int seat) {"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "         }"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "}"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "..\n"
+      }
+    ]
+  },
+  "created_by": "user_admin",
+  "updated_by": "user_admin",
+  "created_at": "2026-09-28T08:55:51.088815Z",
+  "updated_at": "2026-09-28T08:56:29.088352Z"
+}

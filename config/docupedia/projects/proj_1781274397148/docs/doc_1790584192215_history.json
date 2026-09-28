@@ -66,6 +66,22 @@
           }
         }
       }
+    },
+    {
+      "id": "hist_1790585733808",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-09-28T08:55:33.808649Z",
+      "details": {
+        "changes": {
+          "title": {
+            "old": "02 setVolumeGroupMute",
+            "new": "03 setVolumeGroupMute"
+          }
+        }
+      }
     }
   ]
 }
