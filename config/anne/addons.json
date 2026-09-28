@@ -21,7 +21,7 @@
     "nameVi": "Bình Hoa Thủy Tinh Xinh Xắn",
     "category": "vase",
     "price": 150000,
-    "image": "/api/flower/v1/images/addon_1788482306_5bed0d8c.webp",
+    "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/binh_hoa_thuy_tinh.webp",
     "description": "Bình thủy tinh trong suốt cao cấp, tôn lên vẻ đẹp của bó hoa.",
     "isActive": true,
     "sortOrder": 1,
@@ -29,7 +29,7 @@
     "status": "active",
     "isDeleted": false,
     "deletedAt": null,
-    "updatedAt": "2026-09-04T00:38:31Z"
+    "updatedAt": "2026-09-28T16:22:10Z"
   },
   {
     "id": "addon_chocolate",
@@ -45,7 +45,7 @@
     "status": "inactive",
     "isDeleted": false,
     "deletedAt": null,
-    "updatedAt": "2026-09-11T09:57:14Z"
+    "updatedAt": "2026-09-28T16:15:41Z"
   },
   {
     "id": "addon_teddy",
@@ -61,7 +61,7 @@
     "status": "inactive",
     "isDeleted": false,
     "deletedAt": null,
-    "updatedAt": "2026-09-11T09:57:18Z"
+    "updatedAt": "2026-09-28T16:22:22Z"
   },
   {
     "id": "addon_cake",
@@ -77,7 +77,7 @@
     "status": "inactive",
     "isDeleted": false,
     "deletedAt": null,
-    "updatedAt": "2026-09-11T09:57:22Z"
+    "updatedAt": "2026-09-28T16:22:25Z"
   },
   {
     "id": "addon_balloon",

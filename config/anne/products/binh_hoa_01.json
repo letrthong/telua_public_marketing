@@ -13,7 +13,7 @@
   "salePrice": "120,000₫",
   "originalPrice": "120,000₫",
   "badge": "Nghệ Thuật",
-  "image": "/api/flower/v1/images/prod_1788454261_f7139bdb.webp",
+  "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/binh_hoa_thuy_tinh.webp",
   "gallery": [
     "/api/flower/v1/images/binh_hoa_01.webp"
   ],
@@ -54,5 +54,5 @@
   },
   "dailyQuota": 5,
   "isActive": true,
-  "updatedAt": "2026-09-20T06:39:52Z"
+  "updatedAt": "2026-09-28T16:23:43Z"
 }
