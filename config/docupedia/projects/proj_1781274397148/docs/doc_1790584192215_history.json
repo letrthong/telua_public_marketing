@@ -37,6 +37,35 @@
           "content": "Nội dung tài liệu được cập nhật"
         }
       }
+    },
+    {
+      "id": "hist_1790584455113",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-09-28T08:34:15.113510Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1790584831395",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-09-28T08:40:31.395982Z",
+      "details": {
+        "changes": {
+          "title": {
+            "old": "03 setVolumeGroupMute",
+            "new": "02 setVolumeGroupMute"
+          }
+        }
+      }
     }
   ]
 }
