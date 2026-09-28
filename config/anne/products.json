@@ -238,7 +238,7 @@
     "salePrice": "410,000₫",
     "originalPrice": "410,000₫",
     "badge": "Mới",
-    "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/no_01.jpg",
+    "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/no_10.jpg",
     "i18n": {
       "en": {
         "name": "Velvet Red Roses Bouquet"
@@ -258,7 +258,7 @@
     },
     "dailyQuota": 10,
     "isActive": true,
-    "updatedAt": "2026-09-26T16:49:52Z"
+    "updatedAt": "2026-09-28T15:57:11Z"
   },
   {
     "id": "bo_hoa_1788048626",
@@ -312,7 +312,7 @@
     "salePrice": "400,000₫",
     "originalPrice": "400,000₫",
     "badge": "Mới",
-    "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/no_50.jpg",
+    "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/no_11.jpg",
     "i18n": {
       "en": {
         "name": "Dual Tone Red & Gold Rose Bouquet"
@@ -332,18 +332,24 @@
     },
     "dailyQuota": 10,
     "isActive": true,
-    "updatedAt": "2026-09-26T17:10:19Z"
+    "updatedAt": "2026-09-28T15:58:47Z"
   },
   {
     "id": "bo_hoa_1788048730",
     "name": "Bó Hoa Hồng Phấn & Cúc Tana",
+    "nameTextId": null,
     "category": "bo_hoa",
-    "priceLevelId": "price_lvl_01",
+    "productType": "direct",
+    "recipe": null,
+    "stemCount": 0,
+    "unit": null,
+    "costPrice": null,
+    "priceLevelId": "price_lvl_02",
     "priceNumber": 500000,
     "salePrice": "500,000₫",
     "originalPrice": "500,000₫",
     "badge": "Mới",
-    "image": "/api/flower/v1/images/bo_hoa_1788048730.webp",
+    "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/no_15.jpg",
     "i18n": {
       "en": {
         "name": "Sweet Pastel Roses & Tana Daisies"
@@ -359,25 +365,28 @@
       }
     },
     "stockByBranch": {
-      "branch_q10": 10,
-      "branch_q1": 5,
-      "branch_thao_dien": 5
+      "branch_q10": 10
     },
-    "dailyQuota": 15,
+    "dailyQuota": 10,
     "isActive": true,
-    "updatedAt": "2026-08-30T00:12:10Z",
-    "productType": "direct"
+    "updatedAt": "2026-09-28T15:56:12Z"
   },
   {
     "id": "bo_hoa_1788048775",
     "name": "Bó Hoa Hồng & Hoa Ly Trắng Thanh Lịch",
+    "nameTextId": null,
     "category": "bo_hoa",
-    "priceLevelId": "price_lvl_01",
+    "productType": "direct",
+    "recipe": null,
+    "stemCount": 0,
+    "unit": null,
+    "costPrice": null,
+    "priceLevelId": "price_lvl_02",
     "priceNumber": 500000,
     "salePrice": "500,000₫",
     "originalPrice": "500,000₫",
     "badge": "Mới",
-    "image": "/api/flower/v1/images/bo_hoa_1788048775.webp",
+    "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/no_02.jpg",
     "i18n": {
       "en": {
         "name": "Graceful Roses & White Oriental Lilies"
@@ -393,14 +402,11 @@
       }
     },
     "stockByBranch": {
-      "branch_q10": 10,
-      "branch_q1": 5,
-      "branch_thao_dien": 5
+      "branch_q10": 10
     },
-    "dailyQuota": 15,
+    "dailyQuota": 10,
     "isActive": true,
-    "updatedAt": "2026-08-30T00:12:55Z",
-    "productType": "direct"
+    "updatedAt": "2026-09-28T16:01:36Z"
   },
   {
     "id": "gio_hoa_01",
@@ -491,7 +497,7 @@
     "salePrice": "180,000₫",
     "originalPrice": "180,000₫",
     "badge": "Hot",
-    "image": "/api/flower/v1/images/ke_hoa_02.webp",
+    "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/no_08.jpg",
     "i18n": {
       "en": {
         "name": "Ember Modern Congratulatory Flower Stand"
@@ -511,7 +517,7 @@
     },
     "dailyQuota": 5,
     "isActive": true,
-    "updatedAt": "2026-09-26T17:14:45Z"
+    "updatedAt": "2026-09-28T16:00:29Z"
   },
   {
     "id": "ke_hoa_04",
