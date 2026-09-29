@@ -177,6 +177,24 @@
         "insert": "\n"
       },
       {
+        "insert": "\nKeep and delete new file\ngit rm --cached <đường_dẫn_tới_file>"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "git commit --amend --no-edit"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
         "insert": "\nCập nhập lúc 10:01 24/9/2026\n"
       }
     ]
@@ -184,5 +202,5 @@
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-06-12T16:08:48.145458Z",
-  "updated_at": "2026-09-24T03:03:31.828911Z"
+  "updated_at": "2026-09-29T04:35:52.400857Z"
 }
