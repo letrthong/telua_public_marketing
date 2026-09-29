@@ -1,0 +1,29 @@
+{
+  "doc_id": "doc_1790652408642",
+  "history": [
+    {
+      "id": "hist_1790652408646",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "create",
+      "timestamp": "2026-09-29T03:26:48.646064Z",
+      "details": {
+        "title": "04 CarLog"
+      }
+    },
+    {
+      "id": "hist_1790652439524",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-09-29T03:27:19.524925Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    }
+  ]
+}
