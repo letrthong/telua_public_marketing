@@ -1,0 +1,131 @@
+{
+  "id": "doc_1790824449816",
+  "type": "file",
+  "title": "05 MediaSessionService",
+  "parent_id": "folder_1790584702478",
+  "content": {
+    "ops": [
+      {
+        "insert": "1/ Source code\n"
+      },
+      {
+        "attributes": {
+          "link": "https://cs.android.com/android/platform/superproject/+/android-latest-release:frameworks/base/services/core/java/com/android/server/media/MediaSessionService.java;l=118?q=MediaSessionService"
+        },
+        "insert": "MediaSessionService.java - Android Code Search"
+      },
+      {
+        "insert": "\n2/ dispatchMediaKeyEvent()\n"
+      },
+      {
+        "attributes": {
+          "link": "https://cs.android.com/android/platform/superproject/+/android-latest-release:frameworks/base/services/core/java/com/android/server/media/MediaSessionService.java;l=1981?q=MediaSessionService"
+        },
+        "insert": "MediaSessionService.java - Android Code Search"
+      },
+      {
+        "insert": "\n\n@Override"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": "public void dispatchMediaKeyEvent(String packageName, boolean asSystemService,"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "      KeyEvent keyEvent, boolean needWakeLock) {"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": " }"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "color": "#8c8f97"
+        },
+        "insert": " MediaSessionService.dispatchMediaKeyEvent(pkg, asSystemService=false, ...)"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "color": "#8c8f97"
+        },
+        "insert": "              └─ handleMediaKeyEventLocked() → dispatchMediaKeyEventLocked()"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "color": "#8c8f97"
+        },
+        "insert": "                └─ session.sendMediaButton(...) ← MediaSessionRecord"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "color": "#8c8f97"
+        },
+        "insert": "                   └─ mSessionCb.onMediaButton(...) ← Binder to app"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "color": "#8c8f97"
+        },
+        "insert": "                     └─ MediaSession.Callback.onMediaButtonEvent(intent)"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "color": "#8c8f97"
+        },
+        "insert": "                        └─ onPlay() / onPause() ← app receives"
+      },
+      {
+        "insert": "\n\n3/ Enable log\nadb shell setprop persist.log.tag.MediaSessionService DEBUG"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      }
+    ]
+  },
+  "created_by": "user_admin",
+  "updated_by": "user_admin",
+  "created_at": "2026-10-01T03:14:09.816880Z",
+  "updated_at": "2026-10-01T03:19:39.529328Z"
+}
