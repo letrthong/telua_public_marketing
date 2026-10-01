@@ -1,13 +1,26 @@
 {
   "id": "doc_1790854911548",
   "type": "file",
-  "title": "03 logcat",
+  "title": "03 Logcat",
   "parent_id": "folder_1781663299075",
   "content": {
-    "ops": []
+    "ops": [
+      {
+        "insert": "1/ Filter many keywords on Android studio\nCAR.AUDIO | New_keyword"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "\n\n\n"
+      }
+    ]
   },
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-10-01T11:41:51.548188Z",
-  "updated_at": "2026-10-01T11:41:51.548188Z"
+  "updated_at": "2026-10-01T11:50:33.013568Z"
 }

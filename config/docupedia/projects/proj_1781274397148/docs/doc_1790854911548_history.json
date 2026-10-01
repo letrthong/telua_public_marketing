@@ -11,6 +11,35 @@
       "details": {
         "title": "03 logcat"
       }
+    },
+    {
+      "id": "hist_1790854980781",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-10-01T11:43:00.781196Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1790855433017",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-10-01T11:50:33.017946Z",
+      "details": {
+        "changes": {
+          "title": {
+            "old": "03 logcat",
+            "new": "03 Logcat"
+          }
+        }
+      }
     }
   ]
 }
