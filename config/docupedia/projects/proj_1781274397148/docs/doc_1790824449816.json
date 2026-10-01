@@ -121,11 +121,23 @@
           "code-block": true
         },
         "insert": "\n"
+      },
+      {
+        "insert": "4/ Filter on Logcat\nMediaSession"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "\n\n"
       }
     ]
   },
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-10-01T03:14:09.816880Z",
-  "updated_at": "2026-10-01T03:19:39.529328Z"
+  "updated_at": "2026-10-01T03:23:23.258212Z"
 }
