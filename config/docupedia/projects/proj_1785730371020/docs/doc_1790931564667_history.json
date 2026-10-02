@@ -1,0 +1,29 @@
+{
+  "doc_id": "doc_1790931564667",
+  "history": [
+    {
+      "id": "hist_1790931564669",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "create",
+      "timestamp": "2026-10-02T08:59:24.669157Z",
+      "details": {
+        "title": "02 link thuế"
+      }
+    },
+    {
+      "id": "hist_1790931584189",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-10-02T08:59:44.189376Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    }
+  ]
+}

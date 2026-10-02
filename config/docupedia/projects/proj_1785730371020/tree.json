@@ -146,7 +146,8 @@
       "type": "folder",
       "title": "04 Thu Chi",
       "children": [
-        "doc_1787534702366"
+        "doc_1787534702366",
+        "doc_1790931564667"
       ]
     },
     "doc_1787534702366": {
@@ -322,7 +323,17 @@
         "doc_1787502400923",
         "doc_1789824092153"
       ]
+    },
+    "doc_1790931564667": {
+      "id": "doc_1790931564667",
+      "type": "file",
+      "title": "02 link thuế",
+      "parent_id": "folder_1787534672068",
+      "created_by": "user_admin",
+      "updated_by": "user_admin",
+      "created_at": "2026-10-02T08:59:24.667113Z",
+      "updated_at": "2026-10-02T08:59:44.187159Z"
     }
   },
-  "updated_at": "2026-09-23T09:32:08.794129Z"
+  "updated_at": "2026-10-02T08:59:44.187911Z"
 }
