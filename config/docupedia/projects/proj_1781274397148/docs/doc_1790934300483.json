@@ -6,12 +6,39 @@
   "content": {
     "ops": [
       {
-        "insert": ".\nssh -R 5037:127.0.0.1:5037 UserID@Remote_IP -p 22\nadb kill-server\nadb devices\n..\n"
+        "insert": ".\nssh -R 5037:127.0.0.1:5037 UserID@Remote_IP -p 22"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "adb kill-server"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "adb devices"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "..\n"
       }
     ]
   },
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-10-02T09:45:00.483550Z",
-  "updated_at": "2026-10-02T09:46:22.485595Z"
+  "updated_at": "2026-10-02T10:06:35.925157Z"
 }
