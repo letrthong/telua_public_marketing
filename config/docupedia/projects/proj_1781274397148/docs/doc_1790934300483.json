@@ -1,0 +1,17 @@
+{
+  "id": "doc_1790934300483",
+  "type": "file",
+  "title": "06 remote adb",
+  "parent_id": "folder_1790584702478",
+  "content": {
+    "ops": [
+      {
+        "insert": ".\nssh -R 5037:127.0.0.1:5037 UserID@Remote_IP -p 22\nadb kill-server\nadb devices\n..\n"
+      }
+    ]
+  },
+  "created_by": "user_admin",
+  "updated_by": "user_admin",
+  "created_at": "2026-10-02T09:45:00.483550Z",
+  "updated_at": "2026-10-02T09:46:22.485595Z"
+}
