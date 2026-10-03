@@ -257,8 +257,8 @@
       "branch_q10": 10
     },
     "dailyQuota": 10,
-    "isActive": true,
-    "updatedAt": "2026-09-28T16:06:22Z"
+    "isActive": false,
+    "updatedAt": "2026-10-03T08:18:18Z"
   },
   {
     "id": "bo_hoa_1788048626",
@@ -368,8 +368,8 @@
       "branch_q10": 10
     },
     "dailyQuota": 10,
-    "isActive": true,
-    "updatedAt": "2026-09-28T15:56:12Z"
+    "isActive": false,
+    "updatedAt": "2026-10-03T08:18:12Z"
   },
   {
     "id": "bo_hoa_1788048775",
