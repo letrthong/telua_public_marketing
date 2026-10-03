@@ -2,20 +2,20 @@
   {
     "id": "price_lvl_01",
     "code": "LV_01",
-    "name": "Co ban ",
+    "name": "Co ban",
     "description": "Các mẫu hoa tươi hàng ngày",
     "minPrice": 10000,
-    "maxPrice": 290000,
-    "defaultPrice": 99000
+    "maxPrice": 390000,
+    "defaultPrice": 90000
   },
   {
     "id": "price_lvl_02",
     "code": "LV_02",
     "name": "Phổ Thông (Standard)",
     "description": "Các mẫu hoa tươi hàng ngày, thiết kế trang nhã vừa vặn ngân sách",
-    "minPrice": 300000,
-    "maxPrice": 550000,
-    "defaultPrice": 420000
+    "minPrice": 400000,
+    "maxPrice": 600000,
+    "defaultPrice": 520000
   },
   {
     "id": "price_lvl_03",
