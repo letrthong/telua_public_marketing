@@ -15,12 +15,21 @@
         "insert": "https://www.gdt.gov.vn/wps/portal/home/hotrokekhai?gidzl=ce09FeYoP5cLc0WnYAniN9MH0ZkVzcnKZPHJQ9hnFLBTa5Wxow5XKut6MccVzJOEsSSACZCa15rVZB1WKG"
       },
       {
-        "insert": "\n...\n"
+        "insert": "\n\n0319693486"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "...\n"
       }
     ]
   },
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-10-02T08:59:24.667113Z",
-  "updated_at": "2026-10-02T12:17:30.282019Z"
+  "updated_at": "2026-10-03T07:24:29.804802Z"
 }
