@@ -13,7 +13,7 @@
   "salePrice": "410,000₫",
   "originalPrice": "410,000₫",
   "badge": "Mới",
-  "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/no_14.jpg",
+  "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/no_22.jpg",
   "gallery": [
     "/api/flower/v1/images/bo_hoa_1788048445.webp"
   ],
@@ -53,6 +53,6 @@
     "branch_q10": 10
   },
   "dailyQuota": 10,
-  "isActive": false,
-  "updatedAt": "2026-10-03T08:18:18Z"
+  "isActive": true,
+  "updatedAt": "2026-10-03T08:26:48Z"
 }
