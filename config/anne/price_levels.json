@@ -4,18 +4,18 @@
     "code": "LV_01",
     "name": "Co ban",
     "description": "Các mẫu hoa tươi hàng ngày",
-    "minPrice": 10000,
-    "maxPrice": 390000,
-    "defaultPrice": 90000
+    "minPrice": 5000,
+    "maxPrice": 300000,
+    "defaultPrice": 199000
   },
   {
     "id": "price_lvl_02",
     "code": "LV_02",
     "name": "Phổ Thông (Standard)",
     "description": "Các mẫu hoa tươi hàng ngày, thiết kế trang nhã vừa vặn ngân sách",
-    "minPrice": 400000,
+    "minPrice": 300000,
     "maxPrice": 600000,
-    "defaultPrice": 520000
+    "defaultPrice": 399000
   },
   {
     "id": "price_lvl_03",
@@ -23,7 +23,7 @@
     "name": "Cao Cấp (Premium)",
     "description": "Hoa nhập khẩu kết hợp bình gốm nghệ thuật, tone màu pastel sang trọng",
     "minPrice": 600000,
-    "maxPrice": 950000,
+    "maxPrice": 900000,
     "defaultPrice": 850000
   },
   {
@@ -31,17 +31,17 @@
     "code": "LV_04",
     "name": "Sang Trọng (Luxury)",
     "description": "Bình hoa đại sảnh, lẵng hoa chúc mừng khai trương và sự kiện đối tác VIP",
-    "minPrice": 1000000,
-    "maxPrice": 2500000,
-    "defaultPrice": 1800000
+    "minPrice": 900000,
+    "maxPrice": 1500000,
+    "defaultPrice": 1200000
   },
   {
     "id": "price_lvl_05",
     "code": "LV_05",
     "name": "Độc Bản VIP (Exclusive)",
     "description": "Tác phẩm hoa nghệ thuật thiết kế riêng theo yêu cầu với hoa nhập khẩu hiếm",
-    "minPrice": 2600000,
-    "maxPrice": 15000000,
-    "defaultPrice": 3500000
+    "minPrice": 1500000,
+    "maxPrice": 10000000,
+    "defaultPrice": 5000000
   }
 ]
