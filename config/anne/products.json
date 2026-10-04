@@ -21,7 +21,8 @@
     },
     "dailyQuota": 10,
     "isActive": false,
-    "updatedAt": "2026-09-20T08:52:28Z"
+    "updatedAt": "2026-09-20T08:52:28Z",
+    "uuid": "39c77dad-4b64-5b31-a6cb-76b41916fd9b"
   },
   {
     "id": "binh_hoa_1789885874",
@@ -45,7 +46,8 @@
     },
     "dailyQuota": 10,
     "isActive": true,
-    "updatedAt": "2026-09-26T16:58:07Z"
+    "updatedAt": "2026-09-26T16:58:07Z",
+    "uuid": "b0665911-c51b-5a47-9997-d1b65a2d3456"
   },
   {
     "id": "bo_hoa_1788453978",
@@ -73,7 +75,8 @@
     },
     "dailyQuota": 10,
     "isActive": true,
-    "updatedAt": "2026-10-04T01:13:21Z"
+    "updatedAt": "2026-10-04T01:13:21Z",
+    "uuid": "18d75c75-ac42-537c-8eba-d53cdc791c8e"
   },
   {
     "id": "binh_hoa_01",
@@ -110,7 +113,8 @@
     },
     "dailyQuota": 5,
     "isActive": true,
-    "updatedAt": "2026-09-28T16:23:43Z"
+    "updatedAt": "2026-09-28T16:23:43Z",
+    "uuid": "e5b7c3bd-df0c-5a1d-9fc3-dfa08b60220c"
   },
   {
     "id": "binh_hoa_04",
@@ -147,7 +151,8 @@
     },
     "dailyQuota": 8,
     "isActive": true,
-    "updatedAt": "2026-09-28T16:29:35Z"
+    "updatedAt": "2026-09-28T16:29:35Z",
+    "uuid": "f0bbeda2-01e1-55b5-b376-32d67d63c690"
   },
   {
     "id": "bo_hoa_01",
@@ -184,7 +189,8 @@
     },
     "dailyQuota": 12,
     "isActive": true,
-    "updatedAt": "2026-10-03T16:46:45Z"
+    "updatedAt": "2026-10-03T16:46:45Z",
+    "uuid": "c38c1067-9950-528c-94e1-88a5426ce753"
   },
   {
     "id": "bo_hoa_02",
@@ -221,7 +227,8 @@
     },
     "dailyQuota": 8,
     "isActive": true,
-    "updatedAt": "2026-10-04T01:14:06Z"
+    "updatedAt": "2026-10-04T01:14:06Z",
+    "uuid": "9178febc-811b-5b89-835c-0601d680c63e"
   },
   {
     "id": "bo_hoa_1788048445",
@@ -258,7 +265,8 @@
     },
     "dailyQuota": 10,
     "isActive": true,
-    "updatedAt": "2026-10-03T16:02:55Z"
+    "updatedAt": "2026-10-03T16:02:55Z",
+    "uuid": "9a18e8f4-f9e5-5d84-be5d-97d477c3e597"
   },
   {
     "id": "bo_hoa_1788048626",
@@ -295,7 +303,8 @@
     },
     "dailyQuota": 10,
     "isActive": true,
-    "updatedAt": "2026-09-26T16:22:01Z"
+    "updatedAt": "2026-09-26T16:22:01Z",
+    "uuid": "223da47e-70ea-54f5-bb48-fe8ba31898cd"
   },
   {
     "id": "bo_hoa_1788048671",
@@ -332,7 +341,8 @@
     },
     "dailyQuota": 10,
     "isActive": true,
-    "updatedAt": "2026-09-28T15:58:47Z"
+    "updatedAt": "2026-09-28T15:58:47Z",
+    "uuid": "6d2b3592-da01-5155-90b1-9bbf8cbc0137"
   },
   {
     "id": "bo_hoa_1788048730",
@@ -369,7 +379,8 @@
     },
     "dailyQuota": 10,
     "isActive": false,
-    "updatedAt": "2026-10-03T08:18:12Z"
+    "updatedAt": "2026-10-03T08:18:12Z",
+    "uuid": "33e56b83-ee6a-5b23-ba11-d5c9c5e6affc"
   },
   {
     "id": "bo_hoa_1788048775",
@@ -406,7 +417,8 @@
     },
     "dailyQuota": 10,
     "isActive": true,
-    "updatedAt": "2026-10-04T01:34:54Z"
+    "updatedAt": "2026-10-04T01:34:54Z",
+    "uuid": "a8d8e28e-08e0-50ff-abb5-7e706a6601fd"
   },
   {
     "id": "gio_hoa_01",
@@ -443,7 +455,8 @@
     },
     "dailyQuota": 6,
     "isActive": true,
-    "updatedAt": "2026-09-28T16:07:28Z"
+    "updatedAt": "2026-09-28T16:07:28Z",
+    "uuid": "27674a3f-f676-5e88-a257-0b2572ddbd85"
   },
   {
     "id": "hoa_cuoi_1787840801",
@@ -480,7 +493,8 @@
     },
     "dailyQuota": 10,
     "isActive": true,
-    "updatedAt": "2026-09-26T17:18:39Z"
+    "updatedAt": "2026-09-26T17:18:39Z",
+    "uuid": "d6f5edf2-3fce-530f-9032-50eaf60c6a4b"
   },
   {
     "id": "ke_hoa_02",
@@ -517,7 +531,8 @@
     },
     "dailyQuota": 5,
     "isActive": true,
-    "updatedAt": "2026-09-28T16:00:29Z"
+    "updatedAt": "2026-09-28T16:00:29Z",
+    "uuid": "90f9b1d1-1d17-5f0d-8589-0d0ac207622f"
   },
   {
     "id": "ke_hoa_04",
@@ -554,7 +569,8 @@
     },
     "dailyQuota": 4,
     "isActive": true,
-    "updatedAt": "2026-09-26T17:14:00Z"
+    "updatedAt": "2026-09-26T17:14:00Z",
+    "uuid": "fb689cb9-3bdb-5f3c-b8e9-da528a19580b"
   },
   {
     "id": "lan_01",
@@ -591,6 +607,7 @@
     },
     "dailyQuota": 3,
     "isActive": true,
-    "updatedAt": "2026-09-26T17:17:39Z"
+    "updatedAt": "2026-09-26T17:17:39Z",
+    "uuid": "9765f745-1a85-5542-9fd7-ff16348aeae4"
   }
 ]
