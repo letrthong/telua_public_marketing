@@ -9,9 +9,9 @@
   "unit": null,
   "costPrice": null,
   "priceLevelId": "price_lvl_02",
-  "priceNumber": 390000,
-  "salePrice": "390,000₫",
-  "originalPrice": "390,000₫",
+  "priceNumber": 399000,
+  "salePrice": "399,000₫",
+  "originalPrice": "399,000₫",
   "badge": "",
   "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/no_05.jpg",
   "gallery": [
@@ -36,5 +36,5 @@
   },
   "dailyQuota": 10,
   "isActive": true,
-  "updatedAt": "2026-10-03T08:36:55Z"
+  "updatedAt": "2026-10-04T01:13:21Z"
 }
