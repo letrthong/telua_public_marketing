@@ -4,10 +4,14 @@
   "title": "06 Unit-test",
   "parent_id": "folder_1790584702478",
   "content": {
-    "ops": []
+    "ops": [
+      {
+        "insert": "1/ atest\n\n2/ adb shell am instrument -w adb shell am instrument -w  file_apk\n"
+      }
+    ]
   },
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-10-02T07:22:48.620417Z",
-  "updated_at": "2026-10-02T07:22:48.620417Z"
+  "updated_at": "2026-10-05T06:56:12.644883Z"
 }
