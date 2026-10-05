@@ -15,7 +15,17 @@
         "insert": "https://www.gdt.gov.vn/wps/portal/home/hotrokekhai?gidzl=ce09FeYoP5cLc0WnYAniN9MH0ZkVzcnKZPHJQ9hnFLBTa5Wxow5XKut6MccVzJOEsSSACZCa15rVZB1WKG"
       },
       {
-        "insert": "\n\nMST: 0319693486"
+        "insert": "\n\n"
+      },
+      {
+        "attributes": {
+          "color": "#e60000",
+          "bold": true
+        },
+        "insert": "Cần chạy quyền admin lúc cài đặt"
+      },
+      {
+        "insert": "\n\n\nMST: 0319693486"
       },
       {
         "attributes": {
@@ -55,9 +65,9 @@
       },
       {
         "attributes": {
-          "link": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-dang-ky-chu-ky-so/dang-ky-chu-ky-so-kiotviet-intrustca/#4-kich-hoat-tai-khoan-va-tao-ma-pin-4-2"
+          "link": "https://intrustca.vn/ho-tro/phan-mem-ho-tro"
         },
-        "insert": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-dang-ky-chu-ky-so/dang-ky-chu-ky-so-kiotviet-intrustca/#4-kich-hoat-tai-khoan-va-tao-ma-pin-4-2"
+        "insert": "https://intrustca.vn/ho-tro/phan-mem-ho-tro"
       },
       {
         "insert": "\n...\n"
@@ -67,5 +77,5 @@
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-10-02T08:59:24.667113Z",
-  "updated_at": "2026-10-05T15:54:35.874908Z"
+  "updated_at": "2026-10-05T16:27:08.314042Z"
 }
