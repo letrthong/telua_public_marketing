@@ -39,7 +39,7 @@
         "insert": "android/BtSendBroadcast.java at main · letrthong/android"
       },
       {
-        "insert": "\n\n"
+        "insert": "\n\natest + JaCoCo coverage \n"
       },
       {
         "attributes": {
@@ -178,5 +178,5 @@
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-06-25T07:24:16.511717Z",
-  "updated_at": "2026-07-22T03:33:43.238293Z"
+  "updated_at": "2026-10-05T04:14:41.331784Z"
 }
