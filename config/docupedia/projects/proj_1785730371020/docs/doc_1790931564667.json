@@ -61,7 +61,7 @@
         "insert": "https://thuedientu.gdt.gov.vn/etaxnnt/Request"
       },
       {
-        "insert": "\n\n\nCKS\n"
+        "insert": "\n\n\nCKS\nhttps://esign.intrustca.vn/\n"
       },
       {
         "attributes": {
@@ -77,5 +77,5 @@
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-10-02T08:59:24.667113Z",
-  "updated_at": "2026-10-05T16:32:43.981898Z"
+  "updated_at": "2026-10-06T02:50:04.641859Z"
 }
