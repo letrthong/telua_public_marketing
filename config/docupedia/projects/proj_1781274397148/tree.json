@@ -543,7 +543,8 @@
       "title": "07 AI",
       "children": [
         "doc_1788835792141",
-        "doc_1790353816931"
+        "doc_1790353816931",
+        "doc_1791288657089"
       ]
     },
     "doc_1788835792141": {
@@ -659,7 +660,17 @@
       "updated_by": "user_admin",
       "created_at": "2026-10-02T09:45:00.483550Z",
       "updated_at": "2026-10-05T03:27:07.503230Z"
+    },
+    "doc_1791288657089": {
+      "id": "doc_1791288657089",
+      "type": "file",
+      "title": "03 Visual studio code",
+      "parent_id": "folder_1788835777642",
+      "created_by": "user_admin",
+      "updated_by": "user_admin",
+      "created_at": "2026-10-06T12:10:57.089197Z",
+      "updated_at": "2026-10-06T12:11:27.953709Z"
     }
   },
-  "updated_at": "2026-10-06T06:40:39.702149Z"
+  "updated_at": "2026-10-06T12:11:27.955057Z"
 }

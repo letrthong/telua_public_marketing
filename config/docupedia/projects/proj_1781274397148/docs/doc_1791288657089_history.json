@@ -1,0 +1,29 @@
+{
+  "doc_id": "doc_1791288657089",
+  "history": [
+    {
+      "id": "hist_1791288657091",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "create",
+      "timestamp": "2026-10-06T12:10:57.091851Z",
+      "details": {
+        "title": "03 Visual studio code"
+      }
+    },
+    {
+      "id": "hist_1791288687956",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-10-06T12:11:27.956914Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    }
+  ]
+}
