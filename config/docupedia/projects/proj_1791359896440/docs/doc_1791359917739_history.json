@@ -1,0 +1,16 @@
+{
+  "doc_id": "doc_1791359917739",
+  "history": [
+    {
+      "id": "hist_1791359917739",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "create",
+      "timestamp": "2026-10-07T07:58:37.739888Z",
+      "details": {
+        "title": "01 Software"
+      }
+    }
+  ]
+}
