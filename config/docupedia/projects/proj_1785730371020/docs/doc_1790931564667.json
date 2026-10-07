@@ -70,12 +70,21 @@
         "insert": "https://intrustca.vn/ho-tro/phan-mem-ho-tro"
       },
       {
-        "insert": "\nTruy cập và tải phần mền cài trên điện thoại trước tiên\n...\n"
+        "insert": "\nTruy cập và tải phần mền cài trên điện thoại trước tiên\n\n\n"
+      },
+      {
+        "attributes": {
+          "link": "https://thuedientu.gdt.gov.vn/etaxnnt/Request?&dse_sessionId=R7Pjm6cUBelRZssUhleAOCY&dse_applicationId=-1&dse_pageId=14&dse_operationName=corpOnlineTaxServiceRegisterProc&dse_processorState=initial&dse_nextEventName=getinfoCASim&sdtSimCA=ICA.0319693486&nccSimCA=INTRUST-CA&passwordTX=Ty2?6gkQ%0W7&taxcode=0319693486"
+        },
+        "insert": "https://thuedientu.gdt.gov.vn/etaxnnt/Request?&dse_sessionId=R7Pjm6cUBelRZssUhleAOCY&dse_applicationId=-1&dse_pageId=14&dse_operationName=corpOnlineTaxServiceRegisterProc&dse_processorState=initial&dse_nextEventName=getinfoCASim&sdtSimCA=ICA.0319693486&nccSimCA=INTRUST-CA&passwordTX=Ty2?6gkQ%0W7&taxcode=0319693486"
+      },
+      {
+        "insert": "\n...\n"
       }
     ]
   },
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-10-02T08:59:24.667113Z",
-  "updated_at": "2026-10-06T02:50:04.641859Z"
+  "updated_at": "2026-10-07T00:57:43.509743Z"
 }
