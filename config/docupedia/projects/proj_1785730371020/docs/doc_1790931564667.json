@@ -34,24 +34,6 @@
         "insert": "\n\n"
       },
       {
-        "insert": "Ngô Thị Anh  ngothianh167@gmail.com﻿"
-      },
-      {
-        "attributes": {
-          "code-block": true
-        },
-        "insert": "\n\n"
-      },
-      {
-        "insert": "Phone: 0356315873"
-      },
-      {
-        "attributes": {
-          "code-block": true
-        },
-        "insert": "\n\n"
-      },
-      {
         "insert": "\n"
       },
       {
@@ -70,7 +52,16 @@
         "insert": "https://intrustca.vn/ho-tro/phan-mem-ho-tro"
       },
       {
-        "insert": "\nTruy cập và tải phần mền cài trên điện thoại trước tiên\n\n\n"
+        "insert": "\nTruy cập và tải phần mền cài trên điện thoại trước tiên\n\n"
+      },
+      {
+        "attributes": {
+          "link": "https://dichvucong.gdt.gov.vn"
+        },
+        "insert": "https://dichvucong.gdt.gov.vn"
+      },
+      {
+        "insert": "\n\nMã tài khoản: 0319693486-ql-ql\n       0319693486-ql\n\n\n"
       },
       {
         "attributes": {
@@ -86,5 +77,5 @@
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-10-02T08:59:24.667113Z",
-  "updated_at": "2026-10-07T00:57:43.509743Z"
+  "updated_at": "2026-10-07T02:45:09.300142Z"
 }
