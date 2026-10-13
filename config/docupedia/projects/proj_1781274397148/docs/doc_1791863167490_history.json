@@ -1,0 +1,78 @@
+{
+  "doc_id": "doc_1791863167490",
+  "history": [
+    {
+      "id": "hist_1791863167493",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "create",
+      "timestamp": "2026-10-13T03:46:07.493486Z",
+      "details": {
+        "title": "07"
+      }
+    },
+    {
+      "id": "hist_1791863193249",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-10-13T03:46:33.249036Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1791863199618",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-10-13T03:46:39.618243Z",
+      "details": {
+        "changes": {
+          "title": {
+            "old": "07",
+            "new": "07 Embedded KitchenSink App"
+          }
+        }
+      }
+    },
+    {
+      "id": "hist_1791863346215",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-10-13T03:49:06.215516Z",
+      "details": {
+        "changes": {
+          "title": {
+            "old": "07 Embedded KitchenSink App",
+            "new": "07"
+          },
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1791863365601",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-10-13T03:49:25.601479Z",
+      "details": {
+        "changes": {
+          "title": {
+            "old": "07",
+            "new": "07 Embedded KitchenSink App"
+          }
+        }
+      }
+    }
+  ]
+}

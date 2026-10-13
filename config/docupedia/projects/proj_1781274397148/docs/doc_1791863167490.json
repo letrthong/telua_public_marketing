@@ -1,0 +1,74 @@
+{
+  "id": "doc_1791863167490",
+  "type": "file",
+  "title": "07 Embedded KitchenSink App",
+  "parent_id": "folder_1790584702478",
+  "content": {
+    "ops": [
+      {
+        "attributes": {
+          "link": "https://cs.android.com/android/platform/superproject/+/android-latest-release:packages/services/Car/tests/EmbeddedKitchenSinkApp/"
+        },
+        "insert": "EmbeddedKitchenSinkApp - Android Code Search"
+      },
+      {
+        "insert": " \n\n"
+      },
+      {
+        "attributes": {
+          "color": "#202124"
+        },
+        "insert": "Build and Install"
+      },
+      {
+        "insert": "\nm -j EmbeddedKitchenSinkApp && adb install -r -d $ANDROID_PRODUCT_OUT/system/priv-app/EmbeddedKitchenSinkApp/EmbeddedKitchenSinkApp.apk"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "color": "#202124"
+        },
+        "insert": "Start the app"
+      },
+      {
+        "insert": "\n\nadb shell am start com.google.android.car.kitchensink/.KitchenSinkActivity"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "color": "#202124"
+        },
+        "insert": "Stop the app"
+      },
+      {
+        "insert": "\n\nadb shell kill `adb shell pgrep kitchensink`"
+      },
+      {
+        "attributes": {
+          "code-block": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "\n"
+      }
+    ]
+  },
+  "created_by": "user_admin",
+  "updated_by": "user_admin",
+  "created_at": "2026-10-13T03:46:07.490292Z",
+  "updated_at": "2026-10-13T03:49:25.597837Z"
+}
