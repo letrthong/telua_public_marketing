@@ -1,0 +1,32 @@
+{
+  "id": "doc_1792060139518",
+  "type": "file",
+  "title": "08 Audio Focus",
+  "parent_id": "folder_1790584702478",
+  "content": {
+    "ops": [
+      {
+        "attributes": {
+          "link": "https://source.android.com/docs/automotive/audio/audio-focus"
+        },
+        "insert": "Audio focus | Android Automotive | Android Open Source Project"
+      },
+      {
+        "insert": "\n\nCode\n"
+      },
+      {
+        "attributes": {
+          "link": "https://cs.android.com/android/platform/superproject/+/android-latest-release:packages/services/Car/car-lib/src/android/car/oem/IOemCarAudioFocusService.aidl"
+        },
+        "insert": "IOemCarAudioFocusService.aidl - Android Code Search"
+      },
+      {
+        "insert": "\n"
+      }
+    ]
+  },
+  "created_by": "user_admin",
+  "updated_by": "user_admin",
+  "created_at": "2026-10-15T10:28:59.518262Z",
+  "updated_at": "2026-10-15T10:29:54.147294Z"
+}

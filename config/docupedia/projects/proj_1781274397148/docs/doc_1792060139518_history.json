@@ -1,0 +1,42 @@
+{
+  "doc_id": "doc_1792060139518",
+  "history": [
+    {
+      "id": "hist_1792060139522",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "create",
+      "timestamp": "2026-10-15T10:28:59.522239Z",
+      "details": {
+        "title": "08 Audio Focus"
+      }
+    },
+    {
+      "id": "hist_1792060147320",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-10-15T10:29:07.320241Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    },
+    {
+      "id": "hist_1792060194151",
+      "user_id": "user_admin",
+      "username": "admin",
+      "display_name": "Administrator",
+      "action": "update",
+      "timestamp": "2026-10-15T10:29:54.151014Z",
+      "details": {
+        "changes": {
+          "content": "Nội dung tài liệu được cập nhật"
+        }
+      }
+    }
+  ]
+}
