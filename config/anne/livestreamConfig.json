@@ -1,0 +1,17 @@
+{
+  "enabled": true,
+  "enableQuickOrder": true,
+  "title": "Đặt Hoa Nhanh Live Stream",
+  "description": "Quý khách vui lòng chọn bó hoa, điền thông tin và tải ảnh chuyển khoản để shop đóng gói giao ngay!",
+  "bankInfo": {
+    "bankName": "Vietcombank (VCB)",
+    "accountNumber": "0976491322",
+    "accountName": "NO HOA THA BINH",
+    "qrCodeImage": ""
+  },
+  "qrCodeImage": "",
+  "featuredProductIds": [
+    "bo_hoa_1788453978"
+  ],
+  "updatedAt": "2026-10-22T01:57:15Z"
+}
