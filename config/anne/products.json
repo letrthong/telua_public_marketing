@@ -607,10 +607,10 @@
     "stemCount": 0,
     "unit": null,
     "costPrice": null,
-    "priceLevelId": "price_lvl_02",
-    "priceNumber": 350000,
-    "salePrice": "350,000₫",
-    "originalPrice": "350,000₫",
+    "priceLevelId": "price_lvl_04",
+    "priceNumber": 1200000,
+    "salePrice": "1,200,000₫",
+    "originalPrice": "1,200,000₫",
     "badge": "Độc Bản VIP",
     "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/no.jpg",
     "i18n": {
@@ -632,7 +632,7 @@
     },
     "dailyQuota": 3,
     "isActive": true,
-    "updatedAt": "2026-09-26T17:17:39Z",
+    "updatedAt": "2026-10-31T15:58:06Z",
     "uuid": "9765f745-1a85-5542-9fd7-ff16348aeae4"
   }
 ]
