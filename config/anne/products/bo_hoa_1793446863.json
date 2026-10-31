@@ -1,0 +1,34 @@
+{
+  "id": "bo_hoa_1793446863",
+  "name": "Bó Hoa hồng sophia đường kính 20cm",
+  "nameTextId": null,
+  "category": "bo_hoa",
+  "productType": "arranged",
+  "recipe": [],
+  "stemCount": 0,
+  "unit": null,
+  "costPrice": null,
+  "priceLevelId": "price_lvl_01",
+  "priceNumber": 220000,
+  "salePrice": "220,000₫",
+  "originalPrice": "220,000₫",
+  "badge": "",
+  "image": "/api/flower/v1/images/prod_1793446856_d70ab574.jpg",
+  "gallery": [
+    "/api/flower/v1/images/prod_1793446856_d70ab574.jpg"
+  ],
+  "description": "",
+  "descTextId": null,
+  "flowerComposition": "Hoa hông tươi Sophia",
+  "compTextId": null,
+  "dimension": "đương kính 20 x cao 30 m",
+  "careTips": "",
+  "i18n": null,
+  "stockByBranch": {
+    "branch_q10": 10
+  },
+  "dailyQuota": 10,
+  "isActive": true,
+  "createdAt": "2026-10-31T11:41:03Z",
+  "updatedAt": "2026-10-31T11:41:03Z"
+}
