@@ -85,9 +85,9 @@
     "unit": null,
     "costPrice": null,
     "priceLevelId": "price_lvl_02",
-    "priceNumber": 399000,
-    "salePrice": "399,000₫",
-    "originalPrice": "399,000₫",
+    "priceNumber": 599000,
+    "salePrice": "599,000₫",
+    "originalPrice": "599,000₫",
     "badge": "",
     "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/no_05.jpg",
     "i18n": {
@@ -100,7 +100,7 @@
     },
     "dailyQuota": 10,
     "isActive": true,
-    "updatedAt": "2026-10-04T01:13:21Z",
+    "updatedAt": "2026-10-31T15:52:00Z",
     "uuid": "18d75c75-ac42-537c-8eba-d53cdc791c8e"
   },
   {
@@ -189,10 +189,10 @@
     "stemCount": 10,
     "unit": null,
     "costPrice": null,
-    "priceLevelId": "price_lvl_01",
-    "priceNumber": 199000,
-    "salePrice": "199,000₫",
-    "originalPrice": "199,000₫",
+    "priceLevelId": "price_lvl_02",
+    "priceNumber": 599000,
+    "salePrice": "599,000₫",
+    "originalPrice": "599,000₫",
     "badge": "-7%",
     "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/no_09.jpg",
     "i18n": {
@@ -214,7 +214,7 @@
     },
     "dailyQuota": 12,
     "isActive": true,
-    "updatedAt": "2026-10-03T16:46:45Z",
+    "updatedAt": "2026-10-31T15:53:24Z",
     "uuid": "c38c1067-9950-528c-94e1-88a5426ce753"
   },
   {
@@ -228,9 +228,9 @@
     "unit": null,
     "costPrice": null,
     "priceLevelId": "price_lvl_02",
-    "priceNumber": 399000,
-    "salePrice": "399,000₫",
-    "originalPrice": "399,000₫",
+    "priceNumber": 599000,
+    "salePrice": "599,000₫",
+    "originalPrice": "599,000₫",
     "badge": "Bán Chạy",
     "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/no_03.jpg",
     "i18n": {
@@ -252,7 +252,7 @@
     },
     "dailyQuota": 8,
     "isActive": true,
-    "updatedAt": "2026-10-04T01:14:06Z",
+    "updatedAt": "2026-10-31T15:51:45Z",
     "uuid": "9178febc-811b-5b89-835c-0601d680c63e"
   },
   {
@@ -304,9 +304,9 @@
     "unit": null,
     "costPrice": null,
     "priceLevelId": "price_lvl_02",
-    "priceNumber": 450000,
-    "salePrice": "450,000₫",
-    "originalPrice": "450,000₫",
+    "priceNumber": 550000,
+    "salePrice": "550,000₫",
+    "originalPrice": "550,000₫",
     "badge": "Mới",
     "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/no_12.jpg",
     "i18n": {
@@ -328,7 +328,7 @@
     },
     "dailyQuota": 10,
     "isActive": true,
-    "updatedAt": "2026-09-26T16:22:01Z",
+    "updatedAt": "2026-10-31T15:53:49Z",
     "uuid": "223da47e-70ea-54f5-bb48-fe8ba31898cd"
   },
   {
@@ -342,9 +342,9 @@
     "unit": null,
     "costPrice": null,
     "priceLevelId": "price_lvl_02",
-    "priceNumber": 400000,
-    "salePrice": "400,000₫",
-    "originalPrice": "400,000₫",
+    "priceNumber": 599000,
+    "salePrice": "599,000₫",
+    "originalPrice": "599,000₫",
     "badge": "Mới",
     "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/no_11.jpg",
     "i18n": {
@@ -366,7 +366,7 @@
     },
     "dailyQuota": 10,
     "isActive": true,
-    "updatedAt": "2026-09-28T15:58:47Z",
+    "updatedAt": "2026-10-31T15:52:53Z",
     "uuid": "6d2b3592-da01-5155-90b1-9bbf8cbc0137"
   },
   {
@@ -455,10 +455,10 @@
     "stemCount": 0,
     "unit": null,
     "costPrice": null,
-    "priceLevelId": "price_lvl_01",
-    "priceNumber": 280000,
-    "salePrice": "280,000₫",
-    "originalPrice": "280,000₫",
+    "priceLevelId": "price_lvl_02",
+    "priceNumber": 599000,
+    "salePrice": "599,000₫",
+    "originalPrice": "599,000₫",
     "badge": "-4%",
     "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/no_07.jpg",
     "i18n": {
@@ -480,7 +480,7 @@
     },
     "dailyQuota": 6,
     "isActive": true,
-    "updatedAt": "2026-09-28T16:07:28Z",
+    "updatedAt": "2026-10-31T15:52:24Z",
     "uuid": "27674a3f-f676-5e88-a257-0b2572ddbd85"
   },
   {
@@ -494,9 +494,9 @@
     "unit": null,
     "costPrice": null,
     "priceLevelId": "price_lvl_02",
-    "priceNumber": 450000,
-    "salePrice": "450,000₫",
-    "originalPrice": "450,000₫",
+    "priceNumber": 590000,
+    "salePrice": "590,000₫",
+    "originalPrice": "590,000₫",
     "badge": "Mới",
     "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/no.jpg",
     "i18n": {
@@ -518,7 +518,7 @@
     },
     "dailyQuota": 10,
     "isActive": true,
-    "updatedAt": "2026-09-26T17:18:39Z",
+    "updatedAt": "2026-10-31T15:53:41Z",
     "uuid": "d6f5edf2-3fce-530f-9032-50eaf60c6a4b"
   },
   {
@@ -531,10 +531,10 @@
     "stemCount": 0,
     "unit": null,
     "costPrice": null,
-    "priceLevelId": "price_lvl_01",
-    "priceNumber": 180000,
-    "salePrice": "180,000₫",
-    "originalPrice": "180,000₫",
+    "priceLevelId": "price_lvl_02",
+    "priceNumber": 599000,
+    "salePrice": "599,000₫",
+    "originalPrice": "599,000₫",
     "badge": "Hot",
     "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/no_08.jpg",
     "i18n": {
@@ -556,7 +556,7 @@
     },
     "dailyQuota": 5,
     "isActive": true,
-    "updatedAt": "2026-09-28T16:00:29Z",
+    "updatedAt": "2026-10-31T15:52:37Z",
     "uuid": "90f9b1d1-1d17-5f0d-8589-0d0ac207622f"
   },
   {
@@ -569,10 +569,10 @@
     "stemCount": 0,
     "unit": null,
     "costPrice": null,
-    "priceLevelId": "price_lvl_01",
-    "priceNumber": 150000,
-    "salePrice": "150,000₫",
-    "originalPrice": "150,000₫",
+    "priceLevelId": "price_lvl_02",
+    "priceNumber": 599000,
+    "salePrice": "599,000₫",
+    "originalPrice": "599,000₫",
     "badge": "",
     "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/no_06.jpg",
     "i18n": {
@@ -594,7 +594,7 @@
     },
     "dailyQuota": 4,
     "isActive": true,
-    "updatedAt": "2026-09-26T17:14:00Z",
+    "updatedAt": "2026-10-31T15:53:06Z",
     "uuid": "fb689cb9-3bdb-5f3c-b8e9-da528a19580b"
   },
   {

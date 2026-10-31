@@ -8,10 +8,10 @@
   "stemCount": 10,
   "unit": null,
   "costPrice": null,
-  "priceLevelId": "price_lvl_01",
-  "priceNumber": 199000,
-  "salePrice": "199,000₫",
-  "originalPrice": "199,000₫",
+  "priceLevelId": "price_lvl_02",
+  "priceNumber": 599000,
+  "salePrice": "599,000₫",
+  "originalPrice": "599,000₫",
   "badge": "-7%",
   "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/no_09.jpg",
   "gallery": [
@@ -54,5 +54,5 @@
   },
   "dailyQuota": 12,
   "isActive": true,
-  "updatedAt": "2026-10-03T16:46:45Z"
+  "updatedAt": "2026-10-31T15:53:24Z"
 }

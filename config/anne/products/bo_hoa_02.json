@@ -9,9 +9,9 @@
   "unit": null,
   "costPrice": null,
   "priceLevelId": "price_lvl_02",
-  "priceNumber": 399000,
-  "salePrice": "399,000₫",
-  "originalPrice": "399,000₫",
+  "priceNumber": 599000,
+  "salePrice": "599,000₫",
+  "originalPrice": "599,000₫",
   "badge": "Bán Chạy",
   "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/no_03.jpg",
   "gallery": [],
@@ -52,5 +52,5 @@
   },
   "dailyQuota": 8,
   "isActive": true,
-  "updatedAt": "2026-10-04T01:14:06Z"
+  "updatedAt": "2026-10-31T15:51:45Z"
 }
