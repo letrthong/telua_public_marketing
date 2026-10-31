@@ -1,6 +1,6 @@
 {
   "id": "bo_hoa_1793446863",
-  "name": "Bó Hoa hồng sophia đường kính 20cm",
+  "name": "Bó Hoa hồng sophia đường kính 25cm",
   "nameTextId": null,
   "category": "bo_hoa",
   "productType": "arranged",
@@ -21,7 +21,7 @@
   "descTextId": null,
   "flowerComposition": "Hoa hông tươi Sophia",
   "compTextId": null,
-  "dimension": "đương kính 20 x cao 30 m",
+  "dimension": "đương kính 25 x cao 35 m",
   "careTips": "",
   "i18n": null,
   "stockByBranch": {
@@ -29,6 +29,5 @@
   },
   "dailyQuota": 10,
   "isActive": true,
-  "createdAt": "2026-10-31T11:41:03Z",
-  "updatedAt": "2026-10-31T11:41:03Z"
+  "updatedAt": "2026-10-31T12:32:13Z"
 }
