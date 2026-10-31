@@ -6,7 +6,7 @@
       "id": "banner_01",
       "image": "https://raw.githubusercontent.com/letrthong/telua_public_image/main/anne/images/no_event_20_10.jpg",
       "link": "#cat-bo_hoa",
-      "active": true,
+      "active": false,
       "order": 1
     },
     {
@@ -38,5 +38,5 @@
       "order": 5
     }
   ],
-  "updatedAt": "2026-10-04T01:44:32Z"
+  "updatedAt": "2026-10-31T16:36:40Z"
 }
