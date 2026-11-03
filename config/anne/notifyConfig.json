@@ -1,0 +1,21 @@
+{
+  "enabled": true,
+  "notifyOnStandardOrder": true,
+  "notifyOnQuickOrder": true,
+  "telegram": {
+    "enabled": true,
+    "botToken": "8943130850:AAG0bDnfrbNlrVRXoSaagAQ6CXdVffEX4UY",
+    "chatId": "@nohoathabinh",
+    "channelName": "Có đơn hàng mới",
+    "parseMode": "HTML",
+    "includeCustomerPhone": true,
+    "includeAddress": true,
+    "includeNotes": true
+  },
+  "email": {
+    "enabled": false,
+    "recipientEmail": "",
+    "note": "Đang phát triển (Tạm thời hỗ trợ Telegram trước)"
+  },
+  "updatedAt": "2026-11-03T17:58:00Z"
+}
