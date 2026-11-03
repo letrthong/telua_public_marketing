@@ -186,12 +186,48 @@
         "insert": "\n"
       },
       {
-        "insert": "Windows 11\nC:\\Users\\userID\\AppData\\Roaming\\Code\\User\n...\n"
+        "insert": "Windows 11\nC:\\Users\\userID\\AppData\\Roaming\\Code\\User\n...\n\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": " "
+      },
+      {
+        "attributes": {
+          "header": 2
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Visual Code Auto Remove Space"
+      },
+      {
+        "attributes": {
+          "header": 2
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": " "
+      },
+      {
+        "attributes": {
+          "link": "https://www.codegenes.net/blog/remove-trailing-spaces-automatically-or-with-a-shortcut/"
+        },
+        "insert": "How to Remove Trailing Spaces in Visual Studio Code: Automatically or Using a Shortcut — codegenes.net"
+      },
+      {
+        "insert": "\n"
       }
     ]
   },
   "created_by": "user_admin",
   "updated_by": "user_admin",
   "created_at": "2026-10-06T12:10:57.089197Z",
-  "updated_at": "2026-10-06T12:27:25.705959Z"
+  "updated_at": "2026-11-03T03:15:41.700494Z"
 }
