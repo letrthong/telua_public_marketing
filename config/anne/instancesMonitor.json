@@ -1,0 +1,85 @@
+{
+  "clusterName": "No Hoa Tha Binh Production Cluster",
+  "updatedAt": "2026-11-05T00:19:54Z",
+  "updatedDate": "2026-11-05",
+  "loadBalancer": {
+    "enabled": true,
+    "provider": "Nginx / Cloudflare / AWS ALB",
+    "algorithm": "Round Robin",
+    "healthCheckEndpoint": "/api/flower/v1/health",
+    "notes": "Hệ thống đa instance chạy phân tải sau Load Balancer"
+  },
+  "heartbeatIntervalSeconds": 30,
+  "staleTimeoutSeconds": 90,
+  "autoPruneDays": 7,
+  "instances": [
+    {
+      "instanceId": "node-92f6079738ff-8",
+      "name": "Node-92f6079738ff",
+      "role": "web-worker",
+      "host": "192.168.0.2",
+      "port": 5000,
+      "pid": 8,
+      "status": "online",
+      "startTime": "2026-11-05T00:17:42Z",
+      "uptimeSeconds": 132,
+      "updatedAt": "2026-11-05T00:19:54Z",
+      "updatedDate": "2026-11-05",
+      "lastHeartbeat": "2026-11-05T00:19:54Z",
+      "lastHeartbeatTimestamp": 1793837994.490325,
+      "version": "v1.2.0",
+      "os": "Linux-5.10.0-42-cloud-amd64-x86_64-with-glibc2.41",
+      "pythonVersion": "3.11.16",
+      "memoryMb": 194.4,
+      "systemMemory": {
+        "totalMb": 975.6,
+        "usedMb": 829.0,
+        "freeMb": 146.6,
+        "usagePercent": 85.0
+      },
+      "cpuPercent": 0.2,
+      "cpuCores": 2,
+      "loadAvg": [
+        0.06,
+        0.09,
+        0.03
+      ],
+      "requestCount": 5,
+      "notes": "Node phục vụ qua Load Balancer"
+    },
+    {
+      "instanceId": "node-ef0bea08df68-8",
+      "name": "Node-ef0bea08df68",
+      "role": "web-worker",
+      "host": "192.168.0.3",
+      "port": 5000,
+      "pid": 8,
+      "status": "online",
+      "startTime": "2026-11-05T00:17:42Z",
+      "uptimeSeconds": 86,
+      "updatedAt": "2026-11-05T00:19:08Z",
+      "updatedDate": "2026-11-05",
+      "lastHeartbeat": "2026-11-05T00:19:08Z",
+      "lastHeartbeatTimestamp": 1793837948.571742,
+      "version": "v1.2.0",
+      "os": "Linux-5.10.0-42-cloud-amd64-x86_64-with-glibc2.41",
+      "pythonVersion": "3.11.16",
+      "memoryMb": 196.5,
+      "systemMemory": {
+        "totalMb": 975.6,
+        "usedMb": 828.2,
+        "freeMb": 147.4,
+        "usagePercent": 84.9
+      },
+      "cpuPercent": 0.3,
+      "cpuCores": 2,
+      "loadAvg": [
+        0.15,
+        0.11,
+        0.04
+      ],
+      "requestCount": 2,
+      "notes": "Node phục vụ qua Load Balancer"
+    }
+  ]
+}
